@@ -1,0 +1,36 @@
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    name: Feishu Pages Export
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Exporting
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_SPACE_ID: '7288219896826494980'
+          OUTPUT_DIR: ./dist
+        uses: longbridgeapp/feishu-pages@main
+      - uses: oven-sh/setup-bun@v1
+      - name: Build Pages
+        run: |
+          cp -r dist/docs ./
+          cp dist/docs.json ./
+          bun install & bun run build
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.vitepress/dist'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
