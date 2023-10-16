@@ -1,7 +1,6 @@
 {
   "scripts": {
     "export": "./scripts/export",
-    "autocorrect": "autocorrect-node --fix",
     "translate": "node ./scripts/cn2hk.js",
     "build": "vitepress build",
     "dev": "vitepress dev"
