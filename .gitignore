@@ -3,3 +3,5 @@ dist/
 node_modules/
 docs/**/*
 !docs/index.md
+.vitepress/cache/
+.vitepress/dist/
