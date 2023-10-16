@@ -6,5 +6,8 @@
   "dependencies": {
     "feishu-pages": "^0.4.1",
     "vitepress": "^1.0.0-rc.22"
+  },
+  "devDependencies": {
+    "sass": "^1.69.3"
   }
 }
