@@ -22,9 +22,11 @@ jobs:
       - uses: oven-sh/setup-bun@v1
       - name: Build Pages
         run: |
-          cp -r dist/docs ./
-          cp dist/docs.json ./
+          cp -r dist/docs/* docs/
+          cp dist/docs.json docs/
           bun install 
+          bun autocorrect --fix docs/
+          bun translate
           bun run build
       - name: Setup Pages
         uses: actions/configure-pages@v3

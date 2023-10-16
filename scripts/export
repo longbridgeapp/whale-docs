@@ -1,0 +1,3 @@
+bun feishu-pages
+cp -r dist/docs/* docs/
+cp dist/docs.json docs/

@@ -1,13 +1,17 @@
 {
   "scripts": {
-    "export": "feishu-pages export",
-    "build": "vitepress build"
+    "export": "./scripts/export",
+    "autocorrect": "autocorrect-node --fix",
+    "translate": "node ./scripts/cn2hk.js",
+    "build": "vitepress build",
+    "dev": "vitepress dev"
   },
   "dependencies": {
+    "autocorrect-node": "^2.8.4",
     "feishu-pages": "^0.4.1",
+    "glob": "^10.3.10",
+    "opencc-js": "^1.0.5",
+    "sass": "^1.69.3",
     "vitepress": "^1.0.0-rc.22"
-  },
-  "devDependencies": {
-    "sass": "^1.69.3"
   }
 }
