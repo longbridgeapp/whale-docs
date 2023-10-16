@@ -24,7 +24,8 @@ jobs:
         run: |
           cp -r dist/docs ./
           cp dist/docs.json ./
-          bun install & bun run build
+          bun install 
+          bun run build
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
