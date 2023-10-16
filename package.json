@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "bun feishu-pages build"
+    "export": "feishu-pages export",
+    "build": "vitepress build"
   },
   "dependencies": {
     "feishu-pages": "^0.4.1",
