@@ -1,0 +1,46 @@
+name: Deploy Canary
+on:
+  push:
+    branches:
+      - canary
+jobs:
+  deploy_canary:
+    name: build
+    timeout-minutes: 30
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Download ossutils zip
+        run: |
+          wget https://github.com/aliyun/ossutil/releases/download/v.1.7.17/ossutil-v1.7.17-linux-amd64.zip
+          unzip ossutil-v1.7.17-linux-amd64.zip && cp ./ossutil-v1.7.17-linux-amd64/ossutil ${{github.workspace}}/ && chmod +x ${{github.workspace}}/ossutil
+
+      - name: Test ossutil cli
+        run: |
+          ${{github.workspace}}/ossutil --version
+
+      - uses: actions/checkout@v3
+      - name: Exporting
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_SPACE_ID: '7288219896826494980'
+          OUTPUT_DIR: ./dist
+        uses: longbridgeapp/feishu-pages@main
+      - uses: oven-sh/setup-bun@v1
+      - name: Build Pages
+        run: |
+          cp -r dist/docs/* docs/
+          cp dist/docs.json docs/
+          bun install 
+          bun autocorrect --fix docs/
+          bun translate
+          bun run build
+
+      - name: upload canary dist to oss
+        run: |
+          ${{github.workspace}}/ossutil cp .vitepress/dist/ oss://lb-assets/github/canary/longbridgewhale.com/whale-docs/ -u -r -j 10 -e oss-cn-hangzhou.aliyuncs.com -i ${{ secrets.FE_LB_ASSET_ACCESS_KEY_ID }} -k ${{ secrets.FE_LB_ASSET_ACCESS_KEY_SECRET }} --exclude "*.html" --meta=Cache-Control:max-age=31536000
+          ${{github.workspace}}/ossutil cp .vitepress/dist/ oss://lb-assets/github/canary/longbridgewhale.com/whale-docs/ -u -r -j 10 -e oss-cn-hangzhou.aliyuncs.com -i ${{ secrets.FE_LB_ASSET_ACCESS_KEY_ID }} -k ${{ secrets.FE_LB_ASSET_ACCESS_KEY_SECRET }} --include "*.html" --meta=Cache-Control:no-cache

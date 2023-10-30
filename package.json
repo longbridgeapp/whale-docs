@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "autocorrect-node": "^2.8.4",
-    "feishu-pages": "^0.4.1",
+    "feishu-pages": "^0.5.3",
     "glob": "^10.3.10",
     "opencc-js": "^1.0.5",
     "sass": "^1.69.3",
