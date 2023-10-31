@@ -8,7 +8,15 @@ const OpenCC = require('opencc-js');
 
 const converter = OpenCC.Converter({ from: 'hk', to: 'cn' });
 
-
+function isFile(filePath) {
+    try {
+        const stats = fs.statSync(filePath);
+        return stats.isFile();
+    } catch (err) {
+        // An error occurred, which likely means the path doesn't exist or is not accessible.
+        return false;
+    }
+}
 /**
  * Iterator all .md file in docs/zh-CN/ and convert to docs/zh-HK/
  */
@@ -16,8 +24,9 @@ const convert = () => {
   if(!fs.existsSync(path.resolve(__dirname,'../docs/zh-HK.md'))) return
   let content = fs.readFileSync(path.resolve(__dirname,'../docs/zh-HK.md'), 'utf8');
   let newContent = converter(content);
-  fs.writeFileSync(path.resolve(__dirname,'../docs/zh-HK.md'), newContent);
+  fs.writeFileSync(path.resolve(__dirname,'../docs/zh-CN.md'), newContent);
 
+  // 翻译 CN to HK
   let files = glob.sync(path.resolve(__dirname,'../docs/zh-HK/**/*.md'));
   files.forEach((file) => {
     let content = fs.readFileSync(file, 'utf8');
@@ -27,9 +36,20 @@ const convert = () => {
     fs.mkdirSync(folder, { recursive: true });
     fs.writeFileSync(newFile, newContent);
   });
+
+  // 复制非 md 文件
+  let assetsFiles = glob.sync(path.join(__dirname, '..', 'docs', 'zh-HK', '**', '!(*.md)'));
+  assetsFiles.forEach((file) => {
+    if(isFile(file)){
+      console.log('copy file:', file)
+      const destinationDirectory = file.replace('zh-HK', 'zh-CN').replace(path.basename(file), '');
+      fs.mkdirSync(destinationDirectory, { recursive: true });
+      fs.copyFileSync(file, file.replace('zh-HK', 'zh-CN'));
+    }
+  })
 };
 
-const deepConvertDocIntoZhHK = (doc) => {
+const deepConvertDocIntoZhCN = (doc) => {
   let newDoc = Object.assign({}, doc);
 
   newDoc.title = converter(newDoc.title);
@@ -38,7 +58,7 @@ const deepConvertDocIntoZhHK = (doc) => {
 
   if (newDoc.children) {
     newDoc.children = newDoc.children.map((child) => {
-      return deepConvertDocIntoZhHK(child);
+      return deepConvertDocIntoZhCN(child);
     });
   }
 
@@ -46,7 +66,7 @@ const deepConvertDocIntoZhHK = (doc) => {
 };
 
 /**
- * Parse docs.json and duplicate zh-CN to zh-HK by use OpenCC to convert
+ * Parse docs.json and duplicate zh-HK to zh-CN by use OpenCC to convert
  */
 const convertDocsJSON = () => {
   let docs = require('../docs/docs.json');
@@ -58,9 +78,9 @@ const convertDocsJSON = () => {
       newDocs.push(doc);
       let newDoc = Object.assign({}, doc);
 
-      newDoc.title = '简体中文';
+      newDoc.title = '繁体中文';
 
-      newDoc = deepConvertDocIntoZhHK(newDoc);
+      newDoc = deepConvertDocIntoZhCN(newDoc);
 
       newDocs.push(newDoc);
       found = true;
