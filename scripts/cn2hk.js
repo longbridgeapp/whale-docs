@@ -8,15 +8,17 @@ const OpenCC = require('opencc-js');
 
 const converter = OpenCC.Converter({ from: 'cn', to: 'hk' });
 
+
 /**
  * Iterator all .md file in docs/zh-CN/ and convert to docs/zh-HK/
  */
 const convert = () => {
-  let content = fs.readFileSync('docs/zh-CN.md', 'utf8');
+  if(!fs.existsSync(path.resolve(__dirname,'../docs/zh-CN.md'))) return
+  let content = fs.readFileSync(path.resolve(__dirname,'../docs/zh-CN.md'), 'utf8');
   let newContent = converter(content);
-  fs.writeFileSync('docs/zh-HK.md', newContent);
+  fs.writeFileSync(path.resolve(__dirname,'../docs/zh-CN.md'), newContent);
 
-  let files = glob.sync('docs/zh-CN/**/*.md');
+  let files = glob.sync(path.resolve(__dirname,'../docs/zh-CN/**/*.md'));
   files.forEach((file) => {
     let content = fs.readFileSync(file, 'utf8');
     let newContent = converter(content);

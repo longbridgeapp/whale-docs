@@ -1,4 +1,5 @@
 import { DefaultTheme, defineConfig } from 'vitepress';
+// @ts-ignore
 import docs from '../docs/docs.json';
 
 const convertDocsToZhHK = (docs: Record<string, any>[]) => {};
@@ -39,7 +40,7 @@ const docsSidebarZHHK = convertDocsToSidebars(docs, 'zh-HK');
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Longbridge Whale Docs',
-  base: '/whale-docs/',
+  base: '/docs/',
   ignoreDeadLinks: true,
   locales: {
     en: {
