@@ -1,4 +1,12 @@
 import DefaultTheme from 'vitepress/theme';
 import '../../style.scss';
-
-export default DefaultTheme;
+import VPBadge from 'vitepress/dist/client/theme-default/components/VPBadge.vue';
+const theme = {
+  ...DefaultTheme,
+  enhanceApp: (ctx) => {
+    const { app } = ctx;
+        app.component('Badge', VPBadge);
+        window.WhaleDocs = ctx;
+    }
+}
+export default theme;

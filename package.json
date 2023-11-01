@@ -16,5 +16,8 @@
     "opencc-js": "^1.0.5",
     "sass": "^1.69.3",
     "vitepress": "^1.0.0-rc.22"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
   }
 }
