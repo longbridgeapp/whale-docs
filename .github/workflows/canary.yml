@@ -17,7 +17,7 @@ jobs:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_SPACE_ID: '7288219896826494980'
-          OUTPUT_DIR: ./dist
+          OUTPUT_DIR: ./feishu-pages
         uses: longbridgeapp/feishu-pages@main
       - uses: oven-sh/setup-bun@v1
       - name: Build Pages
