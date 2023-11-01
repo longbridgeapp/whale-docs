@@ -1,6 +1,6 @@
 import { DefaultTheme, defineConfig } from 'vitepress';
 // @ts-ignore
-import docs from '../docs/docs.json';
+import docs from '../locales/docs.json';
 
 const convertDocsToZhHK = (docs: Record<string, any>[]) => {};
 
@@ -19,10 +19,13 @@ const convertDocsToSidebars = (
   // Go to root slug
   docs = docs.find((doc) => doc.slug === rootSlug)?.children || docs;
 
+
+  // zh-HK/guides/crm/dashboards
+  // -> zh-HK/docs/guides/crm/dashboards
   for (const doc of docs) {
     let sidebar: DefaultTheme.SidebarItem = {
       text: doc.title,
-      link: '/' + doc.slug,
+      link: '/' + doc.slug.replace(/^zh-HK\//, 'zh-HK/docs/'),
     };
     if (doc.children.length > 0) {
       sidebar.items = convertDocsToSidebars(doc.children);
@@ -40,7 +43,8 @@ const docsSidebarZHHK = convertDocsToSidebars(docs, 'zh-HK');
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Longbridge Whale Docs',
-  base: '/docs/',
+  base: '/',
+  description: 'Longbridge Whale Docs',
   ignoreDeadLinks: true,
   locales: {
     en: {
@@ -58,12 +62,12 @@ export default defineConfig({
   },
   cleanUrls: true,
   srcExclude: ['SUMMARY.md'],
-  srcDir: 'docs',
+  srcDir: 'locales',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Whale Home', link: 'https://longbridgewhale.com' },
-      { text: 'Docs', link: '/en' },
+      { text: 'Docs', link: '/zh-HK/docs/guides' },
     ],
 
     sidebar: {

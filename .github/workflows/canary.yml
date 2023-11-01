@@ -22,9 +22,8 @@ jobs:
       - uses: oven-sh/setup-bun@v1
       - name: Build Pages
         run: |
-          cp -r dist/docs/* docs/
-          cp dist/docs.json docs/
           bun install 
+          ./scripts/cp_feishu_to_vitepress.sh
           bun autocorrect --fix docs/
           bun translate
           bun run build
