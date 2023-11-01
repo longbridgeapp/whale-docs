@@ -23,6 +23,7 @@ const convertDocsToSidebars = (
   // zh-HK/guides/crm/dashboards
   // -> zh-HK/docs/guides/crm/dashboards
   for (const doc of docs) {
+    if(!doc.meta?.hide){
     let sidebar: DefaultTheme.SidebarItem = {
       text: doc.title,
       link: '/' + doc.slug.replace(/^zh-HK\//, 'zh-HK/docs/'),
@@ -30,7 +31,7 @@ const convertDocsToSidebars = (
     if (doc.children.length > 0) {
       sidebar.items = convertDocsToSidebars(doc.children);
     }
-    sidebars.push(sidebar);
+    sidebars.push(sidebar);}
   }
 
   return sidebars;
