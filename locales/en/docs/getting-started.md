@@ -7,5 +7,5 @@ sidebar_position: 1
 
 # Getting Started
 
-Getting started.
+Getting started
 
