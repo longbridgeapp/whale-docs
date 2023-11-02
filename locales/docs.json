@@ -617,7 +617,7 @@
         "children": [
           {
             "depth": 2,
-            "title": "業務場景1",
+            "title": "業務場景 1",
             "node_token": "KyCEwH6KXide7wkP3mXcRFN9nXb",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1697013312",
@@ -631,7 +631,7 @@
           },
           {
             "depth": 2,
-            "title": "業務場景2",
+            "title": "業務場景 2",
             "node_token": "ZdfIws61ziGjJCkdHhkcwQ29ndf",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1697013370",
@@ -802,7 +802,7 @@
         "children": [
           {
             "depth": 2,
-            "title": "业务场景1",
+            "title": "业务场景 1",
             "node_token": "GDatwmyl8isVNtk1yjecrrEwn41",
             "parent_node_token": "LVW4wQrY3iv5ldkjbEOc6zMSnwc",
             "obj_create_time": "1697443518",
@@ -816,7 +816,7 @@
           },
           {
             "depth": 2,
-            "title": "业务场景2",
+            "title": "业务场景 2",
             "node_token": "P3GcwwOXpiHLCXkbyCRckoFpnmv",
             "parent_node_token": "LVW4wQrY3iv5ldkjbEOc6zMSnwc",
             "obj_create_time": "1697443518",
