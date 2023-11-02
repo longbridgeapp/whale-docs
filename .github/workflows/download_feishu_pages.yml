@@ -12,34 +12,37 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
+
       - name: Start export feishu pages
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-          FEISHU_SPACE_ID: '7288219896826494980'
+          FEISHU_SPACE_ID: "7288219896826494980"
           OUTPUT_DIR: ./feishu-pages
         uses: longbridgeapp/feishu-pages@main
+
       - uses: oven-sh/setup-bun@v1
+
       - name: Copy feishu pages to repo
         run: |
           bun install
-          ./scripts/cp_feishu_to_vitepress.sh
-          bun autocorrect --fix locales/
-          bun translate
+          bun run setup:vitepress
+
+      - name: Commit feishu pages to repo
+        run: |
           git status
           git add .
-          git config --global user.name "LongPort Github CI"
-          git config --global user.email "longportapp-github-ci@users.noreply.github.com"
-          git commit -a -m "Commit feishu pages to repo"
+          git config --global user.name "Longbridge Whale docs bot"
+          git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
+          git commit -a -m "Commit feishu updated pages to repo"
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: New feishu pages version request review
           base: dev
           delete-branch: true
-          title: '[Docs] New feishu pages version request review'
+          title: "[Docs] New feishu pages version request review"
           body: |
             New feishu pages version request review
           assignees: ihavecoke
-
-
