@@ -1,6 +1,6 @@
 name: Deploy feishu pages to canary
 on:
-  pull:
+  push:
   pull_request:
     branches:
       - main
