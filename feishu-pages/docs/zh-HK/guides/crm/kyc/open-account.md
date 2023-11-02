@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # 開戶資料
 
-# 適用場景
+## 適用場景
 
 - 本作業是開戶資料的後台申請入口，同時也可以查到相關客戶的前端APP開戶填寫資料與協助補錄資料
 - 適用於：
@@ -16,11 +16,11 @@ sidebar_position: 1
     - 多開通證劵子帳戶申請
     - 批次修改證劵帳戶
 
-# 前置条件
+## 前置条件
 
 无
 
-# 操作說明
+## 操作說明
 
 ## 開戶資料
 
@@ -42,19 +42,19 @@ sidebar_position: 1
 
 <img src="./assets/AkxAbcqypoutZHxWoXEcZR0anvf.png" src-width="3306" src-height="1816" align="center"/>
 
-## 場景：全新開戶資料錄入
+### 場景：全新開戶資料錄入
 
 [全新開戶申請資料錄入](https://longbridge.feishu.cn/wiki//Oh1ww4GN8iB9iZktgHKcQWwln2f/xxx/xxx/xxx/xxx?create_from=create_doc_to_wiki)
 
-## 場景：多開通證劵帳戶申請
+### 場景：多開通證劵帳戶申請
 
 [多開證劵帳戶申請](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
 
-## 場景：多開通證劵子帳戶申請
+### 場景：多開通證劵子帳戶申請
 
 [多開證劵子帳戶申請](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
 
-## 場景：批量修改證劵帳戶
+### 場景：批量修改證劵帳戶
 
 [批量修改證劵帳戶](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
 

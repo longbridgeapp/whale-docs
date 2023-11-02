@@ -31,11 +31,11 @@ sidebar_position: 0
 
 ### 选择客户/新建客户 
 
-### 选择客户类型，可选择： 个人客户 /联名客户 /企业客户
+### 选择客户类型，可选择：个人客户 /联名客户 /企业客户
 
 ### 选择客户国籍，系统支持 200 + 国籍
 
-## **第二步**： 上传身份证件
+## **第二步**：上传身份证件
 
 分为 3 种类型客户：
 
@@ -52,7 +52,7 @@ sidebar_position: 0
     3. 如用户选择否，需上传其他身份证
     <img src="./assets/WP0IbjpQgouXrSxVinWcHDkbnjf.png" src-width="3252" src-height="1822" align="center"/>
 
-## **第三步**： 上传地址证明
+## **第三步**：上传地址证明
 
 分为 2 种类型客户：
 
@@ -65,18 +65,18 @@ sidebar_position: 0
     1. 需上传居住地址证明
     <img src="./assets/CKOTbY3xyo6lfhx2QSLc3EYCnSb.png" src-width="3252" src-height="1604" align="center"/>
 
-## **第四步**： 填写各类基础信息
+## **第四步**：填写各类基础信息
 
 主要是包含 职业资讯、纳税资讯、电子邮箱等信息。其中，
 
-- 纳税资讯，需填写用户纳税的国家/地区及纳税编号，最多支持填写 10 个。包含以下字段： 纳税国家/地区  与 纳税人编号
+- 纳税资讯，需填写用户纳税的国家/地区及纳税编号，最多支持填写 10 个。包含以下字段：纳税国家/地区  与 纳税人编号
     <img src="./assets/JxVfbqBwyooUMAxZWSXckJlNnzg.png" src-width="3270" src-height="1438" align="center"/>
 
 - 电子邮箱：用户用于接收结单、通知等通知。一个 App 的用户邮箱唯一
 - 填写联系手机号，多个客户可使用相同的联系手机号
     <img src="./assets/Hv6rbUc2Xo5V1MxauYycRxbLnfd.png" src-width="3266" src-height="1430" align="center"/>
 
-## **第五步**：  填写资产投资信息
+## **第五步**：填写资产投资信息
 
 <img src="./assets/XScJb6HdyoYbCPxj5H6cvKHAnre.png" src-width="3258" src-height="1804" align="center"/>
 
@@ -84,13 +84,13 @@ sidebar_position: 0
 
 <img src="./assets/NIclbivdpoSTIWxIxqKcwi3Anic.png" src-width="3254" src-height="1806" align="center"/>
 
-## **第七步**： 确认资讯
+## **第七步**：确认资讯
 
-系统会按: 身份证件/个人基础信息/职业信息/资产投资信息/合规信息确认/关联账户信息 等区块排列,将客户资料展示出来,方便按确认填写讯息
+系统会按：身份证件/个人基础信息/职业信息/资产投资信息/合规信息确认/关联账户信息 等区块排列，将客户资料展示出来，方便按确认填写讯息
 
 <img src="./assets/SS8ybscAZohaPbxp1Vpc84ONnJh.png" src-width="3250" src-height="1576" align="center"/>
 
-同时若有需要修正资料,可点击区块右上角的【编辑】,会跳转该讯息面区域进行修改资料
+同时若有需要修正资料，可点击区块右上角的【编辑】,会跳转该讯息面区域进行修改资料
 
 <img src="./assets/FxMibYc5Fo8wLmxB6QjcmvfMnJe.png" src-width="3162" src-height="1142" align="center"/>
 

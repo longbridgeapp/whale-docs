@@ -1,9 +1,9 @@
 ---
-title: 业务场景2
+title: 业务场景 2
 slug: zh-HK/faq/ZdfIws61ziGjJCkdHhkcwQ29ndf
 sidebar_position: 1
 ---
 
 
-# 业务场景2
+# 业务场景 2
 
