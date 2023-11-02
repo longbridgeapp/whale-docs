@@ -26,11 +26,10 @@ jobs:
           ./scripts/cp_feishu_to_vitepress.sh
           bun autocorrect --fix locales/
           bun translate
-      - name: Commit all changed files
-        run: |
+          git status
+          git add .
           git config --global user.name "LongPort Github CI"
           git config --global user.email "longportapp-github-ci@users.noreply.github.com"
-          git add .
           git commit -a -m "Commit feishu pages to repo"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
