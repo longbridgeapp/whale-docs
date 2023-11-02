@@ -2,7 +2,7 @@ name: Download feishu pages and create pull request
 on:
   push:
     branches:
-      - dev
+      - feishu/*
 jobs:
   download_feishu_pages:
     name: Download feishu pages
@@ -36,7 +36,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: New feishu pages version request review
-          base: canary
+          base: dev
           delete-branch: true
           title: '[Docs] New feishu pages version request review'
           body: |
