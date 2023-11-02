@@ -1,5 +1,5 @@
 .env
-feishu-pages/
+feishu-pages/.cache/
 node_modules/
 locales/**/*
 !docs/index.md
