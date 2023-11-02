@@ -25,23 +25,23 @@ const convertDocsToSidebars = (
   // zh-HK/guides/crm/dashboards
   // -> zh-HK/docs/guides/crm/dashboards
   for (const doc of docs) {
-    if (!doc.meta?.hide) {
-      const text = cnLang ? converter(doc.title) : doc.title;
+    const text = cnLang ? converter(doc.title) : doc.title;
 
-      const link = `/${
-        cnLang ? doc.slug.replace(/^zh-HK\//, "zh-CN/docs/") : doc.slug.replace(/^(en|zh-HK)\//, "$1/docs/")  
-      }`;
+    const link = `/${
+      cnLang
+        ? doc.slug.replace(/^zh-HK\//, "zh-CN/docs/")
+        : doc.slug.replace(/^(en|zh-HK)\//, "$1/docs/")
+    }`;
 
-      let sidebar: DefaultTheme.SidebarItem = {
-        text,
-        link,
-      };
-      if (doc.children.length > 0) {
-        sidebar.items = convertDocsToSidebars(doc.children, rootSlug);
-        sidebar.collapsed = true;
-      }
-      sidebars.push(sidebar);
+    let sidebar: DefaultTheme.SidebarItem = {
+      text,
+      link,
+    };
+    if (doc.children.length > 0) {
+      sidebar.items = convertDocsToSidebars(doc.children, rootSlug);
+      sidebar.collapsed = true;
     }
+    sidebars.push(sidebar);
   }
   return sidebars;
 };
