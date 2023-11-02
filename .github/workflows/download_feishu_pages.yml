@@ -1,11 +1,11 @@
-name: Auto download feishu pages and create pull request
+name: Download feishu pages and create pull request
 on:
   push:
     branches:
-      - feishu/*
+      - dev
 jobs:
-  sync_feishu_pages:
-    name: download feishu pages
+  download_feishu_pages:
+    name: Download feishu pages
     timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
