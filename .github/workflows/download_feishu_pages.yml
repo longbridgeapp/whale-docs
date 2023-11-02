@@ -42,6 +42,7 @@ jobs:
           commit-message: New feishu pages version request review
           base: dev
           delete-branch: true
+          branch: ${{github.ref_name}}
           title: "[Docs] New feishu pages version request review"
           body: |
             New feishu pages version request review
