@@ -1,16 +1,17 @@
 {
   "scripts": {
-    "cp_feishu_pages_to_vitepress": "./scripts/cp_feishu_to_vitepress.sh",
+    "setup:vitepress:workspace": "./scripts/setup_vitepress_workspace.sh",
     "export": "./scripts/export",
     "autocort": "bun run autocorrect --fix locales/",
     "translate": "node ./scripts/hk2cn.js",
+    "normalize:slug": "node ./scripts/normalize-docs-slug.js",
     "build": "vitepress build",
     "dev": "vitepress dev",
     "clean:vitepress": "rm -rf .vitepress/dist && rm -rf docs/*",
     "clean:export": "rm -rf dist/*",
     "clean": "bun run clean:export && bun run clean:vitepress",
     "local:build": "bun run export && bun run translate && bun run build",
-    "setup:vitepress": "bun run cp_feishu_pages_to_vitepress && bun run autocort && bun run translate"
+    "setup:vitepress": "bun run setup:vitepress:workspace && bun run autocort && bun run translate && bun run normalize:slug"
   },
   "dependencies": {
     "autocorrect-node": "^2.8.4",
