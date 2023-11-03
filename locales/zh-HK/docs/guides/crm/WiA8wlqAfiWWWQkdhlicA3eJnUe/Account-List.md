@@ -1,6 +1,6 @@
 ---
 title: 賬戶列表
-slug: zh-HK/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Account-List
+slug: zh-HK/docs/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Account-List
 sidebar_position: 0
 ---
 
