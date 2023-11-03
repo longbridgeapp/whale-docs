@@ -1,6 +1,6 @@
 ---
 title: 虚拟资产管理
-slug: zh-HK/guides/wbo/MfJUwwbDviekDKkL4WGc7VKzn9f
+slug: zh-HK/docs/guides/wbo/MfJUwwbDviekDKkL4WGc7VKzn9f
 sidebar_position: 5
 ---
 

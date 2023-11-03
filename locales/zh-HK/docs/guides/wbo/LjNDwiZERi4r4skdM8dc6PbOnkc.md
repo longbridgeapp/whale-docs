@@ -1,6 +1,6 @@
 ---
 title: 風控管理
-slug: zh-HK/guides/wbo/LjNDwiZERi4r4skdM8dc6PbOnkc
+slug: zh-HK/docs/guides/wbo/LjNDwiZERi4r4skdM8dc6PbOnkc
 sidebar_position: 8
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 工单中心
-slug: zh-HK/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Work-Order-Center
+slug: zh-HK/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Work-Order-Center
 sidebar_position: 2
 ---
 

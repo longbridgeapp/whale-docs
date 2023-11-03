@@ -1,6 +1,6 @@
 ---
 title: 客户管理系统（CRM)
-slug: zh-HK/guides/crm
+slug: zh-HK/docs/guides/crm
 sidebar_position: 0
 ---
 

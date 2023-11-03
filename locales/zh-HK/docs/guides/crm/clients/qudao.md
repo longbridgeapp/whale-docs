@@ -1,6 +1,6 @@
 ---
 title: 渠道
-slug: zh-HK/guides/crm/clients/qudao
+slug: zh-HK/docs/guides/crm/clients/qudao
 sidebar_position: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 運營系统（OPA）
-slug: zh-HK/guides/opa
+slug: zh-HK/docs/guides/opa
 sidebar_position: 2
 ---
 

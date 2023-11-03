@@ -1,6 +1,6 @@
 ---
 title: 新股認購
-slug: zh-HK/guides/wbo/PA5Aw3Ks8i8olWkwpKdcPdZAn0f
+slug: zh-HK/docs/guides/wbo/PA5Aw3Ks8i8olWkwpKdcPdZAn0f
 sidebar_position: 3
 ---
 

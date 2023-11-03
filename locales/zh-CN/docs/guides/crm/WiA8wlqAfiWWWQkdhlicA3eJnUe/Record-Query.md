@@ -1,6 +1,6 @@
 ---
 title: 记录查询
-slug: zh-HK/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Record-Query
+slug: zh-HK/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Record-Query
 sidebar_position: 3
 ---
 

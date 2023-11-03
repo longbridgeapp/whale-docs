@@ -1,6 +1,6 @@
 ---
 title: BCAN 码管理
-slug: zh-HK/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/BCAN-code-management
+slug: zh-HK/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/BCAN-code-management
 sidebar_position: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: WTT
-slug: en/guides/wtt
+slug: en/docs/guides/wtt
 sidebar_position: 3
 ---
 

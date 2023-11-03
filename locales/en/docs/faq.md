@@ -1,6 +1,6 @@
 ---
 title: FAQ
-slug: en/faq
+slug: en/docs/faq
 sidebar_position: 2
 ---
 

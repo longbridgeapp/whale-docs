@@ -1,6 +1,6 @@
 ---
 title: WBO
-slug: en/guides/wbo
+slug: en/docs/guides/wbo
 sidebar_position: 1
 ---
 
