@@ -77,3 +77,13 @@ ol {
 .grid {
   margin: 1.5em 0;
 }
+
+
+/* medium plugin styles*/
+.medium-zoom-overlay {
+  z-index: 9998;
+}
+
+.medium-zoom-image {
+  z-index: 9999;
+}

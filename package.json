@@ -17,6 +17,7 @@
     "autocorrect-node": "^2.8.4",
     "feishu-pages": "^0.5.4",
     "glob": "^10.3.10",
+    "medium-zoom": "^1.0.8",
     "opencc-js": "^1.0.5",
     "sass": "^1.69.3",
     "vitepress": "^1.0.0-rc.22"
