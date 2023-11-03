@@ -1,6 +1,6 @@
 ---
 title: 首页编排
-slug: zh-HK/docs/docs/guides/crm/dashboard
+slug: zh-HK/docs/guides/crm/dashboard-crm
 sidebar_position: 0
 ---
 

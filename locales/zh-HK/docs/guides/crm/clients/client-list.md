@@ -1,6 +1,6 @@
 ---
 title: 客户池
-slug: zh-HK/docs/guides/crm/clients/client-list
+slug: zh-HK/docs/docs/guides/crm/clients/client-list
 sidebar_position: 2
 ---
 
