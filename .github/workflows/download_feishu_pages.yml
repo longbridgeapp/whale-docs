@@ -13,6 +13,13 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Use feishu pages cache
+        uses: actions/cache@v3
+        id: feishu_pages_download_cache
+        with:
+          path: ./feishu-pages/.cache
+          key: feishu_pages_download_cache_key
+
       - name: Start export feishu pages
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
