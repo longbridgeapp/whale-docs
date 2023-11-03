@@ -1,6 +1,6 @@
 ---
 title: WTT
-slug: en/release-notes/wtt
+slug: en/docs/release-notes/wtt
 sidebar_position: 1
 ---
 

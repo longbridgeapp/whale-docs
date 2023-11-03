@@ -1,6 +1,6 @@
 ---
 title: 客户经理
-slug: zh-HK/guides/crm/clients/Account-Manager
+slug: zh-HK/docs/guides/crm/clients/Account-Manager
 sidebar_position: 5
 ---
 

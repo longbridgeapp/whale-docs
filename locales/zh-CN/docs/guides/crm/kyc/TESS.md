@@ -1,6 +1,6 @@
 ---
 title: AML 监察后台（TESS)
-slug: zh-HK/guides/crm/kyc/TESS
+slug: zh-HK/docs/guides/crm/kyc/TESS
 sidebar_position: 3
 ---
 

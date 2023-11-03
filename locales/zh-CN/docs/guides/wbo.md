@@ -1,6 +1,6 @@
 ---
 title: 证券后台（WBO)
-slug: zh-HK/guides/wbo
+slug: zh-HK/docs/guides/wbo
 sidebar_position: 1
 ---
 

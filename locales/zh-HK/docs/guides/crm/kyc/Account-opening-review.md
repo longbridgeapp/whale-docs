@@ -1,6 +1,6 @@
 ---
 title: 開戶審核記錄
-slug: zh-HK/guides/crm/kyc/Account-opening-review
+slug: zh-HK/docs/guides/crm/kyc/Account-opening-review
 sidebar_position: 2
 ---
 

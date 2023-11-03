@@ -1,6 +1,6 @@
 ---
 title: KYC
-slug: en/guides/crm/kyc
+slug: en/docs/guides/crm/kyc
 sidebar_position: 0
 ---
 

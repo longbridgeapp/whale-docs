@@ -1,6 +1,6 @@
 ---
 title: 開戶列表
-slug: zh-HK/guides/crm/kyc/list
+slug: zh-HK/docs/guides/crm/kyc/list
 sidebar_position: 0
 ---
 

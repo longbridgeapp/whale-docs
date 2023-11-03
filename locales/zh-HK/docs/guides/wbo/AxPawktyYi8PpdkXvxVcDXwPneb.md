@@ -1,6 +1,6 @@
 ---
 title: 清算管理
-slug: zh-HK/guides/wbo/AxPawktyYi8PpdkXvxVcDXwPneb
+slug: zh-HK/docs/guides/wbo/AxPawktyYi8PpdkXvxVcDXwPneb
 sidebar_position: 6
 ---
 

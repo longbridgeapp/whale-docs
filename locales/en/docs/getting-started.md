@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-slug: en/getting-started
+slug: en/docs/getting-started
 sidebar_position: 1
 ---
 

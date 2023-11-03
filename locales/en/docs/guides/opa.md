@@ -1,6 +1,6 @@
 ---
 title: OPA
-slug: en/guides/opa
+slug: en/docs/guides/opa
 sidebar_position: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Whale Console
-slug: en/release-notes/console
+slug: en/docs/release-notes/console
 sidebar_position: 0
 ---
 

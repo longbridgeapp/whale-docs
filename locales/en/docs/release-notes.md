@@ -1,6 +1,6 @@
 ---
 title: Release Notes
-slug: en/release-notes
+slug: en/docs/release-notes
 sidebar_position: 3
 ---
 

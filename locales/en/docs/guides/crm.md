@@ -1,6 +1,6 @@
 ---
 title: CRM
-slug: en/guides/crm
+slug: en/docs/guides/crm
 sidebar_position: 0
 ---
 

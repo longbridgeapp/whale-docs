@@ -1,6 +1,6 @@
 ---
 title: 今日完成
-slug: zh-HK/guides/crm/clients/done
+slug: zh-HK/docs/guides/crm/clients/done
 sidebar_position: 4
 ---
 

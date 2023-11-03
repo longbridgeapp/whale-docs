@@ -1,6 +1,6 @@
 ---
 title: 基金管理
-slug: zh-HK/guides/wbo/MsrcwasClizlyKk5xnQc2v04ntc
+slug: zh-HK/docs/guides/wbo/MsrcwasClizlyKk5xnQc2v04ntc
 sidebar_position: 4
 ---
 

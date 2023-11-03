@@ -1,6 +1,6 @@
 ---
 title: 业务场景 2
-slug: en/faq/P3GcwwOXpiHLCXkbyCRckoFpnmv
+slug: en/docs/faq/P3GcwwOXpiHLCXkbyCRckoFpnmv
 sidebar_position: 1
 ---
 
