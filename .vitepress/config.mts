@@ -2,6 +2,7 @@ import { DefaultTheme, defineConfig } from "vitepress";
 // @ts-ignore
 import docs from "../locales/docs.json";
 import * as OpenCC from "opencc-js";
+import { siteMetadata } from "./site-meta";
 const converter = OpenCC.Converter({ from: "hk", to: "cn" });
 
 /**
@@ -50,42 +51,86 @@ const docsSidebarEN = convertDocsToSidebars(docs, "en");
 const docsSidebarZHCN = convertDocsToSidebars(docs, "zh-CN");
 const docsSidebarZHHK = convertDocsToSidebars(docs, "zh-HK");
 
+const editLinkPattern =
+  "https://github.com/longbridgeapp/whale-docs/edit/dev/locales/:path";
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Longbridge Whale Docs",
   base: "/",
-  description: "Longbridge Whale Docs",
+  description:
+    "Whale 為券商提供一站式、開箱即用的產品和解決方案，包含 App、交易、風控、清結算、CRM、智能營銷等前中後台系統，以及行情報價、資訊、基本面等數據服務，同時 Whale 也集成了銀行通道業務、股票通道業務、期權通道業務、基金通道業務、KYC/AML 等服務",
   ignoreDeadLinks: true,
+  appearance: false,
+  lang: "zh-HK",
+  cleanUrls: true,
+  srcExclude: ["SUMMARY.md"],
+  srcDir: "locales",
+  lastUpdated: true,
+  head: [
+    [
+      "link",
+      {
+        type: "image/x-icon",
+        rel: "icon",
+        href: "https://pub.lbkrs.com/files/202205/xAwaQmCk1cD1AUsm/favicon.png",
+      },
+    ],
+    ...siteMetadata,
+  ],
   locales: {
     en: {
       label: "English",
       lang: "en",
+      link: "/en/docs",
+      themeConfig: {
+        editLink: {
+          pattern: editLinkPattern,
+        },
+      },
     },
     "zh-CN": {
       label: "简体中文",
       lang: "zh-CN",
+      link: "/zh-CN/docs",
+      themeConfig: {
+        editLink: {
+          pattern: editLinkPattern,
+          text: "在 GitHub 上编辑此页",
+        },
+        docFooter: {
+          prev: "上篇文档",
+          next: "下篇文档",
+        },
+      },
     },
     "zh-HK": {
       label: "繁体中文",
       lang: "zh-HK",
+      link: "/zh-HK/docs",
+      themeConfig: {
+        editLink: {
+          pattern: editLinkPattern,
+          text: "在 GitHub 上编辑此页",
+        },
+        docFooter: {
+          prev: "上篇文档",
+          next: "下篇文档",
+        },
+      },
     },
   },
-  cleanUrls: true,
-  srcExclude: ["SUMMARY.md"],
-  srcDir: "locales",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Whale Home", link: "https://longbridgewhale.com" },
-      { text: "Docs", link: "/zh-HK/docs/guides" },
-    ],
 
+  // https://vitepress.dev/reference/default-theme-config
+  themeConfig: {
+    siteTitle: "",
+    logo: "https://assets.lbkrs.com/uploads/d29e591d-0c3d-4def-b837-cd06dfb4d738/whale-logo.svg",
+    nav: [{ text: "Whale Home", link: "https://longbridgewhale.com" }],
     sidebar: {
       en: docsSidebarEN,
       "zh-CN": docsSidebarZHCN,
       "zh-HK": docsSidebarZHHK,
     },
-
     socialLinks: [
       { icon: "github", link: "https://github.com/longbridgeapp/whale-docs" },
     ],

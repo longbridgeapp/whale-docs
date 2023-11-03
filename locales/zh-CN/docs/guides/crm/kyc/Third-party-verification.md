@@ -1,6 +1,6 @@
 ---
 title: 第三方验证
-slug: zh-HK/docs/guides/crm/kyc/Third-party-verification
+slug: zh-HK/docs/docs/guides/crm/kyc/Third-party-verification
 sidebar_position: 4
 ---
 

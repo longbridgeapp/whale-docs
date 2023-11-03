@@ -1,6 +1,6 @@
 ---
 title: 开户列表
-slug: zh-HK/docs/guides/crm/kyc/list
+slug: zh-HK/docs/docs/guides/crm/kyc/list
 sidebar_position: 0
 ---
 

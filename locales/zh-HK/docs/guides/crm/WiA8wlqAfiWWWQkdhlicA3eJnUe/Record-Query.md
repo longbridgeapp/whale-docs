@@ -1,6 +1,6 @@
 ---
 title: 記錄查詢
-slug: zh-HK/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Record-Query
+slug: zh-HK/docs/docs/guides/crm/WiA8wlqAfiWWWQkdhlicA3eJnUe/Record-Query
 sidebar_position: 3
 ---
 

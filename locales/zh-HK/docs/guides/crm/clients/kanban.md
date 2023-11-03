@@ -1,6 +1,6 @@
 ---
 title: 看板
-slug: zh-HK/docs/guides/crm/clients/kanban
+slug: zh-HK/docs/docs/guides/crm/clients/kanban
 sidebar_position: 1
 ---
 
