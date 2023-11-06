@@ -64,7 +64,7 @@ export default defineConfig({
   appearance: false,
   lang: "zh-HK",
   cleanUrls: true,
-  srcExclude: ["SUMMARY.md"],
+  srcExclude: ["SUMMARY.md", 'zh-HK.md', "zh-CN.md", "en.md"],
   srcDir: "locales",
   lastUpdated: true,
   head: [
