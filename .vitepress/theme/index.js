@@ -1,5 +1,5 @@
 import DefaultTheme from "vitepress/theme";
-import "../../style.scss";
+import "./style.scss";
 import VPBadge from "vitepress/dist/client/theme-default/components/VPBadge.vue";
 import mediumZoom from "medium-zoom";
 import { useRoute } from "vitepress";

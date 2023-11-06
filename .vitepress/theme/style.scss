@@ -78,7 +78,6 @@ ol {
   margin: 1.5em 0;
 }
 
-
 /* medium plugin styles*/
 .medium-zoom-overlay {
   z-index: 9998;
@@ -86,4 +85,17 @@ ol {
 
 .medium-zoom-image {
   z-index: 9999;
+}
+
+/* overwrite vitepress components styles*/
+.VPNavBarTitle {
+  .VPImage {
+    margin-right: 24px;
+  }
+}
+
+.level-0 {
+  .items {
+    padding-left: 16px;
+  }
 }

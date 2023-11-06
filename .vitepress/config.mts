@@ -84,6 +84,7 @@ export default defineConfig({
       lang: "en",
       link: "/en/docs",
       themeConfig: {
+        siteTitle: "Whale docs",
         editLink: {
           pattern: editLinkPattern,
         },
@@ -94,6 +95,7 @@ export default defineConfig({
       lang: "zh-CN",
       link: "/zh-CN/docs",
       themeConfig: {
+        siteTitle: "帮助中心",
         editLink: {
           pattern: editLinkPattern,
           text: "在 GitHub 上编辑此页",
@@ -109,6 +111,7 @@ export default defineConfig({
       lang: "zh-HK",
       link: "/zh-HK/docs",
       themeConfig: {
+        siteTitle: "幫助中心",
         editLink: {
           pattern: editLinkPattern,
           text: "在 GitHub 上编辑此页",
@@ -123,7 +126,6 @@ export default defineConfig({
 
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
-    siteTitle: "",
     logo: "https://assets.lbkrs.com/uploads/d29e591d-0c3d-4def-b837-cd06dfb4d738/whale-logo.svg",
     nav: [{ text: "Whale Home", link: "https://longbridgewhale.com" }],
     sidebar: {
