@@ -36,7 +36,7 @@ jobs:
       - name: Copy feishu pages to repo
         run: |
           bun install
-          bun run setup:vitepress
+          bun run setup
 
       - name: Commit feishu pages to repo
         run: |
