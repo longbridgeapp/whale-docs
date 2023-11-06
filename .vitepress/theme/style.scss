@@ -94,8 +94,10 @@ ol {
   }
 }
 
-.level-0 {
-  .items {
-    padding-left: 16px;
+.VPSidebarItem.level-0 {
+  .VPLink {
+    h2 {
+      font-size: unset;
+    }
   }
 }
