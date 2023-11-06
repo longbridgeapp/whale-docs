@@ -13,17 +13,33 @@ sidebar_position: 0
 
 ## 前置条件
 
-操作本文档需要的前置条件，比如需要先去“xx 菜单添加企业”才可在当前菜单进行“xx 操作”。若无，则直接写“无
+无
 
 ## 操作说明
 
-菜单入口：xxx  > xxx
+菜单入口：客户管理系统>CRM>任务
 
-### 二级标题 1
+每个不同的互动进程的信息展示。例如，入金/出金/注册等。
 
-正文内容正文内容正文内容正文内容正文内容
+<img src="./assets/Fig4bpw67oqFQgxYXrEcxrCcnbh.png" src-width="2854" src-height="1560" align="center"/>
 
-### 二级标题 2
+可在右侧记录操作区：【跟进】，点击后会进入该用户（客户）的卡式资料展示。
 
-正文内容正文内容正文内容正文内容正文内容
+上部份展示简单资料与客户经理资料：
+
+<img src="./assets/CPssbRM1jo7vGNxYPUVcDumjnFh.png" src-width="2366" src-height="1434" align="center"/>
+
+点击【跟进记录】Tab 页签，录入标注一些 CRM 常规的互动标签说明
+
+<img src="./assets/Nri1bp9EgoPBdixsJrPcuujznGg.png" src-width="2372" src-height="1474" align="center"/>
+
+<img src="./assets/AwBCb3E5eoYD24xL4TNcmOPrngx.png" src-width="2362" src-height="1448" align="center"/>
+
+点击【资产/交易】Tab 页签，查看客户资产总览与近期出入金记录
+
+<img src="./assets/T2BubBpuLoY1CxxsSoqcli5jn6d.png" src-width="2356" src-height="1474" align="center"/>
+
+点击【邀请关系】Tab 页签，查看邀请关系
+
+<img src="./assets/S9b5b9QxXovNzoxkMD9cSHlEn9e.png" src-width="2368" src-height="1482" align="center"/>
 
