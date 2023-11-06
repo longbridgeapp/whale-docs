@@ -64,7 +64,7 @@ export default defineConfig({
   appearance: false,
   lang: "zh-HK",
   cleanUrls: true,
-  srcExclude: ["SUMMARY.md", 'zh-HK.md', "zh-CN.md", "en.md"],
+  srcExclude: ["SUMMARY.md", "zh-HK.md", "zh-CN.md", "en.md"],
   srcDir: "locales",
   lastUpdated: true,
   head: [
@@ -79,30 +79,35 @@ export default defineConfig({
     ...siteMetadata,
   ],
   locales: {
-    en: {
-      label: "English",
-      lang: "en",
-      link: "/en/docs",
-      themeConfig: {
-        siteTitle: "Whale docs",
-        editLink: {
-          pattern: editLinkPattern,
-        },
-      },
-    },
+    // en: {
+    //   label: "English",
+    //   lang: "en",
+    //   link: "/en/docs",
+    //   themeConfig: {
+    //     nav: [{ text: "Whale Home", link: "https://longbridgewhale.com" }],
+    //     siteTitle: "Whale docs",
+    //     editLink: {
+    //       pattern: editLinkPattern,
+    //     },
+    //   },
+    // },
     "zh-CN": {
       label: "简体中文",
       lang: "zh-CN",
       link: "/zh-CN/docs",
       themeConfig: {
         siteTitle: "帮助中心",
+        nav: [{ text: "Whale 首页", link: "https://longbridgewhale.com" }],
         editLink: {
           pattern: editLinkPattern,
-          text: "在 GitHub 上编辑此页",
+          text: "编辑此页",
+        },
+        lastUpdated: {
+          text: "最后更新时间",
         },
         docFooter: {
-          prev: "上篇文档",
-          next: "下篇文档",
+          prev: "上一篇",
+          next: "下一篇",
         },
       },
     },
@@ -112,13 +117,17 @@ export default defineConfig({
       link: "/zh-HK/docs",
       themeConfig: {
         siteTitle: "幫助中心",
+        nav: [{ text: "Whale 首頁", link: "https://longbridgewhale.com" }],
         editLink: {
           pattern: editLinkPattern,
-          text: "在 GitHub 上编辑此页",
+          text: "编辑此页",
+        },
+        lastUpdated: {
+          text: "最後更新時間",
         },
         docFooter: {
-          prev: "上篇文档",
-          next: "下篇文档",
+          prev: "上一篇",
+          next: "下一篇",
         },
       },
     },
@@ -127,9 +136,8 @@ export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     logo: "https://assets.lbkrs.com/uploads/d29e591d-0c3d-4def-b837-cd06dfb4d738/whale-logo.svg",
-    nav: [{ text: "Whale Home", link: "https://longbridgewhale.com" }],
     sidebar: {
-      en: docsSidebarEN,
+      // en: docsSidebarEN,
       "zh-CN": docsSidebarZHCN,
       "zh-HK": docsSidebarZHHK,
     },
