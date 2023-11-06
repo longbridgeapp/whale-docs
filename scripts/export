@@ -1,4 +1,0 @@
-bun feishu-pages
-cp -r feishu-pages/docs/en/* locales/en/docs/
-cp -r feishu-pages/docs/zh-HK/* locales/zh-HK/docs/
-cp feishu-pages/docs.json locales/

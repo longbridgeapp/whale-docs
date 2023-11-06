@@ -58,7 +58,7 @@
                     "node_token": "OtSqwsks9iRZbjkQFsPcdRBGnkf",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1698205519",
-                    "obj_edit_time": "1699003049",
+                    "obj_edit_time": "1699005283",
                     "obj_token": "Wb4Xd3MFUoju4lxMqzMcmCB9nSg",
                     "children": [],
                     "has_child": false,
@@ -71,31 +71,37 @@
                   },
                   {
                     "depth": 4,
+                    "title": "看板",
+                    "node_token": "O3GewB9rnirlDkklQMVcbokAnrd",
+                    "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
+                    "obj_create_time": "1697510713",
+                    "obj_edit_time": "1699005279",
+                    "obj_token": "JblqdY44hoGkXuxFtB6cnsZdnMh",
+                    "children": [],
+                    "has_child": false,
+                    "meta": {
+                      "slug": "crm-kanban"
+                    },
+                    "slug": "zh-HK/guides/crm/clients/crm-kanban",
+                    "position": 1,
+                    "filename": "zh-HK/guides/crm/clients/crm-kanban.md"
+                  },
+                  {
+                    "depth": 4,
                     "title": "客户池",
                     "node_token": "EDUKwFCOtihmzakVPqVcGJvunVe",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511710",
-                    "obj_edit_time": "1698982012",
+                    "obj_edit_time": "1699005611",
                     "obj_token": "W0SpdroJ2oY0jrxI6rXch9Wrnpb",
                     "children": [],
                     "has_child": false,
-                    "slug": "zh-HK/guides/crm/clients/EDUKwFCOtihmzakVPqVcGJvunVe",
+                    "meta": {
+                      "slug": "crm-kehuchi"
+                    },
+                    "slug": "zh-HK/guides/crm/clients/crm-kehuchi",
                     "position": 2,
-                    "filename": "zh-HK/guides/crm/clients/EDUKwFCOtihmzakVPqVcGJvunVe.md"
-                  },
-                  {
-                    "depth": 4,
-                    "title": "渠道",
-                    "node_token": "GuPmwb7y9iCm3rkirwGcGJ31ngg",
-                    "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
-                    "obj_create_time": "1697510701",
-                    "obj_edit_time": "1698982016",
-                    "obj_token": "Lpood7UoVoVr9gx7djmc5Daande",
-                    "children": [],
-                    "has_child": false,
-                    "slug": "zh-HK/guides/crm/clients/GuPmwb7y9iCm3rkirwGcGJ31ngg",
-                    "position": 3,
-                    "filename": "zh-HK/guides/crm/clients/GuPmwb7y9iCm3rkirwGcGJ31ngg.md"
+                    "filename": "zh-HK/guides/crm/clients/crm-kehuchi.md"
                   },
                   {
                     "depth": 4,
@@ -103,13 +109,16 @@
                     "node_token": "EwYBwfhkJiOBI1k56ylcD2DanqB",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511719",
-                    "obj_edit_time": "1698982020",
+                    "obj_edit_time": "1699005969",
                     "obj_token": "KCntdTJ7IoRasjxwR7WcrX7dnGd",
                     "children": [],
                     "has_child": false,
-                    "slug": "zh-HK/guides/crm/clients/EwYBwfhkJiOBI1k56ylcD2DanqB",
-                    "position": 4,
-                    "filename": "zh-HK/guides/crm/clients/EwYBwfhkJiOBI1k56ylcD2DanqB.md"
+                    "meta": {
+                      "slug": "crm-todaydone"
+                    },
+                    "slug": "zh-HK/guides/crm/clients/crm-todaydone",
+                    "position": 3,
+                    "filename": "zh-HK/guides/crm/clients/crm-todaydone.md"
                   },
                   {
                     "depth": 4,
@@ -117,13 +126,16 @@
                     "node_token": "Heqjw9lwgi8ATikba54cEe5Enee",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511737",
-                    "obj_edit_time": "1698982023",
+                    "obj_edit_time": "1699006283",
                     "obj_token": "Gq4ndTKksoFXqIxGe67cowTHndc",
                     "children": [],
                     "has_child": false,
-                    "slug": "zh-HK/guides/crm/clients/Heqjw9lwgi8ATikba54cEe5Enee",
-                    "position": 5,
-                    "filename": "zh-HK/guides/crm/clients/Heqjw9lwgi8ATikba54cEe5Enee.md"
+                    "meta": {
+                      "slug": "crm-khujingli"
+                    },
+                    "slug": "zh-HK/guides/crm/clients/crm-khujingli",
+                    "position": 4,
+                    "filename": "zh-HK/guides/crm/clients/crm-khujingli.md"
                   }
                 ],
                 "has_child": true,
@@ -563,7 +575,7 @@
         "children": [
           {
             "depth": 2,
-            "title": "業務場景1",
+            "title": "業務場景 1",
             "node_token": "KyCEwH6KXide7wkP3mXcRFN9nXb",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1697013312",
@@ -577,7 +589,7 @@
           },
           {
             "depth": 2,
-            "title": "業務場景2",
+            "title": "業務場景 2",
             "node_token": "ZdfIws61ziGjJCkdHhkcwQ29ndf",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1697013370",
@@ -713,427 +725,6 @@
   },
   {
     "depth": 0,
-    "title": "English",
-    "node_token": "FlyXwlXpNiBDJXkDkxTcOuJ4ngf",
-    "parent_node_token": "",
-    "obj_create_time": "1697443464",
-    "obj_edit_time": "1697443731",
-    "obj_token": "FveHdWHl6opHG5xutQncHI3nnGb",
-    "children": [
-      {
-        "depth": 1,
-        "title": "Guides",
-        "node_token": "R7KtwVUdTi8YkRkY3WecK2zonYg",
-        "parent_node_token": "FlyXwlXpNiBDJXkDkxTcOuJ4ngf",
-        "obj_create_time": "1697443497",
-        "obj_edit_time": "1698977449",
-        "obj_token": "LvJEdnb00oyzBrxTI59cOebinPg",
-        "children": [
-          {
-            "depth": 2,
-            "title": "CRM",
-            "node_token": "Ow6NwYyMXikYt6kc0e7cc4bRnjb",
-            "parent_node_token": "R7KtwVUdTi8YkRkY3WecK2zonYg",
-            "obj_create_time": "1697443501",
-            "obj_edit_time": "1697443548",
-            "obj_token": "DSC7djodYoed0DxT6vwcvq4pnkh",
-            "children": [
-              {
-                "depth": 3,
-                "title": "KYC",
-                "node_token": "QcxvwWNyiifLKJkHINwcF0lLnaf",
-                "parent_node_token": "Ow6NwYyMXikYt6kc0e7cc4bRnjb",
-                "obj_create_time": "1697443513",
-                "obj_edit_time": "1697443590",
-                "obj_token": "JSw3dX1QUoY02ZxEqdNcemeVnit",
-                "children": [],
-                "has_child": false,
-                "meta": {
-                  "slug": "kyc"
-                },
-                "slug": "en/guides/crm/kyc",
-                "position": 0,
-                "filename": "en/guides/crm/kyc.md"
-              },
-              {
-                "depth": 3,
-                "title": "Customer Manage",
-                "node_token": "I5Ywwtr44iO8h9kDY7ccIPWsnod",
-                "parent_node_token": "Ow6NwYyMXikYt6kc0e7cc4bRnjb",
-                "obj_create_time": "1697443513",
-                "obj_edit_time": "1697443580",
-                "obj_token": "MKDNd8tRgojcjIxMExBcPOmgnXg",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/crm/I5Ywwtr44iO8h9kDY7ccIPWsnod",
-                "position": 1,
-                "filename": "en/guides/crm/I5Ywwtr44iO8h9kDY7ccIPWsnod.md"
-              },
-              {
-                "depth": 3,
-                "title": "Account Manage",
-                "node_token": "GawQw6HUUiCIDFk6Zh9ccciCnWg",
-                "parent_node_token": "Ow6NwYyMXikYt6kc0e7cc4bRnjb",
-                "obj_create_time": "1697443513",
-                "obj_edit_time": "1697443621",
-                "obj_token": "Wxxpd893IobJS8xkYkNcea5enyh",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/crm/GawQw6HUUiCIDFk6Zh9ccciCnWg",
-                "position": 2,
-                "filename": "en/guides/crm/GawQw6HUUiCIDFk6Zh9ccciCnWg.md"
-              }
-            ],
-            "has_child": true,
-            "meta": {
-              "slug": "crm"
-            },
-            "slug": "en/guides/crm",
-            "position": 0,
-            "filename": "en/guides/crm.md"
-          },
-          {
-            "depth": 2,
-            "title": "WBO",
-            "node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-            "parent_node_token": "R7KtwVUdTi8YkRkY3WecK2zonYg",
-            "obj_create_time": "1697443501",
-            "obj_edit_time": "1697443536",
-            "obj_token": "XGbOdT1ryon5LSx1QASc3562nDA",
-            "children": [
-              {
-                "depth": 3,
-                "title": "Assets",
-                "node_token": "Oya7wD3Axi7qXPkeCiyc4kSinHd",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443640",
-                "obj_token": "PgkidATjyotvuWxYFUDcocctncb",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/Oya7wD3Axi7qXPkeCiyc4kSinHd",
-                "position": 0,
-                "filename": "en/guides/wbo/Oya7wD3Axi7qXPkeCiyc4kSinHd.md"
-              },
-              {
-                "depth": 3,
-                "title": "ATM",
-                "node_token": "X7LCwklHViPpa8kSOA1ct8qDnbf",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443646",
-                "obj_token": "D3aTdqMQhoRfBDxTi85cVTonnpg",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/X7LCwklHViPpa8kSOA1ct8qDnbf",
-                "position": 1,
-                "filename": "en/guides/wbo/X7LCwklHViPpa8kSOA1ct8qDnbf.md"
-              },
-              {
-                "depth": 3,
-                "title": "清结算",
-                "node_token": "Y7TTwX3ddimtAxkGNJRcrqMFn4e",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443505",
-                "obj_token": "Epz5dcebOo9G4FxO5ZHcAAVRnke",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/Y7TTwX3ddimtAxkGNJRcrqMFn4e",
-                "position": 2,
-                "filename": "en/guides/wbo/Y7TTwX3ddimtAxkGNJRcrqMFn4e.md"
-              },
-              {
-                "depth": 3,
-                "title": "新股认购",
-                "node_token": "WIl0wpICwicECuk3bHWccAnRnue",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443505",
-                "obj_token": "VrRxdHlELoc9kpx45zscfn6Dnqf",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/WIl0wpICwicECuk3bHWccAnRnue",
-                "position": 3,
-                "filename": "en/guides/wbo/WIl0wpICwicECuk3bHWccAnRnue.md"
-              },
-              {
-                "depth": 3,
-                "title": "风控系统",
-                "node_token": "DTplwykUfiHxYzkQpI6ce8h9nnU",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443505",
-                "obj_token": "Ih6Nd530voZlU7xu6A0c9I3Bnxg",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/DTplwykUfiHxYzkQpI6ce8h9nnU",
-                "position": 4,
-                "filename": "en/guides/wbo/DTplwykUfiHxYzkQpI6ce8h9nnU.md"
-              },
-              {
-                "depth": 3,
-                "title": "公司行动",
-                "node_token": "W4SpwjbwciCTjLk6ePPcFG9hnuP",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443505",
-                "obj_token": "RdcxdfcnHo0SE5xEeDmcDz4FnMf",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/W4SpwjbwciCTjLk6ePPcFG9hnuP",
-                "position": 5,
-                "filename": "en/guides/wbo/W4SpwjbwciCTjLk6ePPcFG9hnuP.md"
-              },
-              {
-                "depth": 3,
-                "title": "全局设置",
-                "node_token": "HUMuwPDTfiNPiJkOzvHcthJOnsh",
-                "parent_node_token": "HfVJwUtsTihf6Zk5w5JcKogMnbb",
-                "obj_create_time": "1697443505",
-                "obj_edit_time": "1697443505",
-                "obj_token": "VffOdG1EmoJfItxgXn7cUlUrnLe",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/wbo/HUMuwPDTfiNPiJkOzvHcthJOnsh",
-                "position": 6,
-                "filename": "en/guides/wbo/HUMuwPDTfiNPiJkOzvHcthJOnsh.md"
-              }
-            ],
-            "has_child": true,
-            "meta": {
-              "slug": "wbo"
-            },
-            "slug": "en/guides/wbo",
-            "position": 1,
-            "filename": "en/guides/wbo.md"
-          },
-          {
-            "depth": 2,
-            "title": "OPA",
-            "node_token": "MHkCw3UsAiuFQEkWmpKcYKFnnwg",
-            "parent_node_token": "R7KtwVUdTi8YkRkY3WecK2zonYg",
-            "obj_create_time": "1697443501",
-            "obj_edit_time": "1697443542",
-            "obj_token": "ZEH5dE1yXonMkUxLSMGcwekKnUe",
-            "children": [
-              {
-                "depth": 3,
-                "title": "Delivery System",
-                "node_token": "Ii1uwwxhNiblPGk33dbckK8Unqc",
-                "parent_node_token": "MHkCw3UsAiuFQEkWmpKcYKFnnwg",
-                "obj_create_time": "1697443509",
-                "obj_edit_time": "1697443562",
-                "obj_token": "GJBsdxKVWodPFzxakcacLgTPnPh",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/opa/Ii1uwwxhNiblPGk33dbckK8Unqc",
-                "position": 0,
-                "filename": "en/guides/opa/Ii1uwwxhNiblPGk33dbckK8Unqc.md"
-              },
-              {
-                "depth": 3,
-                "title": "Activity System",
-                "node_token": "DaP4wVzWqif3eGkib72c5UNjnFg",
-                "parent_node_token": "MHkCw3UsAiuFQEkWmpKcYKFnnwg",
-                "obj_create_time": "1697443509",
-                "obj_edit_time": "1697443568",
-                "obj_token": "VsitdV5XOomUYYxqo0lcV6d4n5f",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/opa/DaP4wVzWqif3eGkib72c5UNjnFg",
-                "position": 1,
-                "filename": "en/guides/opa/DaP4wVzWqif3eGkib72c5UNjnFg.md"
-              },
-              {
-                "depth": 3,
-                "title": "权益系统",
-                "node_token": "AlTuwbB2NiLC0ckCQ36cVrVynAh",
-                "parent_node_token": "MHkCw3UsAiuFQEkWmpKcYKFnnwg",
-                "obj_create_time": "1697443509",
-                "obj_edit_time": "1697443509",
-                "obj_token": "Skcwd87DHo330KxXR8McRuL5nyg",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/opa/AlTuwbB2NiLC0ckCQ36cVrVynAh",
-                "position": 2,
-                "filename": "en/guides/opa/AlTuwbB2NiLC0ckCQ36cVrVynAh.md"
-              },
-              {
-                "depth": 3,
-                "title": "PageHub",
-                "node_token": "ZFXYwykfLiiALCkNzPWcra2xnMJ",
-                "parent_node_token": "MHkCw3UsAiuFQEkWmpKcYKFnnwg",
-                "obj_create_time": "1697443509",
-                "obj_edit_time": "1697443509",
-                "obj_token": "RT0sdhLCdoJNZsxppN4ctJHhnQc",
-                "children": [],
-                "has_child": false,
-                "slug": "en/guides/opa/ZFXYwykfLiiALCkNzPWcra2xnMJ",
-                "position": 3,
-                "filename": "en/guides/opa/ZFXYwykfLiiALCkNzPWcra2xnMJ.md"
-              }
-            ],
-            "has_child": true,
-            "meta": {
-              "slug": "opa"
-            },
-            "slug": "en/guides/opa",
-            "position": 2,
-            "filename": "en/guides/opa.md"
-          },
-          {
-            "depth": 2,
-            "title": "WTT",
-            "node_token": "S8mWwT04yionPLkAoSycmtlJnsf",
-            "parent_node_token": "R7KtwVUdTi8YkRkY3WecK2zonYg",
-            "obj_create_time": "1697443501",
-            "obj_edit_time": "1698915562",
-            "obj_token": "ZtXNdaSDnomXtOx3ylIc1Or3nub",
-            "children": [],
-            "has_child": false,
-            "meta": {
-              "slug": "wtt"
-            },
-            "slug": "en/guides/wtt",
-            "position": 3,
-            "filename": "en/guides/wtt.md"
-          }
-        ],
-        "has_child": true,
-        "meta": {
-          "slug": "guides"
-        },
-        "slug": "en/guides",
-        "position": 0,
-        "filename": "en/guides.md"
-      },
-      {
-        "depth": 1,
-        "title": "Getting Started",
-        "node_token": "LOUewssFdieBhJkchcfcJmxrnme",
-        "parent_node_token": "FlyXwlXpNiBDJXkDkxTcOuJ4ngf",
-        "obj_create_time": "1697443497",
-        "obj_edit_time": "1698918615",
-        "obj_token": "Q8ukdrJ48oJj8nxnzDkcGlTenyh",
-        "children": [],
-        "has_child": false,
-        "meta": {
-          "slug": "getting-started"
-        },
-        "slug": "en/getting-started",
-        "position": 1,
-        "filename": "en/getting-started.md"
-      },
-      {
-        "depth": 1,
-        "title": "FAQ",
-        "node_token": "LVW4wQrY3iv5ldkjbEOc6zMSnwc",
-        "parent_node_token": "FlyXwlXpNiBDJXkDkxTcOuJ4ngf",
-        "obj_create_time": "1697443497",
-        "obj_edit_time": "1697443519",
-        "obj_token": "LTRgdXWv2o39wjxij6QcLBVJnhb",
-        "children": [
-          {
-            "depth": 2,
-            "title": "业务场景1",
-            "node_token": "GDatwmyl8isVNtk1yjecrrEwn41",
-            "parent_node_token": "LVW4wQrY3iv5ldkjbEOc6zMSnwc",
-            "obj_create_time": "1697443518",
-            "obj_edit_time": "1697443518",
-            "obj_token": "TBcudsMv4oSkgnxJqwOcbLeGnle",
-            "children": [],
-            "has_child": false,
-            "slug": "en/faq/GDatwmyl8isVNtk1yjecrrEwn41",
-            "position": 0,
-            "filename": "en/faq/GDatwmyl8isVNtk1yjecrrEwn41.md"
-          },
-          {
-            "depth": 2,
-            "title": "业务场景2",
-            "node_token": "P3GcwwOXpiHLCXkbyCRckoFpnmv",
-            "parent_node_token": "LVW4wQrY3iv5ldkjbEOc6zMSnwc",
-            "obj_create_time": "1697443518",
-            "obj_edit_time": "1697443518",
-            "obj_token": "GOAMd7l0qodbzwx6WfjczWBTnIg",
-            "children": [],
-            "has_child": false,
-            "slug": "en/faq/P3GcwwOXpiHLCXkbyCRckoFpnmv",
-            "position": 1,
-            "filename": "en/faq/P3GcwwOXpiHLCXkbyCRckoFpnmv.md"
-          }
-        ],
-        "has_child": true,
-        "meta": {
-          "slug": "faq"
-        },
-        "slug": "en/faq",
-        "position": 2,
-        "filename": "en/faq.md"
-      },
-      {
-        "depth": 1,
-        "title": "Release Notes",
-        "node_token": "Cn7Wws0goic2tDkpXpJcwagUnXb",
-        "parent_node_token": "FlyXwlXpNiBDJXkDkxTcOuJ4ngf",
-        "obj_create_time": "1697443497",
-        "obj_edit_time": "1697443527",
-        "obj_token": "PCG1dzU9MoKp0dxZB4LcmGXln8d",
-        "children": [
-          {
-            "depth": 2,
-            "title": "Whale Console",
-            "node_token": "E5L0wVGoPic5ejk7Ra4crCYWnsh",
-            "parent_node_token": "Cn7Wws0goic2tDkpXpJcwagUnXb",
-            "obj_create_time": "1697443522",
-            "obj_edit_time": "1697443522",
-            "obj_token": "Osc1dgKIgoFC3gxZgxFctpGUnTe",
-            "children": [],
-            "has_child": false,
-            "meta": {
-              "slug": "console"
-            },
-            "slug": "en/release-notes/console",
-            "position": 0,
-            "filename": "en/release-notes/console.md"
-          },
-          {
-            "depth": 2,
-            "title": "WTT",
-            "node_token": "KPDMwlRsZigBnKkB8NycuV31n4d",
-            "parent_node_token": "Cn7Wws0goic2tDkpXpJcwagUnXb",
-            "obj_create_time": "1697443522",
-            "obj_edit_time": "1697443522",
-            "obj_token": "M9pGd9mfcomfeIx6XyzchhFlnVc",
-            "children": [],
-            "has_child": false,
-            "meta": {
-              "slug": "wtt"
-            },
-            "slug": "en/release-notes/wtt",
-            "position": 1,
-            "filename": "en/release-notes/wtt.md"
-          }
-        ],
-        "has_child": true,
-        "meta": {
-          "slug": "release-notes"
-        },
-        "slug": "en/release-notes",
-        "position": 3,
-        "filename": "en/release-notes.md"
-      }
-    ],
-    "has_child": true,
-    "meta": {
-      "slug": "en"
-    },
-    "slug": "en",
-    "position": 2,
-    "filename": "en.md"
-  },
-  {
-    "depth": 0,
     "title": "__简体中文__",
     "node_token": "XhZdwsgDriSeekkM5uLcDz3wnzb",
     "parent_node_token": "",
@@ -1198,7 +789,7 @@
                     "node_token": "OtSqwsks9iRZbjkQFsPcdRBGnkf",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1698205519",
-                    "obj_edit_time": "1699003049",
+                    "obj_edit_time": "1699005283",
                     "obj_token": "Wb4Xd3MFUoju4lxMqzMcmCB9nSg",
                     "children": [],
                     "has_child": false,
@@ -1211,31 +802,37 @@
                   },
                   {
                     "depth": 4,
+                    "title": "看板",
+                    "node_token": "O3GewB9rnirlDkklQMVcbokAnrd",
+                    "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
+                    "obj_create_time": "1697510713",
+                    "obj_edit_time": "1699005279",
+                    "obj_token": "JblqdY44hoGkXuxFtB6cnsZdnMh",
+                    "children": [],
+                    "has_child": false,
+                    "meta": {
+                      "slug": "crm-kanban"
+                    },
+                    "slug": "zh-CN/guides/crm/clients/crm-kanban",
+                    "position": 1,
+                    "filename": "zh-CN/guides/crm/clients/crm-kanban.md"
+                  },
+                  {
+                    "depth": 4,
                     "title": "客户池",
                     "node_token": "EDUKwFCOtihmzakVPqVcGJvunVe",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511710",
-                    "obj_edit_time": "1698982012",
+                    "obj_edit_time": "1699005611",
                     "obj_token": "W0SpdroJ2oY0jrxI6rXch9Wrnpb",
                     "children": [],
                     "has_child": false,
-                    "slug": "zh-CN/guides/crm/clients/EDUKwFCOtihmzakVPqVcGJvunVe",
+                    "meta": {
+                      "slug": "crm-kehuchi"
+                    },
+                    "slug": "zh-CN/guides/crm/clients/crm-kehuchi",
                     "position": 2,
-                    "filename": "zh-CN/guides/crm/clients/EDUKwFCOtihmzakVPqVcGJvunVe.md"
-                  },
-                  {
-                    "depth": 4,
-                    "title": "渠道",
-                    "node_token": "GuPmwb7y9iCm3rkirwGcGJ31ngg",
-                    "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
-                    "obj_create_time": "1697510701",
-                    "obj_edit_time": "1698982016",
-                    "obj_token": "Lpood7UoVoVr9gx7djmc5Daande",
-                    "children": [],
-                    "has_child": false,
-                    "slug": "zh-CN/guides/crm/clients/GuPmwb7y9iCm3rkirwGcGJ31ngg",
-                    "position": 3,
-                    "filename": "zh-CN/guides/crm/clients/GuPmwb7y9iCm3rkirwGcGJ31ngg.md"
+                    "filename": "zh-CN/guides/crm/clients/crm-kehuchi.md"
                   },
                   {
                     "depth": 4,
@@ -1243,13 +840,16 @@
                     "node_token": "EwYBwfhkJiOBI1k56ylcD2DanqB",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511719",
-                    "obj_edit_time": "1698982020",
+                    "obj_edit_time": "1699005969",
                     "obj_token": "KCntdTJ7IoRasjxwR7WcrX7dnGd",
                     "children": [],
                     "has_child": false,
-                    "slug": "zh-CN/guides/crm/clients/EwYBwfhkJiOBI1k56ylcD2DanqB",
-                    "position": 4,
-                    "filename": "zh-CN/guides/crm/clients/EwYBwfhkJiOBI1k56ylcD2DanqB.md"
+                    "meta": {
+                      "slug": "crm-todaydone"
+                    },
+                    "slug": "zh-CN/guides/crm/clients/crm-todaydone",
+                    "position": 3,
+                    "filename": "zh-CN/guides/crm/clients/crm-todaydone.md"
                   },
                   {
                     "depth": 4,
@@ -1257,13 +857,16 @@
                     "node_token": "Heqjw9lwgi8ATikba54cEe5Enee",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511737",
-                    "obj_edit_time": "1698982023",
+                    "obj_edit_time": "1699006283",
                     "obj_token": "Gq4ndTKksoFXqIxGe67cowTHndc",
                     "children": [],
                     "has_child": false,
-                    "slug": "zh-CN/guides/crm/clients/Heqjw9lwgi8ATikba54cEe5Enee",
-                    "position": 5,
-                    "filename": "zh-CN/guides/crm/clients/Heqjw9lwgi8ATikba54cEe5Enee.md"
+                    "meta": {
+                      "slug": "crm-khujingli"
+                    },
+                    "slug": "zh-CN/guides/crm/clients/crm-khujingli",
+                    "position": 4,
+                    "filename": "zh-CN/guides/crm/clients/crm-khujingli.md"
                   }
                 ],
                 "has_child": true,
@@ -1703,7 +1306,7 @@
         "children": [
           {
             "depth": 2,
-            "title": "业务场景1",
+            "title": "业务场景 1",
             "node_token": "KyCEwH6KXide7wkP3mXcRFN9nXb",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1697013312",
@@ -1717,7 +1320,7 @@
           },
           {
             "depth": 2,
-            "title": "业务场景2",
+            "title": "业务场景 2",
             "node_token": "ZdfIws61ziGjJCkdHhkcwQ29ndf",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1697013370",

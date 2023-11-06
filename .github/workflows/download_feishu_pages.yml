@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - feishu/*
+  pull_request:
+    branches:
+      - dev
 jobs:
   download_feishu_pages:
     name: Download feishu pages
@@ -33,7 +36,7 @@ jobs:
       - name: Copy feishu pages to repo
         run: |
           bun install
-          bun run setup:vitepress
+          bun run setup
 
       - name: Commit feishu pages to repo
         run: |

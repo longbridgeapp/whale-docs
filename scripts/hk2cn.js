@@ -7,9 +7,9 @@ const glob = require("glob");
 const OpenCC = require("opencc-js");
 const converter = OpenCC.Converter({ from: "hk", to: "cn" });
 
-// 翻译 MD 文件
 const convertMDHK2CN = () => {
   console.log("--> Convert feishu pages markdown file to zh-CN");
+  // before covert should copy full /zh-HK dir to /zh-CN
   let files = glob.sync(path.resolve(__dirname, "../locales/zh-CN/**/*.md"));
   files.forEach((file) => {
     let content = fs.readFileSync(file, "utf8");
