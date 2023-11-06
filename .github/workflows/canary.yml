@@ -6,10 +6,6 @@ on:
   pull_request:
     branches:
       - canary
-  pull_request_target:
-    branches:
-      - dev
-    types: [opened]
 jobs:
   deploy_canary:
     name: vitpress build
