@@ -89,13 +89,18 @@ ol {
 
 /* overwrite vitepress components styles*/
 .VPNavBarTitle {
+  .title {
+    font-size: 18px;
+  }
   .VPImage {
-    margin-right: 24px;
+    margin-right: 16px;
   }
 }
 
-.level-0 {
-  .items {
-    padding-left: 16px;
+.VPSidebarItem.level-0 {
+  .VPLink {
+    h2 {
+      font-size: unset;
+    }
   }
 }
