@@ -97,7 +97,14 @@ export default defineConfig({
       link: "/zh-CN/docs",
       themeConfig: {
         siteTitle: "帮助中心",
-        nav: [{ text: "Whale 首页", link: "https://longbridgewhale.com" }],
+        nav: [
+          { text: "首页", link: "/" },
+          { text: "关于我们", link: "/zh-CN/about" },
+          {
+            text: "LongPort OpenAPI",
+            link: "https://open.longportapp.com",
+          },
+        ],
         editLink: {
           pattern: editLinkPattern,
           text: "编辑此页",
@@ -117,7 +124,14 @@ export default defineConfig({
       link: "/zh-HK/docs",
       themeConfig: {
         siteTitle: "幫助中心",
-        nav: [{ text: "Whale 首頁", link: "https://longbridgewhale.com" }],
+        nav: [
+          { text: "首頁", link: "/" },
+          { text: "關於我們", link: "/zh-HK/about" },
+          {
+            text: "LongPort OpenAPI",
+            link: "https://open.longportapp.com/zh-HK",
+          },
+        ],
         editLink: {
           pattern: editLinkPattern,
           text: "编辑此页",
