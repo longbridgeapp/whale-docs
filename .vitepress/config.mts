@@ -98,8 +98,8 @@ export default defineConfig({
       themeConfig: {
         siteTitle: "帮助中心",
         nav: [
-          { text: "首页", link: "/" },
-          { text: "关于我们", link: "/zh-CN/about" },
+          { text: "首页", link: "/", target: "_self" },
+          { text: "关于我们", link: "/zh-CN/about", target: "_self" },
           {
             text: "LongPort OpenAPI",
             link: "https://open.longportapp.com",
@@ -125,8 +125,8 @@ export default defineConfig({
       themeConfig: {
         siteTitle: "幫助中心",
         nav: [
-          { text: "首頁", link: "/" },
-          { text: "關於我們", link: "/zh-HK/about" },
+          { text: "首頁", link: "/", target: "_self" },
+          { text: "關於我們", link: "/zh-HK/about", target: "_self" },
           {
             text: "LongPort OpenAPI",
             link: "https://open.longportapp.com/zh-HK",
