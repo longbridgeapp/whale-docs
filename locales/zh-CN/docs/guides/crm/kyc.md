@@ -1,6 +1,6 @@
 ---
 title: KYC
-slug: zh-HK/guides/crm/kyc
+slug: zh-HK/docs/guides/crm/kyc
 sidebar_position: 2
 ---
 

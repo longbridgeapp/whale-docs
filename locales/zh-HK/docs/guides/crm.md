@@ -1,18 +1,11 @@
 ---
 title: 客户管理系统（CRM)
-slug: zh-HK/guides/crm
+slug: zh-HK/docs/guides/crm
 sidebar_position: 0
 ---
 
 
 # 客户管理系统（CRM)
-
-<div class="callout callout-bg-2 callout-border-2">
-<p> 此頁面根據 整個系統 重點功能 或 銷售術語 來編寫文檔內容</p>
-<ol>
-<li>若可以則搭配一個 全局的 系統流程圖來說明 主要業務走向<br>********  此區域 將會 刪除 *************</li>
-</ol>
-</div>
 
 Whale CRM 客戶管理系統是以全新整合角度，方便劵商客務團隊來管理服務劵商客戶，包括：
 

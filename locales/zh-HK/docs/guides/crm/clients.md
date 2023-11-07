@@ -1,6 +1,6 @@
 ---
 title: CRM
-slug: zh-HK/guides/crm/clients
+slug: zh-HK/docs/guides/crm/clients
 sidebar_position: 1
 ---
 

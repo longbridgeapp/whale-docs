@@ -1,6 +1,6 @@
 ---
 title: 產品更新日誌
-slug: zh-HK/release-notes
+slug: zh-HK/docs/release-notes
 sidebar_position: 3
 ---
 

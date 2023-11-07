@@ -1,21 +1,21 @@
 ---
 title: 全新录入新开户申请
-slug: zh-HK/guides/crm/kyc/open-account/open-new-account
+slug: zh-HK/docs/guides/crm/kyc/open-account/open-new-account
 sidebar_position: 0
 ---
 
 
 # 全新录入新开户申请
 
-### 适用场景
+## 适用场景
 
 本场景是全新录入一笔客户开户资料（全新客户使用）
 
-### 前置条件
+## 前置条件
 
 无
 
-# 操作说明
+## 操作说明
 
  菜单入口：KYC > 开户资料 Tab >  添加开户申请 功能键
 
@@ -25,17 +25,17 @@ sidebar_position: 0
 
 <img src="./assets/RHLQbOznToSf2txnBtxcgCBynUd.png" src-width="3288" src-height="1298" align="center"/>
 
-## 第一步：选择开户类型
+### 第一步：选择开户类型
 
 开户类型分为 3 个步骤：选择客户/新建客户、选择客户类型、选择客户国籍
 
-### 选择客户/新建客户 
+#### 选择客户/新建客户 
 
-### 选择客户类型，可选择：个人客户 /联名客户 /企业客户
+#### 选择客户类型，可选择：个人客户 /联名客户 /企业客户
 
-### 选择客户国籍，系统支持 200 + 国籍
+#### 选择客户国籍，系统支持 200 + 国籍
 
-## **第二步**：上传身份证件
+### **第二步**：上传身份证件
 
 分为 3 种类型客户：
 
@@ -52,7 +52,7 @@ sidebar_position: 0
     3. 如用户选择否，需上传其他身份证
     <img src="./assets/WP0IbjpQgouXrSxVinWcHDkbnjf.png" src-width="3252" src-height="1822" align="center"/>
 
-## **第三步**：上传地址证明
+### **第三步**：上传地址证明
 
 分为 2 种类型客户：
 
@@ -65,7 +65,7 @@ sidebar_position: 0
     1. 需上传居住地址证明
     <img src="./assets/CKOTbY3xyo6lfhx2QSLc3EYCnSb.png" src-width="3252" src-height="1604" align="center"/>
 
-## **第四步**：填写各类基础信息
+### **第四步**：填写各类基础信息
 
 主要是包含 职业资讯、纳税资讯、电子邮箱等信息。其中，
 
@@ -76,15 +76,15 @@ sidebar_position: 0
 - 填写联系手机号，多个客户可使用相同的联系手机号
     <img src="./assets/Hv6rbUc2Xo5V1MxauYycRxbLnfd.png" src-width="3266" src-height="1430" align="center"/>
 
-## **第五步**：填写资产投资信息
+### **第五步**：填写资产投资信息
 
 <img src="./assets/XScJb6HdyoYbCPxj5H6cvKHAnre.png" src-width="3258" src-height="1804" align="center"/>
 
-## **第六步**：合规资讯确认
+### **第六步**：合规资讯确认
 
 <img src="./assets/NIclbivdpoSTIWxIxqKcwi3Anic.png" src-width="3254" src-height="1806" align="center"/>
 
-## **第七步**：确认资讯
+### **第七步**：确认资讯
 
 系统会按：身份证件/个人基础信息/职业信息/资产投资信息/合规信息确认/关联账户信息 等区块排列，将客户资料展示出来，方便按确认填写讯息
 
@@ -94,7 +94,7 @@ sidebar_position: 0
 
 <img src="./assets/FxMibYc5Fo8wLmxB6QjcmvfMnJe.png" src-width="3162" src-height="1142" align="center"/>
 
-## **第八步**：选择帐户类型、上传开户相关文件、其他配置资讯
+### **第八步**：选择帐户类型、上传开户相关文件、其他配置资讯
 
 1. 上传开户文件及自定义文件： 
     1. 基础文件为系统生成的开户相关文件，后台填写的资讯自动填写；

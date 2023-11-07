@@ -1,6 +1,6 @@
 ---
 title: 开户资料
-slug: zh-HK/guides/crm/kyc/open-account
+slug: zh-HK/docs/guides/crm/kyc/open-account
 sidebar_position: 1
 ---
 
@@ -48,13 +48,13 @@ sidebar_position: 1
 
 ### 场景：多开通证劵帐户申请
 
-[多开证劵帐户申请](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
+[多开证劵帐户申请](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/QZfIweqitiiPf8kQ6CTcDtqhn9G)
 
 ### 场景：多开通证劵子帐户申请
 
-[多开证劵子帐户申请](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
+[多开证劵子帐户申请](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
 
 ### 场景：批量修改证劵帐户
 
-[批量修改证劵帐户](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
+[批量修改证劵帐户](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/Ofpowlv0xi5ecBk3s3cci46YnJb)
 

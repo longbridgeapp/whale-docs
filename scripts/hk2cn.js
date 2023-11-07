@@ -1,97 +1,66 @@
 // Iter *.md in docs/zh-CN/**/*.md and use OpenCC to convert to docs/zh-HK/**/*.md
 // Usage: node scripts/cn2hk.js
 
-const fs = require('fs');
-const path = require('path');
-const glob = require('glob');
-const OpenCC = require('opencc-js');
+const fs = require("fs");
+const path = require("path");
+const glob = require("glob");
+const OpenCC = require("opencc-js");
+const converter = OpenCC.Converter({ from: "hk", to: "cn" });
 
-const converter = OpenCC.Converter({ from: 'hk', to: 'cn' });
-
-function isFile(filePath) {
-    try {
-        const stats = fs.statSync(filePath);
-        return stats.isFile();
-    } catch (err) {
-        // An error occurred, which likely means the path doesn't exist or is not accessible.
-        return false;
-    }
-}
-/**
- * Iterator all .md file in docs/zh-CN/ and convert to docs/zh-HK/
- */
-const convert = () => {
-  // if(!fs.existsSync(path.resolve(__dirname,'../docs/zh-HK.md'))) return
-  // let content = fs.readFileSync(path.resolve(__dirname,'../docs/zh-HK.md'), 'utf8');
-  // let newContent = converter(content);
-  // fs.writeFileSync(path.resolve(__dirname,'../docs/zh-CN.md'), newContent);
-
-  // 翻译 CN to HK
-  let files = glob.sync(path.resolve(__dirname,'../locales/zh-HK/**/*.md'));
+const convertMDHK2CN = () => {
+  console.log("--> Convert feishu pages markdown file to zh-CN");
+  // before covert should copy full /zh-HK dir to /zh-CN
+  let files = glob.sync(path.resolve(__dirname, "../locales/zh-CN/**/*.md"));
   files.forEach((file) => {
-    let content = fs.readFileSync(file, 'utf8');
-    let newContent = converter(content);
-    let newFile = file.replace('zh-HK', 'zh-CN');
-    let folder = path.dirname(newFile);
-    fs.mkdirSync(folder, { recursive: true });
-    fs.writeFileSync(newFile, newContent);
+    let content = fs.readFileSync(file, "utf8");
+    fs.writeFileSync(file, converter(content));
   });
-
-  // 复制非 md 文件
-  let assetsFiles = glob.sync(path.join(__dirname, '..', 'locales', 'zh-HK', '**', '!(*.md)'));
-  assetsFiles.forEach((file) => {
-    if(isFile(file)){
-      console.log('copy file:', file)
-      const destinationDirectory = file.replace('zh-HK', 'zh-CN').replace(path.basename(file), '');
-      fs.mkdirSync(destinationDirectory, { recursive: true });
-      fs.copyFileSync(file, file.replace('zh-HK', 'zh-CN'));
-    }
-  })
 };
 
-const deepConvertDocIntoZhCN = (doc) => {
+const convertDocsContentHK2CN = (doc) => {
   let newDoc = Object.assign({}, doc);
-
   newDoc.title = converter(newDoc.title);
-  newDoc.slug = newDoc.slug.replace('zh-HK', 'zh-CN');
-  newDoc.filename = newDoc.filename.replace('zh-HK', 'zh-CN');
+  newDoc.slug = newDoc.slug.replace("zh-HK", "zh-CN");
+  if (newDoc.meta) {
+    newDoc.meta.slug = newDoc.meta.slug.replace("zh-HK", "zh-CN");
+  }
+  newDoc.filename = newDoc.filename.replace("zh-HK", "zh-CN");
 
   if (newDoc.children) {
     newDoc.children = newDoc.children.map((child) => {
-      return deepConvertDocIntoZhCN(child);
+      return convertDocsContentHK2CN(child);
     });
   }
 
   return newDoc;
 };
 
-/**
- * Parse docs.json and duplicate zh-HK to zh-CN by use OpenCC to convert
- */
+// 翻译 docs.json
 const convertDocsJSON = () => {
-  let docs = require('../locales/docs.json');
-  let newDocs = [];
-  let found = false;
+  console.log("--> Convert feishu pages docs data to zh-CN");
+  let docs = require("../feishu-pages/docs.json");
+  let newDocs = docs;
 
-  docs.forEach((doc) => {
-    doc.slug = doc.slug.replace('zh-HK', 'zh-CN');
-    if (doc.slug === 'zh-HK' && !found) {
-      newDocs.push(doc);
-      let newDoc = Object.assign({}, doc);
+  const HKDocs = docs.find((doc) => doc.slug === "zh-HK");
+  if (HKDocs) {
+    const { children: hkChildren, ...resetHKDocs } = HKDocs;
 
-      newDoc.title = '繁体中文';
+    const cnDocsChildren = [];
+    Array.from(Array.from(hkChildren)).forEach((child) => {
+      cnDocsChildren.push(convertDocsContentHK2CN(child));
+    });
 
-      newDoc = deepConvertDocIntoZhCN(newDoc);
+    const cnDocsReset = convertDocsContentHK2CN(resetHKDocs);
+    const cnDocs = {
+      ...cnDocsReset,
+      children: cnDocsChildren,
+      title: "__简体中文__"
+    };
 
-      newDocs.push(newDoc);
-      found = true;
-    } else {
-      newDocs.push(doc);
-    }
-  });
-
-  fs.writeFileSync('locales/docs.json', JSON.stringify(newDocs, null, 2));
+    newDocs.push(cnDocs);
+  }
+  fs.writeFileSync("locales/docs.json", JSON.stringify(newDocs, null, 2));
 };
 
-convert();
+convertMDHK2CN();
 convertDocsJSON();

@@ -1,21 +1,21 @@
 ---
 title: 全新錄入新開戶申請
-slug: zh-HK/guides/crm/kyc/open-account/open-new-account
+slug: zh-HK/docs/guides/crm/kyc/open-account/open-new-account
 sidebar_position: 0
 ---
 
 
 # 全新錄入新開戶申請
 
-### 適用場景
+## 適用場景
 
 本場景是全新錄入一筆客戶開戶資料（全新客戶使用）
 
-### 前置条件
+## 前置条件
 
 无
 
-# 操作說明
+## 操作說明
 
  菜單入口：KYC > 開戶資料 Tab >  添加開戶申請 功能鍵
 
@@ -25,17 +25,17 @@ sidebar_position: 0
 
 <img src="./assets/RHLQbOznToSf2txnBtxcgCBynUd.png" src-width="3288" src-height="1298" align="center"/>
 
-## 第一步：選擇開戶類型
+### 第一步：選擇開戶類型
 
 開戶類型分為 3 個步驟：選擇客戶/新建客戶、選擇客戶類型、選擇客戶國籍
 
-### 選擇客戶/新建客戶 
+#### 選擇客戶/新建客戶 
 
-### 選擇客戶類型，可選擇：個人客戶 /聯名客戶 /企業客戶
+#### 選擇客戶類型，可選擇：個人客戶 /聯名客戶 /企業客戶
 
-### 選擇客戶國籍，系統支持 200 + 國籍
+#### 選擇客戶國籍，系統支持 200 + 國籍
 
-## **第二步**：上傳身份證件
+### **第二步**：上傳身份證件
 
 分為 3 種類型客戶：
 
@@ -52,7 +52,7 @@ sidebar_position: 0
     3. 如用戶選擇否，需上傳其他身份證
     <img src="./assets/WP0IbjpQgouXrSxVinWcHDkbnjf.png" src-width="3252" src-height="1822" align="center"/>
 
-## **第三步**：上傳地址證明
+### **第三步**：上傳地址證明
 
 分為 2 種類型客戶：
 
@@ -65,7 +65,7 @@ sidebar_position: 0
     1. 需上傳居住地址證明
     <img src="./assets/CKOTbY3xyo6lfhx2QSLc3EYCnSb.png" src-width="3252" src-height="1604" align="center"/>
 
-## **第四步**：填寫各類基礎信息
+### **第四步**：填寫各類基礎信息
 
 主要是包含 職業資訊、納稅資訊、電子郵箱等信息。其中，
 
@@ -76,15 +76,15 @@ sidebar_position: 0
 - 填寫聯繫手機號，多個客戶可使用相同的聯繫手機號
     <img src="./assets/Hv6rbUc2Xo5V1MxauYycRxbLnfd.png" src-width="3266" src-height="1430" align="center"/>
 
-## **第五步**：填寫資產投資信息
+### **第五步**：填寫資產投資信息
 
 <img src="./assets/XScJb6HdyoYbCPxj5H6cvKHAnre.png" src-width="3258" src-height="1804" align="center"/>
 
-## **第六步**：合規資訊確認
+### **第六步**：合規資訊確認
 
 <img src="./assets/NIclbivdpoSTIWxIxqKcwi3Anic.png" src-width="3254" src-height="1806" align="center"/>
 
-## **第七步**：確認資訊
+### **第七步**：確認資訊
 
 系統會按：身份證件/個人基礎信息/職業信息/資產投資信息/合規信息確認/關聯賬戶信息 等區塊排列，將客戶資料展示出來，方便按確認填寫訊息
 
@@ -94,7 +94,7 @@ sidebar_position: 0
 
 <img src="./assets/FxMibYc5Fo8wLmxB6QjcmvfMnJe.png" src-width="3162" src-height="1142" align="center"/>
 
-## **第八步**：選擇帳戶類型、上傳開戶相關文件、其他配置資訊
+### **第八步**：選擇帳戶類型、上傳開戶相關文件、其他配置資訊
 
 1. 上傳開戶文件及自定義文件： 
     1. 基礎文件為系統生成的開戶相關文件，後台填寫的資訊自動填寫；

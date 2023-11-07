@@ -1,6 +1,6 @@
 ---
 title: 開戶資料
-slug: zh-HK/guides/crm/kyc/open-account
+slug: zh-HK/docs/guides/crm/kyc/open-account
 sidebar_position: 1
 ---
 
@@ -48,13 +48,13 @@ sidebar_position: 1
 
 ### 場景：多開通證劵帳戶申請
 
-[多開證劵帳戶申請](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
+[多開證劵帳戶申請](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/QZfIweqitiiPf8kQ6CTcDtqhn9G)
 
 ### 場景：多開通證劵子帳戶申請
 
-[多開證劵子帳戶申請](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
+[多開證劵子帳戶申請](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
 
 ### 場景：批量修改證劵帳戶
 
-[批量修改證劵帳戶](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/xxx)
+[批量修改證劵帳戶](https://longbridge.feishu.cn/wiki//zh-HK/guides/crm/kyc/open-account/Ofpowlv0xi5ecBk3s3cci46YnJb)
 

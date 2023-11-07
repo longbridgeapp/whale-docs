@@ -1,6 +1,6 @@
 ---
 title: WTT
-slug: zh-HK/release-notes/wtt
+slug: zh-HK/docs/release-notes/wtt
 sidebar_position: 1
 ---
 

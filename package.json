@@ -1,21 +1,16 @@
 {
   "scripts": {
-    "cp_feishu_pages_to_vitepress": "./scripts/cp_feishu_to_vitepress.sh",
-    "export": "./scripts/export",
-    "autocort": "bun run autocorrect --fix locales/",
-    "translate": "node ./scripts/hk2cn.js",
-    "build": "vitepress build",
+    "setup": "./scripts/setup.sh",
+    "export": "bun run feishu-pages && bun run setup",
     "dev": "vitepress dev",
-    "clean:vitepress": "rm -rf .vitepress/dist && rm -rf docs/*",
-    "clean:export": "rm -rf dist/*",
-    "clean": "bun run clean:export && bun run clean:vitepress",
-    "local:build": "bun run export && bun run translate && bun run build",
-    "setup:vitepress": "bun run cp_feishu_pages_to_vitepress && bun run autocort && bun run translate"
+    "build": "vitepress build",
+    "clean": "rm -rf .vitepress/cache && rm -rf .vitepress/dist && rm -rf feishu-pages/*"
   },
   "dependencies": {
     "autocorrect-node": "^2.8.4",
     "feishu-pages": "^0.5.4",
     "glob": "^10.3.10",
+    "medium-zoom": "^1.0.8",
     "opencc-js": "^1.0.5",
     "sass": "^1.69.3",
     "vitepress": "^1.0.0-rc.22"
