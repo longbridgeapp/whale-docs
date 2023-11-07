@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: #5622cf;
+  --vp-c-brand-2: #7350ff;
+}
+
 ul {
   ul {
     list-style-type: circle;
@@ -96,11 +102,20 @@ ol {
     margin-right: 16px;
   }
 }
-
+.VPSidebar {
+  border-right: 1px solid var(--vp-c-divider);
+}
 .VPSidebarItem.level-0 {
   .VPLink {
     h2 {
       font-size: unset;
+    }
+  }
+}
+.VPNavBarMenu {
+  .VPLink {
+    &::after {
+      display: hidden;
     }
   }
 }
