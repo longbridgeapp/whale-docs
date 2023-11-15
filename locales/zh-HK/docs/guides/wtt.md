@@ -1,6 +1,6 @@
 ---
 title: 證券交易前台（WTT）
-slug: zh-HK/docs/guides/wtt
+slug: wtt
 sidebar_position: 3
 ---
 

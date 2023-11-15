@@ -1,6 +1,6 @@
 ---
 title: 常見問題
-slug: zh-HK/docs/faq
+slug: faq
 sidebar_position: 2
 ---
 

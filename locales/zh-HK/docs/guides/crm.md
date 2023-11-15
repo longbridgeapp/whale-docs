@@ -1,6 +1,6 @@
 ---
 title: 客户管理系统（CRM)
-slug: zh-HK/docs/guides/crm
+slug: crm
 sidebar_position: 0
 ---
 
@@ -26,5 +26,5 @@ Whale CRM 系統能夠解決以下問題：
 
 Whale CRM 的整体業務流如下图所示：
 
-<img src="./assets/KB4Hb1zUVosHJOxz6k8cFv0dnuf.png" src-width="926" src-height="499" align="center"/>
+<img src="./assets/KB4Hb1zUVosHJOxz6k8cFv0dnuf.png"/>
 

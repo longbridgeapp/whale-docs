@@ -1,6 +1,6 @@
 ---
 title: 客户池
-slug: zh-HK/docs/guides/crm/clients/crm-kehuchi
+slug: crm-kehuchi
 sidebar_position: 2
 ---
 
@@ -21,13 +21,13 @@ sidebar_position: 2
 
 本作業支持針對不同的用戶（客戶），進行【分配客經】與【批量備註】與【導出】的操作
 
-<img src="./assets/R8fwbnIZQo7MivxXO1ccMe59nBd.png" src-width="2846" src-height="1552" align="center"/>
+<img src="./assets/R8fwbnIZQo7MivxXO1ccMe59nBd.png"/>
 
 點選【分配客經】時，填入分配相關客戶經理與業績歸屬等
 
-<img src="./assets/QBoBbbWfHoZ9TxxOR5McC3RdnLh.png" src-width="2356" src-height="1472" align="center"/>
+<img src="./assets/QBoBbbWfHoZ9TxxOR5McC3RdnLh.png"/>
 
 同時也可點選【批量備註】添加相關備註說明
 
-<img src="./assets/I6hrbayw5oenKcxeqSkcEGJbnjc.png" src-width="2334" src-height="1454" align="center"/>
+<img src="./assets/I6hrbayw5oenKcxeqSkcEGJbnjc.png"/>
 

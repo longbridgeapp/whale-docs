@@ -1,6 +1,6 @@
 ---
 title: 產品使用指南
-slug: zh-HK/docs/guides
+slug: guides
 sidebar_position: 0
 ---
 

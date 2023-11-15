@@ -1,6 +1,6 @@
 ---
 title: KYC
-slug: zh-HK/docs/guides/crm/kyc
+slug: kyc
 sidebar_position: 2
 ---
 
@@ -11,9 +11,9 @@ sidebar_position: 2
 
 目前系统的开户中 KYC 主要流程节点如下：
 
-<img src="./assets/RrHMbbQFroRCzzxMPmRcr15FnEe.png" src-width="1836" src-height="536" align="center"/>
+<img src="./assets/RrHMbbQFroRCzzxMPmRcr15FnEe.png"/>
 
 细部流程如下：
 
-<img src="./assets/InrXbdXTto9zDVxKipmcIwR2nHd.png" src-width="1225" src-height="461" align="center"/>
+<img src="./assets/InrXbdXTto9zDVxKipmcIwR2nHd.png"/>
 

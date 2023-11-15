@@ -1,6 +1,6 @@
 ---
 title: 看板
-slug: zh-HK/docs/guides/crm/clients/crm-kanban
+slug: crm-kanban
 sidebar_position: 1
 ---
 
@@ -21,17 +21,17 @@ sidebar_position: 1
 
 以 Dash-board 的方式展現成為有效客戶前的幾個重要節點匯總數據，如注冊、待開戶、待入金、已入金
 
-<img src="./assets/JIv8bUfeyoOY4wxowaAcMNv5nMg.png" src-width="2860" src-height="1568" align="center"/>
+<img src="./assets/JIv8bUfeyoOY4wxowaAcMNv5nMg.png"/>
 
 同時在切換節點數據時，中間區域也會同步展示該節點的用戶（客戶）表列記錄
 
-<img src="./assets/GpAhbjznPoHbElxbs2AcoEqOnJd.png" src-width="2336" src-height="1448" align="center"/>
+<img src="./assets/GpAhbjznPoHbElxbs2AcoEqOnJd.png"/>
 
 點選不同表列記錄時，右側卡式訊息也會同步變更展示
 
-<img src="./assets/B8xwboBqnob60RxFLWdczVLZnoh.png" src-width="2334" src-height="1434" align="center"/>
+<img src="./assets/B8xwboBqnob60RxFLWdczVLZnoh.png"/>
 
 有需要時也可在用戶（客戶）Tab 頁簽上，錄入【跟進記錄】與查看【資產/交易】相關
 
-<img src="./assets/Ibrpb3oKGo2wUSxD1IfcRvotndz.png" src-width="2320" src-height="1424" align="center"/>
+<img src="./assets/Ibrpb3oKGo2wUSxD1IfcRvotndz.png"/>
 

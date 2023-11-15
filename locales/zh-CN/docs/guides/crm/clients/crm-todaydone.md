@@ -1,6 +1,6 @@
 ---
 title: 今日完成
-slug: zh-HK/docs/guides/crm/clients/crm-todaydone
+slug: crm-todaydone
 sidebar_position: 3
 ---
 
@@ -21,17 +21,17 @@ sidebar_position: 3
 
 主要展示客户进展、每日跟进、我的日报三个维度的信息。
 
-<img src="./assets/VwTCbpBdgofbp0xL7nJcP1hBnNT.png" src-width="2856" src-height="1554" align="center"/>
+<img src="./assets/VwTCbpBdgofbp0xL7nJcP1hBnNT.png"/>
 
 关于客户进展，提供多种维度图型对比（开户数/入金数/待开户跟进数/待入金跟进数/TMT 注册跟进数/已入金跟进数）
 
-<img src="./assets/GWZcbaqtKoSFalxyMKIcVJnbnZg.png" src-width="2322" src-height="1438" align="center"/>
+<img src="./assets/GWZcbaqtKoSFalxyMKIcVJnbnZg.png"/>
 
 每日跟进，支持在作业中间区域根据筛选条件查询出需要跟进的用户（客户）记录
 
-<img src="./assets/Rs5Xb139oodsV6xbVptce70jnFd.png" src-width="2322" src-height="1442" align="center"/>
+<img src="./assets/Rs5Xb139oodsV6xbVptce70jnFd.png"/>
 
 右上角区域也提供日报记录的功能，方便客务人员记录日报摘要
 
-<img src="./assets/CR5abixOyoXiUCxWcG7ckw7In9c.png" src-width="2322" src-height="1412" align="center"/>
+<img src="./assets/CR5abixOyoXiUCxWcG7ckw7In9c.png"/>
 
