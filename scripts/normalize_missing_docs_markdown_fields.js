@@ -1,7 +1,6 @@
 // 删除掉 docs.json 文件中未出现的 markdown 文件
 import path from "path";
 import fs from "fs";
-import { exec } from "child_process";
 import { glob } from "glob";
 import { removeMDFile } from "./remove_hide_file";
 

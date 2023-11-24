@@ -21,7 +21,7 @@ const convertDocsContentHK2CN = (doc) => {
   let newDoc = Object.assign({}, doc);
   newDoc.title = converter(newDoc.title);
   newDoc.slug = newDoc.slug.replace("zh-HK", "zh-CN");
-  if (newDoc.meta) {
+  if (newDoc.meta?.slug) {
     newDoc.meta.slug = newDoc.meta.slug.replace("zh-HK", "zh-CN");
   }
   newDoc.filename = newDoc.filename.replace("zh-HK", "zh-CN");
