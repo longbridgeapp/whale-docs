@@ -15,19 +15,19 @@ Whale 提供两种 全局搜索 Tab 功能：  **搜索作业功能 **与 **搜�
 
 ### 全局功能搜索
 
-作业功能搜索 Tab 功能：可以输入 相关关键字 来检索 作业功能，方便快速切换到该作业
+作业功能搜索 Tab 功能： 可以输入 相关关键字 来检索 作业功能 ， 方便快速切换到该作业
 
 <img src="/assets/Kn3CbXcqPoODAnxGg0ZctF1LnKd.png"/>
 
 ### 全局客户搜索
 
-全局客户搜索功能：透过 Windows: `Ctrl + T` / macOS:  `Control + T` 也提供 全局客户搜索 Tab 功能：
+全局客户搜索功能：  透过 Windows: `Ctrl + T` / macOS:  `Control + T` 也提供 全局客户搜索 Tab 功能：
 
 可根据不同栏位 搜索相关客户资料
 
 <img src="/assets/HJr2bxOvToO50lxddURcoSqPnPd.png"/>
 
-搜索到相关客户后，会出现该客户的简要基本资料（帐户通讯资料），其中搜索支持：
+搜索到相关客户后， 会出现该客户的简要基本资料（帐户通讯资料），其中搜索支持：
 
 客户搜索支持姓名、证券帐号模糊查询
 

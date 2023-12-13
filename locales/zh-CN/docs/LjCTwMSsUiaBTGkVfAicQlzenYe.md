@@ -19,7 +19,7 @@ sidebar_position: 2
 
 菜单入口：资产账户&gt;帐户&gt; 帐户明细
 
-选择需要查询的资产类型，分现金、股票、基金、期权、债券、OTC 其他、虚拟资产
+选择需要查询的资产类型，分现金、股票、基金、期权、债券、OTC其他、虚拟资产
 
 <img src="/assets/C2Ewb6qqcoa4Dexfvp8cpkfEnYb.png"/>
 

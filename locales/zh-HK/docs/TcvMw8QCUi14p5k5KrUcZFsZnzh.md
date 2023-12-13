@@ -16,7 +16,7 @@ sidebar_position: 2
 - 註銷客戶或賬戶
 - 解凍客戶或賬戶
 - 解鎖或重置密碼
-- 修改登錄 App 或交易通道
+- 修改登錄App或交易通道
 - 客戶反饋
 
 ## 前置条件
@@ -31,7 +31,7 @@ sidebar_position: 2
 
 <img src="/assets/YQCqbGyIQooFaIx3RBPcuG0Rndc.png"/>
 
-也可以點選【新建工單】，建一筆新的工單信息
+也可以點選【新建工單】， 建一筆新的工單信息
 
 <img src="/assets/M0f7b6rfIoeHSuxTNnocNH8An8e.png"/>
 

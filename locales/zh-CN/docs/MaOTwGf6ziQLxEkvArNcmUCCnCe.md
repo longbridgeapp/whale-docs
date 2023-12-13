@@ -27,7 +27,7 @@ sidebar_position: 1
 
 <img src="/assets/IpAebfK9UouXJoxyuMecXaI4nSj.png"/>
 
-可通过列表区域的状态字段关注 文档导入和解析状态，解析成功才算处理完成
+可通过列表区域的状态字段关注 文档导入和解析状态， 解析成功才算处理完成
 
 <img src="/assets/GJ2QblFc0oEwl2xTiCDcJgJcnwc.png"/>
 

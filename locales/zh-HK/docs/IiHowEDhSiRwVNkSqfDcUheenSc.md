@@ -47,8 +47,8 @@ Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些�
 
 |   |   |   |
 |---|---|---|
-|**欄位輸入提示**|一些欄位會有特別的文字輸入提示，方便操作指引|<img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png"/>|
-|**日期欄位**|點選日期框就會出現日曆選項，<br/>方便點擊選擇|<img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png"/>|
+|**欄位輸入提示**|一些欄位會有特別的文字輸入提示， 方便操作指引|<img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png"/>|
+|**日期欄位**|點選日期框就會出現日曆選項 ，<br/>方便點擊選擇|<img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png"/>|
 |**Combox 欄位**|點擊 Combox 的向下箭頭框就會出現 Combox 項目選擇|<div class="grid gap-3 grid-cols-2"><br/><div><br/><img src="/assets/JAbIbIHlsopeb0xDzgKcjBpRnae.png"/><br/></div><br/></div>|
 |**客戶欄位**|系統提供多元欄位可以方便定位查詢對應的客戶|<img src="/assets/Cwx6bhiqsojJ5SxQ4DRcQumtn3e.png"/>|
 |**高級搜索**|在查詢條件區可以點選此來展開或縮展更多查詢條件欄位|<div class="grid gap-3 grid-cols-2"><br/><div><br/><img src="/assets/O6vNbR4r4oi5zcxGwWbce1SbnMb.png"/><br/></div><br/></div>|

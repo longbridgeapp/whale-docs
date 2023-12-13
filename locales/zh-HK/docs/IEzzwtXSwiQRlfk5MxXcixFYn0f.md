@@ -11,7 +11,7 @@ OPERATION-ADMIN（簡稱 OPA）運營系統是 Whale 針對劵商客戶營銷所
 
 <img src="/assets/KmiYbhbDAoAHxXxdPphcQWeLnCg.png"/>
 
-同時整個 OPA 運營系統的核心作業，提供了全鏈路的營銷運營管理，包含下列層級：
+同時整個 OPA 運營系統的核心作業， 提供了全鏈路的營銷運營管理，包含下列層級：
 
      
 

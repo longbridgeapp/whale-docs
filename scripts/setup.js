@@ -49,10 +49,40 @@ function setupAssets() {
     }
   });
 }
+const docsMeta = require("../feishu-pages/docs.json");
+const hkMetadata = docsMeta.find((doc) => doc.meta?.slug === "zh-HK");
+const HomePageSlug = "guides";
+// read feishu-pages/docs.json file find slug equal guides, then copy it to locales/zh-HK/docs/index.md
+// for Nginx directory to index.html
+function setupIndexPage() {
+  // loop first level children find meta.slug = guides
+  const guidesChild = hkMetadata.children.find((doc) => {
+    return doc.meta?.slug === HomePageSlug;
+  });
+  if (guidesChild) {
+    const guidesFilePath = path.resolve(
+      __dirname,
+      `../feishu-pages/docs/${guidesChild.slug}.md`,
+    );
+    const guidesContent = fs.readFileSync(guidesFilePath, "utf-8");
+    const guidesTargetFilePath = path.resolve(
+      __dirname,
+      `../locales/zh-HK/docs/index.md`,
+    );
+    fs.writeFileSync(guidesTargetFilePath, guidesContent);
+    console.log("copy zh-HK index file: ", guidesTargetFilePath);
+
+    const cnContent = converter(guidesContent);
+    const cnFilePath = guidesTargetFilePath.replace("zh-HK", "zh-CN");
+    fs.writeFileSync(cnFilePath, cnContent);
+    console.log("copy zh-CN index file: ", cnFilePath);
+  }
+}
 
 function run() {
   convertHK2CN();
   setupAssets();
+  setupIndexPage();
 }
 
 run();

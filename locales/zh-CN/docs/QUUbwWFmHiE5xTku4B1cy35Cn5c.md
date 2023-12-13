@@ -27,7 +27,7 @@ sidebar_position: 1
 
 <img src="/assets/IG5rbIjM8oBaBoxqvZYcIAtSntC.png"/>
 
-点击【详情】可以进一步查看客户 margin call 详情，并支持对期权操作【平仓】
+点击【详情】可以进一步查看客户margin call详情，并支持对期权操作【平仓】
 
 <img src="/assets/EyqBbTz9ao9FbtxVtQtc3HY2nXf.png"/>
 
@@ -39,7 +39,7 @@ sidebar_position: 1
 
 <img src="/assets/XXFabwcZhoLJcextJ2hcO87lnEg.png"/>
 
-点击【详情】可以进一步查看客户 margin call 详情，并支持对空头股票操作【平仓】
+点击【详情】可以进一步查看客户margin call详情，并支持对空头股票操作【平仓】
 
 <img src="/assets/A5TQbDYIpo2hu2x0oyIcx6zGngb.png"/>
 

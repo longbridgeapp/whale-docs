@@ -9,11 +9,11 @@ sidebar_position: 0
 
 # **首頁區域**
 
-在 CRM 首頁上，增加工作流節點數量統計與提供摘要性的 Dashboard，可以點選進入該作業區，方便快速操作
+在 CRM 首頁上 ，增加工作流節點數量統計與提供摘要性的 Dashboard ，可以點選進入該作業區，方便快速操作
 
 <img src="/assets/XL1Jb476NoHlUlx6Qu3cRKh9nFc.png"/>
 
-系統提供 一段區間的 開戶平均耗時與近期開戶成功統計率作為參考（系統會自動計算）
+系統提供 一段區間的 開戶平均耗時與近期開戶成功統計率作為參考 （系統會自動計算）
 
 <img src="/assets/RJrJbRicso85NVxYpBXcj4fJnEo.png"/>
 

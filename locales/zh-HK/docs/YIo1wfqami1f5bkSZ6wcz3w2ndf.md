@@ -1,11 +1,11 @@
 ---
-title: 場景 - 撤銷處理
+title: 場景-撤銷處理
 slug: xxxxxxxxx
 sidebar_position: 10
 ---
 
 
-# 場景 - 撤銷處理
+# 場景-撤銷處理
 
 ## 適用場景
 
@@ -17,11 +17,11 @@ sidebar_position: 10
 
 執行菜單：公司行動&gt;公司行動管理
 
-針對一些公司行動做完權益執行分配後（狀態：執行成功）、可以進行公司行動的撤銷操作
+針對一些公司行動做完權益執行分配後（狀態： 執行成功）、可以進行公司行動的撤銷操作
 
 <img src="/assets/Ea1xbN90Xokna8x84DycCrvjnrc.png"/>
 
-同時提供兩種撤銷選項操作：僅撤銷 與 撤銷後重新開始
+同時提供兩種撤銷選項操作: 僅撤銷 與 撤銷後重新開始
 
 <img src="/assets/ScXSbsil5or005x6xNYcj4WvnHh.png"/>
 

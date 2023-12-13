@@ -9,7 +9,7 @@ sidebar_position: 7
 
 ## 适用场景
 
-满足 SFC3.10 的要求，支持股票指数设定和压力测试。
+满足SFC3.10的要求，支持股票指数设定和压力测试。
 
 ## 前置条件
 
@@ -51,13 +51,13 @@ sidebar_position: 7
 
 ### 股票级别占比
 
-该菜单展示股票级别占比，并支持模拟 margin call 计算。
+该菜单展示股票级别占比，并支持模拟margin call计算。
 
 股票级别占比列表
 
 <img src="/assets/FOLebDog2opgToxC3llckwDYnfb.png"/>
 
-默认三个指数跌幅为页面计算好的跌幅，也可通过页面的【模拟 Margin Call】功能进行人工修改并触发模拟计算
+默认三个指数跌幅为页面计算好的跌幅，也可通过页面的【模拟Margin Call】功能进行人工修改并触发模拟计算
 
 <img src="/assets/YtqVb44g7ovKMwxGShEc9RuWnv6.png"/>
 

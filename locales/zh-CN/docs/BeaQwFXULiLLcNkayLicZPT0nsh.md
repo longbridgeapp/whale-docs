@@ -33,7 +33,7 @@ sidebar_position: 0
 
 <img src="/assets/Eg8abABWOoqFUQxDwqbcMIW0nNg.png"/>
 
-注意：系统已改成 透过 行情数据源 自动获取 公募基金的净值表（无法租户 自行新增，避免数据更新错误）
+注意： 系统已改成 透过 行情数据源 自动获取 公募基金的净值表（无法租户 自行新增，避免数据更新错误）
 
 #### 基金清算
 
@@ -57,7 +57,7 @@ sidebar_position: 0
 
 <img src="/assets/XZh1bTDlioljIRxue9OcEZvQn6d.png"/>
 
-1. 数据回填之后，**点击核对确认**，进行数据确认，确认提交。若当天没有订单，自动核对确认，自动完成交收。
+1. 数据回填之后，**点击核对确认**，进行数据确认，确认提交。若当天没有订单，自动核对确认， 自动完成交收。
 
 <img src="/assets/DhuabdgfDo8uBrx9yCBctCfSnnh.png"/>
 

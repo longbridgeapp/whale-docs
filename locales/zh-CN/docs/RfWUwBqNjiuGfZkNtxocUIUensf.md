@@ -19,7 +19,7 @@ sidebar_position: 2
 
 菜单入口：KYC&gt;开户审核记录
 
-可查询客户开户审核记录，点选【详情】可以查询开户 KYC 流程审核节点（合规/RO/VC）的审核记录与细部资料
+可查询客户开户审核记录，点选 【详情】可以查询开户 KYC 流程审核节点（合规/RO/VC）的审核记录与细部资料
 
 <img src="/assets/WqUOblxImoVkKqx9ChzcNuMlnLd.png"/>
 

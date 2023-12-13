@@ -9,7 +9,7 @@ sidebar_position: 0
 
 ## 适用场景
 
-导入港股的公司行动 CCNAN05/CCNPT02 文件时，同时会自动创建预告
+导入港股的公司行动 CCNAN05/CCNPT02 文件时,同时会自动创建预告
 
 ## 前置条件
 
@@ -21,7 +21,7 @@ sidebar_position: 0
 
 ### 05 文件
 
-(港股）每日下午 5 点前，导入 CCNAN05 档，系统会按导入资讯，登记日，自动生成公司行动预告，并预设方案
+(港股）每日下午 5 点前，导入 CCNAN05 档  ，系统会按导入资讯，登记日，自动生成公司行动预告,并预设方案
 
 <img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png"/>
 

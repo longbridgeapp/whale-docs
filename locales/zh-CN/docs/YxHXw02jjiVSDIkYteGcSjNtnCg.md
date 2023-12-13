@@ -65,7 +65,7 @@ sidebar_position: 1
 
 <img src="/assets/RmI4bYDYIocBftxKroOcWNSRnpx.png"/>
 
-若批量导出执行后，可以在导出列表作业上查看，也可以将文件夹整个下载操作
+若批量导出执行后，可以在导出列表作业上查看 ，也可以将文件夹整个下载操作
 
 <img src="/assets/VeTIbTrEWoi97xxfj1PcUBFqnsh.png"/>
 

@@ -47,8 +47,8 @@ Whale 针对单元作业 也提供基础体验优化，以下是常见的一些�
 
 |   |   |   |
 |---|---|---|
-|**栏位输入提示**|一些栏位会有特别的文字输入提示，方便操作指引|<img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png"/>|
-|**日期栏位**|点选日期框就会出现日历选项，<br/>方便点击选择|<img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png"/>|
+|**栏位输入提示**|一些栏位会有特别的文字输入提示， 方便操作指引|<img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png"/>|
+|**日期栏位**|点选日期框就会出现日历选项 ，<br/>方便点击选择|<img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png"/>|
 |**Combox 栏位**|点击 Combox 的向下箭头框就会出现 Combox 项目选择|<div class="grid gap-3 grid-cols-2"><br/><div><br/><img src="/assets/JAbIbIHlsopeb0xDzgKcjBpRnae.png"/><br/></div><br/></div>|
 |**客户栏位**|系统提供多元栏位可以方便定位查询对应的客户|<img src="/assets/Cwx6bhiqsojJ5SxQ4DRcQumtn3e.png"/>|
 |**高级搜索**|在查询条件区可以点选此来展开或缩展更多查询条件栏位|<div class="grid gap-3 grid-cols-2"><br/><div><br/><img src="/assets/O6vNbR4r4oi5zcxGwWbce1SbnMb.png"/><br/></div><br/></div>|

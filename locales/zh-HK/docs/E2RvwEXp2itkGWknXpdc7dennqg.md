@@ -37,15 +37,15 @@ sidebar_position: 2
 
 <img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png"/>
 
-其中欄位說明如下：
+其中欄位說明如下:
 
 |   |   |   |
 |---|---|---|
-|期權標的物 |Option Symbol |期權標的物代碼，例如股票代碼發生變更，則期權標的物也對應發生變更 |
-|持倉合約乘數 |Contract Multiplier |期權乘數。新張數=舊張數* Contract Multiplier |
-|新乘數 |New Multiplier |x 行權時每張期權對應正股數 |
+|期權標的物 |Option Symbol |期權標的物代碼， 例如股票代碼發生變更，則期權標的物也對應發生變更 |
+|持倉合約乘數 |Contract Multiplier |期權乘數。 新張數=舊張數* Contract Multiplier |
+|新乘數 |New Multiplier |x行權時每張期權對應正股數 |
 |生效日期 |Effective Date |規則生效日期 |
-|行權價 |Stirke Price |新行權價，通過公式計算 ｛price｝*2 表示 新行權價=舊行權價 *2 ·<br/> 若行情同步 Strike Divisor，則行權價= ｛price｝/Strike Divisor ·|
+|行權價 |Stirke Price |新行權價，通過公式計算 ｛price｝*2 表示 新行權價=舊行權價 *2 ·<br/> 若行情同步Strike Divisor ，則行權價= ｛price｝/Strike Divisor ·|
 
 第三：進行對帳與執行
 

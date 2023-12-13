@@ -23,19 +23,19 @@ sidebar_position: 0
 
 本作業可以處理 HKIDR 機制的 BCAN-CID 檔案上傳（分成 SFTP 自動上傳與手動上傳 兩種模式）
 
-- 注：有關中華通的 BCAN 說明 將在系統開放支持時說明
+- 注： 有關中華通的 BCAN 說明 將在系統開放支持時說明
 
 <img src="/assets/BYcPbsqrgohUafxOwtscJK1enYe.png"/>
 
 其中申報邏輯：上報的數據是 已開通帳戶、有 BCAN 碼且同意授權協議的全量客戶，申報給港交易所後，獲取交易所返回的檔內容，將 BCAN 生效的狀態同步更新；
 
-1. **若是劵商是 ****EP**** 租戶**：本作業是支持自動申報上傳（透過 SFTP 的 SDNet/2 线路）
+1. **若是劵商是 ****EP**** 租戶**： 本作業是支持自動申報上傳（透過 SFTP 的 SDNet/2 线路）
 
 SFTP 申報方式說明如下：
 
 <img src="/assets/FyiOb1BuPoldCzxSpA9cL40NnBf.png"/>
 
-1. **若是劵商是 OB 租戶**：是要手動產生 BCAN-CID 檔後，再人工透過 SFC Web ECP 網站上傳資料
+1. **若是劵商是 OB 租戶**： 是要手動產生 BCAN-CID 檔後，再人工透過 SFC Web ECP 網站上傳資料
 
 SFC Wings 申報方式說明如下：
 

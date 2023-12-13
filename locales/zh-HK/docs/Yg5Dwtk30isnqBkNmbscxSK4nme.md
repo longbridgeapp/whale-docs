@@ -9,7 +9,7 @@ sidebar_position: 0
 
 ## 適用場景
 
-導入港股的公司行動 CCNAN05/CCNPT02 文件時，同時會自動創建預告
+導入港股的公司行動 CCNAN05/CCNPT02 文件時,同時會自動創建預告
 
 ## 前置條件
 
@@ -21,7 +21,7 @@ sidebar_position: 0
 
 ### 05 文件
 
-(港股）每日下午 5 點前，導入 CCNAN05 檔，系統會按導入資訊，登記日，自動生成公司行動預告，並預設方案
+(港股）每日下午 5 點前，導入 CCNAN05 檔  ，系統會按導入資訊，登記日，自動生成公司行動預告,並預設方案
 
 <img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png"/>
 

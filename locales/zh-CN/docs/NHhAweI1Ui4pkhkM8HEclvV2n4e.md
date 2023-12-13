@@ -33,7 +33,7 @@ sidebar_position: 3
 
 <img src="/assets/Oa6fbtzfbo7S7Txzx9ncjWy9nHf.png"/>
 
-如需变更期权类型，可在不同 tab 的【编辑】弹窗进行操作
+如需变更期权类型，可在不同tab的【编辑】弹窗进行操作
 
 <img src="/assets/NUsZbYugfoRFaCxprm3cwg6un6g.png"/>
 

@@ -23,7 +23,7 @@ sidebar_position: 0
 
 <img src="/assets/EFndbc3IBojG0dxlSlDcMa98nwc.png"/>
 
-也可在右侧记录操作区：点选【详情】，查看客户细部基本资料，同时也提供资产交易/操作记录/登录设备/代理人/关系人 这些特定事项的 Tab 页签资料
+也可在右侧记录操作区：点选【详情】， 查看客户细部基本资料，同时也提供资产交易/操作记录/登录设备/代理人/关系人 这些特定事项的 Tab 页签资料
 
 <img src="/assets/J72ebMG1joEz5cxZIShcMEm0nlf.png"/>
 

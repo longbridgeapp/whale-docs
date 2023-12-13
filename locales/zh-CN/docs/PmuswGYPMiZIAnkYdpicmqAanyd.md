@@ -9,11 +9,11 @@ sidebar_position: 0
 
 # **首页区域**
 
-在 CRM 首页上，增加工作流节点数量统计与提供摘要性的 Dashboard，可以点选进入该作业区，方便快速操作
+在 CRM 首页上 ，增加工作流节点数量统计与提供摘要性的 Dashboard ，可以点选进入该作业区，方便快速操作
 
 <img src="/assets/XL1Jb476NoHlUlx6Qu3cRKh9nFc.png"/>
 
-系统提供 一段区间的 开户平均耗时与近期开户成功统计率作为参考（系统会自动计算）
+系统提供 一段区间的 开户平均耗时与近期开户成功统计率作为参考 （系统会自动计算）
 
 <img src="/assets/RJrJbRicso85NVxYpBXcj4fJnEo.png"/>
 

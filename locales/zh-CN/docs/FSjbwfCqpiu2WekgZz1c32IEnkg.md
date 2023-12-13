@@ -29,17 +29,17 @@ sidebar_position: 1
 
 菜单入口：运营系统&gt;权益系统&gt;奖励中心&gt;奖励纪录
 
-批量发放现金 - 点击批量发放现金奖励按钮
+批量发放现金-点击批量发放现金奖励按钮
 
 <img src="/assets/Uzx8bPNgmobTwhxLSEOc7SA4n2g.png"/>
 
 <img src="/assets/Y3gqbWsc5ojQhqxwwCdc5iWynwc.png"/>
 
-批量发放实物 - 点击批量发放实物奖励按钮
+批量发放实物-点击批量发放实物奖励按钮
 
 与前述操作相同
 
-批量发放卡券 - 点击批量发放卡券奖励按钮
+批量发放卡券-点击批量发放卡券奖励按钮
 
 与前述操作相同
 

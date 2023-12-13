@@ -25,7 +25,7 @@ sidebar_position: 1
 
 <img src="/assets/WQS5baoUUojMbcx8jSNcKtkFnbh.png"/>
 
-支持主帳帳戶開立，也支持特定帳戶標籤處理
+支持主帳帳戶開立,也支持特定帳戶標籤處理
 
 <div class="grid gap-3 grid-cols-2">
 <div>
