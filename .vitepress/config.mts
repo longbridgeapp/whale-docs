@@ -1,55 +1,7 @@
-import { DefaultTheme, defineConfig } from "vitepress";
+import { defineConfig } from "vitepress";
 // @ts-ignore
-import docs from "../locales/docs.json";
-import * as OpenCC from "opencc-js";
 import { siteMetadata } from "./site-meta";
-const converter = OpenCC.Converter({ from: "hk", to: "cn" });
-
-/**
- * Convert feishu-pages's docs.json into VitePress's sidebar config
- * @param docs from `docs.json`
- * @param rootSlug if provided, will find and use this node as the root.
- * @returns
- */
-const convertDocsToSidebars = (
-  docs: Record<string, any>[],
-  rootSlug?: string,
-) => {
-  const sidebars: DefaultTheme.SidebarItem[] = [];
-  const cnLang = rootSlug === "zh-CN";
-
-  // Go to root slug
-  docs =
-    docs.find((doc) => doc.slug === (cnLang ? "zh-HK" : rootSlug))?.children ||
-    docs;
-
-  // zh-HK/guides/crm/dashboards
-  // -> zh-HK/docs/guides/crm/dashboards
-  for (const doc of docs) {
-    const text = cnLang ? converter(doc.title) : doc.title;
-
-    const link = `/${
-      cnLang
-        ? doc.slug.replace(/^zh-HK\//, "zh-CN/docs/")
-        : doc.slug.replace(/^(en|zh-HK)\//, "$1/docs/")
-    }`;
-
-    let sidebar: DefaultTheme.SidebarItem = {
-      text,
-      link,
-    };
-    if (doc.children.length > 0) {
-      sidebar.items = convertDocsToSidebars(doc.children, rootSlug);
-      sidebar.collapsed = true;
-    }
-    sidebars.push(sidebar);
-  }
-  return sidebars;
-};
-
-const docsSidebarEN = convertDocsToSidebars(docs, "en");
-const docsSidebarZHCN = convertDocsToSidebars(docs, "zh-CN");
-const docsSidebarZHHK = convertDocsToSidebars(docs, "zh-HK");
+const siderbarConfig = require("./../scripts/siderbar");
 
 const editLinkPattern =
   "https://github.com/longbridgeapp/whale-docs/edit/dev/locales/:path";
@@ -97,7 +49,14 @@ export default defineConfig({
       link: "/zh-CN/docs",
       themeConfig: {
         siteTitle: "帮助中心",
-        nav: [{ text: "Whale 首页", link: "https://longbridgewhale.com" }],
+        nav: [
+          { text: "首页", link: "/", target: "_self" },
+          { text: "关于我们", link: "/zh-CN/about", target: "_self" },
+          {
+            text: "LongPort OpenAPI",
+            link: "https://open.longportapp.com",
+          },
+        ],
         editLink: {
           pattern: editLinkPattern,
           text: "编辑此页",
@@ -117,7 +76,14 @@ export default defineConfig({
       link: "/zh-HK/docs",
       themeConfig: {
         siteTitle: "幫助中心",
-        nav: [{ text: "Whale 首頁", link: "https://longbridgewhale.com" }],
+        nav: [
+          { text: "首頁", link: "/", target: "_self" },
+          { text: "關於我們", link: "/zh-HK/about", target: "_self" },
+          {
+            text: "LongPort OpenAPI",
+            link: "https://open.longportapp.com/zh-HK",
+          },
+        ],
         editLink: {
           pattern: editLinkPattern,
           text: "编辑此页",
@@ -138,8 +104,10 @@ export default defineConfig({
     logo: "https://assets.lbkrs.com/uploads/d29e591d-0c3d-4def-b837-cd06dfb4d738/whale-logo.svg",
     sidebar: {
       // en: docsSidebarEN,
-      "zh-CN": docsSidebarZHCN,
-      "zh-HK": docsSidebarZHHK,
+      // "zh-CN": docsSidebarZHCN,
+      // "zh-HK": docsSidebarZHHK,
+      "zh-CN": siderbarConfig["zh-CN"],
+      "zh-HK": siderbarConfig["zh-HK"],
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/longbridgeapp/whale-docs" },

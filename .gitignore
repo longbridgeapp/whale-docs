@@ -1,6 +1,6 @@
 .env
-feishu-pages/
 node_modules/
+locales/assets/
 !docs/index.md
 .vitepress/cache/
 .vitepress/dist/
