@@ -16,7 +16,7 @@ sidebar_position: 2
 - 注销客户或账户
 - 解冻客户或账户
 - 解锁或重置密码
-- 修改登录App或交易通道
+- 修改登录 App 或交易通道
 - 客户反馈
 
 ## 前置条件
@@ -31,7 +31,7 @@ sidebar_position: 2
 
 <img src="/assets/YQCqbGyIQooFaIx3RBPcuG0Rndc.png"/>
 
-也可以点选【新建工单】， 建一笔新的工单信息
+也可以点选【新建工单】，建一笔新的工单信息
 
 <img src="/assets/M0f7b6rfIoeHSuxTNnocNH8An8e.png"/>
 

@@ -9,7 +9,7 @@ sidebar_position: 6
 
 ## 适用场景
 
-基于SFC保证金指引的压力测试与股票、客户相关的监控。
+基于 SFC 保证金指引的压力测试与股票、客户相关的监控。
 
 ## 前置条件
 
@@ -28,13 +28,13 @@ sidebar_position: 6
 
 <img src="/assets/FWgQb5QmzoYSXVxu3nscJYgunl5.png"/>
 
-注： 相关豁免规则配置 请在执行菜单：「系统设置」&gt;「风控」&gt;「风控参数」菜单内配置
+注：相关豁免规则配置 请在执行菜单：「系统设置」&gt;「风控」&gt;「风控参数」菜单内配置
 
 当计算完毕，可以在记录右侧操作区，点选【详情】查看计算的结果
 
 <img src="/assets/WmmXbFlkAosiAPxBRyncqYQ3n2d.png"/>
 
-【详情】页面展示的列表数据可以用来评估模拟计算结果是否符合预期；如同时模拟计算margin call和非速冻资金盈余则会分开两个列表展示
+【详情】页面展示的列表数据可以用来评估模拟计算结果是否符合预期；如同时模拟计算 margin call 和非速冻资金盈余则会分开两个列表展示
 
 <img src="/assets/JG86bmjyJoMBO4xaJeVcVazfnWd.png"/>
 

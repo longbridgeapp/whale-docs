@@ -25,7 +25,7 @@ sidebar_position: 4
 <p><strong>App 入口</strong></p>
 <img src="/assets/TVzObuszjooalxx8eIvc8mXynxj.png"/>
 
-<p>我的-我的卡券</p>
+<p>我的 - 我的卡券</p>
 </div>
 <div>
 <p><strong>我的卡券</strong></p>
@@ -54,10 +54,10 @@ sidebar_position: 4
 <p><strong>App 入口</strong></p>
 <img src="/assets/Y8fab6Du8osXcnxOvpXcgNg4nOb.png"/>
 
-<p>我的-奖励记录</p>
+<p>我的 - 奖励记录</p>
 <img src="/assets/VxK1b0nbMoiPdcxmEUicIVBMnzd.png"/>
 
-<p>我的-活动中心-奖励</p>
+<p>我的 - 活动中心 - 奖励</p>
 </div>
 <div>
 <p><strong>奖励记录</strong></p>
@@ -91,7 +91,7 @@ sidebar_position: 4
 
 <img src="/assets/EIPUbnuL4oHWtvxH93ucziX1nfe.png"/>
 
-<p>我的-我的行情-行情商店</p>
+<p>我的 - 我的行情 - 行情商店</p>
 </div>
 <div>
 <p><strong>行情商店</strong></p>

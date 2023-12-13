@@ -23,7 +23,7 @@ sidebar_position: 5
 
 该菜单用于查询所有给过交易额度的客户，并支持新增、修改和生效/失效额度。
 
-1. 页面可通过【设置】设置margin call时是否自动失效交易额度，默认开启自动失效，可以进行修改，详细可见设置页面提示
+1. 页面可通过【设置】设置 margin call 时是否自动失效交易额度，默认开启自动失效，可以进行修改，详细可见设置页面提示
 
 <img src="/assets/QWY9bCfDnoxLunxYDyLczMULnEh.png"/>
 

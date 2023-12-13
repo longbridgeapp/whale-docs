@@ -9,7 +9,7 @@ sidebar_position: 7
 
 ## 適用場景
 
-滿足SFC3.10的要求，支持股票指數設定和壓力測試。
+滿足 SFC3.10 的要求，支持股票指數設定和壓力測試。
 
 ## 前置条件
 
@@ -51,13 +51,13 @@ sidebar_position: 7
 
 ### 股票級別佔比
 
-該菜單展示股票級別佔比，並支持模擬margin call計算。
+該菜單展示股票級別佔比，並支持模擬 margin call 計算。
 
 股票級別佔比列表
 
 <img src="/assets/FOLebDog2opgToxC3llckwDYnfb.png"/>
 
-默認三个指數跌幅为頁面計算好的跌幅，也可通過頁面的【模擬Margin Call】功能進行人工修改並觸發模擬計算
+默認三个指數跌幅为頁面計算好的跌幅，也可通過頁面的【模擬 Margin Call】功能進行人工修改並觸發模擬計算
 
 <img src="/assets/YtqVb44g7ovKMwxGShEc9RuWnv6.png"/>
 

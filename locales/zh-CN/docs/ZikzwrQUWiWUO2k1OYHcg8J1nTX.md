@@ -51,7 +51,7 @@ sidebar_position: 1
 
 <img src="/assets/WriwbnxO2osVIOxwXd9cUzpVntc.png"/>
 
-在记录右侧操作区的【删除】键， 也可进行删除此会计分录
+在记录右侧操作区的【删除】键，也可进行删除此会计分录
 
 <img src="/assets/CXjwbpq6Lo4WsKxQKi4c1xWdnuc.png"/>
 
@@ -67,7 +67,7 @@ sidebar_position: 1
 
 <img src="/assets/OmMbbFnwBo1a16x9GfUcjmOtn9d.png"/>
 
-提供合并会计分录查询功能,合并会计分录时，系统会按账帐日期获取汇率
+提供合并会计分录查询功能，合并会计分录时，系统会按账帐日期获取汇率
 
 <img src="/assets/FUdqb2nXPoBr8AxN8fScGlnqnfg.png"/>
 

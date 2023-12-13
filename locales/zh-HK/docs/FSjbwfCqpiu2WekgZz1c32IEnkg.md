@@ -29,17 +29,17 @@ sidebar_position: 1
 
 菜單入口：運營系統&gt;權益系統&gt;獎勵中心&gt;獎勵紀錄
 
-批量發放現金-點擊批量發放現金獎勵按鈕
+批量發放現金 - 點擊批量發放現金獎勵按鈕
 
 <img src="/assets/Uzx8bPNgmobTwhxLSEOc7SA4n2g.png"/>
 
 <img src="/assets/Y3gqbWsc5ojQhqxwwCdc5iWynwc.png"/>
 
-批量發放實物-點擊批量發放實物獎勵按鈕
+批量發放實物 - 點擊批量發放實物獎勵按鈕
 
 與前述操作相同
 
-批量發放卡券-點擊批量發放卡券獎勵按鈕
+批量發放卡券 - 點擊批量發放卡券獎勵按鈕
 
 與前述操作相同
 
