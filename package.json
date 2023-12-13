@@ -3,7 +3,7 @@
     "setup": "./scripts/setup.sh",
     "export": "bun run feishu-pages && bun run setup",
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "bun run setup && vitepress build",
     "clean": "rm -rf .vitepress/cache && rm -rf .vitepress/dist"
   },
   "dependencies": {
