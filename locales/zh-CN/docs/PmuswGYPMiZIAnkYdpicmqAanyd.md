@@ -1,0 +1,27 @@
+---
+title: Dashboard
+slug: dashboard
+sidebar_position: 0
+---
+
+
+# Dashboard
+
+# **首页区域**
+
+在 CRM 首页上，增加工作流节点数量统计与提供摘要性的 Dashboard，可以点选进入该作业区，方便快速操作
+
+<img src="/assets/XL1Jb476NoHlUlx6Qu3cRKh9nFc.png"/>
+
+系统提供 一段区间的 开户平均耗时与近期开户成功统计率作为参考（系统会自动计算）
+
+<img src="/assets/RJrJbRicso85NVxYpBXcj4fJnEo.png"/>
+
+同时在首页中右区域提供 CRM 相关常见操作频率较高的作业快捷入口，方便点选操作
+
+<img src="/assets/Y75ObsRDvox5eQx9O50c2t8unwb.png"/>
+
+在系统首页的右下区域也提供更新日志，可以点选查阅系统更新功能说明
+
+<img src="/assets/TC84b1Ud5o9zS9xeCkTcrJH5njf.png"/>
+

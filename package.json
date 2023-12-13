@@ -3,12 +3,12 @@
     "setup": "./scripts/setup.sh",
     "export": "bun run feishu-pages && bun run setup",
     "dev": "vitepress dev",
-    "build": "vitepress build",
-    "clean": "rm -rf .vitepress/cache && rm -rf .vitepress/dist && rm -rf feishu-pages/*"
+    "build": "bun run setup && vitepress build",
+    "clean": "rm -rf .vitepress/cache && rm -rf .vitepress/dist"
   },
   "dependencies": {
     "autocorrect-node": "^2.8.4",
-    "feishu-pages": "^0.5.4",
+    "feishu-pages": "0.6.1",
     "glob": "^10.3.10",
     "medium-zoom": "^1.0.8",
     "opencc-js": "^1.0.5",

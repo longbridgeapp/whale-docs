@@ -1,0 +1,39 @@
+---
+title: 公司行動數據導入
+slug: xxxxxxxxx
+sidebar_position: 0
+---
+
+
+# 公司行動數據導入
+
+## 適用場景
+
+導入港股的公司行動 CCNAN05/CCNPT02 文件時,同時會自動創建預告
+
+## 前置條件
+
+無
+
+## 操作說明
+
+執行菜單：清算管理&gt;市場清算&gt;文件處理
+
+### 05 文件
+
+(港股）每日下午 5 點前，導入 CCNAN05 檔  ，系統會按導入資訊，登記日，自動生成公司行動預告,並預設方案
+
+<img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png"/>
+
+HK 市場在導入 05 文件後，會自動創建公司行動預告，成為'初始化'狀態預告
+
+<img src="/assets/V0WXbKhHIoiJphxrjYkckRCEnmo.png"/>
+
+### 02 文件
+
+(港股）執行前導入 CCNPT02 檔，在執行復核頁面，會展示港交所通知的數據，用於核對系統所計算的數據
+
+<img src="/assets/RljRbu9NXoIuW1xdVqnczo8hnZg.png"/>
+
+BE 類香港公司行動增加自動更新機制如下：
+
