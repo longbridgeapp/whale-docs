@@ -4,7 +4,7 @@
     "export": "bun run feishu-pages && bun run setup",
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "clean": "rm -rf .vitepress/cache && rm -rf .vitepress/dist && rm -rf feishu-pages/*"
+    "clean": "rm -rf .vitepress/cache && rm -rf .vitepress/dist"
   },
   "dependencies": {
     "autocorrect-node": "^2.8.4",
