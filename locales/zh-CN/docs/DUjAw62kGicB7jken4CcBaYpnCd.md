@@ -1,11 +1,11 @@
 ---
-title: 配置-参与者管理
+title: 配置 - 参与者管理
 slug: bcanmaguanli
 sidebar_position: 2
 ---
 
 
-# 配置-参与者管理
+# 配置 - 参与者管理
 
 ## 适用场景
 
@@ -25,7 +25,7 @@ sidebar_position: 2
 
 <img src="/assets/Q7qdbaOgUoKwKAx7AuDcPmX2nTp.png"/>
 
-点选右方上侧【新建参与者】， 建一笔新的参与者信息
+点选右方上侧【新建参与者】，建一笔新的参与者信息
 
 <img src="/assets/RcElbLLhRoeES5x4wmWc4PdZnwc.png"/>
 

@@ -33,7 +33,7 @@ sidebar_position: 0
 
 <img src="/assets/Eg8abABWOoqFUQxDwqbcMIW0nNg.png"/>
 
-注意： 系統已改成 透過 行情數據源 自動獲取 公募基金的淨值表（無法租戶 自行新增，避免數據更新錯誤）
+注意：系統已改成 透過 行情數據源 自動獲取 公募基金的淨值表（無法租戶 自行新增，避免數據更新錯誤）
 
 #### 基金清算
 
@@ -57,7 +57,7 @@ sidebar_position: 0
 
 <img src="/assets/XZh1bTDlioljIRxue9OcEZvQn6d.png"/>
 
-1. 數據回填之後，**點擊核對確認**，進行數據確認，確認提交。若當天沒有訂單，自動核對確認， 自動完成交收。
+1. 數據回填之後，**點擊核對確認**，進行數據確認，確認提交。若當天沒有訂單，自動核對確認，自動完成交收。
 
 <img src="/assets/DhuabdgfDo8uBrx9yCBctCfSnnh.png"/>
 

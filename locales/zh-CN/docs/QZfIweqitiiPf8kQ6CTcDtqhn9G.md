@@ -25,7 +25,7 @@ sidebar_position: 1
 
 <img src="/assets/WQS5baoUUojMbcx8jSNcKtkFnbh.png"/>
 
-支持主帐帐户开立,也支持特定帐户标签处理
+支持主帐帐户开立，也支持特定帐户标签处理
 
 <div class="grid gap-3 grid-cols-2">
 <div>

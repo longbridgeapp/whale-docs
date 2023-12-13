@@ -25,7 +25,7 @@ sidebar_position: 3
 
 <img src="/assets/THeDb4yWToo2Wgxjyd0cPuZNn3d.png"/>
 
-可以在右側點選【 新建】一個基金熱銷的排序
+可以在右側點選【新建】一個基金熱銷的排序
 
 <img src="/assets/Vz4AbYplTokO9cxBT1qcS03YnFb.png"/>
 
@@ -53,7 +53,7 @@ sidebar_position: 3
 
 #### 基金推薦（風險）
 
-執行菜單：基金管理&gt; APP 管理&gt;基金推薦（風險） Tab 頁籤
+執行菜單：基金管理&gt; APP 管理&gt;基金推薦（風險）Tab 頁籤
 
 本作業可以管理配置基金推薦的風險等級
 
