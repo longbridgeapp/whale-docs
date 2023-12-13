@@ -11,34 +11,18 @@ sidebar_position: 8
 
 为方便使用者快速记忆报表的分类，WBO 报表的报表代号也以常规的部门英文名称来方便记忆学习
 
-<table>
-<colgroup>
-<col width="399"/>
-<col width="359"/>
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>部门名称</strong></p></td><td><p>报表前缀</p></td></tr>
-<tr>
-<td><p>结算部（Settlement Delivery Department）</p></td><td><p>SDR</p></td></tr>
-<tr>
-<td><p>交易部（Trade Department）</p></td><td><p>TDR</p></td></tr>
-<tr>
-<td><p>财务部（Finance Department）</p></td><td><p>FDR</p></td></tr>
-<tr>
-<td><p>客服部（Customer Service Department）</p></td><td><p>CDR</p></td></tr>
-<tr>
-<td><p>风控部（Risk Management Department）</p></td><td><p>RDR</p></td></tr>
-<tr>
-<td><p>合规部（Inner Compliance Department）</p></td><td><p>IDR</p></td></tr>
-<tr>
-<td><p>财政资源规则（Financial Resource Rule）</p></td><td><p>FRR</p></td></tr>
-<tr>
-<td><p>其他（Other）</p></td><td><p>ODR</p></td></tr>
-<tr>
-<td colspan="2"><p>若有券商特殊报表前面会根据券商缩写来定</p></td></tr>
-</tbody>
-</table>
+|   |   |
+|---|---|
+|**部门名称**|报表前缀|
+|结算部（Settlement Delivery Department）|SDR|
+|交易部（Trade Department）|TDR|
+|财务部（Finance Department）|FDR|
+|客服部（Customer Service Department）|CDR|
+|风控部（Risk Management Department）|RDR|
+|合规部（Inner Compliance Department）|IDR|
+|财政资源规则（Financial Resource Rule）|FRR|
+|其他（Other）|ODR|
+|若有券商特殊报表前面会根据券商缩写来定||
 
 目前系统提供下列报表清单，后续会增加适当报表
 
