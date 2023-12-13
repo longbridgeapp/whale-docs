@@ -59,6 +59,7 @@ function setupIndexPage() {
   const guidesChild = hkMetadata.children.find((doc) => {
     return doc.meta?.slug === HomePageSlug;
   });
+
   if (guidesChild) {
     const guidesFilePath = path.resolve(
       __dirname,
@@ -70,12 +71,12 @@ function setupIndexPage() {
       `../locales/zh-HK/docs/index.md`,
     );
     fs.writeFileSync(guidesTargetFilePath, guidesContent);
-    console.log("copy zh-HK index file: ", guidesTargetFilePath);
+    console.log(`copy zh-HK ${guidesChild.title} to index file: `, guidesTargetFilePath);
 
     const cnContent = converter(guidesContent);
     const cnFilePath = guidesTargetFilePath.replace("zh-HK", "zh-CN");
     fs.writeFileSync(cnFilePath, cnContent);
-    console.log("copy zh-CN index file: ", cnFilePath);
+    console.log(`copy zh-CN ${guidesChild.title} to  index file: `, cnFilePath);
   }
 }
 

@@ -29,20 +29,11 @@ sidebar_position: 3
 
 首先選擇需要的行情產品，行情商店會展示相關的權限，期限与價格，完成選擇后，點擊「確認發起申请」（无需付费，Whale 系統 會自動在次月初和交易员所在公司统一结算總費用）
 
-<table header_column="1">
-<colgroup>
-<col width="100"/>
-<col width="200"/>
-</colgroup>
-<tbody>
-<tr>
-<td><p>月卡</p></td><td><p>30 天</p></td></tr>
-<tr>
-<td><p>季卡</p></td><td><p>90 天</p></td></tr>
-<tr>
-<td><p>年卡</p></td><td><p>365 天</p></td></tr>
-</tbody>
-</table>
+|   |   |
+|---|---|
+|月卡|30 天|
+|季卡|90 天|
+|年卡|365 天|
 
 <img src="/assets/A8yAb9MH4onxIOxY2uRcIWKnnjg.png"/>
 
