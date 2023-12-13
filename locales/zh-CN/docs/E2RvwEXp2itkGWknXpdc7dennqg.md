@@ -39,13 +39,25 @@ sidebar_position: 2
 
 其中栏位说明如下：
 
-|   |   |   |
-|---|---|---|
-|期权标的物 |Option Symbol |期权标的物代码，例如股票代码发生变更，则期权标的物也对应发生变更 |
-|持仓合约乘数 |Contract Multiplier |期权乘数。新张数=旧张数* Contract Multiplier |
-|新乘数 |New Multiplier |x 行权时每张期权对应正股数 |
-|生效日期 |Effective Date |规则生效日期 |
-|行权价 |Stirke Price |新行权价，通过公式计算 ｛price｝*2 表示 新行权价=旧行权价 *2 ·<br/> 若行情同步 Strike Divisor，则行权价= ｛price｝/Strike Divisor ·|
+<table>
+<colgroup>
+<col width="125"/>
+<col width="145"/>
+<col width="566"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>期权标的物 </p></td><td><p>Option Symbol </p></td><td><p>期权标的物代码，例如股票代码发生变更，则期权标的物也对应发生变更 </p></td></tr>
+<tr>
+<td><p>持仓合约乘数 </p></td><td><p>Contract Multiplier </p></td><td><p>期权乘数。新张数=旧张数* Contract Multiplier </p></td></tr>
+<tr>
+<td><p>新乘数 </p></td><td><p>New Multiplier </p></td><td><p>x 行权时每张期权对应正股数 </p></td></tr>
+<tr>
+<td><p>生效日期 </p></td><td><p>Effective Date </p></td><td><p>规则生效日期 </p></td></tr>
+<tr>
+<td><p>行权价 </p></td><td><p>Stirke Price </p></td><td><p>新行权价，通过公式计算 ｛price｝*2 表示 新行权价=旧行权价 *2 ·<br/> 若行情同步 Strike Divisor，则行权价= ｛price｝/Strike Divisor ·</p></td></tr>
+</tbody>
+</table>
 
 第三：进行对帐与执行
 
