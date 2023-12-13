@@ -19,11 +19,11 @@ sidebar_position: 1
 
 菜单入口：资产账户&gt;帐户&gt; 余额查询
 
-选择需要查询的资产类型，分现金、股票、基金、期权、债券、OTC其他、虚拟资产
+选择需要查询的资产类型，分现金、股票、基金、期权、债券、OTC 其他、虚拟资产
 
 <img src="/assets/DWLDbnL2zob5y8xLuWEczOiKnSe.png"/>
 
-若针对某些客户查询现金余额场景，可在右上角提供方便的 【手工提现】 操作入口
+若针对某些客户查询现金余额场景，可在右上角提供方便的【手工提现】操作入口
 
 <img src="/assets/LVMpbSxOyoKvsfxECrYcB7kinif.png"/>
 

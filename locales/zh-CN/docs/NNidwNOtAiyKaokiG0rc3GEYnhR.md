@@ -31,7 +31,7 @@ sidebar_position: 0
 
 <img src="/assets/LenTbnvd5ooT09x3fo3c4sVen6d.png"/>
 
-新建多个分组后，可以点选右上方区 ‘执行顺序设置'来 调整
+新建多个分组后，可以点选右上方区‘执行顺序设置'来 调整
 
 <img src="/assets/HsrqbKZ7Pobgibx4uThcxBE0nNc.png"/>
 

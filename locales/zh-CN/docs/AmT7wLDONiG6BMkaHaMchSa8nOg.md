@@ -33,19 +33,19 @@ sidebar_position: 1
 
 菜单入口：投放系统&gt;运营计划
 
-以下分别 整理几个常见运营计划， 逐步导引来建立计划
+以下分别 整理几个常见运营计划，逐步导引来建立计划
 
 [【场景】如何创建一个定时型 - 单次计划？](/Gicdw3YEtiDhLYkyLC6cLx79njb) 
 
-[【场景】如何创建一个 定时型-重复 计划？](/P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
+[【场景】如何创建一个 定时型 - 重复 计划？](/P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
 
 [【场景】如何创建一个 获取型-API 计划？](/EPH5wRfGhidNKDkJQi6cYwE3nvS) 
 
-[【场景】如何创建一个 触发型-完成A 计划](/ZYDewLFtuidmgjkzwEBcJvcln5d) 
+[【场景】如何创建一个 触发型 - 完成 A 计划](/ZYDewLFtuidmgjkzwEBcJvcln5d) 
 
 当完成运营计划后，就可以管理运营计划
 
-系统支持以 ‘看板模式’与‘列表模式’来切换管理 所配置的运营计划
+系统支持以‘看板模式’与‘列表模式’来切换管理 所配置的运营计划
 
 <img src="/assets/IpQJbWtfcoED4Lx3Z78cfEuJnAK.png"/>
 

@@ -1,15 +1,15 @@
 ---
-title: 场景-股权认购（OO、EO、RS、ER、TU、TC）
+title: 场景 - 股权认购（OO、EO、RS、ER、TU、TC）
 slug: xxxxxxxxx
 sidebar_position: 5
 ---
 
 
-# 场景-股权认购（OO、EO、RS、ER、TU、TC）
+# 场景 - 股权认购（OO、EO、RS、ER、TU、TC）
 
 ## 适用场景
 
-处理股权类认购操作处理(OO/EO/RS/TU/TC等)
+处理股权类认购操作处理 (OO/EO/RS/TU/TC 等)
 
 ## 前置条件
 

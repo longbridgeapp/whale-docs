@@ -9,7 +9,7 @@ sidebar_position: 0
 
 ## 适用场景
 
-当劵商运营人员需要管理对外公告时操作(新增/ 编辑/禁用)
+当劵商运营人员需要管理对外公告时操作 (新增/ 编辑/禁用)
 
 ## 前置条件
 
@@ -25,7 +25,7 @@ sidebar_position: 0
 
 <img src="/assets/EF0Ebs3bGoskPSxy4uhca9AOnTc.png"/>
 
-当需要新增一个对外公告时,可以点选右上角【新增公告】,开始配置一个新公告
+当需要新增一个对外公告时，可以点选右上角【新增公告】,开始配置一个新公告
 
 <img src="/assets/Cu4nbgAQ8o49bGxnb9kcxsc1nih.png"/>
 

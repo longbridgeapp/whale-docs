@@ -19,11 +19,11 @@ sidebar_position: 1
 
 菜單入口：資產賬戶&gt;帳戶&gt; 餘額查詢
 
-選擇需要查詢的資產類型，分現金、股票、基金、期權、債券、OTC其他、虛擬資產
+選擇需要查詢的資產類型，分現金、股票、基金、期權、債券、OTC 其他、虛擬資產
 
 <img src="/assets/DWLDbnL2zob5y8xLuWEczOiKnSe.png"/>
 
-若針對某些客戶查詢現金餘額場景，可在右上角提供方便的 【手工提現】 操作入口
+若針對某些客戶查詢現金餘額場景，可在右上角提供方便的【手工提現】操作入口
 
 <img src="/assets/LVMpbSxOyoKvsfxECrYcB7kinif.png"/>
 

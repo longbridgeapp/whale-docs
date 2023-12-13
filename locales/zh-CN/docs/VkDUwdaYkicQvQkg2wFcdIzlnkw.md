@@ -1,15 +1,15 @@
 ---
-title: 场景-红股红利
+title: 场景 - 红股红利
 slug: xxxxxxxxx
 sidebar_position: 6
 ---
 
 
-# 场景-红股红利
+# 场景 - 红股红利
 
 ## 适用场景
 
-操作红股红利(BE类)的公司行动权益
+操作红股红利 (BE 类) 的公司行动权益
 
 ## 前置条件
 
@@ -70,7 +70,7 @@ sidebar_position: 6
 
 <img src="/assets/KqHAbBJOJoLcrjxDtNJcVYD3n5g.png"/>
 
-在客户明细-详情内可以分别对费用和权益金额进行调整
+在客户明细 - 详情内可以分别对费用和权益金额进行调整
 
 <img src="/assets/VEddbH17jodsgrxcnoZc9vaknbg.png"/>
 

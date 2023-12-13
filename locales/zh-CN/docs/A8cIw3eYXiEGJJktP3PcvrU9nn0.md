@@ -25,7 +25,7 @@ sidebar_position: 3
 
 <img src="/assets/THeDb4yWToo2Wgxjyd0cPuZNn3d.png"/>
 
-可以在右侧点选【 新建】一个基金热销的排序
+可以在右侧点选【新建】一个基金热销的排序
 
 <img src="/assets/Vz4AbYplTokO9cxBT1qcS03YnFb.png"/>
 
@@ -53,7 +53,7 @@ sidebar_position: 3
 
 #### 基金推荐（风险）
 
-执行菜单：基金管理&gt; APP 管理&gt;基金推荐（风险） Tab 页签
+执行菜单：基金管理&gt; APP 管理&gt;基金推荐（风险）Tab 页签
 
 本作业可以管理配置基金推荐的风险等级
 

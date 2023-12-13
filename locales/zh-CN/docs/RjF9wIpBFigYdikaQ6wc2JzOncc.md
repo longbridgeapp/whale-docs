@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ## 适用场景
 
-本场景是可以查看全部TESS的命中记录，用于开户相关的风险审查
+本场景是可以查看全部 TESS 的命中记录，用于开户相关的风险审查
 
 ## 前置条件
 
@@ -21,7 +21,7 @@ sidebar_position: 3
 
 本作业可以查看全部有 TESS 调用记录的客户的监控状态和待处理警报
 
-注意： 未命中的客户纪录，将不会在此展示
+注意：未命中的客户纪录，将不会在此展示
 
 <img src="/assets/P86Gb51eVoQeEfxqzfQcJcvDnKr.png"/>
 

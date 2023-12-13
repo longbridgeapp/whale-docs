@@ -51,7 +51,7 @@ sidebar_position: 1
 
 <img src="/assets/WriwbnxO2osVIOxwXd9cUzpVntc.png"/>
 
-在記錄右側操作區的【刪除】鍵， 也可進行刪除此會計分錄
+在記錄右側操作區的【刪除】鍵，也可進行刪除此會計分錄
 
 <img src="/assets/CXjwbpq6Lo4WsKxQKi4c1xWdnuc.png"/>
 
@@ -67,7 +67,7 @@ sidebar_position: 1
 
 <img src="/assets/OmMbbFnwBo1a16x9GfUcjmOtn9d.png"/>
 
-提供合併會計分錄查詢功能,合併會計分錄時，系統會按賬帳日期獲取匯率
+提供合併會計分錄查詢功能，合併會計分錄時，系統會按賬帳日期獲取匯率
 
 <img src="/assets/FUdqb2nXPoBr8AxN8fScGlnqnfg.png"/>
 

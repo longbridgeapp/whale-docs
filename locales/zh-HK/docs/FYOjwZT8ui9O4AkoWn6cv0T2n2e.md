@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ### 適用場景
 
-首先私募基金的業務系統操作流程如下 （SOP） :
+首先私募基金的業務系統操作流程如下（SOP） :
 
 <img src="/assets/IyP7bS33yo6Q61xN2ezc473Cnbb.jpeg"/>
 
@@ -25,7 +25,7 @@ sidebar_position: 2
 
 本作業可以維護一個私募基金的基金資料，也可以管理基金的上架展示
 
-   同時系統提供 基金上架（系統端）  與顯示管理（APP 端）
+   同時系統提供 基金上架（系統端）與顯示管理（APP 端）
 
 【上架】：是指將基金 納入系統交易。并調整时需要標的是上架状態      
 
@@ -104,7 +104,7 @@ sidebar_position: 2
 
 <img src="/assets/OF43b4eI7oOCz4x7pImcvJJhnbc.png"/>
 
-可以在右側點選【 新建】，新建一個私募基金的排序
+可以在右側點選【新建】，新建一個私募基金的排序
 
 <img src="/assets/UhYObkl47oEA38xQDlMcmDjWnab.png"/>
 
