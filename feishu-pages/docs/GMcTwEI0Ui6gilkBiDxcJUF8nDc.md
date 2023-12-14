@@ -23,11 +23,11 @@ sidebar_position: 4
 
 有持倉的股票會展示在收盤價管理頁面
 
-<img src="/assets/QJDHbS8b7odncDxPWqccSnE8n4f.png"/>
+<img src="/assets/QJDHbS8b7odncDxPWqccSnE8n4f.png" src-width="3362" src-height="1342" align="center"/>
 
 需要臨時修改清算收盤價的可點擊編輯
 
-<img src="/assets/Rc4SbCB6go8s6WxTnuHcdgS7nZc.png"/>
+<img src="/assets/Rc4SbCB6go8s6WxTnuHcdgS7nZc.png" src-width="3460" src-height="1555" align="center"/>
 
 修改收盤價並提交
 

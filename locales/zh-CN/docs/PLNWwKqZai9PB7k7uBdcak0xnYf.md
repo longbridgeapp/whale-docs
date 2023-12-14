@@ -33,11 +33,11 @@ sidebar_position: 4
 
 通过列表操作项的【开启】和【关闭】可以生效/失效对应限额
 
-<img src="/assets/WAZ3b7NTKo98rExkuqGc7QIInSc.png"/>
+<img src="/assets/WAZ3b7NTKo98rExkuqGc7QIInSc.png" src-width="3266" src-height="853" align="center"/>
 
 也可以编辑限额规则：
 
-<img src="/assets/Or7abKxpJoQwcNxARiXcaqXcnwb.png"/>
+<img src="/assets/Or7abKxpJoQwcNxARiXcaqXcnwb.png" src-width="3276" src-height="1638" align="center"/>
 
 重点字段说明如下：
 
@@ -64,17 +64,17 @@ sidebar_position: 4
 
 新增客户限额规则
 
-<img src="/assets/Km5NbSMUXoNQ6lxyNQwcSN6unbg.png"/>
+<img src="/assets/Km5NbSMUXoNQ6lxyNQwcSN6unbg.png" src-width="3238" src-height="690" align="center"/>
 
 客户限额规则配置：支持单个客户录入和批量上传创建；此处的限额名称支持自定义，即本次限额规则的名称；规则配置完成后需要工单审批方可生效
 
-<img src="/assets/U485bLrIHo6E2qxYUECc1tsZndb.png"/>
+<img src="/assets/U485bLrIHo6E2qxYUECc1tsZndb.png" src-width="3252" src-height="1636" align="center"/>
 
 注：选择限额代码后会展示限额代码启用标识，标识状态即全局限额下的代码状态，若修改此处标识可一并更改全局限额下的代码状态
 
 如需修改客户限额规则或更改规则状态，可在列表操作项的【编辑】【设为生效】【设为失效】操作；编辑完成后需要工单审批方可生效
 
-<img src="/assets/Rmc6be8gIotzRXxcnCYckShlnid.png"/>
+<img src="/assets/Rmc6be8gIotzRXxcnCYckShlnid.png" src-width="3327" src-height="735" align="center"/>
 
 ### 证券限额
 
@@ -82,11 +82,11 @@ sidebar_position: 4
 
 新增证券限额规则
 
-<img src="/assets/MJGHbmwdTovJBAxoVElcrXdLnTb.png"/>
+<img src="/assets/MJGHbmwdTovJBAxoVElcrXdLnTb.png" src-width="3220" src-height="698" align="center"/>
 
 证券限额规则配置：支持单个证券代码录入和批量上传创建；此处的限额名称支持自定义，即本次限额规则的名称；规则配置完成后需要工单审批方可生效
 
-<img src="/assets/CgWfbTDHUozPfPxSkQgcSKzsnDf.png"/>
+<img src="/assets/CgWfbTDHUozPfPxSkQgcSKzsnDf.png" src-width="3262" src-height="1628" align="center"/>
 
 注：选择限额代码后会展示限额代码启用标识，标识状态即全局限额下的代码状态，若修改此处标识可一并更改全局限额下的代码状态
 
@@ -98,11 +98,11 @@ sidebar_position: 4
 
 新增交易员限额规则
 
-<img src="/assets/NVUlbXuHUoDOkNxoLercnds2nHe.png"/>
+<img src="/assets/NVUlbXuHUoDOkNxoLercnds2nHe.png" src-width="3244" src-height="710" align="center"/>
 
 交易员限额规则配置：此处的限额名称支持自定义，即本次限额规则的名称；规则配置完成后需要工单审批方可生效
 
-<img src="/assets/UQsFbnCz4oBRjXx6BZCcHMeJnQe.png"/>
+<img src="/assets/UQsFbnCz4oBRjXx6BZCcHMeJnQe.png" src-width="3298" src-height="1640" align="center"/>
 
 注：选择限额代码后会展示限额代码启用标识，标识状态即全局限额下的代码状态，若修改此处标识可一并更改全局限额下的代码状态
 
@@ -114,11 +114,11 @@ sidebar_position: 4
 
 新增客户类别限额规则
 
-<img src="/assets/PdTkbZULNobZY2xksH6cgkwtnYd.png"/>
+<img src="/assets/PdTkbZULNobZY2xksH6cgkwtnYd.png" src-width="3248" src-height="836" align="center"/>
 
 客户类别限额规则配置：此处的限额名称支持自定义，即本次限额规则的名称；规则配置完成后需要工单审批方可生效
 
-<img src="/assets/T0aab4f6aoY3uCxdb8AcMrninRe.png"/>
+<img src="/assets/T0aab4f6aoY3uCxdb8AcMrninRe.png" src-width="3274" src-height="1604" align="center"/>
 
 注：选择限额代码后会展示限额代码启用标识，标识状态即全局限额下的代码状态，若修改此处标识可一并更改全局限额下的代码状态
 
@@ -130,11 +130,11 @@ sidebar_position: 4
 
 新增多维度限额规则
 
-<img src="/assets/TJJsb2EBxoqdORxH8spcWOq4nEb.png"/>
+<img src="/assets/TJJsb2EBxoqdORxH8spcWOq4nEb.png" src-width="3224" src-height="558" align="center"/>
 
 多维度限额规则配置：此处的限额名称支持自定义，即本次限额规则的名称；规则配置完成后需要工单审批方可生效
 
-<img src="/assets/NWYKbOwxgoqkcvxF6Pocrk3pnjg.png"/>
+<img src="/assets/NWYKbOwxgoqkcvxF6Pocrk3pnjg.png" src-width="3254" src-height="1628" align="center"/>
 
 注：选择限额代码后会展示限额代码启用标识，标识状态即全局限额下的代码状态，若修改此处标识可一并更改全局限额下的代码状态
 

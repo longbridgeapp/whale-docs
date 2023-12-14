@@ -21,9 +21,9 @@ sidebar_position: 6
 
 點選【提前交收】，輸入欲提早交收的市場（可多選）
 
-<img src="/assets/WVbIb1q3xoKMJSxgzbhcRXPMnFg.png"/>
+<img src="/assets/WVbIb1q3xoKMJSxgzbhcRXPMnFg.png" src-width="3364" src-height="1450" align="center"/>
 
 操作後可觀察交收批次是否處理完畢
 
-<img src="/assets/NDZrbL5Snoi9d7xiNljcC5TZnOb.png"/>
+<img src="/assets/NDZrbL5Snoi9d7xiNljcC5TZnOb.png" src-width="2516" src-height="740" align="center"/>
 

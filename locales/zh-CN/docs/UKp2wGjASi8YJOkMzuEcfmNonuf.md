@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Margin Call 作业是以实时风控计算的基础下 ,提供快捷的平仓与追收，Whale 整个保证金追缴的流程参考下图：
 
-<img src="/assets/IEBebOkmhoqDUTxupIscT9IXnZf.jpeg"/>
+<img src="/assets/IEBebOkmhoqDUTxupIscT9IXnZf.jpeg" src-width="1510" src-height="1254" align="center"/>
 
 名词释义
 

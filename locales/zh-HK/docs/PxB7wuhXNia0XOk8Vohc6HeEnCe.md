@@ -50,17 +50,17 @@ sidebar_position: 6
 
 ## **公司行****動處****理流程**
 
-<img src="/assets/Ibsxbbh4AobkkLxH8GZcQErwnzd.png"/>
+<img src="/assets/Ibsxbbh4AobkkLxH8GZcQErwnzd.png" src-width="3878" src-height="2806" align="center"/>
 
 ## 強制類**系统操作流程**
 
-<img src="/assets/QQRKbnZGGo0fhwxCdsXcL4etn5e.png"/>
+<img src="/assets/QQRKbnZGGo0fhwxCdsXcL4etn5e.png" src-width="3024" src-height="1620" align="center"/>
 
-<img src="/assets/RSEQbp0w6oOQRwxuG0rcQMstnVg.png"/>
+<img src="/assets/RSEQbp0w6oOQRwxuG0rcQMstnVg.png" src-width="3594" src-height="1442" align="center"/>
 
 ## **自****願類****系统操作流程**
 
-<img src="/assets/DbAlbxrhnoWMcaxo0uXcJemcnDe.png"/>
+<img src="/assets/DbAlbxrhnoWMcaxo0uXcJemcnDe.png" src-width="3018" src-height="1618" align="center"/>
 
-<img src="/assets/ZUG0btr2ooW5TWxmLhLcL1oln5c.png"/>
+<img src="/assets/ZUG0btr2ooW5TWxmLhLcL1oln5c.png" src-width="3454" src-height="1584" align="center"/>
 

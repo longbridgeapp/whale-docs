@@ -44,7 +44,7 @@ sidebar_position: 0
 
 菜單入口：運營系統&gt;權益系統&gt;卡劵福利&gt;卡劵配置
 
-<img src="/assets/O4Ygbm3nto3E5KxfVx5culgInjh.png"/>
+<img src="/assets/O4Ygbm3nto3E5KxfVx5culgInjh.png" src-width="3304" src-height="1606" align="center"/>
 
 列表功能操作：
 
@@ -58,7 +58,7 @@ sidebar_position: 0
 
 點擊右上角“新建”按鈕後打開如下頁面
 
-<img src="/assets/C00bbIQ5NoYVhmxsVGhcD8gBnTh.png"/>
+<img src="/assets/C00bbIQ5NoYVhmxsVGhcD8gBnTh.png" src-width="2880" src-height="2218" align="center"/>
 
 #### 卡券基礎信息配置
 
@@ -152,7 +152,7 @@ sidebar_position: 0
 
 本作業提供卡券使用數據查看
 
-<img src="/assets/FXsWb74ljodjk6x901OcL4Fdnq7.png"/>
+<img src="/assets/FXsWb74ljodjk6x901OcL4Fdnq7.png" src-width="3226" src-height="1424" align="center"/>
 
 <table>
 <colgroup>
@@ -191,7 +191,7 @@ sidebar_position: 0
 
 菜單入口：運營系統&gt;權益系統&gt;卡劵福利&gt;卡劵結算
 
-<img src="/assets/H4hnbq0VPoj1lKxa6WscsBSinlb.png"/>
+<img src="/assets/H4hnbq0VPoj1lKxa6WscsBSinlb.png" src-width="3224" src-height="1432" align="center"/>
 
 <table>
 <colgroup>
@@ -226,7 +226,7 @@ sidebar_position: 0
 
 ### 實物獎勵模版配置/查看
 
-<img src="/assets/OAmgbpF1ioP8ovxKiHicE2DpnWg.png"/>
+<img src="/assets/OAmgbpF1ioP8ovxKiHicE2DpnWg.png" src-width="3224" src-height="1544" align="center"/>
 
 列表功能操作：
 
@@ -242,7 +242,7 @@ sidebar_position: 0
 
 點擊頁面右上角“新建模版”按鈕，將打開以下頁面
 
-<img src="/assets/YSV4b9CGcojmtmxQz1QcZyaGnFg.png"/>
+<img src="/assets/YSV4b9CGcojmtmxQz1QcZyaGnFg.png" src-width="2684" src-height="1632" align="center"/>
 
 配置面板進行如下字段配置
 
@@ -277,27 +277,27 @@ sidebar_position: 0
 
 #### 實物獎勵發放管理流程
 
-<img src="/assets/FBQUb98YooZwmxxil2KcPj01nFc.jpeg"/>
+<img src="/assets/FBQUb98YooZwmxxil2KcPj01nFc.jpeg" src-width="1114" src-height="2174" align="center"/>
 
 - 發獎後，查看用戶填寫的地址信息導出地址與發貨信息進行線下發貨
 
-<img src="/assets/U6Z6bLDmtoeHhOxFnxicSkqDnTw.png"/>
+<img src="/assets/U6Z6bLDmtoeHhOxFnxicSkqDnTw.png" src-width="3768" src-height="1840" align="center"/>
 
-<img src="/assets/Jp0cbdot7oBwi7x3ZGicog4ensd.png"/>
+<img src="/assets/Jp0cbdot7oBwi7x3ZGicog4ensd.png" src-width="1394" src-height="660" align="center"/>
 
 為防止導出發貨後用戶修改地址，需要點擊‘批量修改狀態'，修改狀態後用戶將不能變更發貨地址
 
-<img src="/assets/NphFbQQSFoXM4MxYsWXcJiLNn5c.png"/>
+<img src="/assets/NphFbQQSFoXM4MxYsWXcJiLNn5c.png" src-width="3252" src-height="1616" align="center"/>
 
 發貨後將已發貨的物流單號信息填寫到系統中或批量導入到系統中，以便用戶進行查看
 
 點擊“發貨”按鈕，彈框可填寫物流單號
 
-<img src="/assets/P6Qcb4veCoWBjjxXSDTcln9jnae.png"/>
+<img src="/assets/P6Qcb4veCoWBjjxXSDTcln9jnae.png" src-width="3234" src-height="1136" align="center"/>
 
 填寫好物流單號後點擊確認即可
 
 若操作量多時，可點擊頁面右上角“批量導入物流單號”可選中文件可批量導入物流單號，更高效！
 
-<img src="/assets/I5cDbo7SFo8lKvxB7CKcIqcrnqc.png"/>
+<img src="/assets/I5cDbo7SFo8lKvxB7CKcIqcrnqc.png" src-width="3336" src-height="1724" align="center"/>
 

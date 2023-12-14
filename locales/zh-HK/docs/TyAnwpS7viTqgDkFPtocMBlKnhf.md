@@ -25,5 +25,5 @@ sidebar_position: 2
 - 設置標題、內容、上傳封面圖片
 - 選擇通知行爲：常用的爲打開某個活動鏈接或跳轉到新股認購的頁面，具體可按需選擇
 
-<img src="/assets/LRDrbZDarobspdx7QLXcLvqcnZg.png"/>
+<img src="/assets/LRDrbZDarobspdx7QLXcLvqcnZg.png" src-width="2132" src-height="1526" align="center"/>
 

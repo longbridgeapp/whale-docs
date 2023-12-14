@@ -27,5 +27,5 @@ sidebar_position: 0
 - 设置 Banner 运行周期：Banner 生效的周期，在设置周期内，Banner 生效，过期后则不再展示
 - 设置 Banner 可见范围：全部用户可见 - 则 App 所有用户可以看到 Banner，投放系统可见 - 则仅计划配置中的目标受众可见
 
-<img src="/assets/G2P3bSF3boxeboxFPD1crICsnJe.png"/>
+<img src="/assets/G2P3bSF3boxeboxFPD1crICsnJe.png" src-width="1972" src-height="1640" align="center"/>
 

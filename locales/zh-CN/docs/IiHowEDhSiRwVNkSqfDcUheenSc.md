@@ -1,11 +1,11 @@
 ---
-title: 作业介面操作说明
+title: 作业介面说明
 slug: getting-started
-sidebar_position: 3
+sidebar_position: 0
 ---
 
 
-# 作业介面操作说明
+# 作业介面说明
 
 # 单元作业操作设计
 
@@ -15,33 +15,33 @@ Whale 针对单元作业 也提供基础体验优化，以下是常见的一些�
 
 目前未选择任何记录
 
-<img src="/assets/CRFSblWR2owla5xeaOZcDjSUnhf.png"/>
+<img src="/assets/CRFSblWR2owla5xeaOZcDjSUnhf.png" src-width="3328" src-height="1604" align="center"/>
 
 选择后会自动判断 可对应操作功能键出现
 
-<img src="/assets/TwOhbSCtio1AbFxlwPZc38pinwd.png"/>
+<img src="/assets/TwOhbSCtio1AbFxlwPZc38pinwd.png" src-width="3318" src-height="1614" align="center"/>
 
 **部分单元作业表格页面支持点击整条热区进入详情（左侧滑出）**
 
-<img src="/assets/CuBpb3FWOo0YIWxOqTacAP68nQb.png"/>
+<img src="/assets/CuBpb3FWOo0YIWxOqTacAP68nQb.png" src-width="3352" src-height="1470" align="center"/>
 
 滑出左侧纪录详情
 
-<img src="/assets/Km7HbDOgOobgEcxXq1zcVJ2Hn6f.png"/>
+<img src="/assets/Km7HbDOgOobgEcxXq1zcVJ2Hn6f.png" src-width="3372" src-height="1620" align="center"/>
 
 **部分单元作业页面支持横向滚动条吸底**
 
 操作下方横向滚动条可以滑看纪录左右侧
 
-<img src="/assets/EfFNbigB3ozSBCxI3uDcz9NZnRc.png"/>
+<img src="/assets/EfFNbigB3ozSBCxI3uDcz9NZnRc.png" src-width="3306" src-height="1519" align="center"/>
 
 **部分单元表格页面支持表头吸顶（表格栏位固定不滚动）**
 
-<img src="/assets/Ss7eb0pR8oNhYCxNdctcHfUwnvh.png"/>
+<img src="/assets/Ss7eb0pR8oNhYCxNdctcHfUwnvh.png" src-width="3278" src-height="1245" align="center"/>
 
 表格栏位置顶
 
-<img src="/assets/KQccbib9Qoqo4dxYRjLcWMQHnMm.png"/>
+<img src="/assets/KQccbib9Qoqo4dxYRjLcWMQHnMm.png" src-width="3320" src-height="1616" align="center"/>
 
 # 通用元件操作说明
 
@@ -53,67 +53,67 @@ Whale 针对单元作业 也提供基础体验优化，以下是常见的一些�
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>栏位输入提示</strong></p></td><td><p>一些栏位会有特别的文字输入提示，方便操作指引</p></td><td><img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png"/>
-<img src="/assets/JxKXb6AJOoPMc1x7BLUcHhkynde.png"/></td></tr>
+<td><p><strong>栏位输入提示</strong></p></td><td><p>一些栏位会有特别的文字输入提示，方便操作指引</p></td><td><img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png" src-width="994" src-height="180"/>
+<img src="/assets/JxKXb6AJOoPMc1x7BLUcHhkynde.png" src-width="922" src-height="164"/></td></tr>
 <tr>
-<td><p><strong>日期栏位</strong></p></td><td><p>点选日期框就会出现日历选项，<br/>方便点击选择</p></td><td><img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png"/></td></tr>
+<td><p><strong>日期栏位</strong></p></td><td><p>点选日期框就会出现日历选项，<br/>方便点击选择</p></td><td><img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png" src-width="1176" src-height="734"/></td></tr>
 <tr>
 <td><p><strong>Combox 栏位</strong></p></td><td><p>点击 Combox 的向下箭头框就会出现 Combox 项目选择</p></td><td><div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/JAbIbIHlsopeb0xDzgKcjBpRnae.png"/>
+<img src="/assets/JAbIbIHlsopeb0xDzgKcjBpRnae.png" src-width="264" src-height="113"/>
 </div>
 <div>
-<img src="/assets/J3embcgAeoxyYLxNTAWcCxnMnzh.png"/>
+<img src="/assets/J3embcgAeoxyYLxNTAWcCxnMnzh.png" src-width="232" src-height="240"/>
 </div>
 </div></td></tr>
 <tr>
-<td><p><strong>客户栏位</strong></p></td><td><p>系统提供多元栏位可以方便定位查询对应的客户</p></td><td><img src="/assets/Cwx6bhiqsojJ5SxQ4DRcQumtn3e.png"/>
-<img src="/assets/Po1RbCpIzoRTIGxKUrccjJNYnbe.png"/></td></tr>
+<td><p><strong>客户栏位</strong></p></td><td><p>系统提供多元栏位可以方便定位查询对应的客户</p></td><td><img src="/assets/Cwx6bhiqsojJ5SxQ4DRcQumtn3e.png" src-width="199" src-height="121"/>
+<img src="/assets/Po1RbCpIzoRTIGxKUrccjJNYnbe.png" src-width="561" src-height="408"/></td></tr>
 <tr>
 <td><p><strong>高级搜索</strong></p></td><td><p>在查询条件区可以点选此来展开或缩展更多查询条件栏位</p></td><td><div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/O6vNbR4r4oi5zcxGwWbce1SbnMb.png"/>
+<img src="/assets/O6vNbR4r4oi5zcxGwWbce1SbnMb.png" src-width="248" src-height="142"/>
 </div>
 <div>
-<img src="/assets/NmE9b0w4tod3Bex3ONXcoAoUnEd.png"/>
+<img src="/assets/NmE9b0w4tod3Bex3ONXcoAoUnEd.png" src-width="252" src-height="132"/>
 </div>
 </div></td></tr>
 <tr>
 <td><p><strong>支持搜索栏位</strong></p></td><td><p>若提示说明出现&#39;搜索&#39;文字，表示该栏位支持模糊搜索功能</p></td><td><div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/EztfbHbDAoYzocxZY1BczbOOnqe.png"/>
+<img src="/assets/EztfbHbDAoYzocxZY1BczbOOnqe.png" src-width="482" src-height="214"/>
 </div>
 <div>
-<img src="/assets/JrODbNxxxos3hzxLs5tceElsnzc.png"/>
+<img src="/assets/JrODbNxxxos3hzxLs5tceElsnzc.png" src-width="478" src-height="716"/>
 </div>
 </div></td></tr>
 <tr>
-<td><p><strong>表列展示分页</strong></p></td><td><p>可以自行配置查询结果分页数量与跳转至特定分页</p></td><td><img src="/assets/CNLtbDoLKo1Ch0x4SjPcB9HBnCe.png"/></td></tr>
+<td><p><strong>表列展示分页</strong></p></td><td><p>可以自行配置查询结果分页数量与跳转至特定分页</p></td><td><img src="/assets/CNLtbDoLKo1Ch0x4SjPcB9HBnCe.png" src-width="318" src-height="85"/></td></tr>
 <tr>
-<td><p><strong>查询结果导出</strong></p></td><td><p>可以将查询结果表列数据导出，并提供下载功能</p></td><td><img src="/assets/NuTtbN7Fco5oGKx63RscYgjanvg.png"/></td></tr>
+<td><p><strong>查询结果导出</strong></p></td><td><p>可以将查询结果表列数据导出，并提供下载功能</p></td><td><img src="/assets/NuTtbN7Fco5oGKx63RscYgjanvg.png" src-width="2724" src-height="434" align="center"/></td></tr>
 <tr>
-<td><p><strong>必输入栏位提示</strong></p></td><td><p>栏位名称前 带红星* 表示该栏位是必要输入值</p></td><td><img src="/assets/IduWbIGyio13o8x60C6cNj8rn1e.png"/></td></tr>
+<td><p><strong>必输入栏位提示</strong></p></td><td><p>栏位名称前 带红星* 表示该栏位是必要输入值</p></td><td><img src="/assets/IduWbIGyio13o8x60C6cNj8rn1e.png" src-width="778" src-height="97" align="center"/></td></tr>
 <tr>
-<td><p><strong>加减符号功能</strong></p></td><td><p>表示可自行增加或删除数据组</p></td><td><img src="/assets/JT6MbH8GRorrSFxeqjkc0VUbnQe.png"/></td></tr>
+<td><p><strong>加减符号功能</strong></p></td><td><p>表示可自行增加或删除数据组</p></td><td><img src="/assets/JT6MbH8GRorrSFxeqjkc0VUbnQe.png" src-width="765" src-height="85" align="center"/></td></tr>
 <tr>
-<td><p><strong>查询与清除功能</strong></p></td><td><p>可以执行 查询栏位查询与清除查询条件</p></td><td><img src="/assets/ANV4btz1yoMuhTxiiShc1zT8nlf.png"/></td></tr>
+<td><p><strong>查询与清除功能</strong></p></td><td><p>可以执行 查询栏位查询与清除查询条件</p></td><td><img src="/assets/ANV4btz1yoMuhTxiiShc1zT8nlf.png" src-width="294" src-height="164"/></td></tr>
 <tr>
-<td><p><strong>导出资料</strong></p></td><td><p>可以将列表纪录 导出 Excel /CSV</p></td><td><img src="/assets/SCiobZfZaofYn3xd5TfcteRJn5g.png"/></td></tr>
+<td><p><strong>导出资料</strong></p></td><td><p>可以将列表纪录 导出 Excel /CSV</p></td><td><img src="/assets/SCiobZfZaofYn3xd5TfcteRJn5g.png" src-width="158" src-height="256"/></td></tr>
 <tr>
-<td><p><strong>栏位辅助文案</strong></p></td><td><p>在栏位旁的 i 图示可以展示辅助文案</p></td><td><img src="/assets/TWVLb2zCQovDjCx8nnhca8eYnYc.png"/></td></tr>
+<td><p><strong>栏位辅助文案</strong></p></td><td><p>在栏位旁的 i 图示可以展示辅助文案</p></td><td><img src="/assets/TWVLb2zCQovDjCx8nnhca8eYnYc.png" src-width="849" src-height="165"/></td></tr>
 <tr>
-<td><p><strong>列表其他操作键</strong></p></td><td><p>列表其他操作功能键，可在... 图示上点选</p></td><td><img src="/assets/RdEvbLYkqoXXwMx2UqGcTH48nvh.png"/></td></tr>
+<td><p><strong>列表其他操作键</strong></p></td><td><p>列表其他操作功能键，可在... 图示上点选</p></td><td><img src="/assets/RdEvbLYkqoXXwMx2UqGcTH48nvh.png" src-width="2074" src-height="289" align="center"/></td></tr>
 <tr>
 <td><p><strong>列表栏位自选</strong></p></td><td><p>可以自行选取 列表展示栏位</p></td><td><div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/N8lbbrmZPoXYYCxmtVjcMpYSnCd.png"/>
+<img src="/assets/N8lbbrmZPoXYYCxmtVjcMpYSnCd.png" src-width="80" src-height="94" align="center"/>
 </div>
 <div>
-<img src="/assets/ARopbbPZeozMFdxavNXcZMWonRe.png"/>
+<img src="/assets/ARopbbPZeozMFdxavNXcZMWonRe.png" src-width="3086" src-height="1224" align="center"/>
 </div>
 </div></td></tr>
 <tr>
-<td><p><strong>新技巧交互提示</strong></p></td><td><p>当有新技巧提供时，第一次会展示交互提示说明</p></td><td><img src="/assets/BUlMbPjYJoPklHxfKbAc97tbnId.png"/></td></tr>
+<td><p><strong>新技巧交互提示</strong></p></td><td><p>当有新技巧提供时，第一次会展示交互提示说明</p></td><td><img src="/assets/BUlMbPjYJoPklHxfKbAc97tbnId.png" src-width="652" src-height="256"/></td></tr>
 </tbody>
 </table>
 

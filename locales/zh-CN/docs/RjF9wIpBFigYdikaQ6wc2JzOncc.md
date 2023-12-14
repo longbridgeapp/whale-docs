@@ -23,13 +23,13 @@ sidebar_position: 3
 
 注意：未命中的客户纪录，将不会在此展示
 
-<img src="/assets/P86Gb51eVoQeEfxqzfQcJcvDnKr.png"/>
+<img src="/assets/P86Gb51eVoQeEfxqzfQcJcvDnKr.png" src-width="3224" src-height="1618" align="center"/>
 
  作业上有四个维度：全部客户/待处理警报客户/持续监控客户（主要持有人）/持续监控客户（次要持有人）
 
-<img src="/assets/NwZHbeCvvokJfAx9ILwcLy7NnQf.png"/>
+<img src="/assets/NwZHbeCvvokJfAx9ILwcLy7NnQf.png" src-width="3226" src-height="354" align="center"/>
 
 切换不同维度时，下方资料区会读取相关资料，方便监控查阅个别纪录，同时可根据 AML 管理需要，操作‘取消监控' '加入监控名单‘
 
-<img src="/assets/UufEbDUO3oIU5dxWwXMcTKgVnbc.png"/>
+<img src="/assets/UufEbDUO3oIU5dxWwXMcTKgVnbc.png" src-width="3208" src-height="1606" align="center"/>
 

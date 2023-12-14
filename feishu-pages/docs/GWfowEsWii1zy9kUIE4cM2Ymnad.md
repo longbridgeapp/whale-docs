@@ -21,17 +21,17 @@ sidebar_position: 1
 
 本作業可以管理維護透過 PageHub 制作出來的頁面
 
-<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png"/>
+<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png" src-width="3354" src-height="1454" align="center"/>
 
 ### 基礎操作
 
 在 Pagehub 查詢管理頁面列表，提供【鏈接複製】的功能操作，可以點選 Copy 圖示
 
-<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png"/>
+<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png" src-width="3306" src-height="918" align="center"/>
 
 在 PageHub 查詢管理頁面列表，提供【二維碼】的預覽功能操作
 
-<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png"/>
+<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png" src-width="3286" src-height="1002" align="center"/>
 
 紀錄右側操作區的可以操作： 【編輯】/【複製】/【刪除】
 
@@ -74,18 +74,18 @@ sidebar_position: 1
 
 點擊右上角【新建頁面】後打開如下頁面，佈局如圖：
 
-<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png"/>
+<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png" src-width="1921" src-height="989" align="center"/>
 
 **組件管理/組件庫：**
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png"/>
+<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png" src-width="664" src-height="754" align="center"/>
 
 <p>展示當前頁面中已經配置的組件列表，點擊對應組件名稱可進行編輯配置</p>
 </div>
 <div>
-<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png"/>
+<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png" src-width="690" src-height="1268" align="center"/>
 
 <p>所有可配置的組件類型，點擊/拖拽對應組件類型會自動添加至預覽去頁面中</p>
 </div>
@@ -93,15 +93,15 @@ sidebar_position: 1
 
 **預覽區操作功能說明：**
 
-<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png"/>
+<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png" src-width="2406" src-height="1832" align="center"/>
 
 **多語言切換功能說明：**
 
-<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png"/>
+<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png" src-width="800" src-height="356"/>
 
 **配置區域功能說明：**
 
-<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png"/>
+<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png" src-width="696" src-height="632"/>
 
 - 頁面配置-當前頁面主要參數配置
 

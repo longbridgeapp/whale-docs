@@ -23,17 +23,17 @@ sidebar_position: 2
 
 该菜单支持查看系统的平仓订单
 
-<img src="/assets/HM5pbx0uEoLNYaxMFPDcb9q3nje.png"/>
+<img src="/assets/HM5pbx0uEoLNYaxMFPDcb9q3nje.png" src-width="3172" src-height="876" align="center"/>
 
 ### 人工平仓
 
 该菜单用于查看人工的平仓订单，未成交的订单，可在此页面操作撤单
 
-<img src="/assets/OEnNb3yg9oe5X4xwkl9ctDqUnRf.png"/>
+<img src="/assets/OEnNb3yg9oe5X4xwkl9ctDqUnRf.png" src-width="3170" src-height="1272" align="center"/>
 
 ### 期权平仓
 
 该菜单用于查看期权平仓订单，未成交的订单，可在此页面操作撤单
 
-<img src="/assets/DHrgbh9V4oUNBzxJ3JwckCLSnHe.png"/>
+<img src="/assets/DHrgbh9V4oUNBzxJ3JwckCLSnHe.png" src-width="3168" src-height="1172" align="center"/>
 

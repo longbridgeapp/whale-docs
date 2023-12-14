@@ -25,26 +25,26 @@ sidebar_position: 5
 
 1. 頁面可通過【設置】設置 margin call 時是否自動失效交易額度，默認開啓自動失效，可以進行修改，詳細可見設置頁面提示
 
-<img src="/assets/QWY9bCfDnoxLunxYDyLczMULnEh.png"/>
+<img src="/assets/QWY9bCfDnoxLunxYDyLczMULnEh.png" src-width="3244" src-height="1092" align="center"/>
 
 1. 頁面可以通過【新建】【批量新建】來給客戶添加交易額度
 
-<img src="/assets/JHCebsK8KoEtm7x5xCucmxTtnLc.png"/>
+<img src="/assets/JHCebsK8KoEtm7x5xCucmxTtnLc.png" src-width="3346" src-height="694" align="center"/>
 
 1. 配置客戶交易額度，按頁面要求填寫後提交審批，提交信息可在「變更記錄」查看；在工單系統審批通過後，方可在「客戶交易額度」列表展示；【批量新建】同該操作​
 注：​
 ◦一個客戶僅可存在一個交易額度類型​
 ◦若客戶已有同類型交易額度，系統則會默認以本次新增額度進行覆蓋
 
-<img src="/assets/FFKVbmzY9ojSYKxzbRXc8R42nyg.png"/>
+<img src="/assets/FFKVbmzY9ojSYKxzbRXc8R42nyg.png" src-width="3346" src-height="1724" align="center"/>
 
 1. 在列表頁操作項【編輯】可修改客戶交易額度，按頁面配置修改後提交即可；操作方式同【新建】
 
-<img src="/assets/OGbWbrfPjoPGTTxNDs8c4DJIn9d.png"/>
+<img src="/assets/OGbWbrfPjoPGTTxNDs8c4DJIn9d.png" src-width="3254" src-height="1624" align="center"/>
 
 1. 狀態已失效的客戶可以通過【編輯】修改失效日期來生效客戶交易額度；若需要對已生效的客戶進行失效額度，則可通過操作列表的【置為失效】操作完成
 
-<img src="/assets/Wdt4bop4Yog2n2xTnZkcVy2wnie.png"/>
+<img src="/assets/Wdt4bop4Yog2n2xTnZkcVy2wnie.png" src-width="3268" src-height="305" align="center"/>
 
 ### 變更記錄
 
@@ -52,5 +52,5 @@ sidebar_position: 5
 
 1. 列表操作的【工单详情】可以查看该交易额度记录的审批详情
 
-<img src="/assets/Oms6betYroVmanxUoLYcFLBNnHc.png"/>
+<img src="/assets/Oms6betYroVmanxUoLYcFLBNnHc.png" src-width="3254" src-height="608" align="center"/>
 

@@ -23,7 +23,7 @@ sidebar_position: 0
 
 邀請活動通過綁定關係進行發獎。
 
-<img src="/assets/VwwXbFQWRomkzwx3Ri3cQ1KCnsd.png"/>
+<img src="/assets/VwwXbFQWRomkzwx3Ri3cQ1KCnsd.png" src-width="1474" src-height="494" align="center"/>
 
 #### 邀請活動配置
 
@@ -31,11 +31,11 @@ sidebar_position: 0
 
 若要新增一個邀請活動，可以點擊邀請活動模塊下的新建按鈕
 
-<img src="/assets/Z3qtbfmCsoxSYdxmbePcBu8snZf.png"/>
+<img src="/assets/Z3qtbfmCsoxSYdxmbePcBu8snZf.png" src-width="3222" src-height="432"/>
 
 新建邀請如下頁面：
 
-<img src="/assets/ZfCYb3ZKioEJcSx8XdzcnYCsnsc.png"/>
+<img src="/assets/ZfCYb3ZKioEJcSx8XdzcnYCsnsc.png" src-width="2606" src-height="1612" align="center"/>
 
 活動模版字段按如下規則進行配置：
 
@@ -82,11 +82,11 @@ sidebar_position: 0
 
 固定獎勵
 
-<img src="/assets/NGAebX7wQoFWy9xWDWZcBeQkn9b.png"/>
+<img src="/assets/NGAebX7wQoFWy9xWDWZcBeQkn9b.png" src-width="2444" src-height="1614" align="center"/>
 
 階梯獎勵：
 
-<img src="/assets/CaXobHvMkoaib0xlJljcB0LLnAc.png"/>
+<img src="/assets/CaXobHvMkoaib0xlJljcB0LLnAc.png" src-width="2450" src-height="1616" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <p>💡 填寫完成後不可隨意切換活動類型和獎勵類型，不然會導致列表清空</p>
@@ -96,7 +96,7 @@ sidebar_position: 0
 
 點擊對應活動後方詳情按鈕，進入活動詳情頁面，點擊“獲獎名單”tab，進入以下頁面
 
-<img src="/assets/FTqKbWI4SoNQPJxO6OGcNRDznff.png"/>
+<img src="/assets/FTqKbWI4SoNQPJxO6OGcNRDznff.png" src-width="3248" src-height="1156" align="center"/>
 
 數據統計狀態：
 

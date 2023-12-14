@@ -25,17 +25,17 @@ sidebar_position: 2
 
 可以维护美股市场的相关公司行动
 
-<img src="/assets/M6pUbhlK8oK7PMxrvh9cEsylnbe.png"/>
+<img src="/assets/M6pUbhlK8oK7PMxrvh9cEsylnbe.png" src-width="3358" src-height="734" align="center"/>
 
 若要新增一笔企业行动规则，要分三个步骤： 
 
 第一：输入标的代码
 
-<img src="/assets/Uj6Pbzj5DopeHyxXmNicO5ttnwf.png"/>
+<img src="/assets/Uj6Pbzj5DopeHyxXmNicO5ttnwf.png" src-width="2394" src-height="344" align="center"/>
 
 第二：输入行动规则
 
-<img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png"/>
+<img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png" src-width="2764" src-height="1204" align="center"/>
 
 其中栏位说明如下：
 
@@ -63,7 +63,7 @@ sidebar_position: 2
 
 基本是依序执行三个步骤：
 
-<img src="/assets/X0vxbRqxpoEOVyxk2c8coawonZc.png"/>
+<img src="/assets/X0vxbRqxpoEOVyxk2c8coawonZc.png" src-width="1350" src-height="140" align="center"/>
 
-<img src="/assets/OPrtbaZnJosDLmxZnM8ckZ2En3e.png"/>
+<img src="/assets/OPrtbaZnJosDLmxZnM8ckZ2En3e.png" src-width="3294" src-height="502" align="center"/>
 

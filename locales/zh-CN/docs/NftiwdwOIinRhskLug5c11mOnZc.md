@@ -23,11 +23,11 @@ sidebar_position: 3
 
 该菜单分币种展示所有客户融资明细，供查询使用。
 
-<img src="/assets/GCxgbnVV3o7DiFxRqtactxVNnBe.png"/>
+<img src="/assets/GCxgbnVV3o7DiFxRqtactxVNnBe.png" src-width="3174" src-height="1136" align="center"/>
 
 ### 超额明细
 
 该菜单展示所有超额融资客户的明细数据，供查询使用。
 
-<img src="/assets/NP0XbvEHEoYh18xLjPLcUCGJnBd.png"/>
+<img src="/assets/NP0XbvEHEoYh18xLjPLcUCGJnBd.png" src-width="3174" src-height="1256" align="center"/>
 

@@ -25,5 +25,5 @@ sidebar_position: 2
 - 设置标题、内容、上传封面图片
 - 选择通知行为：常用的为打开某个活动链接或跳转到新股认购的页面，具体可按需选择
 
-<img src="/assets/LRDrbZDarobspdx7QLXcLvqcnZg.png"/>
+<img src="/assets/LRDrbZDarobspdx7QLXcLvqcnZg.png" src-width="2132" src-height="1526" align="center"/>
 

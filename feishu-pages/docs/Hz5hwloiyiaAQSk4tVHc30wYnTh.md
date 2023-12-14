@@ -26,17 +26,17 @@ sidebar_position: 5
     - 操作時可操作錢貨同時延後，或者僅錢延後
     - 提交後：所有待交收的貨（錢）都會延後一個帳務日期進行處理，點擊完「確定」後更新版面
 
-<img src="/assets/Udy3bfTx2o7q79x95k9c7WYhnod.png"/>
+<img src="/assets/Udy3bfTx2o7q79x95k9c7WYhnod.png" src-width="3336" src-height="1334" align="center"/>
 
 在日切點前需要操作日終的，日終任務點擊提前日切
 
-<img src="/assets/TzH8b9QVQo3j5TxTK1Pcw0Eynid.png"/>
+<img src="/assets/TzH8b9QVQo3j5TxTK1Pcw0Eynid.png" src-width="3332" src-height="1192" align="center"/>
 
-<img src="/assets/B7EVbqu8uoKLrOxi2QAc6wDNnMc.png"/>
+<img src="/assets/B7EVbqu8uoKLrOxi2QAc6wDNnMc.png" src-width="3368" src-height="1172" align="center"/>
 
 ### 颱風天半日市
 
 上午有交易，下午沒交易的，選擇錢延後
 
-<img src="/assets/WMdkbUqggoAKzexBPxHcVO6FnCg.png"/>
+<img src="/assets/WMdkbUqggoAKzexBPxHcVO6FnCg.png" src-width="3354" src-height="1324" align="center"/>
 

@@ -11,11 +11,11 @@ sidebar_position: 1
 
 透过方便的营销活动模板，来管理各种营销活动
 
-<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png"/>
+<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920"/>
 
 在整体架构上，活动系统的管理就是完成整个 OPA 运营系统中的核心活动管理，透过活动模板配置，协助劵商租户完成多场景/多营销面向的活动管理
 
-<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png"/>
+<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818"/>
 
 **作业摘要**
 
@@ -49,13 +49,13 @@ sidebar_position: 1
 
 首先查活动配置是否正确，点击对应活动后方详情进入查看活动规则配置，确认配置的对应规则和奖励是否正确？
 
-<img src="/assets/XJ46bd9a8oSyrkx6Th0csAWEnoe.png"/>
+<img src="/assets/XJ46bd9a8oSyrkx6Th0csAWEnoe.png" src-width="3228" src-height="1502" align="center"/>
 
-<img src="/assets/OujMbd5nXoPpxZxb3qycobgGnWb.png"/>
+<img src="/assets/OujMbd5nXoPpxZxb3qycobgGnWb.png" src-width="3214" src-height="1598" align="center"/>
 
 若正确，则正确进入获奖名单查询是否生成以及奖励记录状态
 
-<img src="/assets/QdvmbhpimogW6GxqjzLcJRRGn4d.png"/>
+<img src="/assets/QdvmbhpimogW6GxqjzLcJRRGn4d.png" src-width="3218" src-height="1114" align="center"/>
 
 若发放中则说明系统还在发放中，若待提交则需要运营人员点击提交进行发放。
 
@@ -63,11 +63,11 @@ sidebar_position: 1
 
 执行菜单：运营系统&gt; 活动系统&gt;邀请关系管理
 
-<img src="/assets/QfU6btqIYosoqUxnUOwciJKInNb.png"/>
+<img src="/assets/QfU6btqIYosoqUxnUOwciJKInNb.png" src-width="3234" src-height="1244" align="center"/>
 
 如图，搜索后列表会展示所有该用户绑定的邀请关系，点击后方详情可查看具体绑定的用户信息
 
-<img src="/assets/HZwkbQsyToOI5uxfGaIctjPqnJd.png"/>
+<img src="/assets/HZwkbQsyToOI5uxfGaIctjPqnJd.png" src-width="3230" src-height="998" align="center"/>
 
-<img src="/assets/VsP8bXdJroJHqPx047UczrYOnAR.png"/>
+<img src="/assets/VsP8bXdJroJHqPx047UczrYOnAR.png" src-width="3228" src-height="1596" align="center"/>
 

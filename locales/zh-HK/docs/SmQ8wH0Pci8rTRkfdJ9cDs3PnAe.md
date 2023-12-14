@@ -25,7 +25,7 @@ sidebar_position: 11
 
 執行菜單：公司行動&gt;公司行動管理
 
-<img src="/assets/INbgbDcgzolOG1xts2HcC70Mnnd.png"/>
+<img src="/assets/INbgbDcgzolOG1xts2HcC70Mnnd.png" src-width="2898" src-height="1460" align="center"/>
 
-<img src="/assets/BxyRbb1WvoaVtDxlqPhcvn3inhd.png"/>
+<img src="/assets/BxyRbb1WvoaVtDxlqPhcvn3inhd.png" src-width="2382" src-height="1454" align="center"/>
 

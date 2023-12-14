@@ -25,7 +25,7 @@ sidebar_position: 3
 
 進入 WTT 行情商店：點擊右上角頭像，點擊「行情申請」。
 
-<img src="/assets/SOiZb0Y7So66uQx4oflc1zCpnJb.png"/>
+<img src="/assets/SOiZb0Y7So66uQx4oflc1zCpnJb.png" src-width="2880" src-height="1360" align="center"/>
 
 首先選擇需要的行情產品，行情商店會展示相關的權限，期限与價格，完成選擇后，點擊「確認發起申请」（无需付费，Whale 系統 會自動在次月初和交易员所在公司统一结算總費用）
 
@@ -44,15 +44,15 @@ sidebar_position: 3
 </tbody>
 </table>
 
-<img src="/assets/A8yAb9MH4onxIOxY2uRcIWKnnjg.png"/>
+<img src="/assets/A8yAb9MH4onxIOxY2uRcIWKnnjg.png" src-width="2880" src-height="1360" align="center"/>
 
 等待審核：在申請完成后，該申請需要交易員所在公司的管理员帳号進行内部審核。
 
-<img src="/assets/Mvmcb1N9noymMtx8slmc3m2dnzg.png"/>
+<img src="/assets/Mvmcb1N9noymMtx8slmc3m2dnzg.png" src-width="2880" src-height="1360" align="center"/>
 
 管理員審核：在 OPA Console 后台—「運營系统」-「WTT 權益」-「權益訂單」中，管理員可以看到交易員發起的申请，並可以進行審核操作。
 
-<img src="/assets/KuVgbsyuTowTffxNwZwcYoyfnHe.png"/>
+<img src="/assets/KuVgbsyuTowTffxNwZwcYoyfnHe.png" src-width="3304" src-height="1208" align="center"/>
 
 審核完成：審核通过后，該交易員帳號會立即激活相應行情權限，Whale 系統會收到相應的訂單記錄產生。
 

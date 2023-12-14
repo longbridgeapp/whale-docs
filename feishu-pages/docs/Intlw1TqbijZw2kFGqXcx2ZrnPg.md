@@ -27,11 +27,11 @@ sidebar_position: 1
 
 至于存量現有客戶，長橋科技將會協助在實名制實施前，批量完成現有客戶分配 BCAN 碼
 
-<img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png"/>
+<img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png" src-width="3242" src-height="810" align="center"/>
 
 點選右方上側【新建區間】， 新建一筆新的 BCAN 區間
 
-<img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png"/>
+<img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png" src-width="3248" src-height="1624" align="center"/>
 
 其中欄位說明如下：
 

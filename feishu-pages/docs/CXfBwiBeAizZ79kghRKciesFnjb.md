@@ -27,17 +27,17 @@ sidebar_position: 2
 
 在文件導入界面可導入持倉文件，部分文件可直接系統觸發對帳處理
 
-<img src="/assets/DUw1bDwVboV4mfx9GrZcINC2nzh.png"/>
+<img src="/assets/DUw1bDwVboV4mfx9GrZcINC2nzh.png" src-width="3350" src-height="1456" align="center"/>
 
 導入後並觸發系統對帳處理後，對帳結果為進行中
 
 對帳任務執行完畢後，對帳結果為不平帳或平帳
 
-<img src="/assets/QMi8bzqFto249Ox3k9actMwpn5b.png"/>
+<img src="/assets/QMi8bzqFto249Ox3k9actMwpn5b.png" src-width="2930" src-height="1554" align="center"/>
 
 點擊重新對帳也可（重新）觸發系統對帳
 
-<img src="/assets/PbBbbdYdVoMxJxx5FsxcSHcZnCh.png"/>
+<img src="/assets/PbBbbdYdVoMxJxx5FsxcSHcZnCh.png" src-width="2914" src-height="1526" align="center"/>
 
 ### 清算中檢查、清算後檢查
 
@@ -47,5 +47,5 @@ sidebar_position: 2
 
 清算中檢查手動通過的操作方式類似交易對帳
 
-<img src="/assets/GL9nbcAlNowJjCxEU31cpjvUnKC.png"/>
+<img src="/assets/GL9nbcAlNowJjCxEU31cpjvUnKC.png" src-width="2846" src-height="1418" align="center"/>
 

@@ -21,17 +21,17 @@ sidebar_position: 1
 
 本作业可以管理维护透过 PageHub 制作出来的页面
 
-<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png"/>
+<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png" src-width="3354" src-height="1454" align="center"/>
 
 ### 基础操作
 
 在 Pagehub 查询管理页面列表，提供【链接复制】的功能操作，可以点选 Copy 图示
 
-<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png"/>
+<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png" src-width="3306" src-height="918" align="center"/>
 
 在 PageHub 查询管理页面列表，提供【二维码】的预览功能操作
 
-<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png"/>
+<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png" src-width="3286" src-height="1002" align="center"/>
 
 纪录右侧操作区的可以操作： 【编辑】/【复制】/【删除】
 
@@ -74,18 +74,18 @@ sidebar_position: 1
 
 点击右上角【新建页面】后打开如下页面，布局如图：
 
-<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png"/>
+<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png" src-width="1921" src-height="989" align="center"/>
 
 **组件管理/组件库：**
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png"/>
+<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png" src-width="664" src-height="754" align="center"/>
 
 <p>展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置</p>
 </div>
 <div>
-<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png"/>
+<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png" src-width="690" src-height="1268" align="center"/>
 
 <p>所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览去页面中</p>
 </div>
@@ -93,15 +93,15 @@ sidebar_position: 1
 
 **预览区操作功能说明：**
 
-<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png"/>
+<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png" src-width="2406" src-height="1832" align="center"/>
 
 **多语言切换功能说明：**
 
-<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png"/>
+<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png" src-width="800" src-height="356"/>
 
 **配置区域功能说明：**
 
-<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png"/>
+<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png" src-width="696" src-height="632"/>
 
 - 页面配置 - 当前页面主要参数配置
 

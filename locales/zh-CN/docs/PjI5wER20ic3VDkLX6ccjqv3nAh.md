@@ -19,7 +19,7 @@ sidebar_position: 1
 
 执行菜单：公司行动&gt;公司行动 &gt; 左上角新增 功能键
 
-<img src="/assets/ZjB5bCzceoAWVFxltOOcbsSdnLc.png"/>
+<img src="/assets/ZjB5bCzceoAWVFxltOOcbsSdnLc.png" src-width="3348" src-height="298" align="center"/>
 
 系统提供两种方式 手工新增：手动创建 与 快捷创建
 
@@ -31,9 +31,9 @@ sidebar_position: 1
 
                      这状况是指可能 05 档某个数据初始失败时，可重新读取该编号，重新产生
 
-<img src="/assets/AgmObCpLpogSIyxpLkEcSy4VnFd.png"/>
+<img src="/assets/AgmObCpLpogSIyxpLkEcSy4VnFd.png" src-width="3364" src-height="1394" align="center"/>
 
 此时根据不同类型填写预告必要栏位 (红色* 图标) ,请依系统导引填入正确栏位值内容后存档确认
 
-<img src="/assets/CFQ3b3mTyoZDchxQoSUciaxRnEg.png"/>
+<img src="/assets/CFQ3b3mTyoZDchxQoSUciaxRnEg.png" src-width="2984" src-height="752" align="center"/>
 

@@ -19,9 +19,9 @@ sidebar_position: 10
 
 針對一些公司行動做完權益執行分配後（狀態：執行成功）、可以進行公司行動的撤銷操作
 
-<img src="/assets/Ea1xbN90Xokna8x84DycCrvjnrc.png"/>
+<img src="/assets/Ea1xbN90Xokna8x84DycCrvjnrc.png" src-width="2668" src-height="1618" align="center"/>
 
 同時提供兩種撤銷選項操作：僅撤銷 與 撤銷後重新開始
 
-<img src="/assets/ScXSbsil5or005x6xNYcj4WvnHh.png"/>
+<img src="/assets/ScXSbsil5or005x6xNYcj4WvnHh.png" src-width="3018" src-height="1622" align="center"/>
 

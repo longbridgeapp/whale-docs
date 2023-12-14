@@ -17,7 +17,7 @@ sidebar_position: 0
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>术语 / 中文</strong></p></td><td><p><strong>术语 / 英文</strong></p></td><td><p><strong>说明</strong></p></td></tr>
+<td><p>术语 / 中文</p></td><td><p>术语 / 英文</p></td><td><p>说明</p></td></tr>
 <tr>
 <td><p>业务账户</p></td><td><p>BUSINESS</p></td><td><p><strong>可用不可提</strong><br/>一般的交易发生，都会先对业务账户做处理，业务账户的现金可用不可提</p></td></tr>
 <tr>

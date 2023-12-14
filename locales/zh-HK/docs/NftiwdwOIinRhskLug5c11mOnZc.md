@@ -23,11 +23,11 @@ sidebar_position: 3
 
 該菜單分幣種展示所有客戶融資明細，供查詢使用。
 
-<img src="/assets/GCxgbnVV3o7DiFxRqtactxVNnBe.png"/>
+<img src="/assets/GCxgbnVV3o7DiFxRqtactxVNnBe.png" src-width="3174" src-height="1136" align="center"/>
 
 ### 超額明細
 
 該菜單展示所有超額融資客戶的明細數據，供查詢使用。
 
-<img src="/assets/NP0XbvEHEoYh18xLjPLcUCGJnBd.png"/>
+<img src="/assets/NP0XbvEHEoYh18xLjPLcUCGJnBd.png" src-width="3174" src-height="1256" align="center"/>
 

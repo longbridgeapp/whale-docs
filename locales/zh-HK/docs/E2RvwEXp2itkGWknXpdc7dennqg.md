@@ -25,17 +25,17 @@ sidebar_position: 2
 
 可以維護美股市場的相關公司行動
 
-<img src="/assets/M6pUbhlK8oK7PMxrvh9cEsylnbe.png"/>
+<img src="/assets/M6pUbhlK8oK7PMxrvh9cEsylnbe.png" src-width="3358" src-height="734" align="center"/>
 
 若要新增一筆企業行動規則，要分三個步驟： 
 
 第一：輸入標的代碼
 
-<img src="/assets/Uj6Pbzj5DopeHyxXmNicO5ttnwf.png"/>
+<img src="/assets/Uj6Pbzj5DopeHyxXmNicO5ttnwf.png" src-width="2394" src-height="344" align="center"/>
 
 第二：輸入行動規則
 
-<img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png"/>
+<img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png" src-width="2764" src-height="1204" align="center"/>
 
 其中欄位說明如下：
 
@@ -63,7 +63,7 @@ sidebar_position: 2
 
 基本是依序執行三個步驟：
 
-<img src="/assets/X0vxbRqxpoEOVyxk2c8coawonZc.png"/>
+<img src="/assets/X0vxbRqxpoEOVyxk2c8coawonZc.png" src-width="1350" src-height="140" align="center"/>
 
-<img src="/assets/OPrtbaZnJosDLmxZnM8ckZ2En3e.png"/>
+<img src="/assets/OPrtbaZnJosDLmxZnM8ckZ2En3e.png" src-width="3294" src-height="502" align="center"/>
 

@@ -21,7 +21,7 @@ sidebar_position: 0
 
 ## 资产架构
 
-<img src="/assets/Fh2Qb48emomrhTxta4CctwCvnfc.png"/>
+<img src="/assets/Fh2Qb48emomrhTxta4CctwCvnfc.png" src-width="2438" src-height="1422" align="center"/>
 
 ## 核心场景及业务
 

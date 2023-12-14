@@ -21,15 +21,15 @@ sidebar_position: 0
 
 可以設置導航背景色、Logo 點擊跳轉後的鏈接、導航右側可操作的功能。
 
-<img src="/assets/LsZ0bqE0mo2qxtxmJl3cu0jhnfG.png"/>
+<img src="/assets/LsZ0bqE0mo2qxtxmJl3cu0jhnfG.png" src-width="3828" src-height="1946" align="center"/>
 
 ### 圖片
 
-<img src="/assets/TfqWb2BTmoYEkWxiWWkc1rm2nJd.png"/>
+<img src="/assets/TfqWb2BTmoYEkWxiWWkc1rm2nJd.png" src-width="3822" src-height="1928" align="center"/>
 
 ### 熱區
 
-<img src="/assets/IVKNbD8provsxlx7PSBcOlYJnBb.png"/>
+<img src="/assets/IVKNbD8provsxlx7PSBcOlYJnBb.png" src-width="3812" src-height="1942" align="center"/>
 
 - 鏈接分享效果：用戶點擊後會複製分享鏈接到剪貼版中
 - 海報分享效果：用戶點擊後按所配置圖片生成一張海報，可以下載保存以海報形式分享出去
@@ -46,7 +46,7 @@ sidebar_position: 0
 
 ### 按鈕
 
-<img src="/assets/MPpabMfbxowd3lxPqzmccTTpnSh.png"/>
+<img src="/assets/MPpabMfbxowd3lxPqzmccTTpnSh.png" src-width="3792" src-height="1948" align="center"/>
 
 1. 按鈕點擊事件支持配置：
 
@@ -71,9 +71,9 @@ sidebar_position: 0
 
 ### 隔離區
 
-<img src="/assets/YJARbs2sZoS2GdxZgXTcQLXznSd.png"/>
+<img src="/assets/YJARbs2sZoS2GdxZgXTcQLXznSd.png" src-width="3810" src-height="1952" align="center"/>
 
 ### 我的戰績
 
-<img src="/assets/TLGqb8EzmoaZOrxeenCcdhJlnkc.png"/>
+<img src="/assets/TLGqb8EzmoaZOrxeenCcdhJlnkc.png" src-width="3824" src-height="1918" align="center"/>
 

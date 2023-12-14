@@ -32,5 +32,5 @@ sidebar_position: 1
 - 彈窗平臺：可以選擇是在 2 個端顯示還是隻在某個單一的端進行顯示
 - 可見狀態：選擇投放系統可見則代表僅計劃配置中的目標受衆可見，全部用戶可見則整個 App 用戶可見彈窗
 
-<img src="/assets/AwowbJrbWo39Hgx0cvacFCHWn81.png"/>
+<img src="/assets/AwowbJrbWo39Hgx0cvacFCHWn81.png" src-width="1924" src-height="1644" align="center"/>
 

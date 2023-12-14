@@ -27,11 +27,11 @@ sidebar_position: 1
 
 至于存量现有客户，长桥科技将会协助在实名制实施前，批量完成现有客户分配 BCAN 码
 
-<img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png"/>
+<img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png" src-width="3242" src-height="810" align="center"/>
 
 点选右方上侧【新建区间】，新建一笔新的 BCAN 区间
 
-<img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png"/>
+<img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png" src-width="3248" src-height="1624" align="center"/>
 
 其中栏位说明如下：
 

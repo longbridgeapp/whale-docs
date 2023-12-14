@@ -25,11 +25,11 @@ sidebar_position: 1
 
 列表展示所有追收記錄
 
-<img src="/assets/IG5rbIjM8oBaBoxqvZYcIAtSntC.png"/>
+<img src="/assets/IG5rbIjM8oBaBoxqvZYcIAtSntC.png" src-width="3216" src-height="576" align="center"/>
 
 點擊【詳情】可以進一步查看客戶 margin call 詳情，並支持對期權操作【平倉】
 
-<img src="/assets/EyqBbTz9ao9FbtxVtQtc3HY2nXf.png"/>
+<img src="/assets/EyqBbTz9ao9FbtxVtQtc3HY2nXf.png" src-width="3262" src-height="1626" align="center"/>
 
 ### 空頭股票追收
 
@@ -37,9 +37,9 @@ sidebar_position: 1
 
 列表展示所有追收記錄
 
-<img src="/assets/XXFabwcZhoLJcextJ2hcO87lnEg.png"/>
+<img src="/assets/XXFabwcZhoLJcextJ2hcO87lnEg.png" src-width="3234" src-height="720" align="center"/>
 
 點擊【詳情】可以進一步查看客戶 margin call 詳情，並支持對空頭股票操作【平倉】
 
-<img src="/assets/A5TQbDYIpo2hu2x0oyIcx6zGngb.png"/>
+<img src="/assets/A5TQbDYIpo2hu2x0oyIcx6zGngb.png" src-width="3252" src-height="1608" align="center"/>
 

@@ -23,7 +23,7 @@ sidebar_position: 0
 
 邀请活动通过绑定关系进行发奖。
 
-<img src="/assets/VwwXbFQWRomkzwx3Ri3cQ1KCnsd.png"/>
+<img src="/assets/VwwXbFQWRomkzwx3Ri3cQ1KCnsd.png" src-width="1474" src-height="494" align="center"/>
 
 #### 邀请活动配置
 
@@ -31,11 +31,11 @@ sidebar_position: 0
 
 若要新增一个邀请活动，可以点击邀请活动模块下的新建按钮
 
-<img src="/assets/Z3qtbfmCsoxSYdxmbePcBu8snZf.png"/>
+<img src="/assets/Z3qtbfmCsoxSYdxmbePcBu8snZf.png" src-width="3222" src-height="432"/>
 
 新建邀请如下页面：
 
-<img src="/assets/ZfCYb3ZKioEJcSx8XdzcnYCsnsc.png"/>
+<img src="/assets/ZfCYb3ZKioEJcSx8XdzcnYCsnsc.png" src-width="2606" src-height="1612" align="center"/>
 
 活动模版字段按如下规则进行配置：
 
@@ -82,11 +82,11 @@ sidebar_position: 0
 
 固定奖励
 
-<img src="/assets/NGAebX7wQoFWy9xWDWZcBeQkn9b.png"/>
+<img src="/assets/NGAebX7wQoFWy9xWDWZcBeQkn9b.png" src-width="2444" src-height="1614" align="center"/>
 
 阶梯奖励：
 
-<img src="/assets/CaXobHvMkoaib0xlJljcB0LLnAc.png"/>
+<img src="/assets/CaXobHvMkoaib0xlJljcB0LLnAc.png" src-width="2450" src-height="1616" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <p>💡 填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
@@ -96,7 +96,7 @@ sidebar_position: 0
 
 点击对应活动后方详情按钮，进入活动详情页面，点击“获奖名单”tab，进入以下页面
 
-<img src="/assets/FTqKbWI4SoNQPJxO6OGcNRDznff.png"/>
+<img src="/assets/FTqKbWI4SoNQPJxO6OGcNRDznff.png" src-width="3248" src-height="1156" align="center"/>
 
 数据统计状态：
 

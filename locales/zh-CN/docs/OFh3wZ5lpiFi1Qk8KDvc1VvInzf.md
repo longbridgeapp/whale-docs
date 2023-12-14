@@ -21,11 +21,11 @@ sidebar_position: 1
 
 点击邀请活动模块下的新建按钮
 
-<img src="/assets/X9DAbOVaXoVUXTxtsYxccvxHnqf.png"/>
+<img src="/assets/X9DAbOVaXoVUXTxtsYxccvxHnqf.png" src-width="3218" src-height="438" align="center"/>
 
 打开如下页面：
 
-<img src="/assets/QewybY9SMoLtWbx192Fc04sonqe.png"/>
+<img src="/assets/QewybY9SMoLtWbx192Fc04sonqe.png" src-width="2486" src-height="1626" align="center"/>
 
 活动模版字段按如下规则进行配置：
 
@@ -63,7 +63,7 @@ sidebar_position: 1
 
 新建奖励规则：
 
-<img src="/assets/QCqWbC8iloJQXExLuN1c2xGunFe.png"/>
+<img src="/assets/QCqWbC8iloJQXExLuN1c2xGunFe.png" src-width="2382" src-height="1632" align="center"/>
 
 不同奖励生成时间则奖励的计算逻辑会有部分差别
 
@@ -95,7 +95,7 @@ sidebar_position: 1
 
 奖励记录查看
 
-<img src="/assets/Y9uTbmh2coLljgxj4KacMi6vnRC.png"/>
+<img src="/assets/Y9uTbmh2coLljgxj4KacMi6vnRC.png" src-width="3258" src-height="1242" align="center"/>
 
 <table>
 <colgroup>

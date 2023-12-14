@@ -23,11 +23,11 @@ sidebar_position: 1
 
 进入菜单，查看所有业务码分组
 
-<img src="/assets/JINvbOtuXoc1j9xcuWdcw9Pmnxg.png"/>
+<img src="/assets/JINvbOtuXoc1j9xcuWdcw9Pmnxg.png" src-width="3170" src-height="630" align="center"/>
 
 详情仅支持查看，如需更改分组信息，点击编辑进入；业务码选择框勾选业务码则会在对应类型调账的业务分类展示，取消勾选则不展示
 
-<img src="/assets/T2YGbkUGpopS7oxEg6bcZHa8nQg.png"/>
+<img src="/assets/T2YGbkUGpopS7oxEg6bcZHa8nQg.png" src-width="3156" src-height="1552" align="center"/>
 
-<img src="/assets/Q7BgbSCjCowbzTxQtQkcPkLDngg.png"/>
+<img src="/assets/Q7BgbSCjCowbzTxQtQkcPkLDngg.png" src-width="3240" src-height="1768" align="center"/>
 

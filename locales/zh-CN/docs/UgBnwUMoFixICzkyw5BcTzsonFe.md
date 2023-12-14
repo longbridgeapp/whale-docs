@@ -25,20 +25,20 @@ sidebar_position: 0
 
 在列表页的右上角可以进入帐户间转帐
 
-<img src="/assets/G2Qdbt47zo3TE1xYETgcRky0nPh.png"/>
+<img src="/assets/G2Qdbt47zo3TE1xYETgcRky0nPh.png" src-width="3218" src-height="1000" align="center"/>
 
 转账操作页面确认转出方并选择转帐类型后，系统会自动匹配转入方支持选择
 
 1. 转给主帐户：若转入方为主账户，可以转给同一客户的其他主账户；若转入方为子账户，可以转给该帐户对应的主帐户
 2. 转给子帐户：若转入方为主账户，可以转给其下的子账户
 
-<img src="/assets/EGJXbvzTHogHMPxIQEicjOWfns0.png"/>
+<img src="/assets/EGJXbvzTHogHMPxIQEicjOWfns0.png" src-width="3268" src-height="1724" align="center"/>
 
 按实际业务需求填写转帐信息，若转账金额超出可转出金额，页面会提示，但不会强制限制转帐
 
-<img src="/assets/DMvYbIaploCKIGx4EjcchULInab.png"/>
+<img src="/assets/DMvYbIaploCKIGx4EjcchULInab.png" src-width="3272" src-height="1772" align="center"/>
 
 确认后提交审批，审批进度可以在列表页的操作查看
 
-<img src="/assets/XhftbntcCo0o9Xxn3Vpc7kfznnb.png"/>
+<img src="/assets/XhftbntcCo0o9Xxn3Vpc7kfznnb.png" src-width="3144" src-height="754" align="center"/>
 

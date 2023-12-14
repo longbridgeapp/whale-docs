@@ -25,20 +25,20 @@ sidebar_position: 0
 
 在列表页的右上角可以進入帳户間轉帳
 
-<img src="/assets/G2Qdbt47zo3TE1xYETgcRky0nPh.png"/>
+<img src="/assets/G2Qdbt47zo3TE1xYETgcRky0nPh.png" src-width="3218" src-height="1000" align="center"/>
 
 轉賬操作頁面確認轉出方並選擇轉帳類型後，系統會自動匹配轉入方支持選擇
 
 1. 轉給主帳戶：若轉入方為主賬戶，可以轉給同一客戶的其他主賬戶；若轉入方為子賬戶，可以轉給該帳戶對應的主帳戶
 2. 轉給子帳戶：若轉入方為主賬戶，可以轉給其下的子賬戶
 
-<img src="/assets/EGJXbvzTHogHMPxIQEicjOWfns0.png"/>
+<img src="/assets/EGJXbvzTHogHMPxIQEicjOWfns0.png" src-width="3268" src-height="1724" align="center"/>
 
 按實際業務需求填寫轉帳信息，若轉賬金額超出可轉出金額，頁面會提示，但不會強制限制轉帳
 
-<img src="/assets/DMvYbIaploCKIGx4EjcchULInab.png"/>
+<img src="/assets/DMvYbIaploCKIGx4EjcchULInab.png" src-width="3272" src-height="1772" align="center"/>
 
 確認後提交審批，審批進度可以在列表頁的操作查看
 
-<img src="/assets/XhftbntcCo0o9Xxn3Vpc7kfznnb.png"/>
+<img src="/assets/XhftbntcCo0o9Xxn3Vpc7kfznnb.png" src-width="3144" src-height="754" align="center"/>
 

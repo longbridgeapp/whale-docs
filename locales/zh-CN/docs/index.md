@@ -1,9 +1,9 @@
 ---
-title: 产品使用指南
+title: 使用指南
 slug: guides
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 
-# 产品使用指南
+# 使用指南
 

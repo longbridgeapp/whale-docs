@@ -23,9 +23,9 @@ sidebar_position: 0
 
 進入菜單頁，可以在列表查詢所有業務碼，支持通過編碼和名稱搜索
 
-<img src="/assets/UIImbEtWloj6rFxaNyUc7KpYnSf.png"/>
+<img src="/assets/UIImbEtWloj6rFxaNyUc7KpYnSf.png" src-width="3202" src-height="792" align="center"/>
 
 同時，如果需要修改展示的業務碼名稱或更改是否可見，可以在編輯操作
 
-<img src="/assets/Fzbrb2tgJoQfWIx7RRdcziSEn0e.png"/>
+<img src="/assets/Fzbrb2tgJoQfWIx7RRdcziSEn0e.png" src-width="3280" src-height="1760" align="center"/>
 

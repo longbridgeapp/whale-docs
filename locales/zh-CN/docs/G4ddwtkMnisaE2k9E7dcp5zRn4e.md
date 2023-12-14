@@ -31,18 +31,18 @@ sidebar_position: 0
 
 点击导入文件，上传文件
 
-<img src="/assets/Z5WNbO3jDo3tMvx62zHcB2vunIo.png"/>
+<img src="/assets/Z5WNbO3jDo3tMvx62zHcB2vunIo.png" src-width="2914" src-height="1528" align="center"/>
 
 可通过列表区域的状态字段关注 文档导入和解析状态
 
-<img src="/assets/SfjebtiFyoK4tAxTiUdciDO6nnc.png"/>
+<img src="/assets/SfjebtiFyoK4tAxTiUdciDO6nnc.png" src-width="2910" src-height="1548" align="center"/>
 
 例子：港股 CCASS 交易文件导入（CTF）
 
 - 市场：选择港股，文件类型选择 CTF Trade File 后，上传文档
 - 点击记录 ID 可下载上传的原始档案
 
-<img src="/assets/SRuBbuBMcor4Nvx2P4dcLRqtnpe.png"/>
+<img src="/assets/SRuBbuBMcor4Nvx2P4dcLRqtnpe.png" src-width="2926" src-height="1562" align="center"/>
 
 ### 清算前准备
 
@@ -50,39 +50,39 @@ sidebar_position: 0
 
 市场清算完成交易文件导入，确认当前账务日期准确后，可点击执行清算前准备
 
-<img src="/assets/OXuLbW4NtoGHJBxjA3ocoyNInkb.png"/>
+<img src="/assets/OXuLbW4NtoGHJBxjA3ocoyNInkb.png" src-width="2908" src-height="1540" align="center"/>
 
 执行后，5 秒内会返回检查结果。全部检查都通过的，可以进行后续操作
 
 检查报错的，点击检查项目右上角可查看检查项目的规则和操作指引
 
-<img src="/assets/P3Aybg8HdoLtfoxskrpc8bFTnFf.png"/>
+<img src="/assets/P3Aybg8HdoLtfoxskrpc8bFTnFf.png" src-width="2906" src-height="1548" align="center"/>
 
 部分检查会提供异常详情
 
-<img src="/assets/Y2VkbISX8oxuDqxmbukcTdeon6d.png"/>
+<img src="/assets/Y2VkbISX8oxuDqxmbukcTdeon6d.png" src-width="2904" src-height="1540" align="center"/>
 
 结算人员核对后，确认有问题的，在完成相关业务操作后，可点击“重新执行”
 
-<img src="/assets/GSwobyfSIouTHuxUDtvcLS1An5e.png"/>
+<img src="/assets/GSwobyfSIouTHuxUDtvcLS1An5e.png" src-width="2906" src-height="1558" align="center"/>
 
 结算人员核对后，检查项目可以允许通过的，可点击手动审核人工通过（需要复核）
 
-<img src="/assets/GFBubzDGeoZj2DxEfercgTUjnYf.png"/>
+<img src="/assets/GFBubzDGeoZj2DxEfercgTUjnYf.png" src-width="2904" src-height="1558" align="center"/>
 
 复核人员可点击手动审核（也可直接在工单审核），调出工单审核
 
-<img src="/assets/AlJWb9lcGoBrubx42msca1wRndb.png"/>
+<img src="/assets/AlJWb9lcGoBrubx42msca1wRndb.png" src-width="2920" src-height="1546" align="center"/>
 
-<img src="/assets/M8Nqbh4kboss4nxcz5Fcr1YCnef.png"/>
+<img src="/assets/M8Nqbh4kboss4nxcz5Fcr1YCnef.png" src-width="2920" src-height="1550" align="center"/>
 
 结算人员核对后，因为业务流程有差别，需要永久关闭检查项目的，可以联系客服处理
 
-<img src="/assets/Lg0Eb4bxdoV34rxBMUEcGTChned.png"/>
+<img src="/assets/Lg0Eb4bxdoV34rxBMUEcGTChned.png" src-width="2926" src-height="1556" align="center"/>
 
 当审核通过后，清算前准备就算完成（文字会提示：已手动通过）
 
-<img src="/assets/GyLLbvKRroHteSxah0jcZFbAnpd.png"/>
+<img src="/assets/GyLLbvKRroHteSxah0jcZFbAnpd.png" src-width="2926" src-height="1558" align="center"/>
 
 清算前准备检查项目
 
@@ -155,23 +155,23 @@ sidebar_position: 0
 
 注：若有需要可点选 '暂停一键清算'，但系统会等当时作业执行完毕后，才开始暂停下一动作（功能键会变灰）
 
-<img src="/assets/G5dDbVQOiohE3VxmjQjcDnVJnjb.png"/>
+<img src="/assets/G5dDbVQOiohE3VxmjQjcDnVJnjb.png" src-width="2916" src-height="1546" align="center"/>
 
 **暂停一键****清算**
 
 如果要进行后台补单，或者修正合约的，可在数据同步直接点击“暂停一键清算”，然后逐步执行
 
-<img src="/assets/IBU5bJNLGoJ7upxI7adcZnsinJd.png"/>
+<img src="/assets/IBU5bJNLGoJ7upxI7adcZnsinJd.png" src-width="2922" src-height="1548" align="center"/>
 
 中间若有作业执行错误，则一键清算将会暂停，并停在相关错误的作业程序上，用户可以参考错误讯息提示进行后续修正处理
 
-<img src="/assets/OzD3b7lUboZkDax10MucWx8Znmb.png"/>
+<img src="/assets/OzD3b7lUboZkDax10MucWx8Znmb.png" src-width="2908" src-height="1554" align="center"/>
 
 此时可根据业务需要手动点选右侧下方相关的作业操作，来检查或修正纪录或著 往下一键算操作，系统会自动执行下一个作业
 
 注意：在一键清算过程中，可以依赖系统的一键清算操作（自动执行所有作业），也可以自行 点选作业自行操作
 
-<img src="/assets/YqB6bZ1iooifYNxBapNcaeI9nEh.png"/>
+<img src="/assets/YqB6bZ1iooifYNxBapNcaeI9nEh.png" src-width="2922" src-height="1556" align="center"/>
 
 #### 日终数据同步（Client Trade）
 
@@ -183,7 +183,7 @@ sidebar_position: 0
 
 交易对帐失败的，可快速跳转到交易对账界面查询结果
 
-<img src="/assets/XYbabEQr0o0VF9xqMjdcVv4Tnog.png"/>
+<img src="/assets/XYbabEQr0o0VF9xqMjdcVv4Tnog.png" src-width="2904" src-height="1544" align="center"/>
 
 **对帐结果查询**
 
@@ -193,7 +193,7 @@ sidebar_position: 0
 
 参考图示如下：
 
-<img src="/assets/NaePb9jQ2o02ifxJ7c9cSQW0ntf.png"/>
+<img src="/assets/NaePb9jQ2o02ifxJ7c9cSQW0ntf.png" src-width="3566" src-height="1732" align="center"/>
 
 **特殊场景手动通过**
 
@@ -203,7 +203,7 @@ sidebar_position: 0
 
 按系统数据处理：在“检查结果”中，将对应的检查结果改为“通过”，然后重新点击清算前检查
 
-<img src="/assets/D0w4beo5Bo37gPxbYbBcQkc7nPc.png"/>
+<img src="/assets/D0w4beo5Bo37gPxbYbBcQkc7nPc.png" src-width="2920" src-height="1552" align="center"/>
 
 #### 清算计费
 
@@ -238,9 +238,9 @@ sidebar_position: 0
 
 在正式执行日终清算前，需要先执行清算前准备
 
-<img src="/assets/IpvXbbT4UouRrexorQbcT9bxnAQ.png"/>
+<img src="/assets/IpvXbbT4UouRrexorQbcT9bxnAQ.png" src-width="2492" src-height="1412" align="center"/>
 
-<img src="/assets/MlrgblRS1o2rUtxWflocmEgYnNZ.png"/>
+<img src="/assets/MlrgblRS1o2rUtxWflocmEgYnNZ.png" src-width="2434" src-height="1418" align="center"/>
 
 ### 日终清算一键清算
 
@@ -250,7 +250,7 @@ sidebar_position: 0
 
 结单后可通过报表或者结单进行检查
 
-<img src="/assets/NbyjbRLpOotSbCxWY8dcxcmTn6e.png"/>
+<img src="/assets/NbyjbRLpOotSbCxWY8dcxcmTn6e.png" src-width="2912" src-height="1522" align="center"/>
 
 #### 数据汇总
 

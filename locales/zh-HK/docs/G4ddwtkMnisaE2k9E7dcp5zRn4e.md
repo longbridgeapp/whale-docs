@@ -31,18 +31,18 @@ sidebar_position: 0
 
 點擊導入文件，上傳文件
 
-<img src="/assets/Z5WNbO3jDo3tMvx62zHcB2vunIo.png"/>
+<img src="/assets/Z5WNbO3jDo3tMvx62zHcB2vunIo.png" src-width="2914" src-height="1528" align="center"/>
 
 可通過列表區域的狀態字段關注 文檔導入和解析狀態
 
-<img src="/assets/SfjebtiFyoK4tAxTiUdciDO6nnc.png"/>
+<img src="/assets/SfjebtiFyoK4tAxTiUdciDO6nnc.png" src-width="2910" src-height="1548" align="center"/>
 
 例子：港股 CCASS 交易文件導入（CTF）
 
 - 市場：選擇港股，文件類型選擇 CTF Trade File 後，上傳文檔
 - 點擊記錄 ID 可下載上傳的原始檔案
 
-<img src="/assets/SRuBbuBMcor4Nvx2P4dcLRqtnpe.png"/>
+<img src="/assets/SRuBbuBMcor4Nvx2P4dcLRqtnpe.png" src-width="2926" src-height="1562" align="center"/>
 
 ### 清算前準備
 
@@ -50,39 +50,39 @@ sidebar_position: 0
 
 市場清算完成交易文件導入，確認當前賬務日期準確後，可點擊執行清算前準備
 
-<img src="/assets/OXuLbW4NtoGHJBxjA3ocoyNInkb.png"/>
+<img src="/assets/OXuLbW4NtoGHJBxjA3ocoyNInkb.png" src-width="2908" src-height="1540" align="center"/>
 
 執行後，5 秒內會返回檢查結果。全部檢查都通過的，可以進行後續操作
 
 檢查報錯的，點擊檢查項目右上角可查看檢查項目的規則和操作指引
 
-<img src="/assets/P3Aybg8HdoLtfoxskrpc8bFTnFf.png"/>
+<img src="/assets/P3Aybg8HdoLtfoxskrpc8bFTnFf.png" src-width="2906" src-height="1548" align="center"/>
 
 部分檢查會提供異常詳情
 
-<img src="/assets/Y2VkbISX8oxuDqxmbukcTdeon6d.png"/>
+<img src="/assets/Y2VkbISX8oxuDqxmbukcTdeon6d.png" src-width="2904" src-height="1540" align="center"/>
 
 結算人員核對後，確認有問題的，在完成相關業務操作後，可點擊“重新執行”
 
-<img src="/assets/GSwobyfSIouTHuxUDtvcLS1An5e.png"/>
+<img src="/assets/GSwobyfSIouTHuxUDtvcLS1An5e.png" src-width="2906" src-height="1558" align="center"/>
 
 結算人員核對後，檢查項目可以允許通過的，可點擊手動審核人工通過（需要複核）
 
-<img src="/assets/GFBubzDGeoZj2DxEfercgTUjnYf.png"/>
+<img src="/assets/GFBubzDGeoZj2DxEfercgTUjnYf.png" src-width="2904" src-height="1558" align="center"/>
 
 複核人員可點擊手動審核（也可直接在工單審核），調出工單審核
 
-<img src="/assets/AlJWb9lcGoBrubx42msca1wRndb.png"/>
+<img src="/assets/AlJWb9lcGoBrubx42msca1wRndb.png" src-width="2920" src-height="1546" align="center"/>
 
-<img src="/assets/M8Nqbh4kboss4nxcz5Fcr1YCnef.png"/>
+<img src="/assets/M8Nqbh4kboss4nxcz5Fcr1YCnef.png" src-width="2920" src-height="1550" align="center"/>
 
 結算人員核對後，因為業務流程有差別，需要永久關閉檢查項目的，可以聯繫客服處理
 
-<img src="/assets/Lg0Eb4bxdoV34rxBMUEcGTChned.png"/>
+<img src="/assets/Lg0Eb4bxdoV34rxBMUEcGTChned.png" src-width="2926" src-height="1556" align="center"/>
 
 當審核通過後，清算前準備就算完成（文字會提示：已手動通過）
 
-<img src="/assets/GyLLbvKRroHteSxah0jcZFbAnpd.png"/>
+<img src="/assets/GyLLbvKRroHteSxah0jcZFbAnpd.png" src-width="2926" src-height="1558" align="center"/>
 
 清算前準備檢查項目
 
@@ -155,23 +155,23 @@ sidebar_position: 0
 
 注：若有需要可點選 '暫停一鍵清算'，但系統會等當時作業執行完畢後，才開始暫停下一動作（功能鍵會變灰）
 
-<img src="/assets/G5dDbVQOiohE3VxmjQjcDnVJnjb.png"/>
+<img src="/assets/G5dDbVQOiohE3VxmjQjcDnVJnjb.png" src-width="2916" src-height="1546" align="center"/>
 
 **暫停一鍵****清算**
 
 如果要進行後台補單，或者修正合約的，可在數據同步直接點擊“暫停一鍵清算”，然後逐步執行
 
-<img src="/assets/IBU5bJNLGoJ7upxI7adcZnsinJd.png"/>
+<img src="/assets/IBU5bJNLGoJ7upxI7adcZnsinJd.png" src-width="2922" src-height="1548" align="center"/>
 
 中間若有作業執行錯誤，則一鍵清算將會暫停，並停在相關錯誤的作業程序上，用戶可以參考錯誤訊息提示進行後續修正處理
 
-<img src="/assets/OzD3b7lUboZkDax10MucWx8Znmb.png"/>
+<img src="/assets/OzD3b7lUboZkDax10MucWx8Znmb.png" src-width="2908" src-height="1554" align="center"/>
 
 此時可根據業務需要手動點選右側下方相關的作業操作，來檢查或修正紀錄或著 往下一鍵算操作，系統會自動執行下一個作業
 
 注意：在一鍵清算過程中，可以依賴系統的一鍵清算操作（自動執行所有作業），也可以自行 點選作業自行操作
 
-<img src="/assets/YqB6bZ1iooifYNxBapNcaeI9nEh.png"/>
+<img src="/assets/YqB6bZ1iooifYNxBapNcaeI9nEh.png" src-width="2922" src-height="1556" align="center"/>
 
 #### 日終數據同步（Client Trade）
 
@@ -183,7 +183,7 @@ sidebar_position: 0
 
 交易對帳失敗的，可快速跳轉到交易對賬界面查詢結果
 
-<img src="/assets/XYbabEQr0o0VF9xqMjdcVv4Tnog.png"/>
+<img src="/assets/XYbabEQr0o0VF9xqMjdcVv4Tnog.png" src-width="2904" src-height="1544" align="center"/>
 
 **對帳結果查詢**
 
@@ -193,7 +193,7 @@ sidebar_position: 0
 
 參考圖示如下：
 
-<img src="/assets/NaePb9jQ2o02ifxJ7c9cSQW0ntf.png"/>
+<img src="/assets/NaePb9jQ2o02ifxJ7c9cSQW0ntf.png" src-width="3566" src-height="1732" align="center"/>
 
 **特殊場景手動通過**
 
@@ -203,7 +203,7 @@ sidebar_position: 0
 
 按系統數據處理：在“檢查結果”中，將對應的檢查結果改為“通過”，然後重新點擊清算前檢查
 
-<img src="/assets/D0w4beo5Bo37gPxbYbBcQkc7nPc.png"/>
+<img src="/assets/D0w4beo5Bo37gPxbYbBcQkc7nPc.png" src-width="2920" src-height="1552" align="center"/>
 
 #### 清算計費
 
@@ -238,9 +238,9 @@ sidebar_position: 0
 
 在正式執行日終清算前，需要先執行清算前準備
 
-<img src="/assets/IpvXbbT4UouRrexorQbcT9bxnAQ.png"/>
+<img src="/assets/IpvXbbT4UouRrexorQbcT9bxnAQ.png" src-width="2492" src-height="1412" align="center"/>
 
-<img src="/assets/MlrgblRS1o2rUtxWflocmEgYnNZ.png"/>
+<img src="/assets/MlrgblRS1o2rUtxWflocmEgYnNZ.png" src-width="2434" src-height="1418" align="center"/>
 
 ### 日終清算一鍵清算
 
@@ -250,7 +250,7 @@ sidebar_position: 0
 
 結單後可通過報表或者結單進行檢查
 
-<img src="/assets/NbyjbRLpOotSbCxWY8dcxcmTn6e.png"/>
+<img src="/assets/NbyjbRLpOotSbCxWY8dcxcmTn6e.png" src-width="2912" src-height="1522" align="center"/>
 
 #### 數據匯總
 

@@ -26,17 +26,17 @@ sidebar_position: 6
 
 新建模擬計算：系統支持股票組/股票市場/單一股票 三種模式的預計算，同時也支持是否將某種豁免規則配置在壓力測試某個批次上​；按需選擇模擬計算類型及計算內容後，提交即可開始模擬計算
 
-<img src="/assets/FWgQb5QmzoYSXVxu3nscJYgunl5.png"/>
+<img src="/assets/FWgQb5QmzoYSXVxu3nscJYgunl5.png" src-width="3180" src-height="1246" align="center"/>
 
 注： 相關豁免規則配置 請在執行菜單：「系統設置」&gt;「風控」&gt;「風控參數」菜單內配置
 
 當計算完畢，可以在記錄右側操作區，點選【詳情】查看計算的結果
 
-<img src="/assets/WmmXbFlkAosiAPxBRyncqYQ3n2d.png"/>
+<img src="/assets/WmmXbFlkAosiAPxBRyncqYQ3n2d.png" src-width="3184" src-height="1260" align="center"/>
 
 【詳情】頁面展示的列表數據可以用來評估模擬計算結果是否符合預期；如同時模擬計算margin call和非速凍資金盈餘則會分開兩個列表展示
 
-<img src="/assets/JG86bmjyJoMBO4xaJeVcVazfnWd.png"/>
+<img src="/assets/JG86bmjyJoMBO4xaJeVcVazfnWd.png" src-width="3238" src-height="1592" align="center"/>
 
 ### 自定義數據
 
@@ -44,5 +44,5 @@ sidebar_position: 6
 
 按模版要求導入保證金比例，導入成功後則會在列表頁展示
 
-<img src="/assets/XHlxb9YQMoDGQbx4lJZcDPWrnCc.png"/>
+<img src="/assets/XHlxb9YQMoDGQbx4lJZcDPWrnCc.png" src-width="2914" src-height="1272" align="center"/>
 

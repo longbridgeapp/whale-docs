@@ -1,15 +1,15 @@
 ---
-title: 系统工单操作说明
+title: 工单操作说明
 slug: getting-started
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 
-# 系统工单操作说明
+# 工单操作说明
 
 Whale 系统是支持系统工单的新建与审批，每个用户在登入时，可以方便地在系统右上审批图像上，看到新通知的工单数量，点击后，可以看到待处理的工单清单
 
-<img src="/assets/UxnSb45ifoGHe6xBUvncZTMLnVE.png"/>
+<img src="/assets/UxnSb45ifoGHe6xBUvncZTMLnVE.png" src-width="896" src-height="80" align="center"/>
 
 ## **待办 Tab 等**
 
@@ -17,11 +17,11 @@ Whale 系统是支持系统工单的新建与审批，每个用户在登入时�
 
 工单列表展示为侧边栏样式，方便展示和查看
 
-<img src="/assets/VWYlbhOrromJDsxsIQacHtoKnwg.png"/>
+<img src="/assets/VWYlbhOrromJDsxsIQacHtoKnwg.png" src-width="1900" src-height="1706" align="center"/>
 
 工单新增筛选条件 与 新增列表导出功能，方便对工单作筛选处理
 
-<img src="/assets/EC4NbflcroxHPWx5zqrcbtD8nBe.png"/>
+<img src="/assets/EC4NbflcroxHPWx5zqrcbtD8nBe.png" src-width="1250" src-height="328" align="center"/>
 
 **已办 Tab:**
 
@@ -35,7 +35,7 @@ Whale 系统是支持系统工单的新建与审批，每个用户在登入时�
 
 可以查询到抄送给自己岗位上的发起工单列表
 
-<img src="/assets/BOwcbsP4GoNnVjxRH3JcgkOknud.png"/>
+<img src="/assets/BOwcbsP4GoNnVjxRH3JcgkOknud.png" src-width="1274" src-height="1632" align="center"/>
 
 ## 工单审核详情页
 
@@ -43,5 +43,5 @@ Whale 系统是支持系统工单的新建与审批，每个用户在登入时�
 
 ②支持审批流程中，相关人抄送工单给其他用户
 
-<img src="/assets/NrVPbgQgSo8ILNxVLttcpMCZnPf.png"/>
+<img src="/assets/NrVPbgQgSo8ILNxVLttcpMCZnPf.png" src-width="1210" src-height="1520"/>
 

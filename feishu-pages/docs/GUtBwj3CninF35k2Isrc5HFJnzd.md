@@ -23,7 +23,7 @@ sidebar_position: 0
 
 適用：運營人員，活動系統涉及到下列幾個主體：
 
-<img src="/assets/OfZab8MYcoEPPUx8a5ycu2TDnUc.jpeg"/>
+<img src="/assets/OfZab8MYcoEPPUx8a5ycu2TDnUc.jpeg" src-width="2190" src-height="894" align="center"/>
 
 ### 該菜單頁的功能說明
 
@@ -35,7 +35,7 @@ sidebar_position: 0
 
 下層：可對已創建好的活動紀錄進行查詢
 
-<img src="/assets/J1WNbXNUiouVlzxqdkLcfuf4nfg.png"/>
+<img src="/assets/J1WNbXNUiouVlzxqdkLcfuf4nfg.png" src-width="3230" src-height="1588" align="center"/>
 
 活動管理列表字段說明
 

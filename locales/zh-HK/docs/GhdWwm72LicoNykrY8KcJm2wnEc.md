@@ -11,11 +11,11 @@ sidebar_position: 1
 
 透過方便的營銷活動模板，來管理各種營銷活動
 
-<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png"/>
+<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920"/>
 
 在整體架構上，活動系統的管理就是完成整個 OPA 運營系統中的核心活動管理，透過活動模板配置，協助劵商租戶完成多場景/多營銷面向的活動管理
 
-<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png"/>
+<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818"/>
 
 **作業摘要**
 
@@ -49,13 +49,13 @@ sidebar_position: 1
 
 首先查活動配置是否正確，點擊對應活動後方詳情進入查看活動規則配置，確認配置的對應規則和獎勵是否正確？
 
-<img src="/assets/XJ46bd9a8oSyrkx6Th0csAWEnoe.png"/>
+<img src="/assets/XJ46bd9a8oSyrkx6Th0csAWEnoe.png" src-width="3228" src-height="1502" align="center"/>
 
-<img src="/assets/OujMbd5nXoPpxZxb3qycobgGnWb.png"/>
+<img src="/assets/OujMbd5nXoPpxZxb3qycobgGnWb.png" src-width="3214" src-height="1598" align="center"/>
 
 若正確，則正確進入獲獎名單查詢是否生成以及獎勵記錄狀態
 
-<img src="/assets/QdvmbhpimogW6GxqjzLcJRRGn4d.png"/>
+<img src="/assets/QdvmbhpimogW6GxqjzLcJRRGn4d.png" src-width="3218" src-height="1114" align="center"/>
 
 若發放中則說明系統還在發放中，若待提交則需要運營人員點擊提交進行發放。
 
@@ -63,11 +63,11 @@ sidebar_position: 1
 
 執行菜單：運營系統&gt; 活動系統&gt;邀請關係管理
 
-<img src="/assets/QfU6btqIYosoqUxnUOwciJKInNb.png"/>
+<img src="/assets/QfU6btqIYosoqUxnUOwciJKInNb.png" src-width="3234" src-height="1244" align="center"/>
 
 如圖，搜索後列表會展示所有該用戶綁定的邀請關係，點擊後方詳情可查看具體綁定的用戶信息
 
-<img src="/assets/HZwkbQsyToOI5uxfGaIctjPqnJd.png"/>
+<img src="/assets/HZwkbQsyToOI5uxfGaIctjPqnJd.png" src-width="3230" src-height="998" align="center"/>
 
-<img src="/assets/VsP8bXdJroJHqPx047UczrYOnAR.png"/>
+<img src="/assets/VsP8bXdJroJHqPx047UczrYOnAR.png" src-width="3228" src-height="1596" align="center"/>
 

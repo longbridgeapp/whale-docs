@@ -21,13 +21,13 @@ sidebar_position: 2
 
 本作业支持针对不同的用户（客户），进行【分配客经】与【批量备注】与【导出】的操作
 
-<img src="/assets/EBUrbNR1todiiOx9XQfcpoptnNh.png"/>
+<img src="/assets/EBUrbNR1todiiOx9XQfcpoptnNh.png" src-width="3198" src-height="1606" align="center"/>
 
 点选【分配客经】时，填入分配相关客户经理与业绩归属等
 
-<img src="/assets/DdvjbwzoKoiuLpxIrFeceMEVnuh.png"/>
+<img src="/assets/DdvjbwzoKoiuLpxIrFeceMEVnuh.png" src-width="3230" src-height="1624" align="center"/>
 
 同时也可点选【批量备注】添加相关备注说明
 
-<img src="/assets/PDw9b7B3FosSaAxc7bscudJNnib.png"/>
+<img src="/assets/PDw9b7B3FosSaAxc7bscudJNnib.png" src-width="2266" src-height="1066" align="center"/>
 

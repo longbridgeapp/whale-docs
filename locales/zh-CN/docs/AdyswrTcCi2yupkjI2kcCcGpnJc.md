@@ -37,7 +37,7 @@ HK 市场须要先导入 05 文件可自动创建公司行动，或其他美股�
 </thead>
 <tbody>
 <tr>
-<td rowspan="2"><p><strong>公司行动数据来源</strong></p></td><td><p><a href="/Yg5Dwtk30isnqBkNmbscxSK4nme)</p></td></tr>
+<td rowspan="2"><p><strong>公司行动数据来源</strong></p></td><td><p><a href="/Yg5Dwtk30isnqBkNmbscxSK4nme">公司行动数据导入</a> </p></td><td><p>说明公司行动预告数据导入方式 (港股 05/02文件)</p></td></tr>
 <tr>
 <td><p><a href="/PjI5wER20ic3VDkLX6ccjqv3nAh">公司行动手动新增</a> </p></td><td><p>说明如何手动新增公司行动预告方案</p></td></tr>
 <tr>
@@ -47,7 +47,7 @@ HK 市场须要先导入 05 文件可自动创建公司行动，或其他美股�
 <tr>
 <td rowspan="8"><p><strong>类型场景操作案例</strong></p></td><td><p><a href="/Jo0aw17Meiih1RkxxnVcRLmjnpf">场景 - 牛熊证回收处理</a> </p></td><td></td></tr>
 <tr>
-<td><p><a href="/EBhJwi7B3iK621kqa8LclF5Nnsc)</a> </p></td><td></td></tr>
+<td><p><a href="/EBhJwi7B3iK621kqa8LclF5Nnsc">场景 - 股权清理 (DS)</a> </p></td><td></td></tr>
 <tr>
 <td><p><a href="/VkDUwdaYkicQvQkg2wFcdIzlnkw">场景 - 红股红利</a> </p></td><td></td></tr>
 <tr>

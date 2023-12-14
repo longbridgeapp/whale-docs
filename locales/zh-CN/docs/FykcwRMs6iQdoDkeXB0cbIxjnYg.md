@@ -38,19 +38,19 @@ sidebar_position: 8
 
 列表展示所有已设置 Haircut 的股票列表
 
-<img src="/assets/G2QLbTWqQoGy8yxR7E0cU46EnOf.png"/>
+<img src="/assets/G2QLbTWqQoGy8yxR7E0cU46EnOf.png" src-width="3162" src-height="1132" align="center"/>
 
 可以点选左上角【添加股票 Haircut】添加股票 haircut 纪录
 
-<img src="/assets/SjkJbcj6yoIv6IxFfzbcVf1qneb.png"/>
+<img src="/assets/SjkJbcj6yoIv6IxFfzbcVf1qneb.png" src-width="3166" src-height="664" align="center"/>
 
 也可以在记录右侧操作区点选【编辑】修改股票 haircut 数值
 
-<img src="/assets/RXHCb4QvNofMQBxCsiScjFWVnsc.png"/>
+<img src="/assets/RXHCb4QvNofMQBxCsiScjFWVnsc.png" src-width="3182" src-height="690" align="center"/>
 
 页面也支持批量导入 Haitcut，可以点选左上角【批量导入】 ，可以下载导入模板按照其格式输入后，进行批量导入操作
 
-<img src="/assets/B2qkbewyPoIYkqxOV5lciBvbnmh.png"/>
+<img src="/assets/B2qkbewyPoIYkqxOV5lciBvbnmh.png" src-width="3178" src-height="588" align="center"/>
 
 ### 指数 Haircut
 
@@ -58,11 +58,11 @@ sidebar_position: 8
 
 指数部分与前述股票 Haircut 操作功能相同，但不支持批量导入
 
-<img src="/assets/OZw5br1kgoKdgGxc3jIcslyHnBc.png"/>
+<img src="/assets/OZw5br1kgoKdgGxc3jIcslyHnBc.png" src-width="3196" src-height="704" align="center"/>
 
 ### Haircut 修改记录
 
 该菜单用于查询所有 Haircut 修改记录。
 
-<img src="/assets/MrQGblTujoMbfixqg2QcEiJ4nVf.png"/>
+<img src="/assets/MrQGblTujoMbfixqg2QcEiJ4nVf.png" src-width="3158" src-height="974" align="center"/>
 

@@ -23,11 +23,11 @@ sidebar_position: 1
 
 進入菜單，查看所有業務碼分組
 
-<img src="/assets/JINvbOtuXoc1j9xcuWdcw9Pmnxg.png"/>
+<img src="/assets/JINvbOtuXoc1j9xcuWdcw9Pmnxg.png" src-width="3170" src-height="630" align="center"/>
 
 詳情僅支持查看，如需更改分組信息，點擊編輯進入；業務碼選擇框勾選業務碼則會在對應類型調賬的業務分類展示，取消勾選則不展示
 
-<img src="/assets/T2YGbkUGpopS7oxEg6bcZHa8nQg.png"/>
+<img src="/assets/T2YGbkUGpopS7oxEg6bcZHa8nQg.png" src-width="3156" src-height="1552" align="center"/>
 
-<img src="/assets/Q7BgbSCjCowbzTxQtQkcPkLDngg.png"/>
+<img src="/assets/Q7BgbSCjCowbzTxQtQkcPkLDngg.png" src-width="3240" src-height="1768" align="center"/>
 

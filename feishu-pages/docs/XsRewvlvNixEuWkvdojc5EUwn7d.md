@@ -17,7 +17,7 @@ sidebar_position: 0
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>術語 / 中文</strong></p></td><td><p><strong>術語 / 英文</strong></p></td><td><p><strong>說明</strong></p></td></tr>
+<td><p>術語 / 中文</p></td><td><p>術語 / 英文</p></td><td><p>說明</p></td></tr>
 <tr>
 <td><p>業務賬戶</p></td><td><p>BUSINESS</p></td><td><p><strong>可用不可提</strong><br/>一般的交易發生，都會先對業務賬戶做處理，業務賬戶的現金可用不可提</p></td></tr>
 <tr>
