@@ -22,7 +22,9 @@
   --vp-sidebar-width: 300px;
   --vp-sidebar-bg-color: #f8f9fa;
 
-  --vp-layout-max-width: 1800px;
+  --vp-layout-max-width: 1600px;
+
+  --vp-nav-logo-height: 32px;
 }
 
 .VPDoc .content-container {
@@ -161,4 +163,10 @@ ol {
 .vp-doc table tr td > p {
   margin: 0;
   line-height: 1.7;
+}
+
+.VPDoc .VPLastUpdated {
+  font-weight: normal;
+  font-size: 0.9em;
+  color: var(--vp-c-text-3);
 }
