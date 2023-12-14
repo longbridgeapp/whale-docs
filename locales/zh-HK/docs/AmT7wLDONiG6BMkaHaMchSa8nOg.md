@@ -35,13 +35,13 @@ sidebar_position: 1
 
 以下分別 整理幾個常見運營計畫，逐步導引來建立計畫
 
-[【場景】如何創建一個定時型 - 單次計劃？](/Gicdw3YEtiDhLYkyLC6cLx79njb) 
+[【場景】如何創建一個定時型 - 單次計劃？](./Gicdw3YEtiDhLYkyLC6cLx79njb) 
 
-[【場景】如何創建一個 定時型 - 重複 計劃？](/P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
+[【場景】如何創建一個 定時型 - 重複 計劃？](./P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
 
-[【場景】如何創建一個 獲取型-API 計劃？](/EPH5wRfGhidNKDkJQi6cYwE3nvS) 
+[【場景】如何創建一個 獲取型-API 計劃？](./EPH5wRfGhidNKDkJQi6cYwE3nvS) 
 
-[【場景】如何創建一個 觸發型 - 完成 A 計劃](/ZYDewLFtuidmgjkzwEBcJvcln5d) 
+[【場景】如何創建一個 觸發型 - 完成 A 計劃](./ZYDewLFtuidmgjkzwEBcJvcln5d) 
 
 當完成運營計畫後，就可以管理運營計畫
 

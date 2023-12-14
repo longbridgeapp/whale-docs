@@ -213,7 +213,7 @@ sidebar_position: 0
 
 该步骤暂停执行的，可以编辑前台订单的收费
 
-详见：[合约管理](/AmY7wo5zviU2LakZvt9cAupxn0b) 的客户合约操作说明
+详见：[合约管理](./AmY7wo5zviU2LakZvt9cAupxn0b) 的客户合约操作说明
 
 #### 清算入帐
 
@@ -266,15 +266,15 @@ sidebar_position: 0
 
 数据汇总后操作流水日期调整、收盘价，需要重新点击数据汇总
 
-有修改收盘价的，详见[收盘价管理](/GMcTwEI0Ui6gilkBiDxcJUF8nDc) 
+有修改收盘价的，详见[收盘价管理](./GMcTwEI0Ui6gilkBiDxcJUF8nDc) 
 
-需要修改流水日期的，详见[流水同步](/GRaEwPQSAibkSakNnX0coZhWnbh) 
+需要修改流水日期的，详见[流水同步](./GRaEwPQSAibkSakNnX0coZhWnbh) 
 
 #### 清算中检查
 
 内部流水对帐、业务操作检查等（不断扩充中）
 
-此项为内部数据检查，有异常的可联系客服，详见[清算检查](/CXfBwiBeAizZ79kghRKciesFnjb) 
+此项为内部数据检查，有异常的可联系客服，详见[清算检查](./CXfBwiBeAizZ79kghRKciesFnjb) 
 
 检查可重复触发，排除问题后可重新触发检查
 
@@ -286,7 +286,7 @@ sidebar_position: 0
 
 执行融资利息计算、证券组合费、融券计算等任务
 
-融资利息需要调整的，详见[融资管理](/VS7Twf1vqieePKkHxvEcDp1CnSh) 
+融资利息需要调整的，详见[融资管理](./VS7Twf1vqieePKkHxvEcDp1CnSh) 
 
 注意：月底归本计算任务也在本流程中
 
@@ -294,7 +294,7 @@ sidebar_position: 0
 
 清算后检查主要检查资金清算步骤的执行状况
 
-有问题的详见[清算检查](/CXfBwiBeAizZ79kghRKciesFnjb) 
+有问题的详见[清算检查](./CXfBwiBeAizZ79kghRKciesFnjb) 
 
 #### 结单生成
 
@@ -302,7 +302,7 @@ sidebar_position: 0
 
 结单已发送的，不能重新生成
 
-结单查询和发送详见[结单管理](/XHP6wlEUTicGHtkGQ6dc0lyPnQc) 
+结单查询和发送详见[结单管理](./XHP6wlEUTicGHtkGQ6dc0lyPnQc) 
 
 #### 日切
 
@@ -316,5 +316,5 @@ sidebar_position: 0
 
 执行完日切流程后，后面根据交收时段，产生交收指令导出
 
-指令导出详见 [文件处理](/MaOTwGf6ziQLxEkvArNcmUCCnCe) 
+指令导出详见 [文件处理](./MaOTwGf6ziQLxEkvArNcmUCCnCe) 
 

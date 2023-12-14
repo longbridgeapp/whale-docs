@@ -43,11 +43,11 @@ sidebar_position: 1
 
 根据 SFC 证监会规定，须将客户 HKIDR 配对档案做报送，有关报送操作请参考下列：
 
-[HKIDR 报送](/T8IiwGsqdih0XDkLsfFc3hNcnqf) 
+[HKIDR 报送](./T8IiwGsqdih0XDkLsfFc3hNcnqf) 
 
 同时为完成相关 BCAN 数据处理，须事先配置 BCAN 区间与 参与者管理，有关报送操作请参考下列：
 
-[配置-BCAN 区间](/Intlw1TqbijZw2kFGqXcx2ZrnPg) 
+[配置-BCAN 区间](./Intlw1TqbijZw2kFGqXcx2ZrnPg) 
 
-[配置 - 参与者管理](/DUjAw62kGicB7jken4CcBaYpnCd) 
+[配置 - 参与者管理](./DUjAw62kGicB7jken4CcBaYpnCd) 
 

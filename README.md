@@ -1,6 +1,6 @@
 # Whale Docs
 
-[![Deploy Status](https://github.com/longbridgeapp/whale-docs/actions/workflows/publish.yml/badge.svg)](https://github.com/longbridgeapp/whale-docs/actions/workflows/publish.yml)
+[![Deploy Status](https://github.com/longbridgeapp/whale-docs/actions/workflows/release.yml/badge.svg)](https://github.com/longbridgeapp/whale-docs/actions/workflows/release.yml)
 
 This is the documentation for the Longbridge Whale product.
 

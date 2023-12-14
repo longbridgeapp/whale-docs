@@ -15,9 +15,9 @@ sidebar_position: 3
 
 以下分别 整理几个常见通道管理内容，逐步导引来建立：
 
-- [【场景】如何创建一个 APP Banner](/YXFMwr7G9iMBwdki1sicDycUnle) 
-- [【场景】如何创建一个 APP 弹窗？](/QiYrwKk0AikUSpkQRtOct87bnQB) 
-- [【场景】如何创建一个 APP Push 消息？](/TyAnwpS7viTqgDkFPtocMBlKnhf) 
-- [【场景】如何创建一个 邮件消息？](/HOJWw8cmCimIx3kSOlvcyH4Inwb) 
-- [【场景】如何创建一个 短信消息？](/Gq73wjUUYiHaUNk1H8rcKVmHnZg) 
+- [【场景】如何创建一个 APP Banner](./YXFMwr7G9iMBwdki1sicDycUnle) 
+- [【场景】如何创建一个 APP 弹窗？](./QiYrwKk0AikUSpkQRtOct87bnQB) 
+- [【场景】如何创建一个 APP Push 消息？](./TyAnwpS7viTqgDkFPtocMBlKnhf) 
+- [【场景】如何创建一个 邮件消息？](./HOJWw8cmCimIx3kSOlvcyH4Inwb) 
+- [【场景】如何创建一个 短信消息？](./Gq73wjUUYiHaUNk1H8rcKVmHnZg) 
 

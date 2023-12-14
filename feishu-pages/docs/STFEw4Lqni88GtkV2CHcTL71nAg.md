@@ -15,9 +15,9 @@ sidebar_position: 3
 
 以下分別 整理幾個常見通道管理內容， 逐步導引來建立：
 
-- [【場景】如何創建一個 APP Banner](/YXFMwr7G9iMBwdki1sicDycUnle) 
-- [【場景】如何創建一個 APP 彈窗？](/QiYrwKk0AikUSpkQRtOct87bnQB) 
-- [【場景】如何創建一個 APP Push 消息？](/TyAnwpS7viTqgDkFPtocMBlKnhf) 
-- [【場景】如何創建一個 郵件消息？](/HOJWw8cmCimIx3kSOlvcyH4Inwb) 
-- [【場景】如何創建一個 短信消息？](/Gq73wjUUYiHaUNk1H8rcKVmHnZg) 
+- [【場景】如何創建一個 APP Banner](./YXFMwr7G9iMBwdki1sicDycUnle) 
+- [【場景】如何創建一個 APP 彈窗？](./QiYrwKk0AikUSpkQRtOct87bnQB) 
+- [【場景】如何創建一個 APP Push 消息？](./TyAnwpS7viTqgDkFPtocMBlKnhf) 
+- [【場景】如何創建一個 郵件消息？](./HOJWw8cmCimIx3kSOlvcyH4Inwb) 
+- [【場景】如何創建一個 短信消息？](./Gq73wjUUYiHaUNk1H8rcKVmHnZg) 
 

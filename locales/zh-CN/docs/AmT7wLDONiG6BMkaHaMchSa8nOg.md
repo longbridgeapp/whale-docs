@@ -35,13 +35,13 @@ sidebar_position: 1
 
 以下分别 整理几个常见运营计划，逐步导引来建立计划
 
-[【场景】如何创建一个定时型 - 单次计划？](/Gicdw3YEtiDhLYkyLC6cLx79njb) 
+[【场景】如何创建一个定时型 - 单次计划？](./Gicdw3YEtiDhLYkyLC6cLx79njb) 
 
-[【场景】如何创建一个 定时型 - 重复 计划？](/P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
+[【场景】如何创建一个 定时型 - 重复 计划？](./P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
 
-[【场景】如何创建一个 获取型-API 计划？](/EPH5wRfGhidNKDkJQi6cYwE3nvS) 
+[【场景】如何创建一个 获取型-API 计划？](./EPH5wRfGhidNKDkJQi6cYwE3nvS) 
 
-[【场景】如何创建一个 触发型 - 完成 A 计划](/ZYDewLFtuidmgjkzwEBcJvcln5d) 
+[【场景】如何创建一个 触发型 - 完成 A 计划](./ZYDewLFtuidmgjkzwEBcJvcln5d) 
 
 当完成运营计划后，就可以管理运营计划
 
