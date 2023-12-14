@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## 適用場景
 
-管理員可以維護及配置使用者與上手之前的BCAN碼區間段
+管理員可以維護及配置使用者與上手之前的 BCAN 碼區間段
 
 ## 前置条件
 
@@ -29,7 +29,7 @@ sidebar_position: 1
 
 <img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png" src-width="3242" src-height="810" align="center"/>
 
-點選右方上側【新建區間】， 新建一筆新的 BCAN 區間
+點選右方上側【新建區間】，新建一筆新的 BCAN 區間
 
 <img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png" src-width="3248" src-height="1624" align="center"/>
 
@@ -42,11 +42,11 @@ sidebar_position: 1
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>港股<strong><strong>EP</strong></strong>模式</strong></p></td><td><p><strong>港股Non-EP模式</strong></p></td></tr>
+<td><p><strong>港股<strong><strong>EP</strong></strong>模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
 <tr>
 <td><p>CCEP：選擇當前租戶選項<br/>使用者：選擇當前租戶選項<br/>是否上報：選擇‘是’<br/>起始編號/結束編號：手動輸入配置· </p></td><td><p>CCEP：選擇‘lb’選項<br/>使用者：選擇當前租戶選項<br/> 是否上報：選擇‘是’<br/> 起始編號/結束編號：手動輸入配置·</p></td></tr>
 <tr>
-<td colspan="2"><p>注意：（‘1’-‘99’是交易所自測區間，不可使用，不可用‘0’前置占位，建議按lb提供的區間配置）</p></td></tr>
+<td colspan="2"><p>注意：（‘1’ - ‘99’是交易所自測區間，不可使用，不可用‘0’前置占位，建議按 lb 提供的區間配置）</p></td></tr>
 </tbody>
 </table>
 

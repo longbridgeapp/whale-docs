@@ -30,6 +30,7 @@ jobs:
           FEISHU_SPACE_ID: "7288219896826494980"
           OUTPUT_DIR: ./feishu-pages
           URL_STYLE: original
+          BASE_URL: ./
         uses: longbridgeapp/feishu-pages@main
 
       - uses: oven-sh/setup-bun@v1

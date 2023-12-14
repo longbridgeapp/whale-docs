@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## 适用场景
 
-本作业是开户资料的后台申请入口，同时也可以查到相关客户的前端 APP 开户填写资料与协助补录资料
+本作业是开户资料的后台申请入口，同时也可以查到相关客户的前端 App 开户填写资料与协助补录资料
 
 适用于：
 
@@ -49,13 +49,13 @@ sidebar_position: 1
 
 ### 场景：多开通证劵帐户申请
 
-[多开证劵帐户申请](/QZfIweqitiiPf8kQ6CTcDtqhn9G)
+[多开证劵帐户申请](./QZfIweqitiiPf8kQ6CTcDtqhn9G)
 
 ### 场景：多开通证劵子帐户申请
 
-[多开证劵子帐户申请](/XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
+[多开证劵子帐户申请](./XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
 
 ### 场景：批量修改证劵帐户
 
-[批量修改证劵帐户](/Ofpowlv0xi5ecBk3s3cci46YnJb)
+[批量修改证劵帐户](./Ofpowlv0xi5ecBk3s3cci46YnJb)
 

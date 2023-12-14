@@ -68,7 +68,7 @@ function setupIndexPage() {
     const guidesContent = fs.readFileSync(guidesFilePath, "utf-8");
     const guidesTargetFilePath = path.resolve(
       __dirname,
-      `../locales/zh-HK/docs/index.md`,
+      `../locales/zh-HK/docs.md`,
     );
     fs.writeFileSync(guidesTargetFilePath, guidesContent);
     console.log(`copy zh-HK ${guidesChild.title} to index file: `, guidesTargetFilePath);

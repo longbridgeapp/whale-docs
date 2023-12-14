@@ -95,7 +95,7 @@ sidebar_position: 2
 
 <img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png" src-width="3584" src-height="1738" align="center"/>
 
-查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件，支持日/月/年的週期報表查詢（报表管理-佣金报表），點擊【導出】可將查詢的資料導出
+查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件，支持日/月/年的週期報表查詢（报表管理 - 佣金报表），點擊【導出】可將查詢的資料導出
 
 <img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png" src-width="3584" src-height="1738" align="center"/>
 

@@ -19,7 +19,7 @@ sidebar_position: 4
 
 菜單入口：KYC&gt;第三方驗證
 
-在客戶身份認證的環節上，可以手動上傳第三方驗證文件，也可以點選 【手動驗證】點閱已提交的驗證文件內容
+在客戶身份認證的環節上，可以手動上傳第三方驗證文件，也可以點選【手動驗證】點閱已提交的驗證文件內容
 
 <img src="/assets/WCkBbapkWoiFOvxACClcx6HdnKS.png" src-width="3214" src-height="1620" align="center"/>
 

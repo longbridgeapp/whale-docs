@@ -103,7 +103,7 @@ sidebar_position: 1
 
 <img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png" src-width="696" src-height="632"/>
 
-- 頁面配置-當前頁面主要參數配置
+- 頁面配置 - 當前頁面主要參數配置
 
 1. 多語言設置
 
@@ -155,5 +155,5 @@ sidebar_position: 1
 
 更多組件相關信息，詳見《組件說明》
 
-[組件說明](/D3MZwurWOiWBsHkeLhVc8tR1nbf) 
+[組件說明](./D3MZwurWOiWBsHkeLhVc8tR1nbf) 
 

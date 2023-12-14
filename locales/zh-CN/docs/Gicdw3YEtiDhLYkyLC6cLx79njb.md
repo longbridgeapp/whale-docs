@@ -15,7 +15,7 @@ sidebar_position: 0
 
 运营策略：给目标受众发放任务币，配置专属兑换活动，并发邮件通知
 
-效果评估：计划上线后，追踪目标受众的 APP 启动情况、兑换情况、入金交易情况
+效果评估：计划上线后，追踪目标受众的 App 启动情况、兑换情况、入金交易情况
 
 ## 前置条件
 
@@ -45,13 +45,13 @@ sidebar_position: 0
 
 **第四步：配置触达规则**
 
-以邮件的方式给用户发送 APP 新版本升级介绍
+以邮件的方式给用户发送 App 新版本升级介绍
 
 <img src="/assets/Ueb2bbJCzolaPAxCzDccDqbundd.png" src-width="2218" src-height="1220" align="center"/>
 
 **第五步：设置触达目标**
 
-用户收到邮件后，1 天内完成 APP 启动
+用户收到邮件后，1 天内完成 App 启动
 
 <img src="/assets/XQCiblZsdojZ4sxatlDcE0nZnqi.png" src-width="2158" src-height="1060" align="center"/>
 

@@ -21,7 +21,7 @@ sidebar_position: 0
 
 執行菜單：基金管理&gt; 公募基金&gt;客戶訂單 Tab 頁籤
 
-在本作業可以查詢到前台 APP 端的公募基金訂單紀錄，  可以看到基金訂單的申購/贖的狀態
+在本作業可以查詢到前台 App 端的公募基金訂單紀錄，  可以看到基金訂單的申購/贖的狀態
 
 <img src="/assets/MMrpbLsIboM1w8x9UovclZIUnje.png" src-width="2986" src-height="1742" align="center"/>
 

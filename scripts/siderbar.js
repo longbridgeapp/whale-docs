@@ -36,7 +36,8 @@ function generateSidebarConfig(metaData, locale = "zh-HK") {
 
     if (doc.has_child) {
       sidebarItem.items = generateSidebarConfig(doc.children, locale)
-      sidebarItem.collapsed = true;
+      // not collapsed if depth = 1
+      sidebarItem.collapsed = doc.depth !== 1;
     }
 
     sidebarConfig.push(sidebarItem);

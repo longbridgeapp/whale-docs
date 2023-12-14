@@ -21,9 +21,9 @@ sidebar_position: 0
 
 ## 合約操作說明
 
-客戶合約與機構合約的管理, 請按下列文檔操作:
+客戶合約與機構合約的管理，請按下列文檔操作：
 
-客戶合約管理：[客戶合約管理操作](/TNHdw5WjEi8pi1knbtqcEi6KnWe) 
+客戶合約管理：[客戶合約管理操作](./TNHdw5WjEi8pi1knbtqcEi6KnWe) 
 
-機構合約管理:   [機構合約管理操作](/PgNgwUZLci87HPkPmSRcEfivnhf) 
+機構合約管理：  [機構合約管理操作](./PgNgwUZLci87HPkPmSRcEfivnhf) 
 

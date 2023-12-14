@@ -23,7 +23,7 @@ sidebar_position: 0
 
 客户合约与机构合约的管理，请按下列文档操作：
 
-客户合约管理：[客户合约管理操作](/TNHdw5WjEi8pi1knbtqcEi6KnWe) 
+客户合约管理：[客户合约管理操作](./TNHdw5WjEi8pi1knbtqcEi6KnWe) 
 
-机构合约管理：  [机构合约管理操作](/PgNgwUZLci87HPkPmSRcEfivnhf) 
+机构合约管理：  [机构合约管理操作](./PgNgwUZLci87HPkPmSRcEfivnhf) 
 

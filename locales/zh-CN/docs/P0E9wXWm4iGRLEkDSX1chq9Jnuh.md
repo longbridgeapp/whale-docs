@@ -39,7 +39,7 @@ sidebar_position: 1
 
 **第三步：选择受众用户**
 
-配置条件如下：已开户用户 且 最近 APP 启动时间在 2022-12-01 至 2023-01-31
+配置条件如下：已开户用户 且 最近 App 启动时间在 2022-12-01 至 2023-01-31
 
 <img src="/assets/ZzQNbhkSioEZwlxpKtxccNcmnbe.png" src-width="2836" src-height="1588" align="center"/>
 

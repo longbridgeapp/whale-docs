@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## 適用場景
 
-本作業是開戶資料的後台申請入口，同時也可以查到相關客戶的前端 APP 開戶填寫資料與協助補錄資料
+本作業是開戶資料的後台申請入口，同時也可以查到相關客戶的前端 App 開戶填寫資料與協助補錄資料
 
 適用於：
 
@@ -49,13 +49,13 @@ sidebar_position: 1
 
 ### 場景：多開通證劵帳戶申請
 
-[多開證劵帳戶申請](/QZfIweqitiiPf8kQ6CTcDtqhn9G)
+[多開證劵帳戶申請](./QZfIweqitiiPf8kQ6CTcDtqhn9G)
 
 ### 場景：多開通證劵子帳戶申請
 
-[多開證劵子帳戶申請](/XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
+[多開證劵子帳戶申請](./XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
 
 ### 場景：批量修改證劵帳戶
 
-[批量修改證劵帳戶](/Ofpowlv0xi5ecBk3s3cci46YnJb)
+[批量修改證劵帳戶](./Ofpowlv0xi5ecBk3s3cci46YnJb)
 

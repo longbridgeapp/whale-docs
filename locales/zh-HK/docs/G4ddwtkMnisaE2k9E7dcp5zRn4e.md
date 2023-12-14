@@ -213,7 +213,7 @@ sidebar_position: 0
 
 該步驟暫停執行的，可以編輯前台訂單的收費
 
-詳見：[合約管理](/AmY7wo5zviU2LakZvt9cAupxn0b) 的客戶合約操作說明
+詳見：[合約管理](./AmY7wo5zviU2LakZvt9cAupxn0b) 的客戶合約操作說明
 
 #### 清算入帳
 
@@ -266,15 +266,15 @@ sidebar_position: 0
 
 數據匯總後操作流水日期調整、收盤價，需要重新點擊數據匯總
 
-有修改收盤價的，詳見[收盤價管理](/GMcTwEI0Ui6gilkBiDxcJUF8nDc) 
+有修改收盤價的，詳見[收盤價管理](./GMcTwEI0Ui6gilkBiDxcJUF8nDc) 
 
-需要修改流水日期的，詳見[流水同步](/GRaEwPQSAibkSakNnX0coZhWnbh) 
+需要修改流水日期的，詳見[流水同步](./GRaEwPQSAibkSakNnX0coZhWnbh) 
 
 #### 清算中檢查
 
 內部流水對帳、業務操作檢查等（不斷擴充中）
 
-此項為內部數據檢查，有異常的可聯繫客服，詳見[清算檢查](/CXfBwiBeAizZ79kghRKciesFnjb) 
+此項為內部數據檢查，有異常的可聯繫客服，詳見[清算檢查](./CXfBwiBeAizZ79kghRKciesFnjb) 
 
 檢查可重複觸發，排除問題後可重新觸發檢查
 
@@ -286,7 +286,7 @@ sidebar_position: 0
 
 執行融資利息計算、證券組合費、融券計算等任務
 
-融資利息需要調整的，詳見[融資管理](/VS7Twf1vqieePKkHxvEcDp1CnSh) 
+融資利息需要調整的，詳見[融資管理](./VS7Twf1vqieePKkHxvEcDp1CnSh) 
 
 注意：月底歸本计算任務也在本流程中
 
@@ -294,7 +294,7 @@ sidebar_position: 0
 
 清算後檢查主要檢查資金清算步驟的執行狀況
 
-有問題的詳見[清算檢查](/CXfBwiBeAizZ79kghRKciesFnjb) 
+有問題的詳見[清算檢查](./CXfBwiBeAizZ79kghRKciesFnjb) 
 
 #### 結單生成
 
@@ -302,7 +302,7 @@ sidebar_position: 0
 
 結單已發送的，不能重新生成
 
-結單查詢和發送詳見[結單管理](/XHP6wlEUTicGHtkGQ6dc0lyPnQc) 
+結單查詢和發送詳見[結單管理](./XHP6wlEUTicGHtkGQ6dc0lyPnQc) 
 
 #### 日切
 
@@ -316,5 +316,5 @@ sidebar_position: 0
 
 執行完日切流程后，後面根據交收時段，產生交收指令導出
 
-指令導出詳見 [文件處理](/MaOTwGf6ziQLxEkvArNcmUCCnCe) 
+指令導出詳見 [文件處理](./MaOTwGf6ziQLxEkvArNcmUCCnCe) 
 
