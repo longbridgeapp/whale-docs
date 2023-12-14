@@ -2,10 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .vitepress/theme/custom.css */
+/* 
+  .vitepress/theme/custom.css 
+
+  https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+*/
 :root {
   --vp-c-brand-1: #5622cf;
   --vp-c-brand-2: #7350ff;
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+
+  --vp-c-divider: #e4e4eb;
+  --vp-c-sidebar-border: #e0e0e9;
+
+  --vp-c-text-2: #202020;
+
+  --vp-sidebar-width: 300px;
+  --vp-sidebar-bg-color: #f8f9fa;
+
+  --vp-layout-max-width: 1800px;
+}
+
+.VPDoc .content-container {
+  max-width: 820px !important;
 }
 
 ul {
@@ -32,6 +53,10 @@ ol {
   border: 2px solid #ccc;
   border-radius: 5px;
   font-size: 1em;
+
+  & > p {
+    margin: 0;
+  }
 
   &-bg-1 {
     @apply bg-red-50 dark:bg-red-950;
@@ -103,7 +128,20 @@ ol {
   }
 }
 .VPSidebar {
-  border-right: 1px solid var(--vp-c-divider);
+  border-right: 1px solid var(--vp-c-sidebar-border);
+
+  .VPSidebarItem.level-1 .text {
+    color: var(--vp-c-text-2) !important;
+    font-size: 0.9em;
+  }
+
+  .VPSidebarItem.level-2 .text,
+  .VPSidebarItem.level-3 .text,
+  .VPSidebarItem.level-4 .text,
+  .VPSidebarItem.level-5 .text {
+    font-weight: normal;
+    color: var(--vp-c-text-2) !important;
+  }
 }
 .VPSidebarItem.level-0 {
   .VPLink {
@@ -118,4 +156,9 @@ ol {
       display: hidden;
     }
   }
+}
+
+.vp-doc table tr td > p {
+  margin: 0;
+  line-height: 1.7;
 }
