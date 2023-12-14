@@ -21,7 +21,7 @@ sidebar_position: 3
 
 對於系統按照科目展示的明細帳，可以在此功能進行查詢
 
-<img src="/assets/N4qgb6TqsoPH1nxEyVJc2Ckdn3e.png"/>
+<img src="/assets/N4qgb6TqsoPH1nxEyVJc2Ckdn3e.png" src-width="3218" src-height="1506" align="center"/>
 
 也可以根據系統生成的科目明細，在此功能可以點選【報表導出】選擇使用對應財務軟體格式導出 
 

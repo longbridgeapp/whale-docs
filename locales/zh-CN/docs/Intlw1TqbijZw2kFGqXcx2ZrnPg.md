@@ -27,17 +27,26 @@ sidebar_position: 1
 
 至于存量现有客户，长桥科技将会协助在实名制实施前，批量完成现有客户分配 BCAN 码
 
-<img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png"/>
+<img src="/assets/QzpGbweFUo4tmlxpVSGcq9BqnKg.png" src-width="3242" src-height="810" align="center"/>
 
 点选右方上侧【新建区间】，新建一笔新的 BCAN 区间
 
-<img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png"/>
+<img src="/assets/OoSNbUvJnoIaROx99cucfr9ynDb.png" src-width="3248" src-height="1624" align="center"/>
 
 其中栏位说明如下：
 
-|   |   |
-|---|---|
-|**港股****EP****模式**|**港股 Non-EP 模式**|
-|CCEP：选择当前租户选项<br/>使用者：选择当前租户选项<br/>是否上报：选择‘是’<br/>起始编号/结束编号：手动输入配置· |CCEP：选择‘lb’选项<br/>使用者：选择当前租户选项<br/> 是否上报：选择‘是’<br/> 起始编号/结束编号：手动输入配置·|
-|注意：（‘1’ - ‘99’是交易所自测区间，不可使用，不可用‘0’前置占位，建议按 lb 提供的区间配置）||
+<table>
+<colgroup>
+<col width="368"/>
+<col width="503"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p><strong>港股<strong><strong>EP</strong></strong>模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
+<tr>
+<td><p>CCEP：选择当前租户选项<br/>使用者：选择当前租户选项<br/>是否上报：选择‘是’<br/>起始编号/结束编号：手动输入配置· </p></td><td><p>CCEP：选择‘lb’选项<br/>使用者：选择当前租户选项<br/> 是否上报：选择‘是’<br/> 起始编号/结束编号：手动输入配置·</p></td></tr>
+<tr>
+<td colspan="2"><p>注意：（‘1’ - ‘99’是交易所自测区间，不可使用，不可用‘0’前置占位，建议按 lb 提供的区间配置）</p></td></tr>
+</tbody>
+</table>
 

@@ -21,11 +21,11 @@ sidebar_position: 5
 
 - 系統對於無法自動形成分錄的數據源會視作為異常數據，可以在此功能進行查詢
 
-<img src="/assets/LASEbmUmHoYtcxxlTANcLVd5n8e.png"/>
+<img src="/assets/LASEbmUmHoYtcxxlTANcLVd5n8e.png" src-width="3240" src-height="1576" align="center"/>
 
 - 對於異常數據源，可以在記錄列表通過點擊「異常數據源單號」，可以跳轉到具體數據源
 
-<img src="/assets/B3yqbZvLloSrt3x09M5cifqmn4J.png"/>
+<img src="/assets/B3yqbZvLloSrt3x09M5cifqmn4J.png" src-width="3240" src-height="1408" align="center"/>
 
 ### 客戶收費帳單
 
@@ -35,7 +35,7 @@ sidebar_position: 5
 - 客戶收費帳單對於股票交易類型可以更細分配置，可以支持單獨區分出暗盤，並且暗盤交易可以單獨配置分錄規則並形成會計分錄
 - 記帳數據源“客戶收費帳單”增加【帳務日期】，並用於記帳分錄帳務日期取值
 
-<img src="/assets/Wrrib0RFaoSzrJx38uWc8KFInFf.png"/>
+<img src="/assets/Wrrib0RFaoSzrJx38uWc8KFInFf.png" src-width="3206" src-height="1502" align="center"/>
 
 ### 支付流水
 
@@ -43,7 +43,7 @@ sidebar_position: 5
 
 - 是指券商公司記錄用戶交易變動明細表，會計中台根據轉賬、出賬和入賬進行規範獲取，作為會計分錄中信息流記賬的數據。
 
-<img src="/assets/NfhUb89shodkQAxKkFwcDYo6nnh.png"/>
+<img src="/assets/NfhUb89shodkQAxKkFwcDYo6nnh.png" src-width="3230" src-height="1502" align="center"/>
 
 ### CCASS 賬單
 
@@ -51,7 +51,7 @@ sidebar_position: 5
 
 - 增加 CCASS 文件解析，此 CCASS 數據源是相關文件導入後，系統自動根據配置完成會計分錄處理，可在此 Tab 查詢記錄或刪除已轉入的數據源分錄
 
-<img src="/assets/DQOZbLdcWodpPixN6FGc1fkhnKh.png"/>
+<img src="/assets/DQOZbLdcWodpPixN6FGc1fkhnKh.png" src-width="3240" src-height="1478" align="center"/>
 
 ### 新股帳單
 
@@ -59,5 +59,5 @@ sidebar_position: 5
 
 - 新增新股帳單
 
-<img src="/assets/OYWsba3uzocLHcxVUrCcgXgjnhh.png"/>
+<img src="/assets/OYWsba3uzocLHcxVUrCcgXgjnhh.png" src-width="3262" src-height="1120" align="center"/>
 

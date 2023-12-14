@@ -24,7 +24,7 @@ sidebar_position: 6
 - 在登记日，有持仓的公司行动会自动创建预告
 - 系统会自动在 CCASS 支付日期基础上 +1 交易日，生成支付日期
 
-<img src="/assets/HppkbN9dVo2CqPxFh5Icvu8Wnqh.png"/>
+<img src="/assets/HppkbN9dVo2CqPxFh5Icvu8Wnqh.png" src-width="2252" src-height="552" align="center"/>
 
 ### **登记**
 
@@ -37,44 +37,44 @@ sidebar_position: 6
 <p>非直联 CCASS 的根据上送派发信息核对</p>
 </div>
 
-<img src="/assets/WYKHbdDRUoKE82x1QiVctKYrn9e.png"/>
+<img src="/assets/WYKHbdDRUoKE82x1QiVctKYrn9e.png" src-width="2924" src-height="1498" align="center"/>
 
 ### **执行**
 
 - 登记后操作提交执行
 
-<img src="/assets/YGNybqpEtomuPLxDCGtc09N6ngx.png"/>
+<img src="/assets/YGNybqpEtomuPLxDCGtc09N6ngx.png" src-width="2902" src-height="1552" align="center"/>
 
 - 在执行报表中可以进一步核对数据
 - 直联 CCASS 的券商会有一条对端数据方便核对
 
-<img src="/assets/PaYCbizF4owDBGxste2cJAWrnFc.png"/>
+<img src="/assets/PaYCbizF4owDBGxste2cJAWrnFc.png" src-width="2902" src-height="1554" align="center"/>
 
 提交执行后，复核人员可以点击执行批量复核
 
-<img src="/assets/TEEdbX1wjoIdIExdlMdchQxqnVu.png"/>
+<img src="/assets/TEEdbX1wjoIdIExdlMdchQxqnVu.png" src-width="2906" src-height="1538" align="center"/>
 
-<img src="/assets/B8iYbMjX4oqlSXxDr9JcYQeMnaf.png"/>
+<img src="/assets/B8iYbMjX4oqlSXxDr9JcYQeMnaf.png" src-width="2272" src-height="1264" align="center"/>
 
 ### **辅助功能**
 
 提交执行前，点击详情可以进行非常规流程的操作
 
-<img src="/assets/SpoWbqC2HoZivQx3YXfcrPgYnjb.png"/>
+<img src="/assets/SpoWbqC2HoZivQx3YXfcrPgYnjb.png" src-width="2902" src-height="1554" align="center"/>
 
 - 在操作尾差调整时可以根据上手的派发金额，重新调整权益，调整后系统内的总金额将和上手保持一致
 
-<img src="/assets/HjqBbMNj3os3tdxMPecc5HqFnGh.png"/>
+<img src="/assets/HjqBbMNj3os3tdxMPecc5HqFnGh.png" src-width="2926" src-height="1506" align="center"/>
 
 在客户明细可新增或者删除客户权益
 
-<img src="/assets/KqHAbBJOJoLcrjxDtNJcVYD3n5g.png"/>
+<img src="/assets/KqHAbBJOJoLcrjxDtNJcVYD3n5g.png" src-width="2918" src-height="1546" align="center"/>
 
 在客户明细 - 详情内可以分别对费用和权益金额进行调整
 
-<img src="/assets/VEddbH17jodsgrxcnoZc9vaknbg.png"/>
+<img src="/assets/VEddbH17jodsgrxcnoZc9vaknbg.png" src-width="2916" src-height="1540" align="center"/>
 
 在费用规则 Tab 可以在全局收费规则上，针对该公司行动调整收费
 
-<img src="/assets/PstCbEKMHoRFW5xaGJwcwivGnUc.png"/>
+<img src="/assets/PstCbEKMHoRFW5xaGJwcwivGnUc.png" src-width="2914" src-height="1560" align="center"/>
 

@@ -36,33 +36,33 @@ sidebar_position: 5
 
 1. 「登记」公司行动后再点击【行权指令收集】，会向客户发送消息方案选择
 
-<img src="/assets/YRwSbm7guoxPoNx46cJcqhr4nkb.png"/>
+<img src="/assets/YRwSbm7guoxPoNx46cJcqhr4nkb.png" src-width="3400" src-height="1350" align="center"/>
 
-<img src="/assets/JZf1bvtPToVii5xa7Ogc5DCWnJb.png"/>
+<img src="/assets/JZf1bvtPToVii5xa7Ogc5DCWnJb.png" src-width="2662" src-height="1032" align="center"/>
 
-<img src="/assets/RUlVbE9ZxoO6qcxvjrycWwRkneb.png"/>
+<img src="/assets/RUlVbE9ZxoO6qcxvjrycWwRkneb.png" src-width="2804" src-height="188" align="center"/>
 
 ### **上报回填**
 
 OO 类公司行动在修改价格后，重新回填，可按新价格计算认购款
 
-<img src="/assets/CKcYbrBC0oVroixlidtcjFJ9npd.png"/>
+<img src="/assets/CKcYbrBC0oVroixlidtcjFJ9npd.png" src-width="2806" src-height="876"/>
 
 1. ·内部选择日期结束后，系统将自动将指令收集状态修改为处理成功。 
 2. ·根据指令收集的汇总数据，在上游平台完成认购处理，并在系统点击完成 
 3. 上报后，系统将解冻资金，对认购股权进行出帐处理，对认购款进行在途处理
 
-<img src="/assets/DVIWbqBDbocARHxYKgxcLpjRnub.png"/>
+<img src="/assets/DVIWbqBDbocARHxYKgxcLpjRnub.png" src-width="1280" src-height="561" align="center"/>
 
 1. 上报回填完毕，派发权益后，在操作区域点击回填进行回填处理 
 2. 回填完毕后，系统将根据回填的数量重新计算权益和费用 
 3. 非超额回填的（非超额认购），不能修改回填确认数量 
 
-<img src="/assets/FsRrbXZoIoA3Krx8y87cyDxcnrg.png"/>
+<img src="/assets/FsRrbXZoIoA3Krx8y87cyDxcnrg.png" src-width="1280" src-height="474" align="center"/>
 
 1. 超额回填的（超额认购的），可以根据上游数据修改回填结果
 
-<img src="/assets/WWsGbmoO0osl9RxfvJzcWSFknnc.png"/>
+<img src="/assets/WWsGbmoO0osl9RxfvJzcWSFknnc.png" src-width="1280" src-height="316"/>
 
 ### **执行**
 

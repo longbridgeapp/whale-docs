@@ -21,11 +21,11 @@ sidebar_position: 1
 
 可以在本作业进行客户权益明细的管理（新增/ 作废/客户选择），如同前述章节提及的非常规场景应用
 
-<img src="/assets/JfptbIIF6obJtNxAu4Zc3a1tnog.png"/>
+<img src="/assets/JfptbIIF6obJtNxAu4Zc3a1tnog.png" src-width="3328" src-height="1604" align="center"/>
 
 可以在右侧纪录操作区进行【编辑明细】或【编辑方案】
 
-<img src="/assets/JkP4b8LXooETj2xyvAic4RZGnOg.png"/>
+<img src="/assets/JkP4b8LXooETj2xyvAic4RZGnOg.png" src-width="1687" src-height="785" align="center"/>
 
  
 
@@ -42,7 +42,7 @@ sidebar_position: 1
 1. 若在客户选择阶段所新增的，不会再发送通知 (APP 等)
 2. 状态为：未登记、执行后不可新增 
 
-<img src="/assets/NZEJbMYBFoUURsx97tTc3reknAg.png"/>
+<img src="/assets/NZEJbMYBFoUURsx97tTc3reknAg.png" src-width="3408" src-height="1324" align="center"/>
 
 ## **作废客户明细**
 
@@ -55,7 +55,7 @@ sidebar_position: 1
 1. 在登记后可以即操作作废，注意：若在选股选息等进入客户选择阶段后再作废容易引起客诉 
 2. 执行后不能作废
 
-<img src="/assets/QpaYbKAdwoO5WqxUeMscWGW6n2f.png"/>
+<img src="/assets/QpaYbKAdwoO5WqxUeMscWGW6n2f.png" src-width="3382" src-height="1424" align="center"/>
 
 ## **方案操作**
 
@@ -64,9 +64,9 @@ sidebar_position: 1
 
 注意：除了超额认购各方案的汇总行权数量不能大于可行权数量
 
-<img src="/assets/UVfybwm58oUjSBxbSP5czVevnde.png"/>
+<img src="/assets/UVfybwm58oUjSBxbSP5czVevnde.png" src-width="3386" src-height="1336" align="center"/>
 
-<img src="/assets/VumKb5QPkocAJuxndHjcDuVbnZc.png"/>
+<img src="/assets/VumKb5QPkocAJuxndHjcDuVbnZc.png" src-width="3400" src-height="1280" align="center"/>
 
-<img src="/assets/RumebXp9Eog1x5xJWrvcgelnnuc.png"/>
+<img src="/assets/RumebXp9Eog1x5xJWrvcgelnnuc.png" src-width="3088" src-height="1078" align="center"/>
 

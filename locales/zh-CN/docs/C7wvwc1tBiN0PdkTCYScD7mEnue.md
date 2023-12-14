@@ -27,19 +27,19 @@ sidebar_position: 2
 
 此功能是设置/修改经纪人的分成佣金套餐，提供佣金计算后查询/分成管理/佣金套餐配置
 
-<img src="/assets/Qzpkb0MZAo9vQ0xGtNGc3MGnnse.png"/>
+<img src="/assets/Qzpkb0MZAo9vQ0xGtNGc3MGnnse.png" src-width="3584" src-height="1738" align="center"/>
 
 ### **新增分成套餐**
 
 可以在右上角，点击【新增】，新增一笔分成佣金套餐
 
-<img src="/assets/FavebviC0ot26nxBMWdc6pCwnNg.png"/>
+<img src="/assets/FavebviC0ot26nxBMWdc6pCwnNg.png" src-width="3584" src-height="1738" align="center"/>
 
 先填写套餐主体信息
 
 特殊字段说明：
 
-<img src="/assets/Kk5EbBXjQoHHhfxKt8Ic8h3FnJg.png"/>
+<img src="/assets/Kk5EbBXjQoHHhfxKt8Ic8h3FnJg.png" src-width="3584" src-height="1738" align="center"/>
 
 点解添加规则后，可分别针对股票、期权等单独设置套餐规则
 
@@ -53,23 +53,23 @@ sidebar_position: 2
 
 注意：
 
-<img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png"/>
+<img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png" src-width="3584" src-height="1738" align="center"/>
 
 案例 1：按佣金总额的 1% 设置分成套餐，最低收费 2HKD，最高收费 50HKD
 
-<img src="/assets/AYxbbml32osJQTxT9TxcFkr0nOf.png"/>
+<img src="/assets/AYxbbml32osJQTxT9TxcFkr0nOf.png" src-width="3584" src-height="1738" align="center"/>
 
 案例 2：按照单笔合约的交易金额进行阶梯分佣，将交易金额拆分到每个阶梯分别算
 
 交易金额为 5000 的，1000 按第一个阶梯计费，4000（5000-1000）按第二个阶梯计费
 
-<img src="/assets/VdHkbj0z5oPkmAxBoMscVDN6n3b.png"/>
+<img src="/assets/VdHkbj0z5oPkmAxBoMscVDN6n3b.png" src-width="3584" src-height="1738" align="center"/>
 
 案例 3：按照单笔合约的交易金额进行阶梯分佣，交易金额在哪一个阶梯，统一用哪个阶梯计费
 
 交易金额为 5000 的，统一按第二个阶梯计费
 
-<img src="/assets/Axn9b1g6Ao7QXhxqeShcm6panJg.png"/>
+<img src="/assets/Axn9b1g6Ao7QXhxqeShcm6panJg.png" src-width="3584" src-height="1738" align="center"/>
 
 ### 开户时自动分配经纪人套餐
 
@@ -77,13 +77,13 @@ sidebar_position: 2
 
 开户时，如果用户分配给该经纪人，则该用户的默认分成套餐将为该客户
 
-<img src="/assets/HaNdbZw1Ao8i45xTStAcmFi1nIc.png"/>
+<img src="/assets/HaNdbZw1Ao8i45xTStAcmFi1nIc.png" src-width="3584" src-height="1738" align="center"/>
 
 ### 设置客户级别分成套餐
 
 在计费和分成管理可以通过批量、单笔的方式，修改客户的分成套餐
 
-<img src="/assets/Rn8Gbqz3DoIAh7xUExTcgLVJnoc.png"/>
+<img src="/assets/Rn8Gbqz3DoIAh7xUExTcgLVJnoc.png" src-width="3584" src-height="1738" align="center"/>
 
 ## 分佣明细查询操作说明
 
@@ -93,9 +93,9 @@ sidebar_position: 2
 
 日切成功后，系统会触发分佣计算任务（异步任务）
 
-<img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png"/>
+<img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png" src-width="3584" src-height="1738" align="center"/>
 
 查询经纪人名下客户的分佣套餐佣金，是以帐务日期与交易币种作查询条件，支持日/月/年的周期报表查询（报表管理-佣金报表），点击【导出】可将查询的资料导出
 
-<img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png"/>
+<img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png" src-width="3584" src-height="1738" align="center"/>
 

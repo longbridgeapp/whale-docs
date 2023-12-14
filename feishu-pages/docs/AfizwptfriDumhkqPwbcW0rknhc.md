@@ -36,33 +36,33 @@ sidebar_position: 5
 
 1. 「登記」公司行動後再點擊【行權指令收集】，會向客戶發送消息方案選擇
 
-<img src="/assets/YRwSbm7guoxPoNx46cJcqhr4nkb.png"/>
+<img src="/assets/YRwSbm7guoxPoNx46cJcqhr4nkb.png" src-width="3400" src-height="1350" align="center"/>
 
-<img src="/assets/JZf1bvtPToVii5xa7Ogc5DCWnJb.png"/>
+<img src="/assets/JZf1bvtPToVii5xa7Ogc5DCWnJb.png" src-width="2662" src-height="1032" align="center"/>
 
-<img src="/assets/RUlVbE9ZxoO6qcxvjrycWwRkneb.png"/>
+<img src="/assets/RUlVbE9ZxoO6qcxvjrycWwRkneb.png" src-width="2804" src-height="188" align="center"/>
 
 ### **上報回填**
 
 OO 類公司行動在修改價格後，重新回填，可按新價格計算認購款
 
-<img src="/assets/CKcYbrBC0oVroixlidtcjFJ9npd.png"/>
+<img src="/assets/CKcYbrBC0oVroixlidtcjFJ9npd.png" src-width="2806" src-height="876"/>
 
 1. ·內部選擇日期結束後，系統將自動將指令收集狀態修改為處理成功。 
 2. ·根據指令收集的匯總數據，在上游平臺完成認購處理，並在系統點擊完成 
 3. 上報後，系統將解凍資金，對認購股權進行出帳處理，對認購款進行在途處理
 
-<img src="/assets/DVIWbqBDbocARHxYKgxcLpjRnub.png"/>
+<img src="/assets/DVIWbqBDbocARHxYKgxcLpjRnub.png" src-width="1280" src-height="561" align="center"/>
 
 1. 上報回填完畢，派發權益後，在操作區域點擊回填進行回填處理 
 2. 回填完畢後，系統將根據回填的數量重新計算權益和費用 
 3. 非超額回填的（非超額認購），不能修改回填確認數量 
 
-<img src="/assets/FsRrbXZoIoA3Krx8y87cyDxcnrg.png"/>
+<img src="/assets/FsRrbXZoIoA3Krx8y87cyDxcnrg.png" src-width="1280" src-height="474" align="center"/>
 
 1. 超額回填的（超額認購的），可以根據上游數據修改回填結果
 
-<img src="/assets/WWsGbmoO0osl9RxfvJzcWSFknnc.png"/>
+<img src="/assets/WWsGbmoO0osl9RxfvJzcWSFknnc.png" src-width="1280" src-height="316"/>
 
 ### **執行**
 

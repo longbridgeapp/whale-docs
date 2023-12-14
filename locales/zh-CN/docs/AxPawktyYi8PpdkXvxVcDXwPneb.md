@@ -26,5 +26,5 @@ sidebar_position: 5
 
 除了日终功能之外提供了一些个性化操作功能和异常处置功能
 
-<img src="/assets/Wzh1b9m3jo0W3uxw6EMcda7dnFd.jpeg"/>
+<img src="/assets/Wzh1b9m3jo0W3uxw6EMcda7dnFd.jpeg" src-width="2274" src-height="1296" align="center"/>
 

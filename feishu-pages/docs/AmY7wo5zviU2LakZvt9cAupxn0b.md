@@ -13,7 +13,7 @@ sidebar_position: 0
 
 機構合約（上手劵商）
 
-<img src="/assets/EqjCbYlQroZDlFxR2NIcPBSYnsb.png"/>
+<img src="/assets/EqjCbYlQroZDlFxR2NIcPBSYnsb.png" src-width="1604" src-height="472"/>
 
 ## 前置條件
 

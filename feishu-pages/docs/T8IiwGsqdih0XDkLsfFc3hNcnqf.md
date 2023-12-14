@@ -25,7 +25,7 @@ sidebar_position: 0
 
 - 注： 有關中華通的 BCAN 說明 將在系統開放支持時說明
 
-<img src="/assets/BYcPbsqrgohUafxOwtscJK1enYe.png"/>
+<img src="/assets/BYcPbsqrgohUafxOwtscJK1enYe.png" src-width="1280" src-height="586" align="center"/>
 
 其中申報邏輯：上報的數據是 已開通帳戶、有 BCAN 碼且同意授權協議的全量客戶，申報給港交易所後，獲取交易所返回的檔內容，將 BCAN 生效的狀態同步更新；
 
@@ -33,7 +33,7 @@ sidebar_position: 0
 
 SFTP 申報方式說明如下：
 
-<img src="/assets/FyiOb1BuPoldCzxSpA9cL40NnBf.png"/>
+<img src="/assets/FyiOb1BuPoldCzxSpA9cL40NnBf.png" src-width="3250" src-height="1542" align="center"/>
 
 1. **若是劵商是 OB 租戶**： 是要手動產生 BCAN-CID 檔後，再人工透過 SFC Web ECP 網站上傳資料
 
@@ -41,6 +41,6 @@ SFC Wings 申報方式說明如下：
 
  同時客户的 BCAN 生效狀態結果將同步更新
 
-<img src="/assets/MiV2b5v8doYLUPxRcWlclM9MnOf.png"/>
+<img src="/assets/MiV2b5v8doYLUPxRcWlclM9MnOf.png" src-width="3218" src-height="1228" align="center"/>
 
 ### 

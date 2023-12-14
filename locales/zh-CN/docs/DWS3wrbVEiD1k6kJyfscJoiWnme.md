@@ -19,5 +19,5 @@ sidebar_position: 6
 
 - 提供在途资金的汇总记录查询
 
-<img src="/assets/TKUkbU4I0oHRx8xxhgPcx4AjnB6.png"/>
+<img src="/assets/TKUkbU4I0oHRx8xxhgPcx4AjnB6.png" src-width="3309" src-height="1530" align="center"/>
 

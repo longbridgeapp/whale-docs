@@ -25,13 +25,13 @@ sidebar_position: 1
 
 機構合约會單獨維護交收日和收費，需要提前配置代理商收費，詳見代理商收費配置
 
-<img src="/assets/Et1KbMN9coNyd6x46YtcIbWsn4f.png"/>
+<img src="/assets/Et1KbMN9coNyd6x46YtcIbWsn4f.png" src-width="2908" src-height="1548" align="center"/>
 
 點擊費用可以进一步跳轉到收費明细
 
-<img src="/assets/Kzw5bLKXNoE0W0xLYxRcS9PznRd.png"/>
+<img src="/assets/Kzw5bLKXNoE0W0xLYxRcS9PznRd.png" src-width="2900" src-height="1540" align="center"/>
 
-<img src="/assets/IjqibbcNloI04Fx8m2rcV3b2n3g.png"/>
+<img src="/assets/IjqibbcNloI04Fx8m2rcV3b2n3g.png" src-width="2246" src-height="474" align="center"/>
 
 ### 機構**合约提前****試****算**
 
@@ -43,5 +43,5 @@ sidebar_position: 1
 <p>💡 注意：試算生成的機構明细會在日切后被清除並重新生成</p>
 </div>
 
-<img src="/assets/Z8g8bUWymoccbNxqq4CcP0w7nrg.png"/>
+<img src="/assets/Z8g8bUWymoccbNxqq4CcP0w7nrg.png" src-width="1280" src-height="482" align="center"/>
 

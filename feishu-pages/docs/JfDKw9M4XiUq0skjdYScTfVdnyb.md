@@ -24,20 +24,20 @@ sidebar_position: 1
 
 在列表頁的右上角點擊【轉倉】可以進入帳户間轉倉
 
-<img src="/assets/QGe8b1yh9oddXYxx9M6cWyt1n0c.png"/>
+<img src="/assets/QGe8b1yh9oddXYxx9M6cWyt1n0c.png" src-width="3311" src-height="1078" align="center"/>
 
 轉倉操作頁面確認轉出方並選擇轉倉類型後，系統會自動匹配轉入方支持選擇​
 
 1. 轉給主帳戶：若轉入方為子帳戶，可以轉給該賬戶對應的主帳戶​
 2. 轉給子帳戶：若轉入方為主帳戶（非OB客戶），可以轉給其下的子帳戶；若轉入方為子帳戶，可以轉給同一客戶的其他子帳戶
 
-<img src="/assets/Ac03bznFeo6u1IxzObIcapjwnth.png"/>
+<img src="/assets/Ac03bznFeo6u1IxzObIcapjwnth.png" src-width="3268" src-height="1724" align="center"/>
 
 按實際業務需求填寫轉倉信息，若轉倉數量超出可轉出數量，頁面會提示，但不會強制限制轉倉
 
-<img src="/assets/DGFTb71XxogqHNxJK3Ac8rgrnff.png"/>
+<img src="/assets/DGFTb71XxogqHNxJK3Ac8rgrnff.png" src-width="3340" src-height="1828" align="center"/>
 
 確認後提交審批，審批進度可以在列表頁的操作查看
 
-<img src="/assets/DIGebVyiVonuQBxg480c7CZunrd.png"/>
+<img src="/assets/DIGebVyiVonuQBxg480c7CZunrd.png" src-width="3130" src-height="618" align="center"/>
 

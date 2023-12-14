@@ -27,5 +27,5 @@ sidebar_position: 0
 - 設置 Banner 運行週期：Banner 生效的週期，在設置週期內，Banner 生效，過期後則不再展示
 - 設置 Banner 可見範圍：全部用戶可見 - 則 App 所有用戶可以看到 Banner，投放系統可見 - 則僅計劃配置中的目標受衆可見
 
-<img src="/assets/G2P3bSF3boxeboxFPD1crICsnJe.png"/>
+<img src="/assets/G2P3bSF3boxeboxFPD1crICsnJe.png" src-width="1972" src-height="1640" align="center"/>
 

@@ -23,19 +23,19 @@ sidebar_position: 3
 
 初始化狀態是公司行動預告的起始點，也可以操作【終止】
 
-<img src="/assets/FW9pbKaFQo0z7IxbrgWcxwPrngh.png"/>
+<img src="/assets/FW9pbKaFQo0z7IxbrgWcxwPrngh.png" src-width="3172" src-height="1835" align="center"/>
 
 可以點擊【詳情】檢查對應的公司行動預告資料與方案信息，同時系統會產生默認方案
 
-<img src="/assets/SS2BbhqRVodOlQxlx9xcmkmVnIc.png"/>
+<img src="/assets/SS2BbhqRVodOlQxlx9xcmkmVnIc.png" src-width="3116" src-height="1616" align="center"/>
 
 首先展示是該公司行動的 系統推進節點狀態訊息：
 
-<img src="/assets/YDR4bskHNoNpmQxDkI1cknVonyf.png"/>
+<img src="/assets/YDR4bskHNoNpmQxDkI1cknVonyf.png" src-width="2606" src-height="282" align="center"/>
 
 注意：不同的公司行動類型，會有不同狀態展示，方便用戶直覺掌握推進狀態
 
-<img src="/assets/QZq1bzkoxoEzAYxYvYVcxeORnuR.png"/>
+<img src="/assets/QZq1bzkoxoEzAYxYvYVcxeORnuR.png" src-width="2196" src-height="292" align="center"/>
 
 接下展示是**預告信息**：同時系統也針對部分公司行動提供預設配置項來優化，
 
@@ -43,23 +43,23 @@ sidebar_position: 3
 
       零股轉分紅預設（是或否）。  注意：以上預設配置變更，若有需要請聯絡 長橋運營團隊來配置
 
-<img src="/assets/VlTmbNpcKoEwWCxipR7c5JALn8b.png"/>
+<img src="/assets/VlTmbNpcKoEwWCxipR7c5JALn8b.png" src-width="2888" src-height="1408" align="center"/>
 
 接下來是**方案信息與費用規則**：
 
-<img src="/assets/XrMNbWpKdoLPHwxQnKhc5v8sn0c.png"/>
+<img src="/assets/XrMNbWpKdoLPHwxQnKhc5v8sn0c.png" src-width="2904" src-height="1508" align="center"/>
 
 這時候可以 根據需要 檢查個別的公司行動資料紀錄，若必要欄位有缺失，系統會標紅出來，方便檢核數據
 
-<img src="/assets/NJ28b2khHoLhXqxzNatcNETOnEc.png"/>
+<img src="/assets/NJ28b2khHoLhXqxzNatcNETOnEc.png" src-width="2868" src-height="1020" align="center"/>
 
 若沒問題，則可以點選 前方的 紀錄 Checkbox 區域，往下操作【登記】
 
-<img src="/assets/Uu0zbVG3vot4R0xbQ5tcwthonhg.png"/>
+<img src="/assets/Uu0zbVG3vot4R0xbQ5tcwthonhg.png" src-width="3076" src-height="1436" align="center"/>
 
 此時系統會檢查登記日與帳務日期，必須登記日小於目前帳務日期
 
-<img src="/assets/EXS2bwoC3o3IYQxc16WcmMopncf.png"/>
+<img src="/assets/EXS2bwoC3o3IYQxc16WcmMopncf.png" src-width="2964" src-height="246" align="center"/>
 
 ### 登記
 
@@ -75,27 +75,27 @@ sidebar_position: 3
 
 注：系統會判斷 必須 帳務日期&gt;= 登記日 才可進行登記操作
 
-<img src="/assets/FR1bbMIi5oJLCYx9GRhcjSDWncc.png"/>
+<img src="/assets/FR1bbMIi5oJLCYx9GRhcjSDWncc.png" src-width="2542" src-height="150" align="center"/>
 
-<img src="/assets/AnfBbXRUBoW0qcxFLDpciyotnDe.png"/>
+<img src="/assets/AnfBbXRUBoW0qcxFLDpciyotnDe.png" src-width="3094" src-height="1562" align="center"/>
 
 注意：因為公司行動 CCASS 文件會有一段時間的內容更新，因此我們優化 02 文件的讀取，增加 CCASS 文件日期與 CCASS 狀態的展示，租戶可選擇此欄位查出真正要開始執行的公司行動，否則容易因為 CCASS 狀態不是‘最終執行'，可能因為數據內容造成人工處理的環節
 
-<img src="/assets/AdZwb8xTsos7qJxu8sqc7IjanAf.png"/>
+<img src="/assets/AdZwb8xTsos7qJxu8sqc7IjanAf.png" src-width="3192" src-height="1347" align="center"/>
 
 這樣可避免 CCASS 狀態是‘初步確認’（並非最終狀態）或後面被取消，此時若去執行後續公司行動操作容易有機會出錯
 
-<img src="/assets/EWJZbEWgJoYcW9xxEyYcJI58nNe.png"/>
+<img src="/assets/EWJZbEWgJoYcW9xxEyYcJI58nNe.png" src-width="3094" src-height="390" align="center"/>
 
 此時可以在登記日期當天，點選【登記】 ，往下一步操作節點進行，當登記成功後，
 
  注：由於系統處理‘登記'須有點時間，屬於異步設計，狀態會變成‘正在登記' （請稍後即可）
 
-<img src="/assets/ERzKbSwmNouTNOxgpMNc49u0njf.png"/>
+<img src="/assets/ERzKbSwmNouTNOxgpMNc49u0njf.png" src-width="2778" src-height="158" align="center"/>
 
  當登記成功後，就可在 執行菜單：公司行動&gt;客戶明細作業，可以查到對應預告方案的客戶登記明細紀錄 
 
-<img src="/assets/I17SbGsmFoBZ91xD2CkckIRQnId.png"/>
+<img src="/assets/I17SbGsmFoBZ91xD2CkckIRQnId.png" src-width="3388" src-height="1524" align="center"/>
 
 ### 過戶（系統自動處裡）
 
@@ -109,7 +109,7 @@ sidebar_position: 3
 2. 在該預告登記成功且客戶有持倉的狀況下，在‘執行’推進狀態時就系統會自動過戶操作（當股份過户后：即支付 Script Fee）股份記錄將改為 Nominee
 3. 當過戶後，就可在 執行菜單：公司行動&gt;客戶明細&gt;費用記錄 Tab，可以查到對應預告的客戶過戶費 明細紀錄 
 
-<img src="/assets/HaPBb6Wdwot9Egx8SRqczbMqnKd.png"/>
+<img src="/assets/HaPBb6Wdwot9Egx8SRqczbMqnKd.png" src-width="3386" src-height="1444" align="center"/>
 
 ### 指令收集
 
@@ -119,7 +119,7 @@ sidebar_position: 3
 
 在 執行菜單：公司行動&gt;公司行動 查詢條件 選擇：推進狀態：登記成功。指令收集狀態：初始化，就可以查詢到 近期 公司行動預告可進行指令收集操作的預告紀錄（前提是 已登記成功 狀態）
 
-<img src="/assets/EUKeb9UQ9oYEtaxkgPJcDyvpnxc.png"/>
+<img src="/assets/EUKeb9UQ9oYEtaxkgPJcDyvpnxc.png" src-width="3410" src-height="1472" align="center"/>
 
 此時可以操作‘指令收集'。在選擇開始時間 到結算時間，對相關客戶發送選擇通知（透過 APP 或 mail  訊息）
 
@@ -133,11 +133,11 @@ sidebar_position: 3
 
 注意：系統將在指令收集截止日期後，推進狀態將自動變成‘指令收集完成'
 
-<img src="/assets/Y26fbsPR6odEP3xjuaPcQHaRnfe.png"/>
+<img src="/assets/Y26fbsPR6odEP3xjuaPcQHaRnfe.png" src-width="3412" src-height="1574" align="center"/>
 
 由於 指令收集涉及到 客戶選擇交互通知，後續也要把客戶選擇記錄上傳 CCASS 處理，整個指令收集的系統節點如下：正在收集指令/上報成功/回填完成/處理成功/ 處理失敗
 
-<img src="/assets/P3xebgHwdog982xTilUcyXggnpd.png"/>
+<img src="/assets/P3xebgHwdog982xTilUcyXggnpd.png" src-width="2584" src-height="600" align="center"/>
 
 #### 回填（Backfill）
 
@@ -155,11 +155,11 @@ sidebar_position: 3
 
 同時推進狀態：登記成功，指令收集狀態：客户操作完成 才可以進行，可以在 紀錄右側功能鍵操作【尾差調整】按鈕
 
-<img src="/assets/UYKjbGmc9ofkqaxFxjTcI61pnLc.png"/>
+<img src="/assets/UYKjbGmc9ofkqaxFxjTcI61pnLc.png" src-width="3192" src-height="1318" align="center"/>
 
 尾差處理功能，可以按子倉處理，也可以不分子倉處理
 
-<img src="/assets/FqUBbQz4eoaLAUxJ2VQctO6qnhe.png"/>
+<img src="/assets/FqUBbQz4eoaLAUxJ2VQctO6qnhe.png" src-width="2110" src-height="456" align="center"/>
 
 ### 執行
 
@@ -167,11 +167,11 @@ sidebar_position: 3
 
 注意：這步驟基本是最後一步：執行經辦，若檢查該公司行動預告應該處理的業務節點與系統節點後，就可提交執行經辦
 
-<img src="/assets/ADzTbjBFJoYBzBxuLj7cuhYhnPe.png"/>
+<img src="/assets/ADzTbjBFJoYBzBxuLj7cuhYhnPe.png" src-width="3404" src-height="1560" align="center"/>
 
 此時會出現提交審核的畫面，確認提交後就會進入 後續執行審核的節點
 
-<img src="/assets/KEDNboHYToHckwxA0qNciWs2nwf.png"/>
+<img src="/assets/KEDNboHYToHckwxA0qNciWs2nwf.png" src-width="3422" src-height="1628" align="center"/>
 
 ### 執行（審核）
 
@@ -179,15 +179,15 @@ sidebar_position: 3
 
 操作說明：推進狀態：執行待審核，就可以查詢到 執行待審核的預告紀錄
 
-<img src="/assets/GGz1b8aXeokPNTx1aO1cQHtgnuf.png"/>
+<img src="/assets/GGz1b8aXeokPNTx1aO1cQHtgnuf.png" src-width="3406" src-height="1548" align="center"/>
 
 請根據資料數據，做出審核通過的操作或拒絕，當審核通過後就完成一個 公司行動的預告處理週期
 
-<img src="/assets/OAFkbafGcoiUQHxbVzkcxw84nth.png"/>
+<img src="/assets/OAFkbafGcoiUQHxbVzkcxw84nth.png" src-width="3414" src-height="1628" align="center"/>
 
 公司行動執行複核報表，增加了分組功能，可以協助操作者更方便地發現和 CCACC 的差異
 
-<img src="/assets/TPK1bTP3co2VvjxkCYKcLfCxnzh.png"/>
+<img src="/assets/TPK1bTP3co2VvjxkCYKcLfCxnzh.png" src-width="2908" src-height="1558" align="center"/>
 
 ## 系統節點
 

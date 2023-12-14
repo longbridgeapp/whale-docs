@@ -21,7 +21,7 @@ sidebar_position: 3
 
 对于系统按照科目展示的明细帐，可以在此功能进行查询
 
-<img src="/assets/N4qgb6TqsoPH1nxEyVJc2Ckdn3e.png"/>
+<img src="/assets/N4qgb6TqsoPH1nxEyVJc2Ckdn3e.png" src-width="3218" src-height="1506" align="center"/>
 
 也可以根据系统生成的科目明细，在此功能可以点选【报表导出】选择使用对应财务软体格式导出 
 

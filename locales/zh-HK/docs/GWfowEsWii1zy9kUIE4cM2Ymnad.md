@@ -21,49 +21,71 @@ sidebar_position: 1
 
 本作業可以管理維護透過 PageHub 制作出來的頁面
 
-<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png"/>
+<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png" src-width="3354" src-height="1454" align="center"/>
 
 ### 基礎操作
 
 在 Pagehub 查詢管理頁面列表，提供【鏈接複製】的功能操作，可以點選 Copy 圖示
 
-<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png"/>
+<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png" src-width="3306" src-height="918" align="center"/>
 
 在 PageHub 查詢管理頁面列表，提供【二維碼】的預覽功能操作
 
-<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png"/>
+<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png" src-width="3286" src-height="1002" align="center"/>
 
 紀錄右側操作區的可以操作： 【編輯】/【複製】/【刪除】
 
 頁面列表字段/功能說明：
 
-|   |   |
-|---|---|
-|列表字段 | 字段說明|
-|序號 | 頁面序號|
-|標題 | 頁面標題，當配置好自定義頁面後點擊打開頭部標題欄展示的名字|
-|發佈狀態|- 未發佈：該狀態下頁面為草稿狀態，需要點擊發佈才會生效<br/>- 已發佈：頁面點擊發佈按鈕並發佈成功後則為該狀態，該狀態頁面直接生效<br/>- 發佈失敗：當前頁面點擊發佈按鈕但是由於種種原因失敗|
-|頁面地址 | 展示鏈接以及二維碼兩種鏈接形態，可複製當前鏈接直接打開預覽，也可掃描二維碼|
-|創建人 | 創建該頁面的操作人名稱|
-|最後發佈時間 | 最新一次發佈更新的時間|
-|操作|- 編輯：點擊打開編輯當前頁面<br/>- 複製：點擊複製當前頁面內容創建並打開新頁面<br/>- 刪除：刪除當前頁面（謹慎使用）|
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>列表字段</p></td><td><p>字段說明</p></td></tr>
+<tr>
+<td><p>序號</p></td><td><p>頁面序號</p></td></tr>
+<tr>
+<td><p>標題</p></td><td><p>頁面標題，當配置好自定義頁面後點擊打開頭部標題欄展示的名字</p></td></tr>
+<tr>
+<td><p>發佈狀態</p></td><td><ul>
+<li>未發佈：該狀態下頁面為草稿狀態，需要點擊發佈才會生效</li>
+<li>已發佈：頁面點擊發佈按鈕並發佈成功後則為該狀態，該狀態頁面直接生效</li>
+<li>發佈失敗：當前頁面點擊發佈按鈕但是由於種種原因失敗</li>
+</ul></td></tr>
+<tr>
+<td><p>頁面地址</p></td><td><p>展示鏈接以及二維碼兩種鏈接形態，可複製當前鏈接直接打開預覽，也可掃描二維碼</p></td></tr>
+<tr>
+<td><p>創建人</p></td><td><p>創建該頁面的操作人名稱</p></td></tr>
+<tr>
+<td><p>最後發佈時間</p></td><td><p>最新一次發佈更新的時間</p></td></tr>
+<tr>
+<td><p>操作</p></td><td><ul>
+<li>編輯：點擊打開編輯當前頁面</li>
+<li>複製：點擊複製當前頁面內容創建並打開新頁面</li>
+<li>刪除：刪除當前頁面（謹慎使用）</li>
+</ul></td></tr>
+</tbody>
+</table>
 
 ### 頁面搭建
 
 點擊右上角【新建頁面】後打開如下頁面，佈局如圖：
 
-<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png"/>
+<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png" src-width="1921" src-height="989" align="center"/>
 
 **組件管理/組件庫：**
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png"/>
+<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png" src-width="664" src-height="754" align="center"/>
 
 <p>展示當前頁面中已經配置的組件列表，點擊對應組件名稱可進行編輯配置</p>
 </div>
 <div>
-<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png"/>
+<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png" src-width="690" src-height="1268" align="center"/>
 
 <p>所有可配置的組件類型，點擊/拖拽對應組件類型會自動添加至預覽去頁面中</p>
 </div>
@@ -71,15 +93,15 @@ sidebar_position: 1
 
 **預覽區操作功能說明：**
 
-<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png"/>
+<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png" src-width="2406" src-height="1832" align="center"/>
 
 **多語言切換功能說明：**
 
-<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png"/>
+<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png" src-width="800" src-height="356"/>
 
 **配置區域功能說明：**
 
-<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png"/>
+<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png" src-width="696" src-height="632"/>
 
 - 頁面配置 - 當前頁面主要參數配置
 

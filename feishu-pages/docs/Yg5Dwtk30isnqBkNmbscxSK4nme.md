@@ -23,17 +23,17 @@ sidebar_position: 0
 
 (港股）每日下午 5 點前，導入 CCNAN05 檔  ，系統會按導入資訊，登記日，自動生成公司行動預告,並預設方案
 
-<img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png"/>
+<img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png" src-width="3358" src-height="1224" align="center"/>
 
 HK 市場在導入 05 文件後，會自動創建公司行動預告，成為'初始化'狀態預告
 
-<img src="/assets/V0WXbKhHIoiJphxrjYkckRCEnmo.png"/>
+<img src="/assets/V0WXbKhHIoiJphxrjYkckRCEnmo.png" src-width="3320" src-height="1614" align="center"/>
 
 ### 02 文件
 
 (港股）執行前導入 CCNPT02 檔，在執行復核頁面，會展示港交所通知的數據，用於核對系統所計算的數據
 
-<img src="/assets/RljRbu9NXoIuW1xdVqnczo8hnZg.png"/>
+<img src="/assets/RljRbu9NXoIuW1xdVqnczo8hnZg.png" src-width="3356" src-height="1210" align="center"/>
 
 BE 類香港公司行動增加自動更新機制如下：
 

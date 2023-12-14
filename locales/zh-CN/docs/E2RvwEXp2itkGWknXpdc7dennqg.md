@@ -25,33 +25,45 @@ sidebar_position: 2
 
 可以维护美股市场的相关公司行动
 
-<img src="/assets/M6pUbhlK8oK7PMxrvh9cEsylnbe.png"/>
+<img src="/assets/M6pUbhlK8oK7PMxrvh9cEsylnbe.png" src-width="3358" src-height="734" align="center"/>
 
 若要新增一笔企业行动规则，要分三个步骤： 
 
 第一：输入标的代码
 
-<img src="/assets/Uj6Pbzj5DopeHyxXmNicO5ttnwf.png"/>
+<img src="/assets/Uj6Pbzj5DopeHyxXmNicO5ttnwf.png" src-width="2394" src-height="344" align="center"/>
 
 第二：输入行动规则
 
-<img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png"/>
+<img src="/assets/RcYUbDODqoioYNxcUMLcPycjnbf.png" src-width="2764" src-height="1204" align="center"/>
 
 其中栏位说明如下：
 
-|   |   |   |
-|---|---|---|
-|期权标的物 |Option Symbol |期权标的物代码，例如股票代码发生变更，则期权标的物也对应发生变更 |
-|持仓合约乘数 |Contract Multiplier |期权乘数。新张数=旧张数* Contract Multiplier |
-|新乘数 |New Multiplier |x 行权时每张期权对应正股数 |
-|生效日期 |Effective Date |规则生效日期 |
-|行权价 |Stirke Price |新行权价，通过公式计算 ｛price｝*2 表示 新行权价=旧行权价 *2 ·<br/> 若行情同步 Strike Divisor，则行权价= ｛price｝/Strike Divisor ·|
+<table>
+<colgroup>
+<col width="125"/>
+<col width="145"/>
+<col width="566"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>期权标的物 </p></td><td><p>Option Symbol </p></td><td><p>期权标的物代码，例如股票代码发生变更，则期权标的物也对应发生变更 </p></td></tr>
+<tr>
+<td><p>持仓合约乘数 </p></td><td><p>Contract Multiplier </p></td><td><p>期权乘数。新张数=旧张数* Contract Multiplier </p></td></tr>
+<tr>
+<td><p>新乘数 </p></td><td><p>New Multiplier </p></td><td><p>x 行权时每张期权对应正股数 </p></td></tr>
+<tr>
+<td><p>生效日期 </p></td><td><p>Effective Date </p></td><td><p>规则生效日期 </p></td></tr>
+<tr>
+<td><p>行权价 </p></td><td><p>Stirke Price </p></td><td><p>新行权价，通过公式计算 ｛price｝*2 表示 新行权价=旧行权价 *2 ·<br/> 若行情同步 Strike Divisor，则行权价= ｛price｝/Strike Divisor ·</p></td></tr>
+</tbody>
+</table>
 
 第三：进行对帐与执行
 
 基本是依序执行三个步骤：
 
-<img src="/assets/X0vxbRqxpoEOVyxk2c8coawonZc.png"/>
+<img src="/assets/X0vxbRqxpoEOVyxk2c8coawonZc.png" src-width="1350" src-height="140" align="center"/>
 
-<img src="/assets/OPrtbaZnJosDLmxZnM8ckZ2En3e.png"/>
+<img src="/assets/OPrtbaZnJosDLmxZnM8ckZ2En3e.png" src-width="3294" src-height="502" align="center"/>
 

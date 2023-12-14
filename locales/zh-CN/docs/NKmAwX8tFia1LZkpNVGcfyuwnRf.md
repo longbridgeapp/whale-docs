@@ -21,5 +21,5 @@ sidebar_position: 2
 
 系统每日会根据科目明细帐按照帐务日期进行汇总，汇总形成科目余额汇总表
 
-<img src="/assets/ZsaPbBjEKoD0utxcuFIcqK8snPb.png"/>
+<img src="/assets/ZsaPbBjEKoD0utxcuFIcqK8snPb.png" src-width="3188" src-height="1460" align="center"/>
 

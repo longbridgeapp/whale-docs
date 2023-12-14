@@ -19,13 +19,13 @@ sidebar_position: 2
 
 菜单入口：活动系统 &gt; 邀请关系管理
 
-<img src="/assets/BEVdbM8Hno81aCxPWDBce1DMnxH.png"/>
+<img src="/assets/BEVdbM8Hno81aCxPWDBce1DMnxH.png" src-width="2094" src-height="554" align="center"/>
 
 如图：一个手机用户在一个 App 下会生成当前 App 唯一邀请码，手机用户将自己邀请码分享给好友，好友即可填写绑定。绑定后会更新在邀请关系清单中
 
 本作业提供 3 种常见的邀请方式 (注册/开户/入金),可以根据邀请码来绑定邀请关系
 
-<img src="/assets/F4gNbW7b3onETUxOPbTc9XClnag.png"/>
+<img src="/assets/F4gNbW7b3onETUxOPbTc9XClnag.png" src-width="2338" src-height="1328" align="center"/>
 
 ### 主要功能
 

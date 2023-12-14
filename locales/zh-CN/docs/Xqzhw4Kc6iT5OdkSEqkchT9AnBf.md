@@ -23,7 +23,7 @@ sidebar_position: 4
 
 根据银行账单历史发生额计算的结果与银行历史余额进行核对，进而保证银行账单明细的准确性和完整性。
 
-<img src="/assets/KSulbBUHVoHKv2x7doQcO4UAnEc.png"/>
+<img src="/assets/KSulbBUHVoHKv2x7doQcO4UAnEc.png" src-width="3234" src-height="1542" align="center"/>
 
 ### 历史余额
 
@@ -33,9 +33,9 @@ sidebar_position: 4
 
 可以选择批次导入
 
-<img src="/assets/P3jJbTJoso5IItx4p77cjWn3nFE.png"/>
+<img src="/assets/P3jJbTJoso5IItx4p77cjWn3nFE.png" src-width="3238" src-height="1524" align="center"/>
 
-<img src="/assets/Sw5zbkHBeobJCsxlkvvcuLatnnc.png"/>
+<img src="/assets/Sw5zbkHBeobJCsxlkvvcuLatnnc.png" src-width="3242" src-height="1234" align="center"/>
 
 ### 实时余额
 
@@ -43,5 +43,5 @@ sidebar_position: 4
 
 是指券商公司已对接 API 的银行账户的银行实时余额。
 
-<img src="/assets/ZLrpbXj8EoH2eRxWBlGc9MnTnng.png"/>
+<img src="/assets/ZLrpbXj8EoH2eRxWBlGc9MnTnng.png" src-width="3252" src-height="1242" align="center"/>
 
