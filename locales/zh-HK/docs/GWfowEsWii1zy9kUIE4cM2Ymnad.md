@@ -155,5 +155,5 @@ sidebar_position: 1
 
 更多組件相關信息，詳見《組件說明》
 
-[組件說明](/D3MZwurWOiWBsHkeLhVc8tR1nbf) 
+[組件說明](./D3MZwurWOiWBsHkeLhVc8tR1nbf) 
 

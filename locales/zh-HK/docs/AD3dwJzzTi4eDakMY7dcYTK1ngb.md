@@ -49,13 +49,13 @@ sidebar_position: 1
 
 ### 場景：多開通證劵帳戶申請
 
-[多開證劵帳戶申請](/QZfIweqitiiPf8kQ6CTcDtqhn9G)
+[多開證劵帳戶申請](./QZfIweqitiiPf8kQ6CTcDtqhn9G)
 
 ### 場景：多開通證劵子帳戶申請
 
-[多開證劵子帳戶申請](/XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
+[多開證劵子帳戶申請](./XPZVwYzhoi19Mnk5dQ8cucQ5nIc)
 
 ### 場景：批量修改證劵帳戶
 
-[批量修改證劵帳戶](/Ofpowlv0xi5ecBk3s3cci46YnJb)
+[批量修改證劵帳戶](./Ofpowlv0xi5ecBk3s3cci46YnJb)
 

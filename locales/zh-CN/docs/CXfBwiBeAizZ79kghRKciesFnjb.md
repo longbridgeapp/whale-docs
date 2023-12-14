@@ -21,7 +21,7 @@ sidebar_position: 2
 
 ### 交易对帐
 
-详见[日终任务](/G4ddwtkMnisaE2k9E7dcp5zRn4e) -清算前检查步骤
+详见[日终任务](./G4ddwtkMnisaE2k9E7dcp5zRn4e) -清算前检查步骤
 
 ### 持仓对帐
 

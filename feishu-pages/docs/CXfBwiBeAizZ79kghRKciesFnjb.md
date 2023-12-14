@@ -21,7 +21,7 @@ sidebar_position: 2
 
 ### 交易對帳
 
-詳見[日終任務](/G4ddwtkMnisaE2k9E7dcp5zRn4e) -清算前檢查步驟
+詳見[日終任務](./G4ddwtkMnisaE2k9E7dcp5zRn4e) -清算前檢查步驟
 
 ### 持倉對帳
 
