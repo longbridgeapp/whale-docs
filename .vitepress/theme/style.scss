@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 
-  .vitepress/theme/custom.css 
+/*
+  .vitepress/theme/custom.css
 
   https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
 */
@@ -22,7 +22,9 @@
   --vp-sidebar-width: 300px;
   --vp-sidebar-bg-color: #f8f9fa;
 
-  --vp-layout-max-width: 1800px;
+  --vp-layout-max-width: 1600px;
+
+  --vp-nav-logo-height: 32px;
 }
 
 .VPDoc .content-container {
@@ -50,7 +52,7 @@ ol {
 .callout {
   padding: 0.5em 1em;
   margin: 1.5em 0;
-  border: 2px solid #ccc;
+  border: 1px solid #ccc;
   border-radius: 5px;
   font-size: 1em;
 
@@ -161,4 +163,14 @@ ol {
 .vp-doc table tr td > p {
   margin: 0;
   line-height: 1.7;
+}
+
+.VPDoc .VPLastUpdated {
+  font-weight: normal;
+  font-size: 0.9em;
+  color: var(--vp-c-text-3);
+}
+
+.DocSearch-Button{
+  border-color: var(--vp-c-divider);
 }
