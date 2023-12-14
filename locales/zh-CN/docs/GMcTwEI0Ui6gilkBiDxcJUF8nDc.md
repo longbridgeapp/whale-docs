@@ -23,11 +23,11 @@ sidebar_position: 4
 
 有持仓的股票会展示在收盘价管理页面
 
-<img src="/assets/QJDHbS8b7odncDxPWqccSnE8n4f.png"/>
+<img src="/assets/QJDHbS8b7odncDxPWqccSnE8n4f.png" src-width="3362" src-height="1342" align="center"/>
 
 需要临时修改清算收盘价的可点击编辑
 
-<img src="/assets/Rc4SbCB6go8s6WxTnuHcdgS7nZc.png"/>
+<img src="/assets/Rc4SbCB6go8s6WxTnuHcdgS7nZc.png" src-width="3460" src-height="1555" align="center"/>
 
 修改收盘价并提交
 

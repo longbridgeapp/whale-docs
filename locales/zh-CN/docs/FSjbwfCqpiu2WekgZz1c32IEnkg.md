@@ -21,9 +21,9 @@ sidebar_position: 1
 
 菜单入口：运营系统&gt;权益系统&gt;奖励中心&gt;奖励记录
 
-<img src="/assets/VSHObeIPaorIEhxRMZecoJ7UnXe.png"/>
+<img src="/assets/VSHObeIPaorIEhxRMZecoJ7UnXe.png" src-width="3252" src-height="1426" align="center"/>
 
-<img src="/assets/QF1zbPB0oowMjwxQB4dcMmbGnaf.png"/>
+<img src="/assets/QF1zbPB0oowMjwxQB4dcMmbGnaf.png" src-width="3254" src-height="1630" align="center"/>
 
 #### 给批量用户发奖
 
@@ -31,9 +31,9 @@ sidebar_position: 1
 
 批量发放现金 - 点击批量发放现金奖励按钮
 
-<img src="/assets/Uzx8bPNgmobTwhxLSEOc7SA4n2g.png"/>
+<img src="/assets/Uzx8bPNgmobTwhxLSEOc7SA4n2g.png" src-width="3246" src-height="280" align="center"/>
 
-<img src="/assets/Y3gqbWsc5ojQhqxwwCdc5iWynwc.png"/>
+<img src="/assets/Y3gqbWsc5ojQhqxwwCdc5iWynwc.png" src-width="3248" src-height="1622" align="center"/>
 
 批量发放实物 - 点击批量发放实物奖励按钮
 

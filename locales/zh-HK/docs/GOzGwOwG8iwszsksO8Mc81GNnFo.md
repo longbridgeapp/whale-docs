@@ -21,7 +21,7 @@ xxxxx
 
 投放系統支持通過 2 種方式創建用戶分羣，分別是規則創建和導入創建，您可以根據自己的需求選擇
 
-<img src="/assets/OR5abkZr7ozOK6xvdPcceJBonYd.png"/>
+<img src="/assets/OR5abkZr7ozOK6xvdPcceJBonYd.png" src-width="582" src-height="366"/>
 
 #### 規則創建用戶分羣
 
@@ -31,7 +31,7 @@ xxxxx
 
 **結果更新說明：**已經創建並保存成功的分羣，在每次被請求時，均會使用分羣規則去重新計算，從而獲取最新的數據結果
 
-<img src="/assets/OK9tb2ay4ox1sVxhgy2cPMHmnIe.png"/>
+<img src="/assets/OK9tb2ay4ox1sVxhgy2cPMHmnIe.png" src-width="3068" src-height="1704" align="center"/>
 
 #### 導入創建用戶分羣
 
@@ -39,10 +39,10 @@ xxxxx
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/A1xAb3WjPoDb7PxeOm3cYnFdnXb.png"/>
+<img src="/assets/A1xAb3WjPoDb7PxeOm3cYnFdnXb.png" src-width="1542" src-height="1546"/>
 </div>
 <div>
-<img src="/assets/KJjjbSKjPoMPcoxkE9xc2hoonsc.png"/>
+<img src="/assets/KJjjbSKjPoMPcoxkE9xc2hoonsc.png" src-width="1536" src-height="1684" align="center"/>
 </div>
 </div>
 

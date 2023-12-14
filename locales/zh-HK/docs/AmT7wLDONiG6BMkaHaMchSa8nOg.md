@@ -47,7 +47,7 @@ sidebar_position: 1
 
 系統支持以‘看板模式’與‘列表模式’來切換管理 所配置的運營計畫
 
-<img src="/assets/IpQJbWtfcoED4Lx3Z78cfEuJnAK.png"/>
+<img src="/assets/IpQJbWtfcoED4Lx3Z78cfEuJnAK.png" src-width="3074" src-height="1584" align="center"/>
 
 運營計劃列表支持以下查詢：
 

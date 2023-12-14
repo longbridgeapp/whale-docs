@@ -21,9 +21,9 @@ sidebar_position: 2
 
 针对已经开通证券帐户的客户，可申请增开证券子帐户（包含日内帐户），在客户详情业进入后，在关连帐户列表区域操作，新增一个子帐户类型
 
-<img src="/assets/AcAMb87B1oRAQyxg0VocW9EqnOe.png"/>
+<img src="/assets/AcAMb87B1oRAQyxg0VocW9EqnOe.png" src-width="3226" src-height="1614" align="center"/>
 
 针对已经开通证券帐户的客户，可申请增开证券 ESOP 帐户标签，作为 ESOP 帐户使用
 
-<img src="/assets/WH26bpA9GogSN4xPkiZcZTninFd.png"/>
+<img src="/assets/WH26bpA9GogSN4xPkiZcZTninFd.png" src-width="3236" src-height="1630" align="center"/>
 

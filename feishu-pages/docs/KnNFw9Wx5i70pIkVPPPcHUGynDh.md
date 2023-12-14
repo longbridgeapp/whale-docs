@@ -23,61 +23,61 @@ sidebar_position: 2
 
 **公司行動主體與 公司行動類型圖標 與推進狀況**：  
 
-<img src="/assets/HBA7bVbtloyTr8xaa0ucthe5nWx.png"/>
+<img src="/assets/HBA7bVbtloyTr8xaa0ucthe5nWx.png" src-width="2388" src-height="292" align="center"/>
 
 **公司行動預告訊息資料： **
 
 紀錄該公司行動預告的重要欄位訊息（預告類型/標的/執行方式/登記日/派發日.._) 
 
-<img src="/assets/XJbXbdllWoLWLexrQ1zch1Kjnfh.png"/>
+<img src="/assets/XJbXbdllWoLWLexrQ1zch1Kjnfh.png" src-width="2762" src-height="1033" align="center"/>
 
 **方案信息與費用規則**： 
 
 這邊記錄 對應的預告方案紀錄與費用規則，一個公司行動如果有單獨的規則，可以在費用規則維護
 
-<img src="/assets/NWHEb0jBEoRICyxRKvsc4elMnWh.png"/>
+<img src="/assets/NWHEb0jBEoRICyxRKvsc4elMnWh.png" src-width="2682" src-height="1138" align="center"/>
 
 **明細匯總與客戶明細**： 
 
 這邊記錄 所登記的客戶匯總資料 與客戶明細
 
-<img src="/assets/KScFbzEXoo8HXXx0bd5c7dJAnwd.png"/>
+<img src="/assets/KScFbzEXoo8HXXx0bd5c7dJAnwd.png" src-width="2674" src-height="1182" align="center"/>
 
  同時在詳情頁，基本上提供所有可供操作的功能鍵入口
 
-<img src="/assets/GcVVbypQgoB6TPx6ucAcaJaunNd.png"/>
+<img src="/assets/GcVVbypQgoB6TPx6ucAcaJaunNd.png" src-width="2504" src-height="1634" align="center"/>
 
-<img src="/assets/CFGZbM11ZoKtNfxTb1ycQtdfnBh.png"/>
+<img src="/assets/CFGZbM11ZoKtNfxTb1ycQtdfnBh.png" src-width="2380" src-height="814" align="center"/>
 
-<img src="/assets/KFX8bhcTto0USqxl89lchYjnnkg.png"/>
+<img src="/assets/KFX8bhcTto0USqxl89lchYjnnkg.png" src-width="2370" src-height="1046" align="center"/>
 
 ### 重要欄位摘要
 
 在進入 公司行動 預告紀錄查詢明細畫面， 版面如下： 中間區域 展示‘推進狀態’與‘指令收集狀態‘，方便快速定位
 
-<img src="/assets/Pz9vbTxDyo1STCxD6KscK3cfn8e.png"/>
+<img src="/assets/Pz9vbTxDyo1STCxD6KscK3cfn8e.png" src-width="3186" src-height="1520" align="center"/>
 
 右邊紀錄區展示該公司行動可操作的功能鍵 （減少誤操作，方便單一公司行動處理）
 
-<img src="/assets/QZKobazscoOkQexshiQct3lRnXg.png"/>
+<img src="/assets/QZKobazscoOkQexshiQct3lRnXg.png" src-width="3184" src-height="1512" align="center"/>
 
 由於公司行動類型眾多，業務節點不盡相同， 系統也針對公司行動類型提供操作順序順序的文案（操作引導）
 
-<img src="/assets/DLTJbU6yuoXKtux643wc5KFEnaf.png"/>
+<img src="/assets/DLTJbU6yuoXKtux643wc5KFEnaf.png" src-width="2664" src-height="956" align="center"/>
 
 在列表列也展示備註文案提示
 
-<img src="/assets/FVZmbeo3mofls2xpoyKc77ZenHe.png"/>
+<img src="/assets/FVZmbeo3mofls2xpoyKc77ZenHe.png" src-width="3560" src-height="1528" align="center"/>
 
 批量操作功能，系統會狀態判斷，提供可操作功能鍵
 
-<img src="/assets/EDGSbb2rZosZUPxXJoGc7Q1WnIc.png"/>
+<img src="/assets/EDGSbb2rZosZUPxXJoGc7Q1WnIc.png" src-width="3324" src-height="1598" align="center"/>
 
 提供 02 文件的互動，實時更新公司行動最新狀態
 
-<img src="/assets/HBqKbQbPZoAN3lx6iJecTTzqnLe.png"/>
+<img src="/assets/HBqKbQbPZoAN3lx6iJecTTzqnLe.png" src-width="3334" src-height="1478" align="center"/>
 
-<img src="/assets/L37Qbz2pEosJIxxhxALcQxbEnPh.png"/>
+<img src="/assets/L37Qbz2pEosJIxxhxALcQxbEnPh.png" src-width="3358" src-height="1002" align="center"/>
 
 ### 備註欄位說明
 

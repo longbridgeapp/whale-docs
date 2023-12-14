@@ -26,7 +26,7 @@ sidebar_position: 4
 - 選擇短信類型：投放系統一般使用營銷活動
 - 設置短信內容
 
-<img src="/assets/RVzwbM96hovJtBx3u1vcE6Junte.png"/>
+<img src="/assets/RVzwbM96hovJtBx3u1vcE6Junte.png" src-width="2226" src-height="1530" align="center"/>
 
 #### 消息模板說明
 
@@ -40,13 +40,13 @@ sidebar_position: 4
 
 <div class="grid gap-3 grid-cols-3">
 <div>
-<img src="/assets/DpuPbNGAhoio9VxMi9CcXiZOnzg.png"/>
+<img src="/assets/DpuPbNGAhoio9VxMi9CcXiZOnzg.png" src-width="1276" src-height="1928" align="center"/>
 </div>
 <div>
-<img src="/assets/ZgaZb4uaOoBkKBxBmQqcot6Nns9.png"/>
+<img src="/assets/ZgaZb4uaOoBkKBxBmQqcot6Nns9.png" src-width="1274" src-height="1914" align="center"/>
 </div>
 <div>
-<img src="/assets/JAPfbROCWo0VWdx1Tg4cvnvFnTh.png"/>
+<img src="/assets/JAPfbROCWo0VWdx1Tg4cvnvFnTh.png" src-width="1270" src-height="1916" align="center"/>
 </div>
 </div>
 
@@ -56,13 +56,13 @@ sidebar_position: 4
 
 <div class="grid gap-3 grid-cols-3">
 <div>
-<img src="/assets/ROpOb0Hq0oyJ4wxlSLJcSHLYnhg.png"/>
+<img src="/assets/ROpOb0Hq0oyJ4wxlSLJcSHLYnhg.png" src-width="1346" src-height="518" align="center"/>
 </div>
 <div>
-<img src="/assets/FBSmb4f8johCEuxDU6fcKi3nnYg.png"/>
+<img src="/assets/FBSmb4f8johCEuxDU6fcKi3nnYg.png" src-width="1130" src-height="322" align="center"/>
 </div>
 <div>
-<img src="/assets/CdIVbUocIo6KmOxjyRJcMW7KnYd.png"/>
+<img src="/assets/CdIVbUocIo6KmOxjyRJcMW7KnYd.png" src-width="756" src-height="302" align="center"/>
 </div>
 </div>
 

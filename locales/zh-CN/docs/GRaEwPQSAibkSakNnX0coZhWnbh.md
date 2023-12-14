@@ -27,15 +27,15 @@ sidebar_position: 3
 
 资产和持仓流水需要在不同页面 Tab 上操作，找到流水纪录点击编辑
 
-<img src="/assets/JYLlbmOhRo9w1Zx74PocGwQqnzc.png"/>
+<img src="/assets/JYLlbmOhRo9w1Zx74PocGwQqnzc.png" src-width="3344" src-height="1404" align="center"/>
 
 输入需要处理的日期
 
-<img src="/assets/X38Jb8ixPotJeGxFpINcN1iFnIc.png"/>
+<img src="/assets/X38Jb8ixPotJeGxFpINcN1iFnIc.png" src-width="3368" src-height="1308" align="center"/>
 
 观察编辑号的帐务日期，看是否生效
 
-<img src="/assets/RbBgbfUMWougIlxKDd5cuQcNnPc.png"/>
+<img src="/assets/RbBgbfUMWougIlxKDd5cuQcNnPc.png" src-width="3368" src-height="1308" align="center"/>
 
 在日终任务中重新点击数据汇总
 
@@ -43,7 +43,7 @@ sidebar_position: 3
 
 先选中流水纪录，然后点击批量编辑帐务日期
 
-<img src="/assets/NTdHbtdsroblM4xKKtZcuyXWnxh.png"/>
+<img src="/assets/NTdHbtdsroblM4xKKtZcuyXWnxh.png" src-width="3344" src-height="1456" align="center"/>
 
 在日终任务中重新点击数据汇总
 
@@ -51,7 +51,7 @@ sidebar_position: 3
 
 注意：批量调整日期的，需要事先确认该业务码是否支持编辑，边界后需要在页面观察最终结果
 
-<img src="/assets/WMzhbZI9roU5mrxsu6ycdC6tnxd.png"/>
+<img src="/assets/WMzhbZI9roU5mrxsu6ycdC6tnxd.png" src-width="3356" src-height="1344" align="center"/>
 
 在日终任务中重新点击数据汇总
 

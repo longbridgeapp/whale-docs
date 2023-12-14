@@ -21,5 +21,5 @@ sidebar_position: 3
 
 本作業可以查詢管理帳戶的操作記錄與登錄設備紀錄
 
-<img src="/assets/MWjNbXYbtowqIAxmQFgciXzEnBe.png"/>
+<img src="/assets/MWjNbXYbtowqIAxmQFgciXzEnBe.png" src-width="3248" src-height="946" align="center"/>
 

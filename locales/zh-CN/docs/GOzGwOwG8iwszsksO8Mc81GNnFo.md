@@ -21,7 +21,7 @@ xxxxx
 
 投放系统支持通过 2 种方式创建用户分群，分别是规则创建和导入创建，您可以根据自己的需求选择
 
-<img src="/assets/OR5abkZr7ozOK6xvdPcceJBonYd.png"/>
+<img src="/assets/OR5abkZr7ozOK6xvdPcceJBonYd.png" src-width="582" src-height="366"/>
 
 #### 规则创建用户分群
 
@@ -31,7 +31,7 @@ xxxxx
 
 **结果更新说明：**已经创建并保存成功的分群，在每次被请求时，均会使用分群规则去重新计算，从而获取最新的数据结果
 
-<img src="/assets/OK9tb2ay4ox1sVxhgy2cPMHmnIe.png"/>
+<img src="/assets/OK9tb2ay4ox1sVxhgy2cPMHmnIe.png" src-width="3068" src-height="1704" align="center"/>
 
 #### 导入创建用户分群
 
@@ -39,10 +39,10 @@ xxxxx
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/A1xAb3WjPoDb7PxeOm3cYnFdnXb.png"/>
+<img src="/assets/A1xAb3WjPoDb7PxeOm3cYnFdnXb.png" src-width="1542" src-height="1546"/>
 </div>
 <div>
-<img src="/assets/KJjjbSKjPoMPcoxkE9xc2hoonsc.png"/>
+<img src="/assets/KJjjbSKjPoMPcoxkE9xc2hoonsc.png" src-width="1536" src-height="1684" align="center"/>
 </div>
 </div>
 

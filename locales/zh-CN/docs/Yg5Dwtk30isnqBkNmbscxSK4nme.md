@@ -23,17 +23,17 @@ sidebar_position: 0
 
 (港股）每日下午 5 点前，导入 CCNAN05 档，系统会按导入资讯，登记日，自动生成公司行动预告，并预设方案
 
-<img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png"/>
+<img src="/assets/MHOnbYorToFsDFxMTmEcW92Snae.png" src-width="3358" src-height="1224" align="center"/>
 
 HK 市场在导入 05 文件后，会自动创建公司行动预告，成为'初始化'状态预告
 
-<img src="/assets/V0WXbKhHIoiJphxrjYkckRCEnmo.png"/>
+<img src="/assets/V0WXbKhHIoiJphxrjYkckRCEnmo.png" src-width="3320" src-height="1614" align="center"/>
 
 ### 02 文件
 
 (港股）执行前导入 CCNPT02 档，在执行复核页面，会展示港交所通知的数据，用于核对系统所计算的数据
 
-<img src="/assets/RljRbu9NXoIuW1xdVqnczo8hnZg.png"/>
+<img src="/assets/RljRbu9NXoIuW1xdVqnczo8hnZg.png" src-width="3356" src-height="1210" align="center"/>
 
 BE 类香港公司行动增加自动更新机制如下：
 

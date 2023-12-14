@@ -21,5 +21,5 @@ sidebar_position: 2
 
 系統每日會根據科目明細帳按照帳務日期進行匯總，匯總形成科目餘額匯總表
 
-<img src="/assets/ZsaPbBjEKoD0utxcuFIcqK8snPb.png"/>
+<img src="/assets/ZsaPbBjEKoD0utxcuFIcqK8snPb.png" src-width="3188" src-height="1460" align="center"/>
 

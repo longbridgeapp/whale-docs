@@ -25,13 +25,13 @@ sidebar_position: 4
 
 注意 1：
 
-<img src="/assets/BjLXbh6M5o3ykCxE1wEctFk0nJh.png"/>
+<img src="/assets/BjLXbh6M5o3ykCxE1wEctFk0nJh.png" src-width="2928" src-height="1550" align="center"/>
 
 提交后，可点击清算撤销记录查看处理状态
 
-<img src="/assets/ZBcbbd5MCoPMNexSb8AcGtCLnqd.png"/>
+<img src="/assets/ZBcbbd5MCoPMNexSb8AcGtCLnqd.png" src-width="2924" src-height="1504" align="center"/>
 
 选择提交的帐务日期
 
-<img src="/assets/QnbDbFMUCocbEKxjrcecS4OXnRf.png"/>
+<img src="/assets/QnbDbFMUCocbEKxjrcecS4OXnRf.png" src-width="2926" src-height="1538" align="center"/>
 

@@ -15,7 +15,7 @@ sidebar_position: 0
 
 每一個投放運營計畫都是在：觸發條件/受眾用戶/觸達配置/目標設置 的維度下作運營計畫項目的管理
 
-<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg"/>
+<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg" src-width="1286" src-height="454"/>
 
 ## 前置條件
 

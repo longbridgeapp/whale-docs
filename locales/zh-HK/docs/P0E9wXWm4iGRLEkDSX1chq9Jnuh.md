@@ -29,29 +29,29 @@ sidebar_position: 1
 
 點擊右上角‘創建計劃’，設置計劃名稱（例：定期邀請開戶活動）
 
-<img src="/assets/R6XebZfbBoPj2Mx177fcIl47nEg.png"/>
+<img src="/assets/R6XebZfbBoPj2Mx177fcIl47nEg.png" src-width="3174" src-height="1576" align="center"/>
 
 **第二步：設置觸發條件**
 
 配置條件參考如下：選擇計劃類型爲定時型 - 重複，設置起止時間爲 2023-01-01 至 202-01-31，設置觸達時間爲每週一和每週五的 12:30，設置觸達次數限制爲同一個用戶 5 天內最多收到 1 次邀請活動
 
-<img src="/assets/YjRXbS2weo83LDxYsJucGzE4n1f.png"/>
+<img src="/assets/YjRXbS2weo83LDxYsJucGzE4n1f.png" src-width="2638" src-height="1170" align="center"/>
 
 **第三步：選擇受衆用戶**
 
 配置條件如下：已開戶用戶 且 最近 APP 啓動時間在 2022-12-01 至 2023-01-31
 
-<img src="/assets/ZzQNbhkSioEZwlxpKtxccNcmnbe.png"/>
+<img src="/assets/ZzQNbhkSioEZwlxpKtxccNcmnbe.png" src-width="2836" src-height="1588" align="center"/>
 
 **第四步：配置觸達規則**
 
 以短信的方式給用戶發送邀請活動
 
-<img src="/assets/NWNbbcTVKoaAJwx1UDuc5xA1ndc.png"/>
+<img src="/assets/NWNbbcTVKoaAJwx1UDuc5xA1ndc.png" src-width="1814" src-height="1024" align="center"/>
 
 **第五步：設置觸達目標**
 
 用戶收到郵件後，4 小時內完成邀請活動頁面的瀏覽
 
-<img src="/assets/FTEdb8PjWoEzW8x8tK6cbOODnBd.png"/>
+<img src="/assets/FTEdb8PjWoEzW8x8tK6cbOODnBd.png" src-width="2546" src-height="1122" align="center"/>
 

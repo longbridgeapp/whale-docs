@@ -24,7 +24,7 @@ sidebar_position: 6
 - 在登記日，有持倉的公司行動會自動創建預告
 - 系統會自動在 CCASS 支付日期基礎上 +1 交易日，生成支付日期
 
-<img src="/assets/HppkbN9dVo2CqPxFh5Icvu8Wnqh.png"/>
+<img src="/assets/HppkbN9dVo2CqPxFh5Icvu8Wnqh.png" src-width="2252" src-height="552" align="center"/>
 
 ### **登記**
 
@@ -37,44 +37,44 @@ sidebar_position: 6
 <p>非直聯 CCASS 的根據上送派發信息核對</p>
 </div>
 
-<img src="/assets/WYKHbdDRUoKE82x1QiVctKYrn9e.png"/>
+<img src="/assets/WYKHbdDRUoKE82x1QiVctKYrn9e.png" src-width="2924" src-height="1498" align="center"/>
 
 ### **執行**
 
 - 登記後操作提交執行
 
-<img src="/assets/YGNybqpEtomuPLxDCGtc09N6ngx.png"/>
+<img src="/assets/YGNybqpEtomuPLxDCGtc09N6ngx.png" src-width="2902" src-height="1552" align="center"/>
 
 - 在執行報表中可以進一步核對數據
 - 直聯 CCASS 的券商會有一條對端數據方便核對
 
-<img src="/assets/PaYCbizF4owDBGxste2cJAWrnFc.png"/>
+<img src="/assets/PaYCbizF4owDBGxste2cJAWrnFc.png" src-width="2902" src-height="1554" align="center"/>
 
 提交執行後，複核人員可以點擊執行批量複核
 
-<img src="/assets/TEEdbX1wjoIdIExdlMdchQxqnVu.png"/>
+<img src="/assets/TEEdbX1wjoIdIExdlMdchQxqnVu.png" src-width="2906" src-height="1538" align="center"/>
 
-<img src="/assets/B8iYbMjX4oqlSXxDr9JcYQeMnaf.png"/>
+<img src="/assets/B8iYbMjX4oqlSXxDr9JcYQeMnaf.png" src-width="2272" src-height="1264" align="center"/>
 
 ### **輔助功能**
 
 提交執行前，點擊詳情可以進行非常規流程的操作
 
-<img src="/assets/SpoWbqC2HoZivQx3YXfcrPgYnjb.png"/>
+<img src="/assets/SpoWbqC2HoZivQx3YXfcrPgYnjb.png" src-width="2902" src-height="1554" align="center"/>
 
 - 在操作尾差調整時可以根據上手的派發金額，重新調整權益，調整後系統內的總金額將和上手保持一致
 
-<img src="/assets/HjqBbMNj3os3tdxMPecc5HqFnGh.png"/>
+<img src="/assets/HjqBbMNj3os3tdxMPecc5HqFnGh.png" src-width="2926" src-height="1506" align="center"/>
 
 在客戶明細可新增或者刪除客戶權益
 
-<img src="/assets/KqHAbBJOJoLcrjxDtNJcVYD3n5g.png"/>
+<img src="/assets/KqHAbBJOJoLcrjxDtNJcVYD3n5g.png" src-width="2918" src-height="1546" align="center"/>
 
 在客戶明細-詳情內可以分別對費用和權益金額進行調整
 
-<img src="/assets/VEddbH17jodsgrxcnoZc9vaknbg.png"/>
+<img src="/assets/VEddbH17jodsgrxcnoZc9vaknbg.png" src-width="2916" src-height="1540" align="center"/>
 
 在費用規則 Tab 可以在全局收費規則上，針對該公司行動調整收費
 
-<img src="/assets/PstCbEKMHoRFW5xaGJwcwivGnUc.png"/>
+<img src="/assets/PstCbEKMHoRFW5xaGJwcwivGnUc.png" src-width="2914" src-height="1560" align="center"/>
 

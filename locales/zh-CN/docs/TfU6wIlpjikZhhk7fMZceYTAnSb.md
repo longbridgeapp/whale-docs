@@ -21,9 +21,9 @@ sidebar_position: 6
 
 点选【提前交收】，输入欲提早交收的市场（可多选）
 
-<img src="/assets/WVbIb1q3xoKMJSxgzbhcRXPMnFg.png"/>
+<img src="/assets/WVbIb1q3xoKMJSxgzbhcRXPMnFg.png" src-width="3364" src-height="1450" align="center"/>
 
 操作后可观察交收批次是否处理完毕
 
-<img src="/assets/NDZrbL5Snoi9d7xiNljcC5TZnOb.png"/>
+<img src="/assets/NDZrbL5Snoi9d7xiNljcC5TZnOb.png" src-width="2516" src-height="740" align="center"/>
 

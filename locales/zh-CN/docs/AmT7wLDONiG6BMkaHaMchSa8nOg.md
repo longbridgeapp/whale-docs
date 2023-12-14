@@ -47,7 +47,7 @@ sidebar_position: 1
 
 系统支持以‘看板模式’与‘列表模式’来切换管理 所配置的运营计划
 
-<img src="/assets/IpQJbWtfcoED4Lx3Z78cfEuJnAK.png"/>
+<img src="/assets/IpQJbWtfcoED4Lx3Z78cfEuJnAK.png" src-width="3074" src-height="1584" align="center"/>
 
 运营计划列表支持以下查询：
 

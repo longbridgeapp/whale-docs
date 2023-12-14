@@ -29,29 +29,29 @@ sidebar_position: 0
 
 点击右上角‘创建计划’，设置计划名称（例：12 月回归奖励活动）
 
-<img src="/assets/UUeCbtUJ3o7zK1xZrGocGcOingc.png"/>
+<img src="/assets/UUeCbtUJ3o7zK1xZrGocGcOingc.png" src-width="3174" src-height="1576" align="center"/>
 
 **第二步：设置触发条件**
 
 配置条件参考如下：选择计划类型为定时型 - 单次，2022-12-29 的 14:00 触发计划，对受众用户进行触达
 
-<img src="/assets/WDGwbkbwSobL7AxN7GscykuznZe.png"/>
+<img src="/assets/WDGwbkbwSobL7AxN7GscykuznZe.png" src-width="2534" src-height="964" align="center"/>
 
 **第三步：选择受众用户**
 
 账户总资产小于 200 美金 且 累计交易次数大于 5 次
 
-<img src="/assets/EKvlbkv9Ao47BPxmJQ8cNoC4nMd.png"/>
+<img src="/assets/EKvlbkv9Ao47BPxmJQ8cNoC4nMd.png" src-width="2830" src-height="1576" align="center"/>
 
 **第四步：配置触达规则**
 
 以邮件的方式给用户发送 APP 新版本升级介绍
 
-<img src="/assets/Ueb2bbJCzolaPAxCzDccDqbundd.png"/>
+<img src="/assets/Ueb2bbJCzolaPAxCzDccDqbundd.png" src-width="2218" src-height="1220" align="center"/>
 
 **第五步：设置触达目标**
 
 用户收到邮件后，1 天内完成 APP 启动
 
-<img src="/assets/XQCiblZsdojZ4sxatlDcE0nZnqi.png"/>
+<img src="/assets/XQCiblZsdojZ4sxatlDcE0nZnqi.png" src-width="2158" src-height="1060" align="center"/>
 

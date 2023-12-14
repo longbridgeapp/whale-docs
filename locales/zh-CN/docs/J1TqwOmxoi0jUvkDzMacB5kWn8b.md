@@ -21,5 +21,5 @@ sidebar_position: 3
 
 本作业可以查询管理帐户的操作记录与登录设备纪录
 
-<img src="/assets/MWjNbXYbtowqIAxmQFgciXzEnBe.png"/>
+<img src="/assets/MWjNbXYbtowqIAxmQFgciXzEnBe.png" src-width="3248" src-height="946" align="center"/>
 

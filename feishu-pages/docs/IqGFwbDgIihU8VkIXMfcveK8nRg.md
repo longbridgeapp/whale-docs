@@ -34,7 +34,7 @@ sidebar_position: 8
 
 1. 方案可新增多個，當中只能有一個可標記「是」的默認方案，默認方案既可以選擇現金也可以選擇股票
 
-<img src="/assets/BUJCbxByfo7cMPxjKHccLeFsnrc.png"/>
+<img src="/assets/BUJCbxByfo7cMPxjKHccLeFsnrc.png" src-width="2654" src-height="324" align="center"/>
 
 ### **登記**
 
@@ -46,13 +46,13 @@ sidebar_position: 8
 
 過戶完成後，點擊【指令收集】。操作後，系統會發送消息通知（APP+客戶端）客戶。 在選擇開始日期後到內部選擇結束日期之間，客戶可以在 APP 上進行選股選息
 
-<img src="/assets/NqwobZYwso02hsxrUlpcA3hentd.png"/>
+<img src="/assets/NqwobZYwso02hsxrUlpcA3hentd.png" src-width="2902" src-height="1552" align="center"/>
 
 BO 人員可在後台協助客戶完成方案的選擇，方案選擇完畢後，系統將針對該客戶進行二次登記，計算權益和收費
 
-<img src="/assets/XVkAbjmkmoOLnKxeX2ecp3XonIc.png"/>
+<img src="/assets/XVkAbjmkmoOLnKxeX2ecp3XonIc.png" src-width="2504" src-height="1538" align="center"/>
 
-<img src="/assets/Mkn6baA95o2Cn9xtZ83cgajEnhe.png"/>
+<img src="/assets/Mkn6baA95o2Cn9xtZ83cgajEnhe.png" src-width="2498" src-height="1556" align="center"/>
 
 ### **上報回填**
 
@@ -60,9 +60,9 @@ BO 人員可在後台協助客戶完成方案的選擇，方案選擇完畢後�
 2. BE 上報不需要在系統登記，直接在 CCASS 系統處理即可 
 3. 尾差處理時分方案隔離進行
 
-<img src="/assets/KSdHbkGqSoS3U7xOrCqcyyoInce.png"/>
+<img src="/assets/KSdHbkGqSoS3U7xOrCqcyyoInce.png" src-width="1280" src-height="621" align="center"/>
 
-<img src="/assets/CWlsbUH6FoMQ7lxKuQ8c4zVinVh.png"/>
+<img src="/assets/CWlsbUH6FoMQ7lxKuQ8c4zVinVh.png" src-width="1280" src-height="615" align="center"/>
 
 ### **執行**
 

@@ -26,5 +26,5 @@ sidebar_position: 3
 - 通過富文本編輯器編輯郵件正文
 - 添加郵件附件、設置郵件發件郵箱
 
-<img src="/assets/OdWkbWUOpoH8Hdx5fJAcj5Bmnxg.png"/>
+<img src="/assets/OdWkbWUOpoH8Hdx5fJAcj5Bmnxg.png" src-width="1694" src-height="1362" align="center"/>
 

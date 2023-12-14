@@ -27,19 +27,19 @@ sidebar_position: 2
 
 此功能是設置/修改經紀人的分成佣金套餐，提供佣金計算後查詢/分成管理/佣金套餐配置
 
-<img src="/assets/Qzpkb0MZAo9vQ0xGtNGc3MGnnse.png"/>
+<img src="/assets/Qzpkb0MZAo9vQ0xGtNGc3MGnnse.png" src-width="3584" src-height="1738" align="center"/>
 
 ### **新增分成套餐**
 
 可以在右上角，點擊【新增】，新增一筆分成佣金套餐
 
-<img src="/assets/FavebviC0ot26nxBMWdc6pCwnNg.png"/>
+<img src="/assets/FavebviC0ot26nxBMWdc6pCwnNg.png" src-width="3584" src-height="1738" align="center"/>
 
 先填寫套餐主體信息
 
 特殊字段說明：
 
-<img src="/assets/Kk5EbBXjQoHHhfxKt8Ic8h3FnJg.png"/>
+<img src="/assets/Kk5EbBXjQoHHhfxKt8Ic8h3FnJg.png" src-width="3584" src-height="1738" align="center"/>
 
 點解添加規則後，可分別針對股票、期權等單獨設置套餐規則
 
@@ -53,23 +53,23 @@ sidebar_position: 2
 
 注意：
 
-<img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png"/>
+<img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png" src-width="3584" src-height="1738" align="center"/>
 
 案例 1：按佣金總額的 1% 設置分成套餐，最低收費 2HKD，最高收費 50HKD
 
-<img src="/assets/AYxbbml32osJQTxT9TxcFkr0nOf.png"/>
+<img src="/assets/AYxbbml32osJQTxT9TxcFkr0nOf.png" src-width="3584" src-height="1738" align="center"/>
 
 案例 2：按照單筆合約的交易金額進行階梯分傭，將交易金額拆分到每個階梯分別算
 
 交易金額為 5000 的，1000 按第一個階梯計費，4000（5000-1000）按第二個階梯計費
 
-<img src="/assets/VdHkbj0z5oPkmAxBoMscVDN6n3b.png"/>
+<img src="/assets/VdHkbj0z5oPkmAxBoMscVDN6n3b.png" src-width="3584" src-height="1738" align="center"/>
 
 案例 3：按照單筆合約的交易金額進行階梯分傭，交易金額在哪一個階梯，統一用哪個階梯計費
 
 交易金額為 5000 的，統一按第二個階梯計費
 
-<img src="/assets/Axn9b1g6Ao7QXhxqeShcm6panJg.png"/>
+<img src="/assets/Axn9b1g6Ao7QXhxqeShcm6panJg.png" src-width="3584" src-height="1738" align="center"/>
 
 ### 開戶時自動分配經紀人套餐
 
@@ -77,13 +77,13 @@ sidebar_position: 2
 
 開戶時，如果用戶分配給該經紀人，則該用戶的默認分成套餐將為該客戶
 
-<img src="/assets/HaNdbZw1Ao8i45xTStAcmFi1nIc.png"/>
+<img src="/assets/HaNdbZw1Ao8i45xTStAcmFi1nIc.png" src-width="3584" src-height="1738" align="center"/>
 
 ### 設置客戶級別分成套餐
 
 在計費和分成管理可以通過批量、單筆的方式，修改客戶的分成套餐
 
-<img src="/assets/Rn8Gbqz3DoIAh7xUExTcgLVJnoc.png"/>
+<img src="/assets/Rn8Gbqz3DoIAh7xUExTcgLVJnoc.png" src-width="3584" src-height="1738" align="center"/>
 
 ## 分傭明細查詢操作说明
 
@@ -93,9 +93,9 @@ sidebar_position: 2
 
 日切成功後，系統會觸發分傭計算任務（異步任務）
 
-<img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png"/>
+<img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png" src-width="3584" src-height="1738" align="center"/>
 
 查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件，支持日/月/年的週期報表查詢（报表管理-佣金报表），點擊【導出】可將查詢的資料導出
 
-<img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png"/>
+<img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png" src-width="3584" src-height="1738" align="center"/>
 

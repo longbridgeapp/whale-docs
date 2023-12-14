@@ -11,7 +11,7 @@ sidebar_position: 2
 
 首先私募基金的业务系统操作流程如下（SOP） :
 
-<img src="/assets/IyP7bS33yo6Q61xN2ezc473Cnbb.jpeg"/>
+<img src="/assets/IyP7bS33yo6Q61xN2ezc473Cnbb.jpeg" src-width="1160" src-height="1954" align="center"/>
 
 ### 前置条件
 
@@ -35,11 +35,11 @@ sidebar_position: 2
 
 【隐藏】：是指基金在 APP 端不展示、不可搜索
 
-<img src="/assets/OqF3bSz5Woi62vxzZr1c86ainMr.png"/>
+<img src="/assets/OqF3bSz5Woi62vxzZr1c86ainMr.png" src-width="2978" src-height="1644" align="center"/>
 
 首先可以点选左上角【添加私募基金】，分别填入私募基金 Tab : ** 基本讯息/基本面/申购规则/赎回规则**
 
-<img src="/assets/ULkXbPdN8o3gH7xbkFScF6AYn0b.png"/>
+<img src="/assets/ULkXbPdN8o3gH7xbkFScF6AYn0b.png" src-width="2984" src-height="1756" align="center"/>
 
 #### 净值表
 
@@ -47,11 +47,11 @@ sidebar_position: 2
 
 在本作业可以维护所有的私募基金净值资料
 
-<img src="/assets/S3yzbZ58voZHgDxr1cwcuA4TnD3.png"/>
+<img src="/assets/S3yzbZ58voZHgDxr1cwcuA4TnD3.png" src-width="2994" src-height="1720" align="center"/>
 
 首先在右方左侧【新增】操作，可以新增一笔 私募基金净值纪录
 
-<img src="/assets/GgmpbJevhoO4fIxAt5gc3CHnnqs.png"/>
+<img src="/assets/GgmpbJevhoO4fIxAt5gc3CHnnqs.png" src-width="2992" src-height="1708" align="center"/>
 
 注意：由于净值数据有可能直接影响客户历史盈亏数据，因此私募净值不支持输入历史净值，即系统已存最新日期净值，则不可添加早于这个净值日期的净值添加。
 
@@ -63,9 +63,9 @@ sidebar_position: 2
 
 首先在上方左侧【获取订单】操作，可以读取到前台的私募基金订单
 
-<img src="/assets/Qsljb7QeYozAjUxVlHjckk3mnWh.png"/>
+<img src="/assets/Qsljb7QeYozAjUxVlHjckk3mnWh.png" src-width="3010" src-height="1618" align="center"/>
 
-<img src="/assets/IuGAb8tKMoiuhnxRTFSci2Runpf.png"/>
+<img src="/assets/IuGAb8tKMoiuhnxRTFSci2Runpf.png" src-width="2980" src-height="1860" align="center"/>
 
 注意：
 
@@ -78,7 +78,7 @@ sidebar_position: 2
 
 本作业可以进行私募基金后台的清算作业（包含数据确认/申购交收/赎回钱货交收）
 
-<img src="/assets/O6Udb0aDHovbQcxtqsQc8A8pnye.png"/>
+<img src="/assets/O6Udb0aDHovbQcxtqsQc8A8pnye.png" src-width="2974" src-height="1736" align="center"/>
 
 **回填** 
 
@@ -88,13 +88,13 @@ sidebar_position: 2
 
 合计指申购或赎回加总，没有赎回则填写 0，同理申购；
 
-<img src="/assets/UbpDbhC08ovZWnxoKCucUTk4nUc.png"/>
+<img src="/assets/UbpDbhC08ovZWnxoKCucUTk4nUc.png" src-width="2978" src-height="1654" align="center"/>
 
 **私募交割** 
 
       选中对应基金管道单 ID 进行私募交割，完成货和钱交割的操作
 
-<img src="/assets/OSEwbwYpOokhj1xwZ85cJ2gpnwf.png"/>
+<img src="/assets/OSEwbwYpOokhj1xwZ85cJ2gpnwf.png" src-width="2990" src-height="1060" align="center"/>
 
 #### APP 端列表 
 
@@ -102,11 +102,11 @@ sidebar_position: 2
 
 本作业可以维护在 APP 端有关于私募基金主体的排序展示顺序
 
-<img src="/assets/OF43b4eI7oOCz4x7pImcvJJhnbc.png"/>
+<img src="/assets/OF43b4eI7oOCz4x7pImcvJJhnbc.png" src-width="2990" src-height="914" align="center"/>
 
 可以在右侧点选【新建】，新建一个私募基金的排序
 
-<img src="/assets/UhYObkl47oEA38xQDlMcmDjWnab.png"/>
+<img src="/assets/UhYObkl47oEA38xQDlMcmDjWnab.png" src-width="2976" src-height="1414" align="center"/>
 
 设置后，就会影响私募基金在手机端展示排序效果
 
@@ -114,10 +114,10 @@ sidebar_position: 2
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/EgBvbxUOxoa8DmxGZVDcV1fOn6d.png"/>
+<img src="/assets/EgBvbxUOxoa8DmxGZVDcV1fOn6d.png" src-width="1125" src-height="2436" align="center"/>
 </div>
 <div>
-<img src="/assets/SNkUbH4CBoOo89x6pHjcZNS0nmP.png"/>
+<img src="/assets/SNkUbH4CBoOo89x6pHjcZNS0nmP.png" src-width="1242" src-height="2451" align="center"/>
 </div>
 </div>
 

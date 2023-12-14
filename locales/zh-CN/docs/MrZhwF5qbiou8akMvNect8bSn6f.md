@@ -23,15 +23,15 @@ sidebar_position: 1
 
 本作业可以查询到在实名制机制（HKIDR 与中华通）下的客户帐户所分配 BCAN 码
 
-<img src="/assets/ADQtb5Cx0o5NQTxhGdAcpEhjn7S.png"/>
+<img src="/assets/ADQtb5Cx0o5NQTxhGdAcpEhjn7S.png" src-width="1280" src-height="621" align="center"/>
 
 同时也可以在下方功能键操作：北向交易与香港交易 的允许或禁止操作
 
-<img src="/assets/MzK8bxfvrozeyjx4CHmcq9YBnBd.png"/>
+<img src="/assets/MzK8bxfvrozeyjx4CHmcq9YBnBd.png" src-width="3222" src-height="1604" align="center"/>
 
 最新也支持在右上角操作筛选和导出功能
 
-<img src="/assets/Tcc8bepX7o6X5Ox2tJScjpaynkc.png"/>
+<img src="/assets/Tcc8bepX7o6X5Ox2tJScjpaynkc.png" src-width="3204" src-height="630" align="center"/>
 
 同时在交易操作时将会有下列控制处理：所有客户在开户过程中会自动分配 BCAN 码
 

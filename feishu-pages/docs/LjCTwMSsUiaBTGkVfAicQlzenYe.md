@@ -21,9 +21,9 @@ sidebar_position: 2
 
 選擇需要查詢的資產類型，分現金、股票、基金、期權、債券、OTC其他、虛擬資產
 
-<img src="/assets/C2Ewb6qqcoa4Dexfvp8cpkfEnYb.png"/>
+<img src="/assets/C2Ewb6qqcoa4Dexfvp8cpkfEnYb.png" src-width="2718" src-height="320" align="center"/>
 
 選擇需要查詢的維度進行搜索
 
-<img src="/assets/S4IVbv0Juo1McAx0btvcpMqBndb.png"/>
+<img src="/assets/S4IVbv0Juo1McAx0btvcpMqBndb.png" src-width="3090" src-height="1522" align="center"/>
 

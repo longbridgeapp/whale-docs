@@ -21,15 +21,15 @@ sidebar_position: 0
 
 可以设置导航背景色、Logo 点击跳转后的链接、导航右侧可操作的功能。
 
-<img src="/assets/LsZ0bqE0mo2qxtxmJl3cu0jhnfG.png"/>
+<img src="/assets/LsZ0bqE0mo2qxtxmJl3cu0jhnfG.png" src-width="3828" src-height="1946" align="center"/>
 
 ### 图片
 
-<img src="/assets/TfqWb2BTmoYEkWxiWWkc1rm2nJd.png"/>
+<img src="/assets/TfqWb2BTmoYEkWxiWWkc1rm2nJd.png" src-width="3822" src-height="1928" align="center"/>
 
 ### 热区
 
-<img src="/assets/IVKNbD8provsxlx7PSBcOlYJnBb.png"/>
+<img src="/assets/IVKNbD8provsxlx7PSBcOlYJnBb.png" src-width="3812" src-height="1942" align="center"/>
 
 - 链接分享效果：用户点击后会复制分享链接到剪贴版中
 - 海报分享效果：用户点击后按所配置图片生成一张海报，可以下载保存以海报形式分享出去
@@ -46,7 +46,7 @@ sidebar_position: 0
 
 ### 按钮
 
-<img src="/assets/MPpabMfbxowd3lxPqzmccTTpnSh.png"/>
+<img src="/assets/MPpabMfbxowd3lxPqzmccTTpnSh.png" src-width="3792" src-height="1948" align="center"/>
 
 1. 按钮点击事件支持配置：
 
@@ -71,9 +71,9 @@ sidebar_position: 0
 
 ### 隔离区
 
-<img src="/assets/YJARbs2sZoS2GdxZgXTcQLXznSd.png"/>
+<img src="/assets/YJARbs2sZoS2GdxZgXTcQLXznSd.png" src-width="3810" src-height="1952" align="center"/>
 
 ### 我的战绩
 
-<img src="/assets/TLGqb8EzmoaZOrxeenCcdhJlnkc.png"/>
+<img src="/assets/TLGqb8EzmoaZOrxeenCcdhJlnkc.png" src-width="3824" src-height="1918" align="center"/>
 

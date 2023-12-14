@@ -23,9 +23,9 @@ sidebar_position: 0
 
 进入菜单页，可以在列表查询所有业务码，支持通过编码和名称搜索
 
-<img src="/assets/UIImbEtWloj6rFxaNyUc7KpYnSf.png"/>
+<img src="/assets/UIImbEtWloj6rFxaNyUc7KpYnSf.png" src-width="3202" src-height="792" align="center"/>
 
 同时，如果需要修改展示的业务码名称或更改是否可见，可以在编辑操作
 
-<img src="/assets/Fzbrb2tgJoQfWIx7RRdcziSEn0e.png"/>
+<img src="/assets/Fzbrb2tgJoQfWIx7RRdcziSEn0e.png" src-width="3280" src-height="1760" align="center"/>
 

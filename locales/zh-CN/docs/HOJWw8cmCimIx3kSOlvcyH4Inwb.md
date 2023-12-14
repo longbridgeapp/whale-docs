@@ -26,5 +26,5 @@ sidebar_position: 3
 - 通过富文本编辑器编辑邮件正文
 - 添加邮件附件、设置邮件发件邮箱
 
-<img src="/assets/OdWkbWUOpoH8Hdx5fJAcj5Bmnxg.png"/>
+<img src="/assets/OdWkbWUOpoH8Hdx5fJAcj5Bmnxg.png" src-width="1694" src-height="1362" align="center"/>
 

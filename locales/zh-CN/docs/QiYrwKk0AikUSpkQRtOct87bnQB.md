@@ -32,5 +32,5 @@ sidebar_position: 1
 - 弹窗平台：可以选择是在 2 个端显示还是只在某个单一的端进行显示
 - 可见状态：选择投放系统可见则代表仅计划配置中的目标受众可见，全部用户可见则整个 App 用户可见弹窗
 
-<img src="/assets/AwowbJrbWo39Hgx0cvacFCHWn81.png"/>
+<img src="/assets/AwowbJrbWo39Hgx0cvacFCHWn81.png" src-width="1924" src-height="1644" align="center"/>
 

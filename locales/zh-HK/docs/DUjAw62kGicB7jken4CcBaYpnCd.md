@@ -23,11 +23,11 @@ sidebar_position: 2
 
 本作業可以配置管理 實名制中有關劵商參與者的公司資料以及參與者的角色安排（CCEP/TTEP）
 
-<img src="/assets/Q7qdbaOgUoKwKAx7AuDcPmX2nTp.png"/>
+<img src="/assets/Q7qdbaOgUoKwKAx7AuDcPmX2nTp.png" src-width="3132" src-height="1046" align="center"/>
 
 點選右方上側【新建參與者】，建一筆新的參與者信息
 
-<img src="/assets/RcElbLLhRoeES5x4wmWc4PdZnwc.png"/>
+<img src="/assets/RcElbLLhRoeES5x4wmWc4PdZnwc.png" src-width="3248" src-height="1630" align="center"/>
 
 其中欄位說明如下：
 

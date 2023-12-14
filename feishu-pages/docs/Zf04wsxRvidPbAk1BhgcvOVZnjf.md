@@ -19,11 +19,11 @@ sidebar_position: 0
 
  菜單入口：KYC &gt; 開戶資料 Tab &gt;  添加開戶申請 功能鍵
 
-<img src="/assets/CR05bBsTKofshhxvMuwc59V3nLb.png"/>
+<img src="/assets/CR05bBsTKofshhxvMuwc59V3nLb.png" src-width="3798" src-height="812" align="center"/>
 
 本作業直接錄入客戶申請資料，點擊右上角【添加開戶申請】，直接進入開戶頁面如下圖：
 
-<img src="/assets/RHLQbOznToSf2txnBtxcgCBynUd.png"/>
+<img src="/assets/RHLQbOznToSf2txnBtxcgCBynUd.png" src-width="3288" src-height="1298" align="center"/>
 
 ### 第一步：選擇開戶類型
 
@@ -50,7 +50,7 @@ sidebar_position: 0
     1. 其他國籍用戶，需上傳：身份證件 + 護照 
     2. 是否持有香港身份證件：默認選擇否；如用戶選擇是，需引導用戶補充填寫香港證件資料；
     3. 如用戶選擇否，需上傳其他身份證
-    <img src="/assets/WP0IbjpQgouXrSxVinWcHDkbnjf.png"/>
+    <img src="/assets/WP0IbjpQgouXrSxVinWcHDkbnjf.png" src-width="3252" src-height="1822" align="center"/>
 
 ### **第三步**： 上傳地址證明
 
@@ -63,7 +63,7 @@ sidebar_position: 0
 
 2. 其他
     1. 需上傳居住地址證明
-    <img src="/assets/CKOTbY3xyo6lfhx2QSLc3EYCnSb.png"/>
+    <img src="/assets/CKOTbY3xyo6lfhx2QSLc3EYCnSb.png" src-width="3252" src-height="1604" align="center"/>
 
 ### **第四步**： 填寫各類基礎信息
 
@@ -77,21 +77,21 @@ sidebar_position: 0
 
 ### **第五步**：  填寫資產投資信息
 
-<img src="/assets/XScJb6HdyoYbCPxj5H6cvKHAnre.png"/>
+<img src="/assets/XScJb6HdyoYbCPxj5H6cvKHAnre.png" src-width="3258" src-height="1804" align="center"/>
 
 ### **第六步**：合規資訊確認
 
-<img src="/assets/NIclbivdpoSTIWxIxqKcwi3Anic.png"/>
+<img src="/assets/NIclbivdpoSTIWxIxqKcwi3Anic.png" src-width="3254" src-height="1806" align="center"/>
 
 ### **第七步**： 確認資訊
 
 系統會按: 身份證件/個人基礎信息/職業信息/資產投資信息/合規信息確認/關聯賬戶信息 等區塊排列,將客戶資料展示出來,方便按確認填寫訊息
 
-<img src="/assets/SS8ybscAZohaPbxp1Vpc84ONnJh.png"/>
+<img src="/assets/SS8ybscAZohaPbxp1Vpc84ONnJh.png" src-width="3250" src-height="1576" align="center"/>
 
 同時若有需要修正資料,可點擊區塊右上角的【編輯】,會跳轉該訊息面區域進行修改資料
 
-<img src="/assets/FxMibYc5Fo8wLmxB6QjcmvfMnJe.png"/>
+<img src="/assets/FxMibYc5Fo8wLmxB6QjcmvfMnJe.png" src-width="3162" src-height="1142" align="center"/>
 
 ### **第八步**：選擇帳戶類型、上傳開戶相關文件、其他配置資訊
 

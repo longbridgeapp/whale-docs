@@ -19,27 +19,27 @@ sidebar_position: 1
 
 ## 操作流程
 
-<img src="/assets/XZqobWg1SoxLrrxtsgRcbuYUnhd.png"/>
+<img src="/assets/XZqobWg1SoxLrrxtsgRcbuYUnhd.png" src-width="2108" src-height="256" align="center"/>
 
 ## 開戶資料
 
  菜單入口：KYC &gt; 開戶資料 
 
-<img src="/assets/Hpc7bFKDQo5c7exksHFcWVjPnqI.png"/>
+<img src="/assets/Hpc7bFKDQo5c7exksHFcWVjPnqI.png" src-width="3230" src-height="1570" align="center"/>
 
 點選 右側紀錄操作區【詳情】可以查閱 客戶填寫的開戶詳細資料：包含身份證件/個人訊息/職業訊息/資產投資經驗/合規信息等等，可以透過左側樹狀 切換資料數據區域
 
-<img src="/assets/QkYdb5cK2oyDs2x0OP3c6rhPneh.png"/>
+<img src="/assets/QkYdb5cK2oyDs2x0OP3c6rhPneh.png" src-width="3230" src-height="1628" align="center"/>
 
 點選 右側【添加開戶申請】可以手工錄入 客戶開戶詳細資料：基本上依序操作：
 
-<img src="/assets/N0b3bhqD2omI7BxukcbcinugnHh.png"/>
+<img src="/assets/N0b3bhqD2omI7BxukcbcinugnHh.png" src-width="3306" src-height="1822" align="center"/>
 
 接下來上傳開戶文件，其中必要文件有：開户申請表/W-8BEN 表格/HKIDR PDF 文件，
 
 同時填寫完必要欄位：見證員工/開通帳戶類型與計費類別/ 是否標記帳戶類型，填寫後就完成開戶帳戶申請資料提交，後續就等待 劵商對申請資料做開戶審批等 KYC 操作
 
-<img src="/assets/AkxAbcqypoutZHxWoXEcZR0anvf.png"/>
+<img src="/assets/AkxAbcqypoutZHxWoXEcZR0anvf.png" src-width="3306" src-height="1816" align="center"/>
 
 以下列出開戶業務常見場景操作參考：
 

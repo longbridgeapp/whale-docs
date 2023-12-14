@@ -33,19 +33,28 @@ sidebar_position: 4
 
 通過列表操作項的【開啓】和【關閉】可以生效/失效對應限額
 
-<img src="/assets/WAZ3b7NTKo98rExkuqGc7QIInSc.png"/>
+<img src="/assets/WAZ3b7NTKo98rExkuqGc7QIInSc.png" src-width="3266" src-height="853" align="center"/>
 
 也可以編輯限額規則：
 
-<img src="/assets/Or7abKxpJoQwcNxARiXcaqXcnwb.png"/>
+<img src="/assets/Or7abKxpJoQwcNxARiXcaqXcnwb.png" src-width="3276" src-height="1638" align="center"/>
 
 重點字段說明如下：
 
-|   |   |
-|---|---|
-|字段名稱|說明|
-|限額幣種|無：則為純數量的判斷，與金額無關 <br/>HKD：則全部轉化為 HKD 計算限額 <br/>USD：則全部轉化為 USD 計算限額 |
-|限制的條件類型|可選項為：&gt;=， &gt;， =&lt;， &lt;， 無限，限制<br/>無限類型無需填閾值，其他均需填入閾值，僅限數字格式|
+<table>
+<colgroup>
+<col width="172"/>
+<col width="612"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>字段名稱</p></td><td><p>說明</p></td></tr>
+<tr>
+<td><p>限額幣種</p></td><td><p>無：則為純數量的判斷，與金額無關<br/>HKD：則全部轉化為 HKD 計算限額<br/>USD：則全部轉化為 USD 計算限額 </p></td></tr>
+<tr>
+<td><p>限制的條件類型</p></td><td><p>可選項為：&gt;=， &gt;， =&lt;， &lt;， 無限，限制<br/>無限類型無需填閾值，其他均需填入閾值，僅限數字格式</p></td></tr>
+</tbody>
+</table>
 
 規則修改後需要工單審批方可生效
 
@@ -55,17 +64,17 @@ sidebar_position: 4
 
 新增客戶限額規則
 
-<img src="/assets/Km5NbSMUXoNQ6lxyNQwcSN6unbg.png"/>
+<img src="/assets/Km5NbSMUXoNQ6lxyNQwcSN6unbg.png" src-width="3238" src-height="690" align="center"/>
 
 客戶限額規則配置：支持單個客戶錄入和批量上傳創建；此處的限額名稱支持自定義，即本次限額規則的名稱；规则配置完成后需要工單審批方可生效
 
-<img src="/assets/U485bLrIHo6E2qxYUECc1tsZndb.png"/>
+<img src="/assets/U485bLrIHo6E2qxYUECc1tsZndb.png" src-width="3252" src-height="1636" align="center"/>
 
 注：選擇限額代碼後會展示限額代碼啓用標識，標識狀態即全局限額下的代碼狀態，若修改此處標識可一並更改全局限額下的代碼狀態
 
 如需修改客戶限額規則或更改規則狀態，可在列表操作項的【編輯】【設為生效】【設為失效】操作；編輯完成後需要工單審批方可生效
 
-<img src="/assets/Rmc6be8gIotzRXxcnCYckShlnid.png"/>
+<img src="/assets/Rmc6be8gIotzRXxcnCYckShlnid.png" src-width="3327" src-height="735" align="center"/>
 
 ### 證券限額
 
@@ -73,11 +82,11 @@ sidebar_position: 4
 
 新增證券限額規則
 
-<img src="/assets/MJGHbmwdTovJBAxoVElcrXdLnTb.png"/>
+<img src="/assets/MJGHbmwdTovJBAxoVElcrXdLnTb.png" src-width="3220" src-height="698" align="center"/>
 
 證券限額規則配置：支持單個證券代碼錄入和批量上傳創建；此處的限額名稱支持自定義，即本次限額規則的名稱；规则配置完成后需要工單審批方可生效
 
-<img src="/assets/CgWfbTDHUozPfPxSkQgcSKzsnDf.png"/>
+<img src="/assets/CgWfbTDHUozPfPxSkQgcSKzsnDf.png" src-width="3262" src-height="1628" align="center"/>
 
 注：選擇限額代碼後會展示限額代碼啓用標識，標識狀態即全局限額下的代碼狀態，若修改此處標識可一並更改全局限額下的代碼狀態
 
@@ -89,11 +98,11 @@ sidebar_position: 4
 
 新增交易員限額規則
 
-<img src="/assets/NVUlbXuHUoDOkNxoLercnds2nHe.png"/>
+<img src="/assets/NVUlbXuHUoDOkNxoLercnds2nHe.png" src-width="3244" src-height="710" align="center"/>
 
 交易員限額規則配置：此處的限額名稱支持自定義，即本次限額規則的名稱；规则配置完成后需要工單審批方可生效
 
-<img src="/assets/UQsFbnCz4oBRjXx6BZCcHMeJnQe.png"/>
+<img src="/assets/UQsFbnCz4oBRjXx6BZCcHMeJnQe.png" src-width="3298" src-height="1640" align="center"/>
 
 注：選擇限額代碼後會展示限額代碼啓用標識，標識狀態即全局限額下的代碼狀態，若修改此處標識可一並更改全局限額下的代碼狀態
 
@@ -105,11 +114,11 @@ sidebar_position: 4
 
 新增客戶類別限額規則
 
-<img src="/assets/PdTkbZULNobZY2xksH6cgkwtnYd.png"/>
+<img src="/assets/PdTkbZULNobZY2xksH6cgkwtnYd.png" src-width="3248" src-height="836" align="center"/>
 
 客戶類別限額規則配置：此處的限額名稱支持自定義，即本次限額規則的名稱；规则配置完成后需要工單審批方可生效
 
-<img src="/assets/T0aab4f6aoY3uCxdb8AcMrninRe.png"/>
+<img src="/assets/T0aab4f6aoY3uCxdb8AcMrninRe.png" src-width="3274" src-height="1604" align="center"/>
 
 注：選擇限額代碼後會展示限額代碼啓用標識，標識狀態即全局限額下的代碼狀態，若修改此處標識可一並更改全局限額下的代碼狀態
 
@@ -121,11 +130,11 @@ sidebar_position: 4
 
 新增多維度限額規則
 
-<img src="/assets/TJJsb2EBxoqdORxH8spcWOq4nEb.png"/>
+<img src="/assets/TJJsb2EBxoqdORxH8spcWOq4nEb.png" src-width="3224" src-height="558" align="center"/>
 
 多維度限額規則配置：此處的限額名稱支持自定義，即本次限額規則的名稱；规则配置完成后需要工單審批方可生效
 
-<img src="/assets/NWYKbOwxgoqkcvxF6Pocrk3pnjg.png"/>
+<img src="/assets/NWYKbOwxgoqkcvxF6Pocrk3pnjg.png" src-width="3254" src-height="1628" align="center"/>
 
 注：選擇限額代碼後會展示限額代碼啓用標識，標識狀態即全局限額下的代碼狀態，若修改此處標識可一並更改全局限額下的代碼狀態
 

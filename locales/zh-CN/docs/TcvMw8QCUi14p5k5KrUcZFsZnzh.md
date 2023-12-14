@@ -29,31 +29,31 @@ sidebar_position: 2
 
 本作业可以管理帐户（或用户）的安全管理事项，可以在对应 Tab 页签上作出冻结/解锁/ 注销的帐户操作
 
-<img src="/assets/YQCqbGyIQooFaIx3RBPcuG0Rndc.png"/>
+<img src="/assets/YQCqbGyIQooFaIx3RBPcuG0Rndc.png" src-width="3244" src-height="1588" align="center"/>
 
 也可以点选【新建工单】，建一笔新的工单信息
 
-<img src="/assets/M0f7b6rfIoeHSuxTNnocNH8An8e.png"/>
+<img src="/assets/M0f7b6rfIoeHSuxTNnocNH8An8e.png" src-width="3486" src-height="914" align="center"/>
 
 在冻结客户时支持接入工单审批机制
 
-<img src="/assets/PTZlb1mgQoRLaDx5XvacZB0EnIb.png"/>
+<img src="/assets/PTZlb1mgQoRLaDx5XvacZB0EnIb.png" src-width="3264" src-height="1626" align="center"/>
 
 同时在接入工单审批中，也支持新增支持批量审批的功能
 
-<img src="/assets/N6k2bgdWvo5fACxoJtTcYtFhnTC.png"/>
+<img src="/assets/N6k2bgdWvo5fACxoJtTcYtFhnTC.png" src-width="3244" src-height="1630" align="center"/>
 
 新增批量导入  来批量 注销客户/注销帐户的功能
 
-<img src="/assets/EbAdbyBmFoyFWtxpfbScuMMknTf.png"/>
+<img src="/assets/EbAdbyBmFoyFWtxpfbScuMMknTf.png" src-width="3248" src-height="1622" align="center"/>
 
 工单中心增加重置密码功能，可重置 App 登录密码
 
-<img src="/assets/ISEnb6soAo1x0mxyMRhcLnIrn3g.png"/>
+<img src="/assets/ISEnb6soAo1x0mxyMRhcLnIrn3g.png" src-width="3492" src-height="1276" align="center"/>
 
 重置密码后，系统会自动将随机生成的登录密码发送至客户的手机号，同时发送 App 账号至客户的邮箱
 
 -  支持单次/批量的解冻帐户/解冻客户的功能
 
-<img src="/assets/RYCNbyg7ToFb7QxHPF1cPge5n9g.png"/>
+<img src="/assets/RYCNbyg7ToFb7QxHPF1cPge5n9g.png" src-width="3230" src-height="1614" align="center"/>
 

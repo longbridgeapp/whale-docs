@@ -19,13 +19,13 @@ sidebar_position: 2
 
 菜單入口：活動系統 &gt; 邀請關係管理
 
-<img src="/assets/BEVdbM8Hno81aCxPWDBce1DMnxH.png"/>
+<img src="/assets/BEVdbM8Hno81aCxPWDBce1DMnxH.png" src-width="2094" src-height="554" align="center"/>
 
 如圖：一個手機用戶在一個 App 下會生成當前 App 唯一邀請碼，手機用戶將自己邀請碼分享給好友，好友即可填寫綁定。綁定後會更新在邀請關係清單中
 
 本作業提供 3 種常見的邀請方式 (注冊/開戶/入金),可以根據邀請碼來綁定邀請關係
 
-<img src="/assets/F4gNbW7b3onETUxOPbTc9XClnag.png"/>
+<img src="/assets/F4gNbW7b3onETUxOPbTc9XClnag.png" src-width="2338" src-height="1328" align="center"/>
 
 ### 主要功能
 

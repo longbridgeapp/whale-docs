@@ -21,13 +21,13 @@ sidebar_position: 2
 
 本作業支持針對不同的用戶（客戶），進行【分配客經】與【批量備註】與【導出】的操作
 
-<img src="/assets/EBUrbNR1todiiOx9XQfcpoptnNh.png"/>
+<img src="/assets/EBUrbNR1todiiOx9XQfcpoptnNh.png" src-width="3198" src-height="1606" align="center"/>
 
 點選【分配客經】時，填入分配相關客戶經理與業績歸屬等
 
-<img src="/assets/DdvjbwzoKoiuLpxIrFeceMEVnuh.png"/>
+<img src="/assets/DdvjbwzoKoiuLpxIrFeceMEVnuh.png" src-width="3230" src-height="1624" align="center"/>
 
 同時也可點選【批量備註】添加相關備註說明
 
-<img src="/assets/PDw9b7B3FosSaAxc7bscudJNnib.png"/>
+<img src="/assets/PDw9b7B3FosSaAxc7bscudJNnib.png" src-width="2266" src-height="1066" align="center"/>
 

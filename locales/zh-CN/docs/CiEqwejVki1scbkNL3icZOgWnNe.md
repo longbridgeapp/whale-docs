@@ -23,7 +23,7 @@ sidebar_position: 2
 
 #### 组队活动业务流程
 
-<img src="/assets/AoL3bqEEEohj78xtxW6co5aenoe.jpeg"/>
+<img src="/assets/AoL3bqEEEohj78xtxW6co5aenoe.jpeg" src-width="2274" src-height="434" align="center"/>
 
 #### 组队活动配置
 
@@ -31,13 +31,13 @@ sidebar_position: 2
 
 点击组队活动模块下的新建按钮
 
-<img src="/assets/UcewbJVqro6RnBxinbKcvPJNnyc.png"/>
+<img src="/assets/UcewbJVqro6RnBxinbKcvPJNnyc.png" src-width="2936" src-height="356" align="center"/>
 
 打开如下页面
 
 活动模版字段按如下规则进行配置：
 
-<img src="/assets/ZNQXbhaanoYTRJxNXQGcCKVnnbg.png"/>
+<img src="/assets/ZNQXbhaanoYTRJxNXQGcCKVnnbg.png" src-width="2522" src-height="1620" align="center"/>
 
 活动数据查询同上
 

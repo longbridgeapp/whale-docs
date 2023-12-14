@@ -26,5 +26,5 @@ Whale CRM 系统能够解决以下问题：
 
 Whale CRM 的整体业务流如下图所示：
 
-<img src="/assets/AmXab5vHuo57Stx4eY5c28BYnh3.jpeg"/>
+<img src="/assets/AmXab5vHuo57Stx4eY5c28BYnh3.jpeg" src-width="1819" src-height="965" align="center"/>
 

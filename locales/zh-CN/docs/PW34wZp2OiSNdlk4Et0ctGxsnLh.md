@@ -23,11 +23,11 @@ sidebar_position: 3
 
 可以维护管理公司行动的全局相关费用收取配置（预告 - 方案类型 - 费用类型）
 
-<img src="/assets/XQxHbmdT3oE3kwxIaTGcbKk7nph.png"/>
+<img src="/assets/XQxHbmdT3oE3kwxIaTGcbKk7nph.png" src-width="3344" src-height="1558" align="center"/>
 
 也可以在记录右侧区点击【编辑】，来修改所对应的公司行动费用配置，可以在左上方点击【新建】，来增加一笔费用配置
 
-<img src="/assets/CVeTbc0eHoXCyaxNXlCcSUFbnve.png"/>
+<img src="/assets/CVeTbc0eHoXCyaxNXlCcSUFbnve.png" src-width="3192" src-height="1842" align="center"/>
 
 字段说明：
 
@@ -44,9 +44,9 @@ sidebar_position: 3
 - **公司行动过户费只需要配置一条，是唯一不按方案收费的**
 - 新增过户费设置：可进行单独收费，也可进行联合收费
 
-<img src="/assets/WPAVbh6Kvo2L60x0tvlcgbxmnFf.png"/>
+<img src="/assets/WPAVbh6Kvo2L60x0tvlcgbxmnFf.png" src-width="3348" src-height="992" align="center"/>
 
-<img src="/assets/V3IabCZGEo0CFMxkri9cWn0rn6g.png"/>
+<img src="/assets/V3IabCZGEo0CFMxkri9cWn0rn6g.png" src-width="3376" src-height="1254" align="center"/>
 
 ## 客户规则
 
@@ -54,13 +54,13 @@ sidebar_position: 3
 
 进行客户规则上去配置公司行动的费用规则（仅适用该客户，不采全局配置）
 
-<img src="/assets/IcsLbrTPEobgLqxBI2wcc6RRnyq.png"/>
+<img src="/assets/IcsLbrTPEobgLqxBI2wcc6RRnyq.png" src-width="3350" src-height="882" align="center"/>
 
 可以在右侧上方进行【新建】一笔客户规则，选择 客户帐号，费用类型，费用系数，最低费用录入
 
-<img src="/assets/GJp6bAHFVoqXhXxMAVycd3EEn3g.png"/>
+<img src="/assets/GJp6bAHFVoqXhXxMAVycd3EEn3g.png" src-width="3378" src-height="1250" align="center"/>
 
 可以在右侧上方进行【批量导入】批量按模版导入客户规则
 
-<img src="/assets/Q49ybIrpqozXsLxSEz8cHdfBngh.png"/>
+<img src="/assets/Q49ybIrpqozXsLxSEz8cHdfBngh.png" src-width="3348" src-height="1232" align="center"/>
 

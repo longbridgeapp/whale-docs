@@ -23,15 +23,15 @@ sidebar_position: 1
 
 本作業可以查詢到在實名制機制（HKIDR 與中華通）下的客戶帳戶所分配 BCAN 碼
 
-<img src="/assets/ADQtb5Cx0o5NQTxhGdAcpEhjn7S.png"/>
+<img src="/assets/ADQtb5Cx0o5NQTxhGdAcpEhjn7S.png" src-width="1280" src-height="621" align="center"/>
 
 同時也可以在下方功能鍵操作： 北向交易與香港交易 的允許或禁止操作
 
-<img src="/assets/MzK8bxfvrozeyjx4CHmcq9YBnBd.png"/>
+<img src="/assets/MzK8bxfvrozeyjx4CHmcq9YBnBd.png" src-width="3222" src-height="1604" align="center"/>
 
 最新也支持在右上角操作篩選和導出功能
 
-<img src="/assets/Tcc8bepX7o6X5Ox2tJScjpaynkc.png"/>
+<img src="/assets/Tcc8bepX7o6X5Ox2tJScjpaynkc.png" src-width="3204" src-height="630" align="center"/>
 
 同時在交易操作時將會有下列控制處理 ：所有客戶在開戶過程中會自動分配 BCAN 碼
 

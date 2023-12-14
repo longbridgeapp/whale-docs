@@ -23,7 +23,7 @@ sidebar_position: 2
 
 #### 組隊活動業務流程
 
-<img src="/assets/AoL3bqEEEohj78xtxW6co5aenoe.jpeg"/>
+<img src="/assets/AoL3bqEEEohj78xtxW6co5aenoe.jpeg" src-width="2274" src-height="434" align="center"/>
 
 #### 組隊活動配置
 
@@ -31,13 +31,13 @@ sidebar_position: 2
 
 點擊組隊活動模塊下的新建按鈕
 
-<img src="/assets/UcewbJVqro6RnBxinbKcvPJNnyc.png"/>
+<img src="/assets/UcewbJVqro6RnBxinbKcvPJNnyc.png" src-width="2936" src-height="356" align="center"/>
 
 打開如下頁面
 
 活動模版字段按如下規則進行配置：
 
-<img src="/assets/ZNQXbhaanoYTRJxNXQGcCKVnnbg.png"/>
+<img src="/assets/ZNQXbhaanoYTRJxNXQGcCKVnnbg.png" src-width="2522" src-height="1620" align="center"/>
 
 活動數據查詢同上
 

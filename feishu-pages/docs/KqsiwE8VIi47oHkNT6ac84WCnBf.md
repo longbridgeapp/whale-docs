@@ -27,5 +27,5 @@ sidebar_position: 2
 
 「批量列印」查詢批量報表打印的歷史操作記錄
 
-<img src="/assets/VhcFb2QSFoGK53xjey5cohEgn6d.png"/>
+<img src="/assets/VhcFb2QSFoGK53xjey5cohEgn6d.png" src-width="3346" src-height="1512" align="center"/>
 

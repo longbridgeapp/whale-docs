@@ -31,25 +31,25 @@ sidebar_position: 3
 
 點擊調整可調整證券組合費
 
-<img src="/assets/Omdkb6QDioKGO3xUp7lcEkBvnzb.png"/>
+<img src="/assets/Omdkb6QDioKGO3xUp7lcEkBvnzb.png" src-width="2902" src-height="1548" align="center"/>
 
 按發生額調整，可以按輸入值進行變更
 
-<img src="/assets/PIbMbYbjuo9Mc2xp3KucV5bInab.png"/>
+<img src="/assets/PIbMbYbjuo9Mc2xp3KucV5bInab.png" src-width="2928" src-height="1558" align="center"/>
 
 按結果調整，實質還是按發生額調整（新增冻结=輸入結果 - 已有的數值），不能重複提交
 
-<img src="/assets/EQMNbyieVoCRz9xdhaJc8E1MnGh.png"/>
+<img src="/assets/EQMNbyieVoCRz9xdhaJc8E1MnGh.png" src-width="2916" src-height="1544" align="center"/>
 
 調整的流水可在**差錯流水**頁面查詢
 
-<img src="/assets/GNCxbtwEjoekOZxStaacj1lbnBd.png"/>
+<img src="/assets/GNCxbtwEjoekOZxStaacj1lbnBd.png" src-width="2496" src-height="1402" align="center"/>
 
 ### 證券組合費批量调整
 
 可按照發生額調整進行批量處理
 
-<img src="/assets/PTlKb6uf8oXjX1xBHX1cA4wXnNg.png"/>
+<img src="/assets/PTlKb6uf8oXjX1xBHX1cA4wXnNg.png" src-width="2918" src-height="1556" align="center"/>
 
 ### 提前结算
 
@@ -57,5 +57,5 @@ sidebar_position: 3
 
 篩選客戶，點擊提前結算
 
-<img src="/assets/F6fPbCF3aoj03Ex5zi9cSB91n1g.png"/>
+<img src="/assets/F6fPbCF3aoj03Ex5zi9cSB91n1g.png" src-width="2910" src-height="1560" align="center"/>
 

@@ -21,5 +21,5 @@ sidebar_position: 4
 
 在客户身份认证的环节上，可以手动上传第三方验证文件，也可以点选【手动验证】点阅已提交的验证文件内容
 
-<img src="/assets/WCkBbapkWoiFOvxACClcx6HdnKS.png"/>
+<img src="/assets/WCkBbapkWoiFOvxACClcx6HdnKS.png" src-width="3214" src-height="1620" align="center"/>
 

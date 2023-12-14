@@ -25,7 +25,7 @@ sidebar_position: 2
 
 1. 点击列表右上角的【换汇规则】配置借币提醒规则
 
-<img src="/assets/CUSgbEbPLogSZyxUcCScPDN5nAm.png"/>
+<img src="/assets/CUSgbEbPLogSZyxUcCScPDN5nAm.png" src-width="3389" src-height="1286" align="center"/>
 
 1. 规则配置
 
@@ -37,5 +37,5 @@ sidebar_position: 2
 
 该菜单主要用于查询历史所有的提醒客户及相关提醒兑换详情。
 
-<img src="/assets/QG7vb6a0gopDZOx5NAucgHIpnrd.png"/>
+<img src="/assets/QG7vb6a0gopDZOx5NAucgHIpnrd.png" src-width="3198" src-height="1070" align="center"/>
 

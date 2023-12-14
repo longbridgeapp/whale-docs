@@ -23,5 +23,5 @@ sidebar_position: 9
 - 在预告创建时选择 CA，方案选择 CA-Share Consolidation、CA-Share Subdivision/Splitting、CA-Share Conversion 按照预告和方案的必填字端要求输入必要字段
 - 拆合股 公司行动（CA 类）执行后会 增加 APP 推送提醒
 
-<img src="/assets/Z9gobvFziow58xxDzPncVMcZnKf.png"/>
+<img src="/assets/Z9gobvFziow58xxDzPncVMcZnKf.png" src-width="972" src-height="291"/>
 

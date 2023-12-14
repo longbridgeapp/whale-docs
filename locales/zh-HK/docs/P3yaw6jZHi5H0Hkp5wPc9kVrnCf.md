@@ -1,9 +1,9 @@
 ---
-title: 快速上手指南
+title: 快速上手
 slug: getting-started
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 
-# 快速上手指南
+# 快速上手
 

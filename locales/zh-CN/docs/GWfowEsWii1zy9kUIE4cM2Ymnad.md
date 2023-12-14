@@ -21,49 +21,71 @@ sidebar_position: 1
 
 本作业可以管理维护透过 PageHub 制作出来的页面
 
-<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png"/>
+<img src="/assets/QGuJbBjWJorHPNx24wmcASPbn6c.png" src-width="3354" src-height="1454" align="center"/>
 
 ### 基础操作
 
 在 Pagehub 查询管理页面列表，提供【链接复制】的功能操作，可以点选 Copy 图示
 
-<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png"/>
+<img src="/assets/ElZ9bbs4KoASAFxzfHbcuI82npb.png" src-width="3306" src-height="918" align="center"/>
 
 在 PageHub 查询管理页面列表，提供【二维码】的预览功能操作
 
-<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png"/>
+<img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png" src-width="3286" src-height="1002" align="center"/>
 
 纪录右侧操作区的可以操作： 【编辑】/【复制】/【删除】
 
 页面列表字段/功能说明：
 
-|   |   |
-|---|---|
-|列表字段 | 字段说明|
-|序号 | 页面序号|
-|标题 | 页面标题，当配置好自定义页面后点击打开头部标题栏展示的名字|
-|发布状态|- 未发布：该状态下页面为草稿状态，需要点击发布才会生效<br/>- 已发布：页面点击发布按钮并发布成功后则为该状态，该状态页面直接生效<br/>- 发布失败：当前页面点击发布按钮但是由于种种原因失败|
-|页面地址 | 展示链接以及二维码两种链接形态，可复制当前链接直接打开预览，也可扫描二维码|
-|创建人 | 创建该页面的操作人名称|
-|最后发布时间 | 最新一次发布更新的时间|
-|操作|- 编辑：点击打开编辑当前页面<br/>- 复制：点击复制当前页面内容创建并打开新页面<br/>- 删除：删除当前页面（谨慎使用）|
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
+<tr>
+<td><p>序号</p></td><td><p>页面序号</p></td></tr>
+<tr>
+<td><p>标题</p></td><td><p>页面标题，当配置好自定义页面后点击打开头部标题栏展示的名字</p></td></tr>
+<tr>
+<td><p>发布状态</p></td><td><ul>
+<li>未发布：该状态下页面为草稿状态，需要点击发布才会生效</li>
+<li>已发布：页面点击发布按钮并发布成功后则为该状态，该状态页面直接生效</li>
+<li>发布失败：当前页面点击发布按钮但是由于种种原因失败</li>
+</ul></td></tr>
+<tr>
+<td><p>页面地址</p></td><td><p>展示链接以及二维码两种链接形态，可复制当前链接直接打开预览，也可扫描二维码</p></td></tr>
+<tr>
+<td><p>创建人</p></td><td><p>创建该页面的操作人名称</p></td></tr>
+<tr>
+<td><p>最后发布时间</p></td><td><p>最新一次发布更新的时间</p></td></tr>
+<tr>
+<td><p>操作</p></td><td><ul>
+<li>编辑：点击打开编辑当前页面</li>
+<li>复制：点击复制当前页面内容创建并打开新页面</li>
+<li>删除：删除当前页面（谨慎使用）</li>
+</ul></td></tr>
+</tbody>
+</table>
 
 ### 页面搭建
 
 点击右上角【新建页面】后打开如下页面，布局如图：
 
-<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png"/>
+<img src="/assets/Zh1IbgDnNoTWGvxPVvHcHKMmnkd.png" src-width="1921" src-height="989" align="center"/>
 
 **组件管理/组件库：**
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png"/>
+<img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png" src-width="664" src-height="754" align="center"/>
 
 <p>展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置</p>
 </div>
 <div>
-<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png"/>
+<img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png" src-width="690" src-height="1268" align="center"/>
 
 <p>所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览去页面中</p>
 </div>
@@ -71,15 +93,15 @@ sidebar_position: 1
 
 **预览区操作功能说明：**
 
-<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png"/>
+<img src="/assets/YphHbwclvoWZlAx1VHjc8W2Nnye.png" src-width="2406" src-height="1832" align="center"/>
 
 **多语言切换功能说明：**
 
-<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png"/>
+<img src="/assets/NFkubXQRMoAilOxCz5ScozPPnHd.png" src-width="800" src-height="356"/>
 
 **配置区域功能说明：**
 
-<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png"/>
+<img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png" src-width="696" src-height="632"/>
 
 - 页面配置 - 当前页面主要参数配置
 

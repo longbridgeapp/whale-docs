@@ -15,7 +15,7 @@ sidebar_position: 0
 
 每一个投放运营计划都是在：触发条件/受众用户/触达配置/目标设置 的维度下作运营计划项目的管理
 
-<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg"/>
+<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg" src-width="1286" src-height="454"/>
 
 ## 前置条件
 

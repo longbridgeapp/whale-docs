@@ -1,15 +1,15 @@
 ---
-title: 全局通用搜索功能
+title: 全局搜索
 slug: getting-started
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 
-# 全局通用搜索功能
+# 全局搜索
 
 Whale 提供两种 全局搜索 Tab 功能：  **搜索作业功能 **与 **搜索客户**
 
-<img src="/assets/BVaBbtPo4ovSkZxlzz3c4xShn2g.png"/>
+<img src="/assets/BVaBbtPo4ovSkZxlzz3c4xShn2g.png" src-width="3303" src-height="545" align="center"/>
 
 登录后有右上角有搜索按钮图标，功能唤醒也支持快捷键操作
 
@@ -17,15 +17,13 @@ Whale 提供两种 全局搜索 Tab 功能：  **搜索作业功能 **与 **搜�
 
 作业功能搜索 Tab 功能：可以输入 相关关键字 来检索 作业功能，方便快速切换到该作业
 
-<img src="/assets/Kn3CbXcqPoODAnxGg0ZctF1LnKd.png"/>
+<img src="/assets/Kn3CbXcqPoODAnxGg0ZctF1LnKd.png" src-width="3810" src-height="1318" align="center"/>
 
 ### 全局客户搜索
 
-全局客户搜索功能：透过 Windows: `Ctrl + T` / macOS:  `Control + T` 也提供 全局客户搜索 Tab 功能：
-
 可根据不同栏位 搜索相关客户资料
 
-<img src="/assets/HJr2bxOvToO50lxddURcoSqPnPd.png"/>
+<img src="/assets/HJr2bxOvToO50lxddURcoSqPnPd.png" src-width="3198" src-height="1142" align="center"/>
 
 搜索到相关客户后，会出现该客户的简要基本资料（帐户通讯资料），其中搜索支持：
 
@@ -33,11 +31,11 @@ Whale 提供两种 全局搜索 Tab 功能：  **搜索作业功能 **与 **搜�
 
 姓名查询时，支持输入客户英文姓名，支持展示客户英文姓名
 
-<img src="/assets/LRCQbL62Woxd9TxEszBcQRjanah.png"/>
+<img src="/assets/LRCQbL62Woxd9TxEszBcQRjanah.png" src-width="2600" src-height="1086" align="center"/>
 
 点选该笔客户纪录后，会在左侧滑动 出现的客户资料摘要 与重要的 资产交易纪录
 
-<img src="/assets/WKf5bnuUUoTp8dxFKl7cQSlwn8b.png"/>
+<img src="/assets/WKf5bnuUUoTp8dxFKl7cQSlwn8b.png" src-width="3824" src-height="1576" align="center"/>
 
 **资产总览 Tab**: 可以切换 不同资产币别来看资产金额总览，同时上方也展示右边也提供 资产数据的 Dashboard 展示
 
@@ -49,22 +47,22 @@ Whale 提供两种 全局搜索 Tab 功能：  **搜索作业功能 **与 **搜�
 
 <div class="grid gap-3 grid-cols-2">
 <div>
-<img src="/assets/XSVbbN3CGo0fpWxnEb2cXMVnn0f.png"/>
+<img src="/assets/XSVbbN3CGo0fpWxnEb2cXMVnn0f.png" src-width="1420" src-height="1270" align="center"/>
 </div>
 <div>
-<img src="/assets/LSyJbHVdyoy5pRx6uoncXwWgn58.png"/>
+<img src="/assets/LSyJbHVdyoy5pRx6uoncXwWgn58.png" src-width="1404" src-height="678" align="center"/>
 </div>
 </div>
 
 **出入金 Tab**:  可以 查询该客户的 出入金纪录资讯，也可以直接编辑操作
 
-<img src="/assets/Cauvb1hLgo9pv7xhBoVcYbDinkd.png"/>
+<img src="/assets/Cauvb1hLgo9pv7xhBoVcYbDinkd.png" src-width="1426" src-height="842" align="center"/>
 
 **银行卡 Tab**:  可以 查询该客户的 银行卡资讯，也可以直接编辑操作
 
-<img src="/assets/UUBCbvxyEo9OOyxfDJDcwXjnnGb.png"/>
+<img src="/assets/UUBCbvxyEo9OOyxfDJDcwXjnnGb.png" src-width="1432" src-height="878" align="center"/>
 
 **计费 Tab**:  可以 查询该客户帐户的 相关收费项目 展示
 
-<img src="/assets/DVWYb6CJZo409IxrD1Tc0jsZnkg.png"/>
+<img src="/assets/DVWYb6CJZo409IxrD1Tc0jsZnkg.png" src-width="1388" src-height="1566" align="center"/>
 

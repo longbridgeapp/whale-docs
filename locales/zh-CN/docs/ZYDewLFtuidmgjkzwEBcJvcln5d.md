@@ -25,7 +25,7 @@ sidebar_position: 3
 
 从新用户注册 1 小时到 12 天，配置多个触发型计划，对用户进行内容投放
 
-<img src="/assets/WjK8bwhcmo42yLxZuJbc4MCTnyc.png"/>
+<img src="/assets/WjK8bwhcmo42yLxZuJbc4MCTnyc.png" src-width="3454" src-height="1574" align="center"/>
 
 以注册 4 天关注股票引导为例进行说明
 
@@ -35,33 +35,33 @@ sidebar_position: 3
 
 点击右上角‘创建计划’，设置计划名称（例：注册 4 天关注股票引导）
 
-<img src="/assets/N5R2bVg0GomRm0xYFZ0cQJConic.png"/>
+<img src="/assets/N5R2bVg0GomRm0xYFZ0cQJConic.png" src-width="3174" src-height="1576" align="center"/>
 
 **第二步：设置触发条件**
 
 配置条件参考如下：选择计划类型为 触发型 - 完成 A，设置触发事件为注册成功，设置延迟 4 天后对用户触达，设置起止时间为 2023-01-01 至 2023-06-30，设置参与次数为 1 次
 
-<img src="/assets/FExgbqXF3ougoIxGqHJchmoyn2f.png"/>
+<img src="/assets/FExgbqXF3ougoIxGqHJchmoyn2f.png" src-width="2854" src-height="1478" align="center"/>
 
 **第三步：选择受众用户**
 
 2023-01-01 至 2023-06-30 期间新注册的用户
 
-<img src="/assets/JYp8bhdghobfwqxPctlcOacUnhd.png"/>
+<img src="/assets/JYp8bhdghobfwqxPctlcOacUnhd.png" src-width="2858" src-height="1582" align="center"/>
 
 **第四步：配置触达规则**
 
 通过 Push 触达用户
 
-<img src="/assets/PVvYbY20KoGB0zxTsZzcQ42inRh.png"/>
+<img src="/assets/PVvYbY20KoGB0zxTsZzcQ42inRh.png" src-width="2206" src-height="1178" align="center"/>
 
 Push 内容示例：
 
-<img src="/assets/Zg3qbOqLboGUxkxucHrcrWFdn1e.png"/>
+<img src="/assets/Zg3qbOqLboGUxkxucHrcrWFdn1e.png" src-width="1284" src-height="771"/>
 
 **第五步：设置触达目标**
 
 用户收到 Push 后，5 分钟内，完成 Push 点击，点击 push 的标题为：顺藤摸瓜，选到更多好股票
 
-<img src="/assets/ElC8b0RggoRbhsx70ducHruAnHh.png"/>
+<img src="/assets/ElC8b0RggoRbhsx70ducHruAnHh.png" src-width="2200" src-height="1188" align="center"/>
 
