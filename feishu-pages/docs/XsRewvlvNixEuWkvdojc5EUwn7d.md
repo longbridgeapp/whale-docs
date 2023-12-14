@@ -23,9 +23,9 @@ sidebar_position: 0
 <tr>
 <td><p>結算賬戶</p></td><td><p>SETTLEMENT</p></td><td><p><strong>可用可提</strong><br/>清結算交收後，會把業務賬戶的錢或券，交收（結轉）到結算賬戶</p></td></tr>
 <tr>
-<td><p>外部過渡戶</p></td><td><p>EXTERNAL</p></td><td><p><strong>不可用不可提</strong><br/>部分業務實際上遊已扣款，但沒有資產加進來，例如IPO先扣款，但沒有持倉，業務上為了使得用戶總資產不變，會把扣掉的錢額外加在外部過渡戶上</p></td></tr>
+<td><p>外部過渡戶</p></td><td><p>EXTERNAL</p></td><td><p><strong>不可用不可提</strong><br/>部分業務實際上遊已扣款，但沒有資產加進來，例如 IPO 先扣款，但沒有持倉，業務上為了使得用戶總資產不變，會把扣掉的錢額外加在外部過渡戶上</p></td></tr>
 <tr>
-<td><p>內部過渡戶</p></td><td><p>INTERNAL</p></td><td><p>暗盤買入時，先扣 INTERNAL賬戶的錢， 暗盤買入結轉後，INTERNAL賬戶的錢再加回來，再扣除business的錢</p></td></tr>
+<td><p>內部過渡戶</p></td><td><p>INTERNAL</p></td><td><p>暗盤買入時，先扣 INTERNAL 賬戶的錢，暗盤買入結轉後，INTERNAL 賬戶的錢再加回來，再扣除 business 的錢</p></td></tr>
 <tr>
 <td><p>結算過渡戶</p></td><td><p>SETTLEMENT_INTERNAL</p></td><td><p>中臺的結算過渡戶，出掉一筆錢後會影響可用，在部分業務影響需要只影響可提（換匯、余額通申購中間狀態），會從結算過渡戶扣錢</p></td></tr>
 <tr>

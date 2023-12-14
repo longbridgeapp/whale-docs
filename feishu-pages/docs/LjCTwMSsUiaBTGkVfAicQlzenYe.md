@@ -19,7 +19,7 @@ sidebar_position: 2
 
 菜單入口：資產賬戶&gt;帳戶&gt; 帳戶明細
 
-選擇需要查詢的資產類型，分現金、股票、基金、期權、債券、OTC其他、虛擬資產
+選擇需要查詢的資產類型，分現金、股票、基金、期權、債券、OTC 其他、虛擬資產
 
 <img src="/assets/C2Ewb6qqcoa4Dexfvp8cpkfEnYb.png" src-width="2718" src-height="320" align="center"/>
 

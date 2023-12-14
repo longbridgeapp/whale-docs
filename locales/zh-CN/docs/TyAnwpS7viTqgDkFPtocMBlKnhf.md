@@ -1,11 +1,11 @@
 ---
-title: 【场景】如何创建一个 APP Push 消息？
+title: 【场景】如何创建一个 App Push 消息？
 slug: xxx
 sidebar_position: 2
 ---
 
 
-# 【场景】如何创建一个 APP Push 消息？
+# 【场景】如何创建一个 App Push 消息？
 
 ## 适用场景
 

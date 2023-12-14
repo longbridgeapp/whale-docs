@@ -18,6 +18,6 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>📌 1204版本交互设计优化，发布后补充</p>
+<p>📌 1204 版本交互设计优化，发布后补充</p>
 </div>
 

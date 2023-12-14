@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ### 適用場景
 
-首先私募基金的業務系統操作流程如下 （SOP） :
+首先私募基金的業務系統操作流程如下（SOP） :
 
 <img src="/assets/IyP7bS33yo6Q61xN2ezc473Cnbb.jpeg" src-width="1160" src-height="1954" align="center"/>
 
@@ -25,15 +25,15 @@ sidebar_position: 2
 
 本作業可以維護一個私募基金的基金資料，也可以管理基金的上架展示
 
-   同時系統提供 基金上架（系統端）  與顯示管理（APP 端）
+   同時系統提供 基金上架（系統端）與顯示管理（APP 端）
 
 【上架】：是指將基金 納入系統交易。并調整时需要標的是上架状態      
 
 【下架】：是指將基金 將無法在系統交易
 
-【顯示】：是指基金可在 APP 端展示、搜索和交易 
+【顯示】：是指基金可在 App 端展示、搜索和交易 
 
-【隱藏】：是指基金在 APP 端不展示、不可搜索
+【隱藏】：是指基金在 App 端不展示、不可搜索
 
 <img src="/assets/OqF3bSz5Woi62vxzZr1c86ainMr.png" src-width="2978" src-height="1644" align="center"/>
 
@@ -69,7 +69,7 @@ sidebar_position: 2
 
 注意：
 
-1. 若後台下單後，在基金委托列表可以查詢對應交易訂單資訊，訂單資訊也會同步到 APP 客戶端展示，在未進行日切之前可以進行撤單。
+1. 若後台下單後，在基金委托列表可以查詢對應交易訂單資訊，訂單資訊也會同步到 App 客戶端展示，在未進行日切之前可以進行撤單。
 2. 已日切的訂單不可重復獲取，但日切之前可以多次前台拉取訂單。
 
 #### 基金清算
@@ -96,21 +96,21 @@ sidebar_position: 2
 
 <img src="/assets/OSEwbwYpOokhj1xwZ85cJ2gpnwf.png" src-width="2990" src-height="1060" align="center"/>
 
-#### APP 端列表 
+#### App 端列表 
 
 執行菜單：基金管理&gt; 私募基金&gt;APP 端列表 Tab 頁籤 
 
-本作業可以維護在 APP 端有關於私募基金主體的排序展示順序
+本作業可以維護在 App 端有關於私募基金主體的排序展示順序
 
 <img src="/assets/OF43b4eI7oOCz4x7pImcvJJhnbc.png" src-width="2990" src-height="914" align="center"/>
 
-可以在右側點選【 新建】，新建一個私募基金的排序
+可以在右側點選【新建】，新建一個私募基金的排序
 
 <img src="/assets/UhYObkl47oEA38xQDlMcmDjWnab.png" src-width="2976" src-height="1414" align="center"/>
 
 設置後，就會影響私募基金在手機端展示排序效果
 
-**APP 端展示畫面如下：**
+**App 端展示畫面如下：**
 
 <div class="grid gap-3 grid-cols-2">
 <div>

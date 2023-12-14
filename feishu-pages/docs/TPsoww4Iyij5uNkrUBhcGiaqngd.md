@@ -15,7 +15,7 @@ Whale 提供兩種 全局搜索 Tab 功能：  **搜索作業功能 **與 **搜�
 
 ### 全局功能搜索
 
-作業功能搜索 Tab 功能： 可以輸入 相關關鍵字 來檢索 作業功能 ， 方便快速切換到該作業
+作業功能搜索 Tab 功能：可以輸入 相關關鍵字 來檢索 作業功能，方便快速切換到該作業
 
 <img src="/assets/Kn3CbXcqPoODAnxGg0ZctF1LnKd.png" src-width="3810" src-height="1318" align="center"/>
 
@@ -25,7 +25,7 @@ Whale 提供兩種 全局搜索 Tab 功能：  **搜索作業功能 **與 **搜�
 
 <img src="/assets/HJr2bxOvToO50lxddURcoSqPnPd.png" src-width="3198" src-height="1142" align="center"/>
 
-搜索到相關客戶後， 會出現該客戶的簡要基本資料（帳戶通訊資料），其中搜索支持：
+搜索到相關客戶後，會出現該客戶的簡要基本資料（帳戶通訊資料），其中搜索支持：
 
 客戶搜索支持姓名、證券帳號模糊查詢
 

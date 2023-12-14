@@ -39,7 +39,7 @@ sidebar_position: 1
 
 **第三步：選擇受衆用戶**
 
-配置條件如下：已開戶用戶 且 最近 APP 啓動時間在 2022-12-01 至 2023-01-31
+配置條件如下：已開戶用戶 且 最近 App 啓動時間在 2022-12-01 至 2023-01-31
 
 <img src="/assets/ZzQNbhkSioEZwlxpKtxccNcmnbe.png" src-width="2836" src-height="1588" align="center"/>
 

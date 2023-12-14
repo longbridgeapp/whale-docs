@@ -31,11 +31,11 @@ sidebar_position: 0
 
 #### 選擇客戶/新建客戶 
 
-#### 選擇客戶類型，可選擇： 個人客戶 /聯名客戶 /企業客戶
+#### 選擇客戶類型，可選擇：個人客戶 /聯名客戶 /企業客戶
 
 #### 選擇客戶國籍，系統支持 200 + 國籍
 
-### **第二步**： 上傳身份證件
+### **第二步**：上傳身份證件
 
 分為 3 種類型客戶：
 
@@ -52,7 +52,7 @@ sidebar_position: 0
     3. 如用戶選擇否，需上傳其他身份證
     <img src="/assets/WP0IbjpQgouXrSxVinWcHDkbnjf.png" src-width="3252" src-height="1822" align="center"/>
 
-### **第三步**： 上傳地址證明
+### **第三步**：上傳地址證明
 
 分為 2 種類型客戶：
 
@@ -65,17 +65,17 @@ sidebar_position: 0
     1. 需上傳居住地址證明
     <img src="/assets/CKOTbY3xyo6lfhx2QSLc3EYCnSb.png" src-width="3252" src-height="1604" align="center"/>
 
-### **第四步**： 填寫各類基礎信息
+### **第四步**：填寫各類基礎信息
 
 主要是包含 職業資訊、納稅資訊、電子郵箱等信息。其中，
 
-納稅資訊，需填寫用戶納稅的國家/地區及納稅編號，最多支持填寫 10 個。包含以下字段： 納稅國家/地區  與 納稅人編號
+納稅資訊，需填寫用戶納稅的國家/地區及納稅編號，最多支持填寫 10 個。包含以下字段：納稅國家/地區  與 納稅人編號
 
 電子郵箱：用戶用於接收結單、通知等通知。一個 App 的用戶郵箱唯一
 
 填寫聯繫手機號，多個客戶可使用相同的聯繫手機號
 
-### **第五步**：  填寫資產投資信息
+### **第五步**：填寫資產投資信息
 
 <img src="/assets/XScJb6HdyoYbCPxj5H6cvKHAnre.png" src-width="3258" src-height="1804" align="center"/>
 
@@ -83,13 +83,13 @@ sidebar_position: 0
 
 <img src="/assets/NIclbivdpoSTIWxIxqKcwi3Anic.png" src-width="3254" src-height="1806" align="center"/>
 
-### **第七步**： 確認資訊
+### **第七步**：確認資訊
 
-系統會按: 身份證件/個人基礎信息/職業信息/資產投資信息/合規信息確認/關聯賬戶信息 等區塊排列,將客戶資料展示出來,方便按確認填寫訊息
+系統會按：身份證件/個人基礎信息/職業信息/資產投資信息/合規信息確認/關聯賬戶信息 等區塊排列，將客戶資料展示出來，方便按確認填寫訊息
 
 <img src="/assets/SS8ybscAZohaPbxp1Vpc84ONnJh.png" src-width="3250" src-height="1576" align="center"/>
 
-同時若有需要修正資料,可點擊區塊右上角的【編輯】,會跳轉該訊息面區域進行修改資料
+同時若有需要修正資料，可點擊區塊右上角的【編輯】,會跳轉該訊息面區域進行修改資料
 
 <img src="/assets/FxMibYc5Fo8wLmxB6QjcmvfMnJe.png" src-width="3162" src-height="1142" align="center"/>
 

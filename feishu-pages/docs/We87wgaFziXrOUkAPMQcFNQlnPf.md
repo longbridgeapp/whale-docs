@@ -23,7 +23,7 @@ sidebar_position: 0
 
 <img src="/assets/EFndbc3IBojG0dxlSlDcMa98nwc.png" src-width="3234" src-height="1606" align="center"/>
 
-也可在右側記錄操作區：點選【詳情】， 查看客戶細部基本資料，同時也提供資產交易/操作記錄/登錄設備/代理人/關係人 這些特定事項的 Tab 頁籤資料
+也可在右側記錄操作區：點選【詳情】，查看客戶細部基本資料，同時也提供資產交易/操作記錄/登錄設備/代理人/關係人 這些特定事項的 Tab 頁籤資料
 
 <img src="/assets/J72ebMG1joEz5cxZIShcMEm0nlf.png" src-width="3246" src-height="1228" align="center"/>
 

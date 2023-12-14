@@ -121,7 +121,7 @@ sidebar_position: 3
 
 <img src="/assets/EUKeb9UQ9oYEtaxkgPJcDyvpnxc.png" src-width="3410" src-height="1472" align="center"/>
 
-此時可以操作‘指令收集'。在選擇開始時間 到結算時間，對相關客戶發送選擇通知（透過 APP 或 mail  訊息）
+此時可以操作‘指令收集'。在選擇開始時間 到結算時間，對相關客戶發送選擇通知（透過 App 或 mail  訊息）
 
 參考通知範例：
 

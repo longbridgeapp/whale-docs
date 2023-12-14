@@ -9,13 +9,13 @@ sidebar_position: 1
 
 ### 權限策略模式
 
-Whale WBO 權限申請 ，採用一級業務模組的功能權限策略（不再以二級菜單作業角度） ，分成：
+Whale WBO 權限申請，採用一級業務模組的功能權限策略（不再以二級菜單作業角度） ，分成：
 
 **全部功能權限（策略）、只讀功能權限（策略） **和 **其他指定權限（策略）**
 
 <img src="/assets/JcR4bjK5yoIGwsxuXDBc3LyWnRe.png" src-width="1488" src-height="1448"/>
 
-Whale 用戶 可以根據 新的權限策略 來配置新的權限申請 ，同時系統 也支持 針對一些臨時權限策略設置申請期限 （預設不填寫） ，可根據需要填入作為審批參考
+Whale 用戶 可以根據 新的權限策略 來配置新的權限申請，同時系統 也支持 針對一些臨時權限策略設置申請期限（預設不填寫） ，可根據需要填入作為審批參考
 
 <img src="/assets/KV7dbh3x6oTtYVx7rYbc1ByRnQh.png" src-width="1478" src-height="156"/>
 
@@ -27,7 +27,7 @@ Whale 用戶 可以根據 新的權限策略 來配置新的權限申請 ，同�
 
 ### 角色管理詳情
 
-此次 Whale WBO 權限策略模式優化 ，也同時優化身份管理內的權限添加角色時採用新的權限策略模式
+此次 Whale WBO 權限策略模式優化，也同時優化身份管理內的權限添加角色時採用新的權限策略模式
 
 <img src="/assets/PJwkblkFFoHIJqxX8rHcnjscn6d.png" src-width="3406" src-height="1452" align="center"/>
 

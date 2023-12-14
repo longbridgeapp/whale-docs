@@ -21,7 +21,7 @@ sidebar_position: 0
 
 執行菜單：基金管理&gt; 公募基金&gt;客戶訂單 Tab 頁籤
 
-在本作業可以查詢到前台 APP 端的公募基金訂單紀錄，  可以看到基金訂單的申購/贖的狀態
+在本作業可以查詢到前台 App 端的公募基金訂單紀錄，  可以看到基金訂單的申購/贖的狀態
 
 <img src="/assets/MMrpbLsIboM1w8x9UovclZIUnje.png" src-width="2986" src-height="1742" align="center"/>
 
@@ -33,7 +33,7 @@ sidebar_position: 0
 
 <img src="/assets/Eg8abABWOoqFUQxDwqbcMIW0nNg.png" src-width="2978" src-height="1708" align="center"/>
 
-注意： 系統已改成 透過 行情數據源 自動獲取 公募基金的淨值表（無法租戶 自行新增，避免數據更新錯誤）
+注意：系統已改成 透過 行情數據源 自動獲取 公募基金的淨值表（無法租戶 自行新增，避免數據更新錯誤）
 
 #### 基金清算
 
@@ -57,7 +57,7 @@ sidebar_position: 0
 
 <img src="/assets/XZh1bTDlioljIRxue9OcEZvQn6d.png" src-width="2974" src-height="1706" align="center"/>
 
-1. 數據回填之後，**點擊核對確認**，進行數據確認，確認提交。若當天沒有訂單，自動核對確認， 自動完成交收。
+1. 數據回填之後，**點擊核對確認**，進行數據確認，確認提交。若當天沒有訂單，自動核對確認，自動完成交收。
 
 <img src="/assets/DhuabdgfDo8uBrx9yCBctCfSnnh.png" src-width="2978" src-height="1272" align="center"/>
 

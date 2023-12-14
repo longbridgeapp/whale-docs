@@ -1,11 +1,11 @@
 ---
-title: APP 展示管理
+title: App 展示管理
 slug: APPzhanshiguanli
 sidebar_position: 3
 ---
 
 
-# APP 展示管理
+# App 展示管理
 
 ### 适用场景
 
@@ -21,7 +21,7 @@ sidebar_position: 3
 
 执行菜单：基金管理&gt; APP 管理&gt;热销基金 Tab 页签
 
-本作业可以维护在 APP 端热销基金主体的排序展示顺序
+本作业可以维护在 App 端热销基金主体的排序展示顺序
 
 <img src="/assets/THeDb4yWToo2Wgxjyd0cPuZNn3d.png" src-width="3000" src-height="1150" align="center"/>
 
@@ -31,7 +31,7 @@ sidebar_position: 3
 
 热销基金模块是基金后台可配的运营型基金展示功能，热销基金页面进行配置后可以在 App 端展示，默认展示的收益周期是近 3 年收益率。
 
-**APP 端 参考画面**：
+**App 端 参考画面**：
 
 <img src="/assets/BMl0bK93ho5wyixzlYNctDrSnPg.png" src-width="958" src-height="1722"/>
 
@@ -47,7 +47,7 @@ sidebar_position: 3
 
 <img src="/assets/XALNbi787oro9hxxVjjcezYsnie.png" src-width="2988" src-height="1666" align="center"/>
 
-**APP 端展示画面如下：**
+**App 端展示画面如下：**
 
 <img src="/assets/St5QbZSn4oztjpxcIYRclRKendh.png" src-width="686" src-height="1482"/>
 

@@ -23,7 +23,7 @@ sidebar_position: 5
 
 該菜單用於查詢所有給過交易額度的客戶，並支持新增、修改和生效/失效額度。
 
-1. 頁面可通過【設置】設置margin call時是否自動失效交易額度，默認開啓自動失效，可以進行修改，詳細可見設置頁面提示
+1. 頁面可通過【設置】設置 margin call 時是否自動失效交易額度，默認開啓自動失效，可以進行修改，詳細可見設置頁面提示
 
 <img src="/assets/QWY9bCfDnoxLunxYDyLczMULnEh.png" src-width="3244" src-height="1092" align="center"/>
 

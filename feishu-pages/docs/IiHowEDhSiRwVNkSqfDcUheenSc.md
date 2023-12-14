@@ -53,10 +53,10 @@ Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些�
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>欄位輸入提示</strong></p></td><td><p>一些欄位會有特別的文字輸入提示， 方便操作指引</p></td><td><img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png" src-width="994" src-height="180"/>
+<td><p><strong>欄位輸入提示</strong></p></td><td><p>一些欄位會有特別的文字輸入提示，方便操作指引</p></td><td><img src="/assets/GuqvbQSfAogJwlxnmI9cmV4Yndb.png" src-width="994" src-height="180"/>
 <img src="/assets/JxKXb6AJOoPMc1x7BLUcHhkynde.png" src-width="922" src-height="164"/></td></tr>
 <tr>
-<td><p><strong>日期欄位</strong></p></td><td><p>點選日期框就會出現日曆選項 ，<br/>方便點擊選擇</p></td><td><img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png" src-width="1176" src-height="734"/></td></tr>
+<td><p><strong>日期欄位</strong></p></td><td><p>點選日期框就會出現日曆選項，<br/>方便點擊選擇</p></td><td><img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png" src-width="1176" src-height="734"/></td></tr>
 <tr>
 <td><p><strong>Combox 欄位</strong></p></td><td><p>點擊 Combox 的向下箭頭框就會出現 Combox 項目選擇</p></td><td><div class="grid gap-3 grid-cols-2">
 <div>

@@ -33,19 +33,19 @@ sidebar_position: 1
 
 菜單入口：投放系統&gt;運營計畫
 
-以下分別 整理幾個常見運營計畫， 逐步導引來建立計畫
+以下分別 整理幾個常見運營計畫，逐步導引來建立計畫
 
 [【場景】如何創建一個定時型 - 單次計劃？](./Gicdw3YEtiDhLYkyLC6cLx79njb) 
 
-[【場景】如何創建一個 定時型-重複 計劃？](./P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
+[【場景】如何創建一個 定時型 - 重複 計劃？](./P0E9wXWm4iGRLEkDSX1chq9Jnuh) 
 
 [【場景】如何創建一個 獲取型-API 計劃？](./EPH5wRfGhidNKDkJQi6cYwE3nvS) 
 
-[【場景】如何創建一個 觸發型-完成A 計劃](./ZYDewLFtuidmgjkzwEBcJvcln5d) 
+[【場景】如何創建一個 觸發型 - 完成 A 計劃](./ZYDewLFtuidmgjkzwEBcJvcln5d) 
 
 當完成運營計畫後，就可以管理運營計畫
 
-系統支持以 ‘看板模式’與‘列表模式’來切換管理 所配置的運營計畫
+系統支持以‘看板模式’與‘列表模式’來切換管理 所配置的運營計畫
 
 <img src="/assets/IpQJbWtfcoED4Lx3Z78cfEuJnAK.png" src-width="3074" src-height="1584" align="center"/>
 

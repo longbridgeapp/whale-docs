@@ -1,0 +1,5 @@
+rules:
+  spellcheck: 2
+spellcheck:
+  words:
+    - APP = App

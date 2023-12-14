@@ -1,15 +1,15 @@
 ---
-title: 場景-股權認購（OO、EO、RS、ER、TU、TC）
+title: 場景 - 股權認購（OO、EO、RS、ER、TU、TC）
 slug: xxxxxxxxx
 sidebar_position: 5
 ---
 
 
-# 場景-股權認購（OO、EO、RS、ER、TU、TC）
+# 場景 - 股權認購（OO、EO、RS、ER、TU、TC）
 
 ## 適用場景
 
-處理股權類認購操作處理(OO/EO/RS/TU/TC等)
+處理股權類認購操作處理 (OO/EO/RS/TU/TC 等)
 
 ## 前置條件
 
