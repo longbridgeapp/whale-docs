@@ -9,7 +9,7 @@ sidebar_position: 6
 
 ## 適用場景
 
-基於SFC保證金指引的壓力測試與股票、客戶相關的監控。
+基於 SFC 保證金指引的壓力測試與股票、客戶相關的監控。
 
 ## 前置條件
 
@@ -28,13 +28,13 @@ sidebar_position: 6
 
 <img src="/assets/FWgQb5QmzoYSXVxu3nscJYgunl5.png" src-width="3180" src-height="1246" align="center"/>
 
-注： 相關豁免規則配置 請在執行菜單：「系統設置」&gt;「風控」&gt;「風控參數」菜單內配置
+注：相關豁免規則配置 請在執行菜單：「系統設置」&gt;「風控」&gt;「風控參數」菜單內配置
 
 當計算完畢，可以在記錄右側操作區，點選【詳情】查看計算的結果
 
 <img src="/assets/WmmXbFlkAosiAPxBRyncqYQ3n2d.png" src-width="3184" src-height="1260" align="center"/>
 
-【詳情】頁面展示的列表數據可以用來評估模擬計算結果是否符合預期；如同時模擬計算margin call和非速凍資金盈餘則會分開兩個列表展示
+【詳情】頁面展示的列表數據可以用來評估模擬計算結果是否符合預期；如同時模擬計算 margin call 和非速凍資金盈餘則會分開兩個列表展示
 
 <img src="/assets/JG86bmjyJoMBO4xaJeVcVazfnWd.png" src-width="3238" src-height="1592" align="center"/>
 

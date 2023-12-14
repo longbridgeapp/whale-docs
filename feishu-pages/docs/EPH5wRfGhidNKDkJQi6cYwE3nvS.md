@@ -13,9 +13,9 @@ sidebar_position: 2
 
 目標受衆：全部用戶
 
-運營策略：通過APP 彈窗的強提醒方式，引導用戶參與認購
+運營策略：通過 App 彈窗的強提醒方式，引導用戶參與認購
 
-效果評估：計劃上線後，追蹤目標受衆的APP 彈窗打開率
+效果評估：計劃上線後，追蹤目標受衆的 App 彈窗打開率
 
 ## 前置條件
 
@@ -27,7 +27,7 @@ sidebar_position: 2
 
 菜單入口：投放系統&gt;運營計畫
 
-點擊右上角‘創建計劃’，設置計劃名稱（例:越南概念ETF認購預熱）
+點擊右上角‘創建計劃’，設置計劃名稱（例：越南概念 ETF 認購預熱）
 
 <img src="/assets/JtTLbo8a1oSayOx8CUxct7aCnyd.png" src-width="3174" src-height="1576" align="center"/>
 
@@ -55,7 +55,7 @@ sidebar_position: 2
 
 **第五步：設置觸達目標**
 
-用戶收到彈窗後，5分鐘內，打開彈窗且彈窗名稱爲南方東英越南30
+用戶收到彈窗後，5 分鐘內，打開彈窗且彈窗名稱爲南方東英越南 30
 
 <img src="/assets/LAu7bZ23WoTjOsxEv91coh0rnKe.png" src-width="2208" src-height="1070" align="center"/>
 

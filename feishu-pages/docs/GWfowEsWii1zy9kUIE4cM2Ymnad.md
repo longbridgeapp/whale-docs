@@ -103,7 +103,7 @@ sidebar_position: 1
 
 <img src="/assets/TkVAbY38uoyCQRxoVB6cXwVEnhb.png" src-width="696" src-height="632"/>
 
-- 頁面配置-當前頁面主要參數配置
+- 頁面配置 - 當前頁面主要參數配置
 
 1. 多語言設置
 

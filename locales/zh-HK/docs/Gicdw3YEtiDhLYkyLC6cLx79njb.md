@@ -15,7 +15,7 @@ sidebar_position: 0
 
 運營策略：給目標受衆發放任務幣，配置專屬兌換活動，併發郵件通知
 
-效果評估：計劃上線後，追蹤目標受衆的 APP 啓動情況、兌換情況、入金交易情况
+效果評估：計劃上線後，追蹤目標受衆的 App 啓動情況、兌換情況、入金交易情况
 
 ## 前置條件
 
@@ -45,13 +45,13 @@ sidebar_position: 0
 
 **第四步：配置觸達規則**
 
-以郵件的方式給用戶發送 APP 新版本升級介紹
+以郵件的方式給用戶發送 App 新版本升級介紹
 
 <img src="/assets/Ueb2bbJCzolaPAxCzDccDqbundd.png" src-width="2218" src-height="1220" align="center"/>
 
 **第五步：設置觸達目標**
 
-用戶收到郵件後，1 天內完成 APP 啓動
+用戶收到郵件後，1 天內完成 App 啓動
 
 <img src="/assets/XQCiblZsdojZ4sxatlDcE0nZnqi.png" src-width="2158" src-height="1060" align="center"/>
 

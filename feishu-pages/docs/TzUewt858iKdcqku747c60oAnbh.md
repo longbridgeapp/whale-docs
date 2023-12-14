@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ## 操作說明
 
-以下展示前端  APP 有關的配置呈現效果：
+以下展示前端  App 有關的配置呈現效果：
 
 ### 卡券
 
@@ -25,7 +25,7 @@ sidebar_position: 4
 <p><strong>App 入口</strong></p>
 <img src="/assets/TVzObuszjooalxx8eIvc8mXynxj.png" src-width="628" src-height="1352" align="center"/>
 
-<p>我的-我的卡券</p>
+<p>我的 - 我的卡券</p>
 </div>
 <div>
 <p><strong>我的卡券</strong></p>
@@ -54,10 +54,10 @@ sidebar_position: 4
 <p><strong>App 入口</strong></p>
 <img src="/assets/Y8fab6Du8osXcnxOvpXcgNg4nOb.png" src-width="620" src-height="1366" align="center"/>
 
-<p>我的-獎勵記錄</p>
+<p>我的 - 獎勵記錄</p>
 <img src="/assets/VxK1b0nbMoiPdcxmEUicIVBMnzd.png" src-width="626" src-height="1360" align="center"/>
 
-<p>我的-活動中心-獎勵</p>
+<p>我的 - 活動中心 - 獎勵</p>
 </div>
 <div>
 <p><strong>獎勵記錄</strong></p>
@@ -91,7 +91,7 @@ sidebar_position: 4
 
 <img src="/assets/EIPUbnuL4oHWtvxH93ucziX1nfe.png" src-width="626" src-height="1374" align="center"/>
 
-<p>我的-我的行情-行情商店</p>
+<p>我的 - 我的行情 - 行情商店</p>
 </div>
 <div>
 <p><strong>行情商店</strong></p>

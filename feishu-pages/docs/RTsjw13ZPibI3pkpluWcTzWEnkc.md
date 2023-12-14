@@ -9,7 +9,7 @@ sidebar_position: 1
 
 # 適用場景
 
-處理公司行動登記後對客戶產生的權益明細,對客戶權益明細的管理（新增/ 作廢/客戶權益查詢）
+處理公司行動登記後對客戶產生的權益明細，對客戶權益明細的管理（新增/ 作廢/客戶權益查詢）
 
 # 前置条件
 
@@ -39,8 +39,8 @@ sidebar_position: 1
 
  注意事項： 
 
-1. 若在客戶選擇階段所新增的，不會再發送通知 (APP等)
-2. 狀態為:未登記、執行後不可新增 
+1. 若在客戶選擇階段所新增的，不會再發送通知 (APP 等)
+2. 狀態為：未登記、執行後不可新增 
 
 <img src="/assets/NZEJbMYBFoUURsx97tTc3reknAg.png" src-width="3408" src-height="1324" align="center"/>
 
@@ -52,7 +52,7 @@ sidebar_position: 1
 
 注意事項： 
 
-1. 在登記後可以即操作作廢，注意： 若在選股選息等進入客戶選擇階段後再作廢容易引起客訴 
+1. 在登記後可以即操作作廢，注意：若在選股選息等進入客戶選擇階段後再作廢容易引起客訴 
 2. 執行後不能作廢
 
 <img src="/assets/QpaYbKAdwoO5WqxUeMscWGW6n2f.png" src-width="3382" src-height="1424" align="center"/>

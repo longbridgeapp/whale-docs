@@ -51,7 +51,7 @@ TESS 服务展示：
 
 <img src="/assets/KkKObl0mHoOfcaxReKecCXrbnif.png" src-width="3244" src-height="1600" align="center"/>
 
-- 搜索客户组件，增加展示联系手机号、联系邮箱、APP 帐号（用于用户登录 APP）
+- 搜索客户组件，增加展示联系手机号、联系邮箱、App 帐号（用于用户登录 APP）
 
 <img src="/assets/NgetbsaQQoQDgbxzgFfcsAf1nlc.png" src-width="1112" src-height="802"/>
 

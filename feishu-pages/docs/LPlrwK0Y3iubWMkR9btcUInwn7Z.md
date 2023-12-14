@@ -23,7 +23,7 @@ sidebar_position: 1
 
 執行菜單：基金管理&gt;公募基金管理&gt;基金渠道 Tab 頁籤
 
-本作業用以管理基金平台商的相關資料 ， 維護基金渠道，配置與基金渠道交付的時間點配置
+本作業用以管理基金平台商的相關資料 ，維護基金渠道，配置與基金渠道交付的時間點配置
 
 <img src="/assets/LdafblyqeoTVUqxYlHKcU2XYng4.png" src-width="2984" src-height="1334" align="center"/>
 
@@ -39,23 +39,23 @@ sidebar_position: 1
 
 ## 基金管理
 
-執行菜單： 基金管理&gt;公募基金管理&gt;基金公司 Tab 頁籤
+執行菜單：基金管理&gt;公募基金管理&gt;基金公司 Tab 頁籤
 
 本作業可以維護一個公募基金的基金資料，配置基金主體和介紹，也可以管理基金的上架與顯示展示 
 
 首先在基金紀錄右側操作區，可以操作【詳情】或【詳情】來查閱編輯基金資料
 
-同時系統提供 基金上架（系統端）  與顯示管理（APP 端）
+同時系統提供 基金上架（系統端）與顯示管理（APP 端）
 
 【上架】：是指將基金 納入系統交易。并調整时需要標的是上架状態      
 
 【下架】：是指將基金 將無法在系統交易
 
-【顯示】：是指基金可在 APP 端展示、搜索和交易 
+【顯示】：是指基金可在 App 端展示、搜索和交易 
 
-【隱藏】：是指基金在 APP 端不展示、不可搜索
+【隱藏】：是指基金在 App 端不展示、不可搜索
 
-**APP 端展示效果**：  （如果一個 公募基金是 '上架' 且 '顯示' 的 狀況下）
+**App 端展示效果**：  （如果一個 公募基金是 '上架' 且 '顯示' 的 狀況下）
 
 <img src="/assets/JB59bGPbCoOxlbxSsDHcSatZnNd.png" src-width="696" src-height="1206" align="center"/>
 
@@ -69,7 +69,7 @@ sidebar_position: 1
 
 <img src="/assets/GbzXb1FKqop8CWxJxL8cfAJ0nqc.png" src-width="2984" src-height="1370" align="center"/>
 
-優化了配置基金交互流程，在右側記錄區【編輯】時 ，展示改成左側樹狀 Tab 配置页面，提高數據展示優化
+優化了配置基金交互流程，在右側記錄區【編輯】時，展示改成左側樹狀 Tab 配置页面，提高數據展示優化
 
 <img src="/assets/SHYObYEtooVbbZxf9ZnccAw0n5P.png" src-width="2972" src-height="1526" align="center"/>
 
@@ -85,7 +85,7 @@ sidebar_position: 1
 
 <img src="/assets/HflIbP5n1oc1B9xpxDocUwBRnkU.png" src-width="2990" src-height="1776" align="center"/>
 
-**APP 端展示效果**： （當新建基金公司後）
+**App 端展示效果**： （當新建基金公司後）
 
 <div class="grid gap-3 grid-cols-2">
 <div>

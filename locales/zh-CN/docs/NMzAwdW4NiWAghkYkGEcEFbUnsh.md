@@ -19,7 +19,7 @@ sidebar_position: 2
 
 菜单入口：运营系统&gt;权益系统&gt;权益中心
 
-主要用于运营可查看、导出当前 APP 内权益商店成交的订单情况
+主要用于运营可查看、导出当前 App 内权益商店成交的订单情况
 
 <img src="/assets/I3wFb3FRBoLHQXxS9qJcGdH5nrg.png" src-width="2340" src-height="1358" align="center"/>
 
