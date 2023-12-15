@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 
-  .vitepress/theme/custom.css 
+/*
+  .vitepress/theme/custom.css
 
   https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
 */
@@ -169,4 +169,8 @@ ol {
   font-weight: normal;
   font-size: 0.9em;
   color: var(--vp-c-text-3);
+}
+
+.DocSearch-Button{
+  border-color: var(--vp-c-divider);
 }

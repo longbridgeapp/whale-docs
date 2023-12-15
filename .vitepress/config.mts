@@ -19,6 +19,7 @@ export default defineConfig({
   srcExclude: ['SUMMARY.md', 'zh-HK.md', 'zh-CN.md', 'en.md'],
   srcDir: 'locales',
   lastUpdated: true,
+
   head: [
     [
       'link',
@@ -103,7 +104,48 @@ export default defineConfig({
 
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
-    logo: 'https://assets.lbkrs.com/uploads/d29e591d-0c3d-4def-b837-cd06dfb4d738/whale-logo.svg',
+    logo: "https://assets.lbkrs.com/uploads/d29e591d-0c3d-4def-b837-cd06dfb4d738/whale-logo.svg",
+    search: {
+      provider: "local",
+      options: {
+        locales: {
+          "zh-CN": {
+            translations: {
+              button: {
+                buttonText: "搜索文档",
+                buttonAriaLabel: "搜索文档",
+              },
+              modal: {
+                noResultsText: "无法找到相关结果",
+                resetButtonTitle: "清除查询条件",
+                footer: {
+                  selectText: "选择",
+                  navigateText: "切换",
+                  closeText: "关闭",
+                },
+              },
+            },
+          },
+          "zh-HK": {
+            translations: {
+              button: {
+                buttonText: "搜尋文件",
+                buttonAriaLabel: "搜尋文件",
+              },
+              modal: {
+                noResultsText: "無法找到相關結果",
+                resetButtonTitle: "清除查詢條件",
+                footer: {
+                  selectText: "選擇",
+                  navigateText: "切換",
+                  closeText: "關閉",
+                },
+              },
+            },
+          },
+        },
+      },
+    },
     sidebar: {
       // en: docsSidebarEN,
       // "zh-CN": docsSidebarZHCN,
