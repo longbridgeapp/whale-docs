@@ -19,7 +19,7 @@ sidebar_position: 2
 
 菜單入口：運營系統&gt;權益系統&gt;權益中心
 
-主要用於運營可查看、導出當前 App 內權益商店成交的訂單情況
+主要用於運營可查看、導出當前 APP 內權益商店成交的訂單情況
 
 <img src="/assets/I3wFb3FRBoLHQXxS9qJcGdH5nrg.png" src-width="2340" src-height="1358" align="center"/>
 

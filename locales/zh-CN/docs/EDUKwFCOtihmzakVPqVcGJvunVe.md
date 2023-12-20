@@ -17,7 +17,9 @@ sidebar_position: 2
 
 ## 操作说明
 
-菜单入口：客户管理系统&gt;CRM&gt;客户池
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜单入口：客户管理系统&gt;CRM&gt;客户池</p>
+</div>
 
 本作业支持针对不同的用户（客户），进行【分配客经】与【批量备注】与【导出】的操作
 

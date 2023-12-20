@@ -31,9 +31,9 @@ sidebar_position: 2
 
 【下架】：是指將基金 將無法在系統交易
 
-【顯示】：是指基金可在 App 端展示、搜索和交易 
+【顯示】：是指基金可在 APP 端展示、搜索和交易 
 
-【隱藏】：是指基金在 App 端不展示、不可搜索
+【隱藏】：是指基金在 APP 端不展示、不可搜索
 
 <img src="/assets/OqF3bSz5Woi62vxzZr1c86ainMr.png" src-width="2978" src-height="1644" align="center"/>
 
@@ -69,7 +69,7 @@ sidebar_position: 2
 
 注意：
 
-1. 若後台下單後，在基金委托列表可以查詢對應交易訂單資訊，訂單資訊也會同步到 App 客戶端展示，在未進行日切之前可以進行撤單。
+1. 若後台下單後，在基金委托列表可以查詢對應交易訂單資訊，訂單資訊也會同步到 APP 客戶端展示，在未進行日切之前可以進行撤單。
 2. 已日切的訂單不可重復獲取，但日切之前可以多次前台拉取訂單。
 
 #### 基金清算
@@ -96,11 +96,11 @@ sidebar_position: 2
 
 <img src="/assets/OSEwbwYpOokhj1xwZ85cJ2gpnwf.png" src-width="2990" src-height="1060" align="center"/>
 
-#### App 端列表 
+#### APP 端列表 
 
 執行菜單：基金管理&gt; 私募基金&gt;APP 端列表 Tab 頁籤 
 
-本作業可以維護在 App 端有關於私募基金主體的排序展示順序
+本作業可以維護在 APP 端有關於私募基金主體的排序展示順序
 
 <img src="/assets/OF43b4eI7oOCz4x7pImcvJJhnbc.png" src-width="2990" src-height="914" align="center"/>
 
@@ -110,7 +110,7 @@ sidebar_position: 2
 
 設置後，就會影響私募基金在手機端展示排序效果
 
-**App 端展示畫面如下：**
+**APP 端展示畫面如下：**
 
 <div class="grid gap-3 grid-cols-2">
 <div>

@@ -1,7 +1,7 @@
 ---
 title: 账户
 slug: wbo-account-account
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 

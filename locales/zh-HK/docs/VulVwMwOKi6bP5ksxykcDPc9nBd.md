@@ -17,7 +17,9 @@ sidebar_position: 0
 
 ## 操作说明
 
-菜單入口：資產帳戶&gt;調帳&gt; 手工調帳
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：資產帳戶&gt;調帳&gt; 手工調帳</p>
+</div>
 
 在手工調帳選擇對應的調帳類型 Tab 頁籤 (現金/股票/基金/債劵/OTC），點擊【新增】，打開新增調帳頁面
 

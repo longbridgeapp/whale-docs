@@ -17,13 +17,15 @@ sidebar_position: 0
 
 ## 操作說明
 
-菜單入口：帳戶管理&gt;帳戶列表
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：帳戶管理&gt;帳戶列表</p>
+</div>
 
 可以查詢所有已開戶的客戶帳戶狀態資料
 
 <img src="/assets/EFndbc3IBojG0dxlSlDcMa98nwc.png" src-width="3234" src-height="1606" align="center"/>
 
-也可在右側記錄操作區：點選【詳情】，查看客戶細部基本資料，同時也提供資產交易/操作記錄/登錄設備/代理人/關係人 這些特定事項的 Tab 頁籤資料
+也可在右側記錄操作區：點選【詳情】， 查看客戶細部基本資料，同時也提供資產交易/操作記錄/登錄設備/代理人/關係人 這些特定事項的 Tab 頁籤資料
 
 <img src="/assets/J72ebMG1joEz5cxZIShcMEm0nlf.png" src-width="3246" src-height="1228" align="center"/>
 

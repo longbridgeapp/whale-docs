@@ -1,11 +1,11 @@
 ---
-title: App 展示管理
+title: APP 展示管理
 slug: APPzhanshiguanli
 sidebar_position: 3
 ---
 
 
-# App 展示管理
+# APP 展示管理
 
 ### 適用場景
 
@@ -21,17 +21,17 @@ sidebar_position: 3
 
 執行菜單：基金管理&gt; APP 管理&gt;熱銷基金 Tab 頁籤
 
-本作業可以維護在 App 端熱銷基金主體的排序展示順序
+本作業可以維護在 APP 端熱銷基金主體的排序展示順序
 
 <img src="/assets/THeDb4yWToo2Wgxjyd0cPuZNn3d.png" src-width="3000" src-height="1150" align="center"/>
 
-可以在右側點選【新建】一個基金熱銷的排序
+可以在右側點選【 新建】一個基金熱銷的排序
 
 <img src="/assets/Vz4AbYplTokO9cxBT1qcS03YnFb.png" src-width="3008" src-height="1286" align="center"/>
 
 熱銷基金模塊是基金後台可配的運營型基金展示功能，熱銷基金頁面進行配置後可以在 App 端展示，默認展示的收益週期是近 3 年收益率。
 
-**App 端 參考畫面**：
+**APP 端 參考畫面**：
 
 <img src="/assets/BMl0bK93ho5wyixzlYNctDrSnPg.png" src-width="958" src-height="1722"/>
 
@@ -47,13 +47,13 @@ sidebar_position: 3
 
 <img src="/assets/XALNbi787oro9hxxVjjcezYsnie.png" src-width="2988" src-height="1666" align="center"/>
 
-**App 端展示畫面如下：**
+**APP 端展示畫面如下：**
 
 <img src="/assets/St5QbZSn4oztjpxcIYRclRKendh.png" src-width="686" src-height="1482"/>
 
 #### 基金推薦（風險）
 
-執行菜單：基金管理&gt; APP 管理&gt;基金推薦（風險）Tab 頁籤
+執行菜單：基金管理&gt; APP 管理&gt;基金推薦（風險） Tab 頁籤
 
 本作業可以管理配置基金推薦的風險等級
 

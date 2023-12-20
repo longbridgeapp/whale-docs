@@ -7,6 +7,8 @@ sidebar_position: 0
 
 # 客户管理系统（CRM)
 
+## 系統設計
+
 Whale CRM 客戶管理系統是以全新整合角度，方便劵商客務團隊來管理服務劵商客戶，包括：
 
 **客戶生命週期管理**、**客戶 ****KYC**** 資料審核**及**帳戶風險管理**** **等。
@@ -20,11 +22,29 @@ Whale CRM 系統能夠解決以下問題：
 
 同時在核心開戶業務上，Whale CRM 系統的設計中，是將開戶業務三種前中後環結同步在一起，對開戶活動作全方位管理：
 
-- 開戶前：從注冊用戶至有效戶的推動進程管理 (CRM 管理)
-- 開戶中：開戶資料提交後 KYC 審核流程 (KYC 流程)
+- 開戶前: 從注冊用戶至有效戶的推動進程管理 (CRM 管理)
+- 開戶中: 開戶資料提交後 KYC 審核流程 (KYC 流程)
 - 開戶後 :開戶後帳戶安全的工單管理 (帳戶管理)
 
 Whale CRM 的整体業務流如下图所示：
 
 <img src="/assets/AmXab5vHuo57Stx4eY5c28BYnh3.jpeg" src-width="1819" src-height="965" align="center"/>
+
+## 首頁Dashboard
+
+在 CRM 首頁上 ，增加工作流節點數量統計與提供摘要性的 Dashboard ，可以點選進入該作業區，方便快速操作
+
+<img src="/assets/IrWGb3mGuoHpdmxINWmcQnuxnyg.png" src-width="2494" src-height="1508" align="center"/>
+
+系統提供 一段區間的 開戶平均耗時與近期開戶成功統計率作為參考 （系統會自動計算）
+
+<img src="/assets/Hcutbz674o6HAmxnRYCcgoQ3nGc.png" src-width="1660" src-height="400" align="center"/>
+
+同時在首頁中右區域提供 CRM 相關常見操作頻率較高的作業快捷入口，方便點選操作
+
+<img src="/assets/ZCe1biDyYoPUIbxlH6PcEAtznRe.png" src-width="2462" src-height="394" align="center"/>
+
+在系統首頁的右下區域也提供更新日誌，可以點選查閱系統更新功能說明
+
+<img src="/assets/ZtLKbeXszoXYR1xDJZCcFr6VnKf.png" src-width="2492" src-height="716" align="center"/>
 

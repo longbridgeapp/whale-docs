@@ -27,7 +27,7 @@ sidebar_position: 3
 
 可在證券組合費頁面查詢每個客戶的證券組合費收費詳情
 
-注意：日切期間（第一次擊數據匯總後 - 日終流暢點完日切）不能操作利息調整
+注意：日切期間（第一次擊數據匯總後-日終流暢點完日切）不能操作利息調整
 
 點擊調整可調整證券組合費
 
@@ -37,7 +37,7 @@ sidebar_position: 3
 
 <img src="/assets/PIbMbYbjuo9Mc2xp3KucV5bInab.png" src-width="2928" src-height="1558" align="center"/>
 
-按結果調整，實質還是按發生額調整（新增冻结=輸入結果 - 已有的數值），不能重複提交
+按結果調整，實質還是按發生額調整（新增冻结=輸入結果-已有的數值），不能重複提交
 
 <img src="/assets/EQMNbyieVoCRz9xdhaJc8E1MnGh.png" src-width="2916" src-height="1544" align="center"/>
 
@@ -53,7 +53,7 @@ sidebar_position: 3
 
 ### 提前结算
 
-注意：日切期間（第一次擊數據匯總後 - 日終流暢點完日切）不能操作提前結算
+注意：日切期間（第一次擊數據匯總後-日終流暢點完日切）不能操作提前結算
 
 篩選客戶，點擊提前結算
 

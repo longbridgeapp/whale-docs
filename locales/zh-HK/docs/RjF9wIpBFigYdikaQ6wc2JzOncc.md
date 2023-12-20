@@ -17,7 +17,9 @@ sidebar_position: 3
 
 ## 操作說明
 
-菜單入口：KYC&gt; AML 監查後台（TESS）
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：KYC&gt; AML 監查後台（TESS）</p>
+</div>
 
 本作業可以查看全部有 TESS 調用記錄的客戶的監控狀態和待處理警報
 

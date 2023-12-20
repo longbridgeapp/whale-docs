@@ -31,7 +31,7 @@ sidebar_position: 2
 
 ### **新增分成套餐**
 
-可以在右上角，點擊【新增】，新增一筆分成佣金套餐
+可以在右上角， 點擊【新增】，新增一筆分成佣金套餐
 
 <img src="/assets/FavebviC0ot26nxBMWdc6pCwnNg.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -45,9 +45,9 @@ sidebar_position: 2
 
 字段說明
 
-計費方式：決定用佣金（OR 交易金額）*費率算分傭金額
+計費方式：決定用佣金（OR交易金額）*費率算分傭金額
 
-階梯統計基準：決定用佣金（OR 交易金額）進行階梯的劃分
+階梯統計基準：決定用佣金（OR交易金額）進行階梯的劃分
 
 跨階梯處理方式：決定將統計基準統一用一個費率計算 OR 拆分成多端計算
 
@@ -55,19 +55,19 @@ sidebar_position: 2
 
 <img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png" src-width="3584" src-height="1738" align="center"/>
 
-案例 1：按佣金總額的 1% 設置分成套餐，最低收費 2HKD，最高收費 50HKD
+案例1：按佣金總額的1%設置分成套餐，最低收費2HKD，最高收費50HKD
 
 <img src="/assets/AYxbbml32osJQTxT9TxcFkr0nOf.png" src-width="3584" src-height="1738" align="center"/>
 
-案例 2：按照單筆合約的交易金額進行階梯分傭，將交易金額拆分到每個階梯分別算
+案例2：按照單筆合約的交易金額進行階梯分傭，將交易金額拆分到每個階梯分別算
 
-交易金額為 5000 的，1000 按第一個階梯計費，4000（5000-1000）按第二個階梯計費
+交易金額為5000的，1000按第一個階梯計費，4000（5000-1000）按第二個階梯計費
 
 <img src="/assets/VdHkbj0z5oPkmAxBoMscVDN6n3b.png" src-width="3584" src-height="1738" align="center"/>
 
-案例 3：按照單筆合約的交易金額進行階梯分傭，交易金額在哪一個階梯，統一用哪個階梯計費
+案例3：按照單筆合約的交易金額進行階梯分傭，交易金額在哪一個階梯，統一用哪個階梯計費
 
-交易金額為 5000 的，統一按第二個階梯計費
+交易金額為5000的，統一按第二個階梯計費
 
 <img src="/assets/Axn9b1g6Ao7QXhxqeShcm6panJg.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -95,7 +95,7 @@ sidebar_position: 2
 
 <img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png" src-width="3584" src-height="1738" align="center"/>
 
-查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件，支持日/月/年的週期報表查詢（报表管理 - 佣金报表），點擊【導出】可將查詢的資料導出
+查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件， 支持日/月/年的週期報表查詢（报表管理-佣金报表），點擊【導出】可將查詢的資料導出
 
 <img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png" src-width="3584" src-height="1738" align="center"/>
 

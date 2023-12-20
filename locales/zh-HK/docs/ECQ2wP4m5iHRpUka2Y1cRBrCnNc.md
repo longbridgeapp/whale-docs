@@ -20,7 +20,9 @@ sidebar_position: 1
 
 ## 操作说明
 
-菜單入口：資產帳戶&gt;調帳&gt; 臨時調帳
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：資產帳戶&gt;調帳&gt; 臨時調帳</p>
+</div>
 
 <div class="callout callout-bg-2 callout-border-2">
 <p>📌 1204 版本交互设计优化，发布后补充</p>

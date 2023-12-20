@@ -41,7 +41,7 @@ sidebar_position: 0
 
 <img src="/assets/I9s0bb9kcoFmRvxdS5hclLGZnSf.png" src-width="3240" src-height="1066" align="center"/>
 
-此時可以選擇現有標籤（支持多個標籤同時存在）或 重新 新建一個 標籤
+此時可以選擇現有標籤（支持多個標籤同時存在） 或 重新 新建一個 標籤
 
 <img src="/assets/V1dibfVpFoVOnIxzQVRc2qpanvb.png" src-width="2340" src-height="968" align="center"/>
 
@@ -105,11 +105,11 @@ sidebar_position: 0
 
 導出功能可以選擇導出的檔案類型
 
-· CSV 默認支持：按頁面列表展示的列欄位導出
+· CSV 默認支持 ：按頁面列表展示的列欄位導出
 
-· PDF 配置支持：按定義的列印模板欄位導出，支持分組總計以及報表組合
+· PDF 配置支持 ：按定義的列印模板欄位導出，支持分組總計以及報表組合
 
-· EXCEL 配置支持：按定義的列印模板欄位導出，支持分組總計以及報表組合
+· EXCEL 配置支持： 按定義的列印模板欄位導出，支持分組總計以及報表組合
 
 點擊後會會自動產生一個報表導出任務，後續可以在導出列表頁面查看進度並作下載操作
 

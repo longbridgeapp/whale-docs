@@ -1,7 +1,7 @@
 ---
 title: 凍結/解凍
 slug: xxxxxx
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 
