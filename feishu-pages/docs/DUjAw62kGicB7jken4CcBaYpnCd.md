@@ -1,11 +1,11 @@
 ---
-title: 配置 - 參與者管理
+title: 配置-參與者管理
 slug: bcanmaguanli
 sidebar_position: 2
 ---
 
 
-# 配置 - 參與者管理
+# 配置-參與者管理
 
 ## 適用場景
 
@@ -17,7 +17,9 @@ sidebar_position: 2
 
 ## 操作說明
 
-菜單入口：帳戶管理&gt;BCAN 管理
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：帳戶管理&gt;BCAN 管理</p>
+</div>
 
 ### 參與者管理
 
@@ -25,7 +27,7 @@ sidebar_position: 2
 
 <img src="/assets/Q7qdbaOgUoKwKAx7AuDcPmX2nTp.png" src-width="3132" src-height="1046" align="center"/>
 
-點選右方上側【新建參與者】，建一筆新的參與者信息
+點選右方上側【新建參與者】， 建一筆新的參與者信息
 
 <img src="/assets/RcElbLLhRoeES5x4wmWc4PdZnwc.png" src-width="3248" src-height="1630" align="center"/>
 

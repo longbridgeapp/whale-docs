@@ -51,11 +51,11 @@ sidebar_position: 1
 
 【下架】：是指将基金 将无法在系统交易
 
-【显示】：是指基金可在 App 端展示、搜索和交易 
+【显示】：是指基金可在 APP 端展示、搜索和交易 
 
-【隐藏】：是指基金在 App 端不展示、不可搜索
+【隐藏】：是指基金在 APP 端不展示、不可搜索
 
-**App 端展示效果**：  （如果一个 公募基金是 '上架' 且 '显示' 的 状况下）
+**APP 端展示效果**：  （如果一个 公募基金是 '上架' 且 '显示' 的 状况下）
 
 <img src="/assets/JB59bGPbCoOxlbxSsDHcSatZnNd.png" src-width="696" src-height="1206" align="center"/>
 
@@ -85,7 +85,7 @@ sidebar_position: 1
 
 <img src="/assets/HflIbP5n1oc1B9xpxDocUwBRnkU.png" src-width="2990" src-height="1776" align="center"/>
 
-**App 端展示效果**： （当新建基金公司后）
+**APP 端展示效果**： （当新建基金公司后）
 
 <div class="grid gap-3 grid-cols-2">
 <div>

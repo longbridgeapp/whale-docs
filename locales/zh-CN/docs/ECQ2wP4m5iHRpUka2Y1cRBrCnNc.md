@@ -20,7 +20,9 @@ sidebar_position: 1
 
 ## 操作说明
 
-菜单入口：资产帐户&gt;调帐&gt; 临时调帐
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜单入口：资产帐户&gt;调帐&gt; 临时调帐</p>
+</div>
 
 <div class="callout callout-bg-2 callout-border-2">
 <p>📌 1204 版本交互设计优化，发布后补充</p>

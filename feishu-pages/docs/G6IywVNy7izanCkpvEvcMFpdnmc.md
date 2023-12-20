@@ -30,7 +30,7 @@ sidebar_position: 2
 1. 规则配置
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>📌 1204 版本有迭代，待上线后更新</p>
+<p>📌 1204版本有迭代，待上线后更新</p>
 </div>
 
 ### 歷史記錄

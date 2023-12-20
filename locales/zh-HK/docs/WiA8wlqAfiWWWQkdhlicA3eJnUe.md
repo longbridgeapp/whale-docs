@@ -1,7 +1,7 @@
 ---
 title: 賬戶管理
-slug: WiA8wlqAfiWWWQkdhlicA3eJnUe
-sidebar_position: 3
+slug: account
+sidebar_position: 2
 ---
 
 

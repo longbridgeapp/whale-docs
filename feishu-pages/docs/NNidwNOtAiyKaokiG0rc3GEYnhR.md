@@ -31,7 +31,7 @@ sidebar_position: 0
 
 <img src="/assets/LenTbnvd5ooT09x3fo3c4sVen6d.png" src-width="2440" src-height="934" align="center"/>
 
-新建多個分組後，可以點選右上方區‘執行順序設置'來 調整
+新建多個分組後，可以點選右上方區 ‘執行順序設置'來 調整
 
 <img src="/assets/HsrqbKZ7Pobgibx4uThcxBE0nNc.png" src-width="2436" src-height="888" align="center"/>
 

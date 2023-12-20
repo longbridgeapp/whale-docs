@@ -17,7 +17,9 @@ sidebar_position: 3
 
 ## 操作说明
 
-菜单入口：客户管理系统&gt;CRM&gt;今日完成
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜单入口：客户管理系统&gt;CRM&gt;今日完成</p>
+</div>
 
 主要展示客户进展、每日跟进、我的日报三个维度的信息。
 

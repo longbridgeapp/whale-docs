@@ -17,7 +17,9 @@ sidebar_position: 4
 
 ## 操作说明
 
-菜單入口：客戶管理系統&gt;CRM&gt;客戶經理
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：客戶管理系統&gt;CRM&gt;客戶經理</p>
+</div>
 
 本作業可以維護管理 CRM 相關客務團隊職務人員，包括客戶經理的增刪改查、二維碼、離職等信息
 
