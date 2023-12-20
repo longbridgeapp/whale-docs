@@ -1,15 +1,15 @@
 ---
-title: 場景 - 紅股紅利
+title: 場景-紅股紅利
 slug: xxxxxxxxx
 sidebar_position: 6
 ---
 
 
-# 場景 - 紅股紅利
+# 場景-紅股紅利
 
 ## 適用場景
 
-操作紅股紅利 (BE 類) 的公司行動權益
+操作紅股紅利(BE類)的公司行動權益
 
 ## 前置條件
 
@@ -70,7 +70,7 @@ sidebar_position: 6
 
 <img src="/assets/KqHAbBJOJoLcrjxDtNJcVYD3n5g.png" src-width="2918" src-height="1546" align="center"/>
 
-在客戶明細 - 詳情內可以分別對費用和權益金額進行調整
+在客戶明細-詳情內可以分別對費用和權益金額進行調整
 
 <img src="/assets/VEddbH17jodsgrxcnoZc9vaknbg.png" src-width="2916" src-height="1540" align="center"/>
 

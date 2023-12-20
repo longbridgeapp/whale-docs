@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ## 適用場景
 
-本場景是可以查看全部 TESS 的命中記錄，用於開戶相關的風險審查
+本場景是可以查看全部TESS的命中記錄，用於開戶相關的風險審查
 
 ## 前置条件
 
@@ -17,11 +17,13 @@ sidebar_position: 3
 
 ## 操作說明
 
-菜單入口：KYC&gt; AML 監查後台（TESS）
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：KYC&gt; AML 監查後台（TESS）</p>
+</div>
 
 本作業可以查看全部有 TESS 調用記錄的客戶的監控狀態和待處理警報
 
-注意：未命中的客戶紀錄，將不會在此展示
+注意： 未命中的客戶紀錄，將不會在此展示
 
 <img src="/assets/P86Gb51eVoQeEfxqzfQcJcvDnKr.png" src-width="3224" src-height="1618" align="center"/>
 

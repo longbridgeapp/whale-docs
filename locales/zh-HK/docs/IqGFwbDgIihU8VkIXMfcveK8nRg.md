@@ -44,7 +44,7 @@ sidebar_position: 8
 
 ### **客戶選擇** 
 
-過戶完成後，點擊【指令收集】。操作後，系統會發送消息通知（APP+客戶端）客戶。在選擇開始日期後到內部選擇結束日期之間，客戶可以在 App 上進行選股選息
+過戶完成後，點擊【指令收集】。操作後，系統會發送消息通知（APP+客戶端）客戶。在選擇開始日期後到內部選擇結束日期之間，客戶可以在 APP 上進行選股選息
 
 <img src="/assets/NqwobZYwso02hsxrUlpcA3hentd.png" src-width="2902" src-height="1552" align="center"/>
 

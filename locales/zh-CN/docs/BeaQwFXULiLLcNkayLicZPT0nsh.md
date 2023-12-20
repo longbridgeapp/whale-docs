@@ -21,7 +21,7 @@ sidebar_position: 0
 
 执行菜单：基金管理&gt; 公募基金&gt;客户订单 Tab 页签
 
-在本作业可以查询到前台 App 端的公募基金订单纪录，  可以看到基金订单的申购/赎的状态
+在本作业可以查询到前台 APP 端的公募基金订单纪录，  可以看到基金订单的申购/赎的状态
 
 <img src="/assets/MMrpbLsIboM1w8x9UovclZIUnje.png" src-width="2986" src-height="1742" align="center"/>
 

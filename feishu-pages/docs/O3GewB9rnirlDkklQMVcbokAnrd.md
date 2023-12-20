@@ -17,7 +17,9 @@ sidebar_position: 1
 
 ## 操作说明
 
-菜單入口：客戶管理系統&gt;CRM&gt;看板
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：客戶管理系統&gt;CRM&gt;看板</p>
+</div>
 
 以 Dash-board 的方式展現成為有效客戶前的幾個重要節點匯總數據，如注冊、待開戶、待入金、已入金
 

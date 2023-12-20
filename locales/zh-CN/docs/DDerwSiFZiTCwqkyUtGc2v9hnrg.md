@@ -17,7 +17,9 @@ sidebar_position: 0
 
 ## 操作说明
 
- 菜单入口：KYC&gt;开户列表 
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓  菜单入口：KYC&gt;开户列表 </p>
+</div>
 
  以完整的 Dash-Board 方式来整理 KYC 状态纪录展示，方便开户人员能快速定位到各种状态，方便后续操作处理
 
@@ -51,7 +53,7 @@ TESS 服务展示：
 
 <img src="/assets/KkKObl0mHoOfcaxReKecCXrbnif.png" src-width="3244" src-height="1600" align="center"/>
 
-- 搜索客户组件，增加展示联系手机号、联系邮箱、App 帐号（用于用户登录 APP）
+- 搜索客户组件，增加展示联系手机号、联系邮箱、APP 帐号（用于用户登录 APP）
 
 <img src="/assets/NgetbsaQQoQDgbxzgFfcsAf1nlc.png" src-width="1112" src-height="802"/>
 

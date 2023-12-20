@@ -65,7 +65,7 @@ sidebar_position: 1
 
 <img src="/assets/RmI4bYDYIocBftxKroOcWNSRnpx.png" src-width="2336" src-height="1248" align="center"/>
 
-若批量導出執行後，可以在導出列表作業上查看，也可以將文件夾整個下載操作
+若批量導出執行後，可以在導出列表作業上查看 ，也可以將文件夾整個下載操作
 
 <img src="/assets/VeTIbTrEWoi97xxfj1PcUBFqnsh.png" src-width="2832" src-height="834" align="center"/>
 

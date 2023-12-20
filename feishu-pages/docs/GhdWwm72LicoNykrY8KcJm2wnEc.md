@@ -13,7 +13,7 @@ sidebar_position: 1
 
 <img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920"/>
 
-在整體架構上，活動系統的管理就是完成整個 OPA 運營系統中的核心活動管理，透過活動模板配置，協助劵商租戶完成多場景/多營銷面向的活動管理
+在整體架構上，活動系統的管理就是完成整個 OPA 運營系統中的核心活動管理，透過活動模板配置 ，協助劵商租戶完成多場景/多營銷面向的活動管理
 
 <img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818"/>
 
@@ -47,7 +47,7 @@ sidebar_position: 1
 
 執行菜單：運營系統&gt; 活動系統&gt;標準活動管理
 
-首先查活動配置是否正確，點擊對應活動後方詳情進入查看活動規則配置，確認配置的對應規則和獎勵是否正確？
+首先查活動配置是否正確，點擊對應活動後方詳情進入查看活動規則配置，確認配置的對應規則和獎勵是否正確 ？
 
 <img src="/assets/XJ46bd9a8oSyrkx6Th0csAWEnoe.png" src-width="3228" src-height="1502" align="center"/>
 

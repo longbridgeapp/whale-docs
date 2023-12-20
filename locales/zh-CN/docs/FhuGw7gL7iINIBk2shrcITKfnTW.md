@@ -7,6 +7,8 @@ sidebar_position: 0
 
 # 客户管理系统（CRM)
 
+## 系统设计
+
 Whale CRM 客户管理系统是以全新整合角度，方便劵商客务团队来管理服务劵商客户，包括：
 
 **客户生命周期管理**、**客户 ****KYC**** 资料审核**及**帐户风险管理**** **等。
@@ -27,4 +29,22 @@ Whale CRM 系统能够解决以下问题：
 Whale CRM 的整体业务流如下图所示：
 
 <img src="/assets/AmXab5vHuo57Stx4eY5c28BYnh3.jpeg" src-width="1819" src-height="965" align="center"/>
+
+## 首页 Dashboard
+
+在 CRM 首页上，增加工作流节点数量统计与提供摘要性的 Dashboard，可以点选进入该作业区，方便快速操作
+
+<img src="/assets/IrWGb3mGuoHpdmxINWmcQnuxnyg.png" src-width="2494" src-height="1508" align="center"/>
+
+系统提供 一段区间的 开户平均耗时与近期开户成功统计率作为参考（系统会自动计算）
+
+<img src="/assets/Hcutbz674o6HAmxnRYCcgoQ3nGc.png" src-width="1660" src-height="400" align="center"/>
+
+同时在首页中右区域提供 CRM 相关常见操作频率较高的作业快捷入口，方便点选操作
+
+<img src="/assets/ZCe1biDyYoPUIbxlH6PcEAtznRe.png" src-width="2462" src-height="394" align="center"/>
+
+在系统首页的右下区域也提供更新日志，可以点选查阅系统更新功能说明
+
+<img src="/assets/ZtLKbeXszoXYR1xDJZCcFr6VnKf.png" src-width="2492" src-height="716" align="center"/>
 

@@ -16,7 +16,7 @@ sidebar_position: 2
 - 註銷客戶或賬戶
 - 解凍客戶或賬戶
 - 解鎖或重置密碼
-- 修改登錄 App 或交易通道
+- 修改登錄App或交易通道
 - 客戶反饋
 
 ## 前置条件
@@ -25,13 +25,15 @@ sidebar_position: 2
 
 ## 操作說明
 
-菜單入口：帳戶管理&gt;工單中心
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：帳戶管理&gt;工單中心</p>
+</div>
 
 本作業可以管理帳戶（或用戶）的安全管理事項，可以在對應 Tab 頁籤上作出凍結/解鎖/ 注銷的帳戶操作
 
 <img src="/assets/YQCqbGyIQooFaIx3RBPcuG0Rndc.png" src-width="3244" src-height="1588" align="center"/>
 
-也可以點選【新建工單】，建一筆新的工單信息
+也可以點選【新建工單】， 建一筆新的工單信息
 
 <img src="/assets/M0f7b6rfIoeHSuxTNnocNH8An8e.png" src-width="3486" src-height="914" align="center"/>
 

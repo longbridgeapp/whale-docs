@@ -121,7 +121,7 @@ sidebar_position: 3
 
 <img src="/assets/EUKeb9UQ9oYEtaxkgPJcDyvpnxc.png" src-width="3410" src-height="1472" align="center"/>
 
-此时可以操作‘指令收集'。在选择开始时间 到结算时间，对相关客户发送选择通知（透过 App 或 mail  讯息）
+此时可以操作‘指令收集'。在选择开始时间 到结算时间，对相关客户发送选择通知（透过 APP 或 mail  讯息）
 
 参考通知范例：
 

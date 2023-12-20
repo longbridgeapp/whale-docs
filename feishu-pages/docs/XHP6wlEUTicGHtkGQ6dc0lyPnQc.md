@@ -15,7 +15,7 @@ Whale 系統預設是線上發送結單
 
 產生臨時結單
 
-線下配置客戶結單發送方式操作如下：
+線下配置客戶結單發送方式操作如下:
 
 ## 前置條件
 
@@ -30,7 +30,7 @@ Whale 系統預設是線上發送結單
 本作業可以處理帳務日期的已經產生的結單查詢和發送
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 系統支持在日切步驟匯總進行結單自動發送，但須事先配置，請聯絡 Whale 客服</p>
+<p>💡 系統支持在日切步驟匯總進行結單自動發送,但須事先配置,請聯絡Whale 客服</p>
 </div>
 
 <img src="/assets/YjXLb40nrorBAGxR3efcticInUd.png" src-width="3364" src-height="1452" align="center"/>
@@ -51,7 +51,7 @@ Whale 系統預設是線上發送結單
 
 菜單入口：清算管理&gt; 日終管理&gt;結單管理&gt;結單模板 
 
-本作業可以管理結單標準格式的配置，包含 公司訊息/聯絡方式/責任說明（以下為參考）
+本作業可以管理結單標準格式的配置，包含 公司訊息/聯絡方式/責任說明 （以下為參考）
 
 <img src="/assets/AKc5bNxT5ocivxxDVWhc3CoznUe.png" src-width="2484" src-height="1468" align="center"/>
 
@@ -67,7 +67,7 @@ Whale 系統預設是線上發送結單
 
 ### 結單配置
 
-本作業用來配置管理：客戶結單是否線下發送/是否接受郵件和 App 通知/未配置的按線下發送為否/提醒全部開啟處理 等配置項
+本作業用來配置管理：客戶結單是否線下發送/是否接受郵件和 APP 通知/未配置的按線下發送為否/提醒全部開啟處理 等配置項
 
 <img src="/assets/UU0LbjWDKo9NYLx954Yckytnnpd.png" src-width="3336" src-height="1400" align="center"/>
 

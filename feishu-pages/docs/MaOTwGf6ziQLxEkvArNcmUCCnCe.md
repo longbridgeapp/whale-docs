@@ -27,7 +27,7 @@ sidebar_position: 1
 
 <img src="/assets/IpAebfK9UouXJoxyuMecXaI4nSj.png" src-width="2914" src-height="1528" align="center"/>
 
-可通過列表區域的狀態字段關注 文檔導入和解析狀態，解析成功才算處理完成
+可通過列表區域的狀態字段關注 文檔導入和解析狀態， 解析成功才算處理完成
 
 <img src="/assets/GJ2QblFc0oEwl2xTiCDcJgJcnwc.png" src-width="3334" src-height="1454" align="center"/>
 

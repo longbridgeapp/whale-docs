@@ -109,26 +109,9 @@
             "node_token": "FhuGw7gL7iINIBk2shrcITKfnTW",
             "parent_node_token": "DokowCMGEirZERkadBacb92EnAh",
             "obj_create_time": "1697795089",
-            "obj_edit_time": "1702466420",
+            "obj_edit_time": "1702882453",
             "obj_token": "ZcWRdJwwVoapwbxKpNMcteS8nmb",
             "children": [
-              {
-                "depth": 3,
-                "title": "Dashboard",
-                "node_token": "PmuswGYPMiZIAnkYdpicmqAanyd",
-                "parent_node_token": "FhuGw7gL7iINIBk2shrcITKfnTW",
-                "obj_create_time": "1697795118",
-                "obj_edit_time": "1701068434",
-                "obj_token": "V9tAdtYwwoZSKPxHrKHcqwXVnwh",
-                "children": [],
-                "has_child": false,
-                "meta": {
-                  "slug": "dashboard"
-                },
-                "slug": "PmuswGYPMiZIAnkYdpicmqAanyd",
-                "position": 0,
-                "filename": "PmuswGYPMiZIAnkYdpicmqAanyd.md"
-              },
               {
                 "depth": 3,
                 "title": "CRM",
@@ -144,7 +127,7 @@
                     "node_token": "OtSqwsks9iRZbjkQFsPcdRBGnkf",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1698205519",
-                    "obj_edit_time": "1701068501",
+                    "obj_edit_time": "1702538137",
                     "obj_token": "Wb4Xd3MFUoju4lxMqzMcmCB9nSg",
                     "children": [],
                     "has_child": false,
@@ -161,7 +144,7 @@
                     "node_token": "O3GewB9rnirlDkklQMVcbokAnrd",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697510713",
-                    "obj_edit_time": "1700553270",
+                    "obj_edit_time": "1702538145",
                     "obj_token": "JblqdY44hoGkXuxFtB6cnsZdnMh",
                     "children": [],
                     "has_child": false,
@@ -178,7 +161,7 @@
                     "node_token": "EDUKwFCOtihmzakVPqVcGJvunVe",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511710",
-                    "obj_edit_time": "1700553297",
+                    "obj_edit_time": "1702538150",
                     "obj_token": "W0SpdroJ2oY0jrxI6rXch9Wrnpb",
                     "children": [],
                     "has_child": false,
@@ -195,7 +178,7 @@
                     "node_token": "EwYBwfhkJiOBI1k56ylcD2DanqB",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511719",
-                    "obj_edit_time": "1701068730",
+                    "obj_edit_time": "1702538155",
                     "obj_token": "KCntdTJ7IoRasjxwR7WcrX7dnGd",
                     "children": [],
                     "has_child": false,
@@ -212,7 +195,7 @@
                     "node_token": "Heqjw9lwgi8ATikba54cEe5Enee",
                     "parent_node_token": "XBQhw94Hligs8tkR4nlckbdKnDc",
                     "obj_create_time": "1697511737",
-                    "obj_edit_time": "1700444717",
+                    "obj_edit_time": "1702538163",
                     "obj_token": "Gq4ndTKksoFXqIxGe67cowTHndc",
                     "children": [],
                     "has_child": false,
@@ -229,7 +212,7 @@
                   "slug": "clients"
                 },
                 "slug": "XBQhw94Hligs8tkR4nlckbdKnDc",
-                "position": 1,
+                "position": 0,
                 "filename": "XBQhw94Hligs8tkR4nlckbdKnDc.md"
               },
               {
@@ -247,7 +230,7 @@
                     "node_token": "DDerwSiFZiTCwqkyUtGc2v9hnrg",
                     "parent_node_token": "W1rBwke4tiwflqk90bDc9OFAnyb",
                     "obj_create_time": "1698205785",
-                    "obj_edit_time": "1700617824",
+                    "obj_edit_time": "1702538169",
                     "obj_token": "ClSydQmlVoIJdwxcGPHcRHdBngK",
                     "children": [],
                     "has_child": false,
@@ -264,79 +247,10 @@
                     "node_token": "AD3dwJzzTi4eDakMY7dcYTK1ngb",
                     "parent_node_token": "W1rBwke4tiwflqk90bDc9OFAnyb",
                     "obj_create_time": "1697795561",
-                    "obj_edit_time": "1700812862",
+                    "obj_edit_time": "1702881679",
                     "obj_token": "LL6udkZ7wolV68xIsBYcJXqVnbg",
-                    "children": [
-                      {
-                        "depth": 5,
-                        "title": "全新錄入新開戶申請",
-                        "node_token": "Zf04wsxRvidPbAk1BhgcvOVZnjf",
-                        "parent_node_token": "AD3dwJzzTi4eDakMY7dcYTK1ngb",
-                        "obj_create_time": "1697795610",
-                        "obj_edit_time": "1700812931",
-                        "obj_token": "O4v2dJTCIoEpPmxwLLWcAdS1nNg",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "open-new-account"
-                        },
-                        "slug": "Zf04wsxRvidPbAk1BhgcvOVZnjf",
-                        "position": 0,
-                        "filename": "Zf04wsxRvidPbAk1BhgcvOVZnjf.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "多開通證券帳户申請",
-                        "node_token": "QZfIweqitiiPf8kQ6CTcDtqhn9G",
-                        "parent_node_token": "AD3dwJzzTi4eDakMY7dcYTK1ngb",
-                        "obj_create_time": "1697515089",
-                        "obj_edit_time": "1700812978",
-                        "obj_token": "Ax1adXsgOon98bxNe7Dco02RnWh",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "open-new-account-zhengquanzhanghu"
-                        },
-                        "slug": "QZfIweqitiiPf8kQ6CTcDtqhn9G",
-                        "position": 1,
-                        "filename": "QZfIweqitiiPf8kQ6CTcDtqhn9G.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "多開通證券子帳户申请",
-                        "node_token": "XPZVwYzhoi19Mnk5dQ8cucQ5nIc",
-                        "parent_node_token": "AD3dwJzzTi4eDakMY7dcYTK1ngb",
-                        "obj_create_time": "1697515115",
-                        "obj_edit_time": "1700813008",
-                        "obj_token": "C8GKdlctho9zi4xRbtacFKoqnCb",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "open-new-account-zhengquanzizhanghu"
-                        },
-                        "slug": "XPZVwYzhoi19Mnk5dQ8cucQ5nIc",
-                        "position": 2,
-                        "filename": "XPZVwYzhoi19Mnk5dQ8cucQ5nIc.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "批量修改證劵帳户",
-                        "node_token": "Ofpowlv0xi5ecBk3s3cci46YnJb",
-                        "parent_node_token": "AD3dwJzzTi4eDakMY7dcYTK1ngb",
-                        "obj_create_time": "1697515203",
-                        "obj_edit_time": "1700620618",
-                        "obj_token": "XasjdPKB3oP5rhxPtn7c9dlGnAh",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "piliangxiugaizhengquanzhenghu"
-                        },
-                        "slug": "Ofpowlv0xi5ecBk3s3cci46YnJb",
-                        "position": 3,
-                        "filename": "Ofpowlv0xi5ecBk3s3cci46YnJb.md"
-                      }
-                    ],
-                    "has_child": true,
+                    "children": [],
+                    "has_child": false,
                     "meta": {
                       "slug": "open-account"
                     },
@@ -350,7 +264,7 @@
                     "node_token": "RfWUwBqNjiuGfZkNtxocUIUensf",
                     "parent_node_token": "W1rBwke4tiwflqk90bDc9OFAnyb",
                     "obj_create_time": "1698205925",
-                    "obj_edit_time": "1700813096",
+                    "obj_edit_time": "1702538224",
                     "obj_token": "EIIXdLJR0oNrX0xlPoScJwrHnpe",
                     "children": [],
                     "has_child": false,
@@ -367,7 +281,7 @@
                     "node_token": "RjF9wIpBFigYdikaQ6wc2JzOncc",
                     "parent_node_token": "W1rBwke4tiwflqk90bDc9OFAnyb",
                     "obj_create_time": "1698205989",
-                    "obj_edit_time": "1700813105",
+                    "obj_edit_time": "1702538230",
                     "obj_token": "AO04d9dYAouygpxwIdDcjM3MnDh",
                     "children": [],
                     "has_child": false,
@@ -384,7 +298,7 @@
                     "node_token": "LbYZwsV2kiCtKykYE3Zc405lnC4",
                     "parent_node_token": "W1rBwke4tiwflqk90bDc9OFAnyb",
                     "obj_create_time": "1698206014",
-                    "obj_edit_time": "1700620690",
+                    "obj_edit_time": "1702538235",
                     "obj_token": "RLvLdU07Qoun3kxxu6ocbsd7n9L",
                     "children": [],
                     "has_child": false,
@@ -401,7 +315,7 @@
                   "slug": "kyc"
                 },
                 "slug": "W1rBwke4tiwflqk90bDc9OFAnyb",
-                "position": 2,
+                "position": 1,
                 "filename": "W1rBwke4tiwflqk90bDc9OFAnyb.md"
               },
               {
@@ -410,7 +324,7 @@
                 "node_token": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
                 "parent_node_token": "FhuGw7gL7iINIBk2shrcITKfnTW",
                 "obj_create_time": "1697191437",
-                "obj_edit_time": "1701068224",
+                "obj_edit_time": "1702865813",
                 "obj_token": "VXIWdHvTAoeih3xRGGqcMqQenEc",
                 "children": [
                   {
@@ -419,7 +333,7 @@
                     "node_token": "We87wgaFziXrOUkAPMQcFNQlnPf",
                     "parent_node_token": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
                     "obj_create_time": "1698206301",
-                    "obj_edit_time": "1700813180",
+                    "obj_edit_time": "1702538246",
                     "obj_token": "QTpFd1giHoHkiPxzCFUczkpunRe",
                     "children": [],
                     "has_child": false,
@@ -436,7 +350,7 @@
                     "node_token": "MrZhwF5qbiou8akMvNect8bSn6f",
                     "parent_node_token": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
                     "obj_create_time": "1698206362",
-                    "obj_edit_time": "1700813399",
+                    "obj_edit_time": "1702538253",
                     "obj_token": "Oj47degnforNRsxYkrUcll4SnI5",
                     "children": [
                       {
@@ -445,7 +359,7 @@
                         "node_token": "T8IiwGsqdih0XDkLsfFc3hNcnqf",
                         "parent_node_token": "MrZhwF5qbiou8akMvNect8bSn6f",
                         "obj_create_time": "1700471354",
-                        "obj_edit_time": "1700472179",
+                        "obj_edit_time": "1702538258",
                         "obj_token": "EXJfd9FaFocVvkx6FBEcPofjnDd",
                         "children": [],
                         "has_child": false,
@@ -462,7 +376,7 @@
                         "node_token": "Intlw1TqbijZw2kFGqXcx2ZrnPg",
                         "parent_node_token": "MrZhwF5qbiou8akMvNect8bSn6f",
                         "obj_create_time": "1700471416",
-                        "obj_edit_time": "1701160138",
+                        "obj_edit_time": "1702538265",
                         "obj_token": "PxRTdAl4AoqRDIx5kLLc2Bo5njg",
                         "children": [],
                         "has_child": false,
@@ -475,11 +389,11 @@
                       },
                       {
                         "depth": 5,
-                        "title": "配置 - 參與者管理",
+                        "title": "配置-參與者管理",
                         "node_token": "DUjAw62kGicB7jken4CcBaYpnCd",
                         "parent_node_token": "MrZhwF5qbiou8akMvNect8bSn6f",
                         "obj_create_time": "1700471485",
-                        "obj_edit_time": "1700617720",
+                        "obj_edit_time": "1702538269",
                         "obj_token": "PLr6dMQfBomelgxe8DKchvF9nmd",
                         "children": [],
                         "has_child": false,
@@ -505,7 +419,7 @@
                     "node_token": "TcvMw8QCUi14p5k5KrUcZFsZnzh",
                     "parent_node_token": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
                     "obj_create_time": "1698206416",
-                    "obj_edit_time": "1701160912",
+                    "obj_edit_time": "1702538279",
                     "obj_token": "HPGdd7r1aowGe1xOLwvclSuEn3c",
                     "children": [],
                     "has_child": false,
@@ -522,7 +436,7 @@
                     "node_token": "J1TqwOmxoi0jUvkDzMacB5kWn8b",
                     "parent_node_token": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
                     "obj_create_time": "1698206425",
-                    "obj_edit_time": "1700620839",
+                    "obj_edit_time": "1702538288",
                     "obj_token": "EFUtdZDVdoLl58xAMOFcRrFXnZg",
                     "children": [],
                     "has_child": false,
@@ -535,8 +449,11 @@
                   }
                 ],
                 "has_child": true,
+                "meta": {
+                  "slug": "account"
+                },
                 "slug": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
-                "position": 3,
+                "position": 2,
                 "filename": "WiA8wlqAfiWWWQkdhlicA3eJnUe.md"
               }
             ],
@@ -563,26 +480,9 @@
                 "node_token": "Xd2qwHVugivJ2fkmA0zc7939npb",
                 "parent_node_token": "QQGNwf6t6i3nS9ko0ZTcwb8tnuh",
                 "obj_create_time": "1697191199",
-                "obj_edit_time": "1701079106",
+                "obj_edit_time": "1702883338",
                 "obj_token": "KrFNddDwVoKoErxpvN8cYpADnwe",
                 "children": [
-                  {
-                    "depth": 4,
-                    "title": "名詞釋義",
-                    "node_token": "XsRewvlvNixEuWkvdojc5EUwn7d",
-                    "parent_node_token": "Xd2qwHVugivJ2fkmA0zc7939npb",
-                    "obj_create_time": "1700208156",
-                    "obj_edit_time": "1702466308",
-                    "obj_token": "YL5udzAPaoxlavx4Xp3cfdVAnOh",
-                    "children": [],
-                    "has_child": false,
-                    "meta": {
-                      "slug": "wbo-account-Definition"
-                    },
-                    "slug": "XsRewvlvNixEuWkvdojc5EUwn7d",
-                    "position": 0,
-                    "filename": "XsRewvlvNixEuWkvdojc5EUwn7d.md"
-                  },
                   {
                     "depth": 4,
                     "title": "賬戶",
@@ -598,7 +498,7 @@
                         "node_token": "EbeXwOZTWipDd7kbkVgcL7hynlv",
                         "parent_node_token": "BDNYwtCvKiPkZAkyckhcd4r0nod",
                         "obj_create_time": "1699339638",
-                        "obj_edit_time": "1700817943",
+                        "obj_edit_time": "1702538036",
                         "obj_token": "GlBMdnNFboyvRRxjo92cuZRUnUc",
                         "children": [],
                         "has_child": false,
@@ -612,7 +512,7 @@
                         "node_token": "TB8awx7Q3icTAskWz7XcOT2znuh",
                         "parent_node_token": "BDNYwtCvKiPkZAkyckhcd4r0nod",
                         "obj_create_time": "1699339833",
-                        "obj_edit_time": "1700818047",
+                        "obj_edit_time": "1702538103",
                         "obj_token": "JoJUdFY1Ho4S3Zx9A1ScUbLcnTg",
                         "children": [],
                         "has_child": false,
@@ -629,7 +529,7 @@
                         "node_token": "LjCTwMSsUiaBTGkVfAicQlzenYe",
                         "parent_node_token": "BDNYwtCvKiPkZAkyckhcd4r0nod",
                         "obj_create_time": "1699339847",
-                        "obj_edit_time": "1700818078",
+                        "obj_edit_time": "1702538112",
                         "obj_token": "Dsrod4ogQotXmAxjFyzc6poTnVd",
                         "children": [],
                         "has_child": false,
@@ -646,7 +546,7 @@
                       "slug": "wbo-account-account"
                     },
                     "slug": "BDNYwtCvKiPkZAkyckhcd4r0nod",
-                    "position": 1,
+                    "position": 0,
                     "filename": "BDNYwtCvKiPkZAkyckhcd4r0nod.md"
                   },
                   {
@@ -664,7 +564,7 @@
                         "node_token": "H612wlpsSi3zsqkWAgXcHAVYnIg",
                         "parent_node_token": "C1dxw4hQTi4auakiZJZcQ8TRn1Z",
                         "obj_create_time": "1699339860",
-                        "obj_edit_time": "1700818138",
+                        "obj_edit_time": "1702538401",
                         "obj_token": "HwLzdnWE2o6MPaxztmhcqFjgnR7",
                         "children": [],
                         "has_child": false,
@@ -681,7 +581,7 @@
                         "node_token": "BAsywiC8mi8SFJkUf2Wc3rc8nOg",
                         "parent_node_token": "C1dxw4hQTi4auakiZJZcQ8TRn1Z",
                         "obj_create_time": "1699339873",
-                        "obj_edit_time": "1700818242",
+                        "obj_edit_time": "1702538408",
                         "obj_token": "VEsjdXXPMo4jNuxSctacdgtGnWe",
                         "children": [],
                         "has_child": false,
@@ -698,7 +598,7 @@
                       "slug": "xxxxxx"
                     },
                     "slug": "C1dxw4hQTi4auakiZJZcQ8TRn1Z",
-                    "position": 2,
+                    "position": 1,
                     "filename": "C1dxw4hQTi4auakiZJZcQ8TRn1Z.md"
                   },
                   {
@@ -716,7 +616,7 @@
                         "node_token": "VulVwMwOKi6bP5ksxykcDPc9nBd",
                         "parent_node_token": "WwImwSshGikOLfkpbkzcNMprnVh",
                         "obj_create_time": "1699339896",
-                        "obj_edit_time": "1700818305",
+                        "obj_edit_time": "1702538420",
                         "obj_token": "FlnDdrYFNo0j5UxTpm6ckLmjnEh",
                         "children": [],
                         "has_child": false,
@@ -733,7 +633,7 @@
                         "node_token": "ECQ2wP4m5iHRpUka2Y1cRBrCnNc",
                         "parent_node_token": "WwImwSshGikOLfkpbkzcNMprnVh",
                         "obj_create_time": "1699339905",
-                        "obj_edit_time": "1700818345",
+                        "obj_edit_time": "1702538425",
                         "obj_token": "XBbMd8h8io5MtNxwkPjc04Z3nnb",
                         "children": [],
                         "has_child": false,
@@ -744,7 +644,7 @@
                     ],
                     "has_child": true,
                     "slug": "WwImwSshGikOLfkpbkzcNMprnVh",
-                    "position": 3,
+                    "position": 2,
                     "filename": "WwImwSshGikOLfkpbkzcNMprnVh.md"
                   },
                   {
@@ -762,7 +662,7 @@
                         "node_token": "UgBnwUMoFixICzkyw5BcTzsonFe",
                         "parent_node_token": "ZR8UwBCCgi1SjXk0yRec30eLn6c",
                         "obj_create_time": "1699339928",
-                        "obj_edit_time": "1700897184",
+                        "obj_edit_time": "1702538436",
                         "obj_token": "KZX0dw25UomzeExuGG0cENMInNd",
                         "children": [],
                         "has_child": false,
@@ -779,7 +679,7 @@
                         "node_token": "JfDKw9M4XiUq0skjdYScTfVdnyb",
                         "parent_node_token": "ZR8UwBCCgi1SjXk0yRec30eLn6c",
                         "obj_create_time": "1699339948",
-                        "obj_edit_time": "1700818417",
+                        "obj_edit_time": "1702538444",
                         "obj_token": "VFa1dAQkRoKCDSxH9NjcGv3knze",
                         "children": [],
                         "has_child": false,
@@ -793,7 +693,7 @@
                     ],
                     "has_child": true,
                     "slug": "ZR8UwBCCgi1SjXk0yRec30eLn6c",
-                    "position": 4,
+                    "position": 3,
                     "filename": "ZR8UwBCCgi1SjXk0yRec30eLn6c.md"
                   },
                   {
@@ -811,7 +711,7 @@
                         "node_token": "KxTvwTFPnitoYbkECcMcvfobnGb",
                         "parent_node_token": "PHUbw6pu3i4vbOkHeLVcpnlTn6f",
                         "obj_create_time": "1699339964",
-                        "obj_edit_time": "1700899601",
+                        "obj_edit_time": "1702538454",
                         "obj_token": "AYjqdggwwowJIUxsJr3cITDkn1f",
                         "children": [],
                         "has_child": false,
@@ -828,7 +728,7 @@
                         "node_token": "DHsQwOOK1iR6eekSselc13ZUnVc",
                         "parent_node_token": "PHUbw6pu3i4vbOkHeLVcpnlTn6f",
                         "obj_create_time": "1699339982",
-                        "obj_edit_time": "1700818505",
+                        "obj_edit_time": "1702538460",
                         "obj_token": "UZuOdarxmoMSX2xZdCycAcCenke",
                         "children": [],
                         "has_child": false,
@@ -842,7 +742,7 @@
                     ],
                     "has_child": true,
                     "slug": "PHUbw6pu3i4vbOkHeLVcpnlTn6f",
-                    "position": 5,
+                    "position": 4,
                     "filename": "PHUbw6pu3i4vbOkHeLVcpnlTn6f.md"
                   }
                 ],
@@ -1353,7 +1253,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 牛熊證回收處理",
+                        "title": "場景-牛熊證回收處理",
                         "node_token": "Jo0aw17Meiih1RkxxnVcRLmjnpf",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700622763",
@@ -1370,7 +1270,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 股權認購（OO、EO、RS、ER、TU、TC）",
+                        "title": "場景-股權認購（OO、EO、RS、ER、TU、TC）",
                         "node_token": "AfizwptfriDumhkqPwbcW0rknhc",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700624444",
@@ -1387,7 +1287,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 紅股紅利",
+                        "title": "場景-紅股紅利",
                         "node_token": "VkDUwdaYkicQvQkg2wFcdIzlnkw",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700622126",
@@ -1404,7 +1304,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 股權清理 (DS)",
+                        "title": "場景-股權清理(DS)",
                         "node_token": "EBhJwi7B3iK621kqa8LclF5Nnsc",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700623445",
@@ -1438,7 +1338,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 拆合股、换股 CA",
+                        "title": "場景-拆合股、换股 CA",
                         "node_token": "S2low898GirK4jk39wacQ2p0nNg",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700624365",
@@ -1455,7 +1355,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 撤銷處理",
+                        "title": "場景-撤銷處理",
                         "node_token": "YIo1wfqami1f5bkSZ6wcz3w2ndf",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700634246",
@@ -1472,7 +1372,7 @@
                       },
                       {
                         "depth": 5,
-                        "title": "場景 - 終止處理",
+                        "title": "場景-終止處理",
                         "node_token": "SmQ8wH0Pci8rTRkfdJ9cDs3PnAe",
                         "parent_node_token": "AdyswrTcCi2yupkjI2kcCcGpnJc",
                         "obj_create_time": "1700711547",
@@ -1869,7 +1769,7 @@
                   },
                   {
                     "depth": 4,
-                    "title": "Haircut 管理",
+                    "title": "Haircut管理",
                     "node_token": "FykcwRMs6iQdoDkeXB0cbIxjnYg",
                     "parent_node_token": "LjNDwiZERi4r4skdM8dc6PbOnkc",
                     "obj_create_time": "1699341040",
@@ -1955,7 +1855,7 @@
                   },
                   {
                     "depth": 4,
-                    "title": "CRS 文件生成",
+                    "title": "CRS文件生成",
                     "node_token": "K1cXwE7v7ius56k4fGOcaT0kneg",
                     "parent_node_token": "DgyFwnAgCictXGkMKgxcsP23n2A",
                     "obj_create_time": "1699342475",
@@ -2286,79 +2186,10 @@
                     "node_token": "AmT7wLDONiG6BMkaHaMchSa8nOg",
                     "parent_node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
                     "obj_create_time": "1699789711",
-                    "obj_edit_time": "1701160376",
+                    "obj_edit_time": "1702870478",
                     "obj_token": "LE6id2hdSo60IAx3rDncJjuWnUb",
-                    "children": [
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個定時型 - 單次計劃？",
-                        "node_token": "Gicdw3YEtiDhLYkyLC6cLx79njb",
-                        "parent_node_token": "AmT7wLDONiG6BMkaHaMchSa8nOg",
-                        "obj_create_time": "1699786564",
-                        "obj_edit_time": "1701160395",
-                        "obj_token": "XIFTdfRd0oTmPGxeAPQcVNGhnUg",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "Gicdw3YEtiDhLYkyLC6cLx79njb",
-                        "position": 0,
-                        "filename": "Gicdw3YEtiDhLYkyLC6cLx79njb.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 定時型 - 重複 計劃？",
-                        "node_token": "P0E9wXWm4iGRLEkDSX1chq9Jnuh",
-                        "parent_node_token": "AmT7wLDONiG6BMkaHaMchSa8nOg",
-                        "obj_create_time": "1699787352",
-                        "obj_edit_time": "1701160657",
-                        "obj_token": "SawBdDUL3obYVbxKPgJcuIgWnod",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "P0E9wXWm4iGRLEkDSX1chq9Jnuh",
-                        "position": 1,
-                        "filename": "P0E9wXWm4iGRLEkDSX1chq9Jnuh.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 獲取型-API 計劃？",
-                        "node_token": "EPH5wRfGhidNKDkJQi6cYwE3nvS",
-                        "parent_node_token": "AmT7wLDONiG6BMkaHaMchSa8nOg",
-                        "obj_create_time": "1699788061",
-                        "obj_edit_time": "1701160712",
-                        "obj_token": "W0qadAXHSohemSxRpqQcvudMnID",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "EPH5wRfGhidNKDkJQi6cYwE3nvS",
-                        "position": 2,
-                        "filename": "EPH5wRfGhidNKDkJQi6cYwE3nvS.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 觸發型 - 完成 A 計劃",
-                        "node_token": "ZYDewLFtuidmgjkzwEBcJvcln5d",
-                        "parent_node_token": "AmT7wLDONiG6BMkaHaMchSa8nOg",
-                        "obj_create_time": "1699788433",
-                        "obj_edit_time": "1701160742",
-                        "obj_token": "KWHRdW0LdozuXPxe4jbcufiCnWh",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "ZYDewLFtuidmgjkzwEBcJvcln5d",
-                        "position": 3,
-                        "filename": "ZYDewLFtuidmgjkzwEBcJvcln5d.md"
-                      }
-                    ],
-                    "has_child": true,
+                    "children": [],
+                    "has_child": false,
                     "meta": {
                       "slug": "delivery-system"
                     },
@@ -2389,96 +2220,10 @@
                     "node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
                     "parent_node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
                     "obj_create_time": "1699791215",
-                    "obj_edit_time": "1701066831",
+                    "obj_edit_time": "1702868747",
                     "obj_token": "Tra5d2GaEoqkUXxRVxTcouM7nId",
-                    "children": [
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 App Banner",
-                        "node_token": "YXFMwr7G9iMBwdki1sicDycUnle",
-                        "parent_node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                        "obj_create_time": "1699840564",
-                        "obj_edit_time": "1700820288",
-                        "obj_token": "QwK1d0XBkoo3AIxaQ2Dc9L2Qn4F",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "YXFMwr7G9iMBwdki1sicDycUnle",
-                        "position": 0,
-                        "filename": "YXFMwr7G9iMBwdki1sicDycUnle.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 App 彈窗？",
-                        "node_token": "QiYrwKk0AikUSpkQRtOct87bnQB",
-                        "parent_node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                        "obj_create_time": "1699840624",
-                        "obj_edit_time": "1700797535",
-                        "obj_token": "DvCvdWUUVos7ZBx50lScd4uanzg",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "QiYrwKk0AikUSpkQRtOct87bnQB",
-                        "position": 1,
-                        "filename": "QiYrwKk0AikUSpkQRtOct87bnQB.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 App Push 消息？",
-                        "node_token": "TyAnwpS7viTqgDkFPtocMBlKnhf",
-                        "parent_node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                        "obj_create_time": "1699840719",
-                        "obj_edit_time": "1700797566",
-                        "obj_token": "RmKXdpk3DocZZQxL8HBckxn5nHe",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "TyAnwpS7viTqgDkFPtocMBlKnhf",
-                        "position": 2,
-                        "filename": "TyAnwpS7viTqgDkFPtocMBlKnhf.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 郵件消息？",
-                        "node_token": "HOJWw8cmCimIx3kSOlvcyH4Inwb",
-                        "parent_node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                        "obj_create_time": "1699840815",
-                        "obj_edit_time": "1700301962",
-                        "obj_token": "WKFudhaFeoTB4XxZylUc7JCcnDe",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "HOJWw8cmCimIx3kSOlvcyH4Inwb",
-                        "position": 3,
-                        "filename": "HOJWw8cmCimIx3kSOlvcyH4Inwb.md"
-                      },
-                      {
-                        "depth": 5,
-                        "title": "【場景】如何創建一個 短信消息？",
-                        "node_token": "Gq73wjUUYiHaUNk1H8rcKVmHnZg",
-                        "parent_node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                        "obj_create_time": "1699840935",
-                        "obj_edit_time": "1700820352",
-                        "obj_token": "AXPkdAageo1M4ixQ6vHcoL6en8g",
-                        "children": [],
-                        "has_child": false,
-                        "meta": {
-                          "slug": "xxx"
-                        },
-                        "slug": "Gq73wjUUYiHaUNk1H8rcKVmHnZg",
-                        "position": 4,
-                        "filename": "Gq73wjUUYiHaUNk1H8rcKVmHnZg.md"
-                      }
-                    ],
-                    "has_child": true,
+                    "children": [],
+                    "has_child": false,
                     "meta": {
                       "slug": "xxx"
                     },
@@ -2501,7 +2246,7 @@
                 "node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
                 "parent_node_token": "IEzzwtXSwiQRlfk5MxXcixFYn0f",
                 "obj_create_time": "1697191314",
-                "obj_edit_time": "1701161014",
+                "obj_edit_time": "1702865369",
                 "obj_token": "MrlAd80YxoNhf7xIT3XcZLZRn2e",
                 "children": [
                   {

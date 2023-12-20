@@ -80,7 +80,7 @@ sidebar_position: 0
 
 <img src="/assets/Lg0Eb4bxdoV34rxBMUEcGTChned.png" src-width="2926" src-height="1556" align="center"/>
 
-當審核通過後，清算前準備就算完成（文字會提示：已手動通過）
+當審核通過後， 清算前準備就算完成（文字會提示： 已手動通過）
 
 <img src="/assets/GyLLbvKRroHteSxah0jcZFbAnpd.png" src-width="2926" src-height="1558" align="center"/>
 
@@ -113,7 +113,7 @@ sidebar_position: 0
 <tr>
 <td><p>款項證劵</p></td><td><p>入金審核</p></td><td><p>款項管理&gt;入金&gt;入金審核 Tab</p></td><td><p>日終清算</p></td></tr>
 <tr>
-<td></td><td><p>出金審核</p></td><td><p>款項管理&gt;出金&gt;出金申請（未處理）Tab</p></td><td><p>日終清算</p></td></tr>
+<td></td><td><p>出金審核</p></td><td><p>款項管理&gt;出金&gt;出金申請（未處理） Tab</p></td><td><p>日終清算</p></td></tr>
 <tr>
 <td></td><td><p>換匯審核</p></td><td><p>款項管理&gt;換匯&gt;客戶匯兌 Tab</p></td><td><p>日終清算</p></td></tr>
 <tr>
@@ -151,9 +151,9 @@ sidebar_position: 0
 
 ### 市場清算**一鍵清算**
 
-當清算前準備執行完畢後，就可以點選有上方【開始一鍵清算】功能鍵，系統會自動從第一步開始執行，一直到清算交收作業（當沒有錯誤發生時，系統會自動續執行下個作業）
+當清算前準備執行完畢後，就可以點選有上方【開始一鍵清算】功能鍵，系統會自動從第一步開始執行，一直到清算交收作業（ 當沒有錯誤發生時，系統會自動續執行下個作業）
 
-注：若有需要可點選 '暫停一鍵清算'，但系統會等當時作業執行完畢後，才開始暫停下一動作（功能鍵會變灰）
+注： 若有需要可點選 '暫停一鍵清算'，但系統會等當時作業執行完畢後，才開始暫停下一動作（功能鍵會變灰）
 
 <img src="/assets/G5dDbVQOiohE3VxmjQjcDnVJnjb.png" src-width="2916" src-height="1546" align="center"/>
 
@@ -169,7 +169,7 @@ sidebar_position: 0
 
 此時可根據業務需要手動點選右側下方相關的作業操作，來檢查或修正紀錄或著 往下一鍵算操作，系統會自動執行下一個作業
 
-注意：在一鍵清算過程中，可以依賴系統的一鍵清算操作（自動執行所有作業），也可以自行 點選作業自行操作
+注意： 在一鍵清算過程中，可以依賴系統的一鍵清算操作（自動執行所有作業），也可以自行 點選作業自行操作
 
 <img src="/assets/YqB6bZ1iooifYNxBapNcaeI9nEh.png" src-width="2922" src-height="1556" align="center"/>
 
@@ -187,7 +187,7 @@ sidebar_position: 0
 
 **對帳結果查詢**
 
-可在**清算****檢查 - 交易對賬**頁面分別查詢各市場的交易對帳
+可在**清算****檢查-交易對賬**頁面分別查詢各市場的交易對帳
 
 每次點擊檢查會生成最新的檢查結果，只需要維護最新的檢查結果
 
@@ -314,7 +314,7 @@ sidebar_position: 0
 
 #### SI/ATI 指令導出
 
-執行完日切流程后，後面根據交收時段，產生交收指令導出
+執行完日切流程后，後面根據交收時段,產生交收指令導出
 
 指令導出詳見 [文件處理](./MaOTwGf6ziQLxEkvArNcmUCCnCe) 
 

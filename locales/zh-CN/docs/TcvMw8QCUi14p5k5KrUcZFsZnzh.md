@@ -25,7 +25,9 @@ sidebar_position: 2
 
 ## 操作说明
 
-菜单入口：帐户管理&gt;工单中心
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜单入口：帐户管理&gt;工单中心</p>
+</div>
 
 本作业可以管理帐户（或用户）的安全管理事项，可以在对应 Tab 页签上作出冻结/解锁/ 注销的帐户操作
 

@@ -19,7 +19,9 @@ sidebar_position: 0
 
 ## 操作說明
 
-菜單入口：資產賬戶&gt;業務碼&gt;業務碼查詢
+<div class="callout callout-bg-6 callout-border-6">
+<p>⚓ 菜單入口：資產賬戶&gt;業務碼&gt;業務碼查詢</p>
+</div>
 
 進入菜單頁，可以在列表查詢所有業務碼，支持通過編碼和名稱搜索
 
