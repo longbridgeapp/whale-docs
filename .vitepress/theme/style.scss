@@ -165,12 +165,20 @@ ol {
   line-height: 1.7;
 }
 
+.vp-doc {
+  img + h4,
+  img + h5,
+  img + h6 {
+    @apply mt-5;
+  }
+}
+
 .VPDoc .VPLastUpdated {
   font-weight: normal;
   font-size: 0.9em;
   color: var(--vp-c-text-3);
 }
 
-.DocSearch-Button{
+.DocSearch-Button {
   border-color: var(--vp-c-divider);
 }

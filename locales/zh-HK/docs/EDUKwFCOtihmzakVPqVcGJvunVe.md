@@ -11,10 +11,6 @@ sidebar_position: 2
 
 本作業將客戶管理所推動有效戶目標推進時的用戶（客戶），都視爲 CRM 管理的客戶池概念，可以針對不同的用戶（客戶），進行【分配客經】與【批量備註】與【導出】的操作
 
-## 前置条件
-
-無
-
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
