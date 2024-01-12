@@ -1,7 +1,7 @@
 ---
 title: 账户余额
 slug: wbo-account-type=SETTLEMENT
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 

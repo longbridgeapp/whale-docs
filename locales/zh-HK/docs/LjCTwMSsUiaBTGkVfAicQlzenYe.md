@@ -1,7 +1,7 @@
 ---
 title: 賬戶明細
 slug: wbo-account-balance-changes
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 

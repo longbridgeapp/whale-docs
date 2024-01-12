@@ -11,10 +11,6 @@ sidebar_position: 2
 
 本作业将客户管理所推动有效户目标推进时的用户（客户），都视为 CRM 管理的客户池概念，可以针对不同的用户（客户），进行【分配客经】与【批量备注】与【导出】的操作
 
-## 前置条件
-
-无
-
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
