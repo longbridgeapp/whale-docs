@@ -1,7 +1,7 @@
 ---
 title: 私募基金
 slug: simujijin
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 
@@ -112,11 +112,11 @@ sidebar_position: 2
 
 **APP 端展示画面如下：**
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[47%]" width-ratio="47">
 <img src="/assets/EgBvbxUOxoa8DmxGZVDcV1fOn6d.png" src-width="1125" src-height="2436" align="center"/>
 </div>
-<div>
+<div class="w-[52%]" width-ratio="52">
 <img src="/assets/SNkUbH4CBoOo89x6pHjcZNS0nmP.png" src-width="1242" src-height="2451" align="center"/>
 </div>
 </div>

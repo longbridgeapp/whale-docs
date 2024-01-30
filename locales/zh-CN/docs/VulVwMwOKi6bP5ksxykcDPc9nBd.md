@@ -23,11 +23,11 @@ sidebar_position: 0
 
 在手工调帐选择对应的调帐类型 Tab 页签 (现金/股票/基金/债劵/OTC），点击【新增】，打开新增调帐页面
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[84%]" width-ratio="84">
 <img src="/assets/QuZybpeiwofdl6xeg9Dc1XM3ncf.png" src-width="3220" src-height="958" align="center"/>
 </div>
-<div>
+<div class="w-[15%]" width-ratio="15">
 <img src="/assets/GwgKbIzNvoTUIaxvQh4cKoWTnWd.png" src-width="1028" src-height="1808" align="center"/>
 </div>
 </div>
@@ -38,11 +38,11 @@ sidebar_position: 0
 
 审批完成后，可以在列表查看调账结果。若调账成功后仍发现有错误，可以【撤销调账】；此时撤销调账会通过生成一笔反向流水抵销当前调账流水，同时如果当天清算未完成日切，可以支持无痕撤销（即客户端无法看到调账流水），详细可以看撤销弹窗页面
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[84%]" width-ratio="84">
 <img src="/assets/VYOSbZoJjohQwBxpD28cFIrCnmf.png" src-width="3132" src-height="622" align="center"/>
 </div>
-<div>
+<div class="w-[15%]" width-ratio="15">
 <img src="/assets/N3fcb9zm1od0Rrxy4MacbGKSngE.png" src-width="1022" src-height="1186" align="center"/>
 </div>
 </div>

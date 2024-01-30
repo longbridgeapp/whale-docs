@@ -45,11 +45,11 @@ Whale 提供两种 全局搜索 Tab 功能：  **搜索作业功能 **与 **搜�
 
      **持仓明细：**可以 展示 股票/期权/基金等 相关持仓纪录资料
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[35%]" width-ratio="35">
 <img src="/assets/XSVbbN3CGo0fpWxnEb2cXMVnn0f.png" src-width="1420" src-height="1270" align="center"/>
 </div>
-<div>
+<div class="w-[64%]" width-ratio="64">
 <img src="/assets/LSyJbHVdyoy5pRx6uoncXwWgn58.png" src-width="1404" src-height="678" align="center"/>
 </div>
 </div>
