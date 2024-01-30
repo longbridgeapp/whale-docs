@@ -27,11 +27,11 @@ CRS檔案資料的產生與下載各類標準格式的文件
 
 注意： 租戶需要 增加下列權限 才能操作 相關 CRS 文件
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[54%]" width-ratio="54">
 <img src="/assets/EnXebgC44oXOShxhH1DcB1E2nxf.png" src-width="950" src-height="563" align="center"/>
 </div>
-<div>
+<div class="w-[45%]" width-ratio="45">
 <img src="/assets/CDcmb7HhuoHyiExMSqJcYZGzntH.png" src-width="1878" src-height="1354" align="center"/>
 
 <p>CRS文件權限</p>

@@ -1,7 +1,7 @@
 ---
 title: APP 展示管理
 slug: APPzhanshiguanli
-sidebar_position: 3
+sidebar_position: 7
 ---
 
 

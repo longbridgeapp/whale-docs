@@ -78,13 +78,13 @@ sidebar_position: 1
 
 **組件管理/組件庫：**
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png" src-width="664" src-height="754" align="center"/>
 
 <p>展示當前頁面中已經配置的組件列表，點擊對應組件名稱可進行編輯配置</p>
 </div>
-<div>
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png" src-width="690" src-height="1268" align="center"/>
 
 <p>所有可配置的組件類型，點擊/拖拽對應組件類型會自動添加至預覽去頁面中</p>

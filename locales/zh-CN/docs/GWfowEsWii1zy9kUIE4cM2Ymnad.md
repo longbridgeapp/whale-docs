@@ -78,13 +78,13 @@ sidebar_position: 1
 
 **组件管理/组件库：**
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/UPgQbHr6ooNDh6xqDH0cTKlMnDb.png" src-width="664" src-height="754" align="center"/>
 
 <p>展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置</p>
 </div>
-<div>
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/F4HkbavmTold0hx5eAzcBJIwng4.png" src-width="690" src-height="1268" align="center"/>
 
 <p>所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览去页面中</p>

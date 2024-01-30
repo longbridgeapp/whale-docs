@@ -58,11 +58,11 @@ Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些�
 <tr>
 <td><p><strong>日期欄位</strong></p></td><td><p>點選日期框就會出現日曆選項 ，<br/>方便點擊選擇</p></td><td><img src="/assets/NTOBbLsDboqJztxP4Hrc8285nlc.png" src-width="1176" src-height="734"/></td></tr>
 <tr>
-<td><p><strong>Combox 欄位</strong></p></td><td><p>點擊 Combox 的向下箭頭框就會出現 Combox 項目選擇</p></td><td><div class="grid gap-3 grid-cols-2">
-<div>
+<td><p><strong>Combox 欄位</strong></p></td><td><p>點擊 Combox 的向下箭頭框就會出現 Combox 項目選擇</p></td><td><div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/JAbIbIHlsopeb0xDzgKcjBpRnae.png" src-width="264" src-height="113"/>
 </div>
-<div>
+<div class="w-[49%]" width-ratio="49">
 <img src="/assets/J3embcgAeoxyYLxNTAWcCxnMnzh.png" src-width="232" src-height="240"/>
 </div>
 </div></td></tr>
@@ -70,20 +70,20 @@ Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些�
 <td><p><strong>客戶欄位</strong></p></td><td><p>系統提供多元欄位可以方便定位查詢對應的客戶</p></td><td><img src="/assets/Cwx6bhiqsojJ5SxQ4DRcQumtn3e.png" src-width="199" src-height="121"/>
 <img src="/assets/Po1RbCpIzoRTIGxKUrccjJNYnbe.png" src-width="561" src-height="408"/></td></tr>
 <tr>
-<td><p><strong>高級搜索</strong></p></td><td><p>在查詢條件區可以點選此來展開或縮展更多查詢條件欄位</p></td><td><div class="grid gap-3 grid-cols-2">
-<div>
+<td><p><strong>高級搜索</strong></p></td><td><p>在查詢條件區可以點選此來展開或縮展更多查詢條件欄位</p></td><td><div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[49%]" width-ratio="49">
 <img src="/assets/O6vNbR4r4oi5zcxGwWbce1SbnMb.png" src-width="248" src-height="142"/>
 </div>
-<div>
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/NmE9b0w4tod3Bex3ONXcoAoUnEd.png" src-width="252" src-height="132"/>
 </div>
 </div></td></tr>
 <tr>
-<td><p><strong>支持搜索欄位</strong></p></td><td><p>若提示說明出現&#39;搜索&#39;文字，表示該欄位支持模糊搜索功能</p></td><td><div class="grid gap-3 grid-cols-2">
-<div>
+<td><p><strong>支持搜索欄位</strong></p></td><td><p>若提示說明出現&#39;搜索&#39;文字，表示該欄位支持模糊搜索功能</p></td><td><div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[57%]" width-ratio="57">
 <img src="/assets/EztfbHbDAoYzocxZY1BczbOOnqe.png" src-width="482" src-height="214"/>
 </div>
-<div>
+<div class="w-[42%]" width-ratio="42">
 <img src="/assets/JrODbNxxxos3hzxLs5tceElsnzc.png" src-width="478" src-height="716"/>
 </div>
 </div></td></tr>
@@ -104,11 +104,11 @@ Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些�
 <tr>
 <td><p><strong>列表其他操作鍵</strong></p></td><td><p>列表其他操作功能鍵，可在... 圖示上點選</p></td><td><img src="/assets/RdEvbLYkqoXXwMx2UqGcTH48nvh.png" src-width="2074" src-height="289" align="center"/></td></tr>
 <tr>
-<td><p><strong>列表欄位自選</strong></p></td><td><p>可以自行選取 列表展示欄位</p></td><td><div class="grid gap-3 grid-cols-2">
-<div>
+<td><p><strong>列表欄位自選</strong></p></td><td><p>可以自行選取 列表展示欄位</p></td><td><div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[25%]" width-ratio="25">
 <img src="/assets/N8lbbrmZPoXYYCxmtVjcMpYSnCd.png" src-width="80" src-height="94" align="center"/>
 </div>
-<div>
+<div class="w-[74%]" width-ratio="74">
 <img src="/assets/ARopbbPZeozMFdxavNXcZMWonRe.png" src-width="3086" src-height="1224" align="center"/>
 </div>
 </div></td></tr>

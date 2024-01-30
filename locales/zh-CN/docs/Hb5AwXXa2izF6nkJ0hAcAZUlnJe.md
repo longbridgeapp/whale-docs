@@ -1,7 +1,7 @@
 ---
 title: 邀请关系管理
 slug: Invitation
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 

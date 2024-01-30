@@ -1,7 +1,7 @@
 ---
 title: 公募基金管理
 slug: gongmujijingunali
-sidebar_position: 1
+sidebar_position: 5
 ---
 
 
@@ -87,11 +87,11 @@ sidebar_position: 1
 
 **APP 端展示效果**： （当新建基金公司后）
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[45%]" width-ratio="45">
 <img src="/assets/W4DQb6wjloJT9ExC5dgcBDqhndd.png" src-width="708" src-height="1492" align="center"/>
 </div>
-<div>
+<div class="w-[54%]" width-ratio="54">
 <img src="/assets/Y5uxbJ0vcodldYxfjPMc0yjonGf.png" src-width="880" src-height="1552" align="center"/>
 </div>
 </div>

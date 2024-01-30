@@ -27,22 +27,22 @@ sidebar_position: 1
 
 如果自動產生分錄後，作業提供新增【編輯】功能，可以修改產生分錄紀錄，同時紀錄新增支付流水新增支票號欄位展示
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[53%]" width-ratio="53">
 <img src="/assets/Ti6pbTfr8o7WNixaid7c9HUFnMg.png" src-width="2658" src-height="1412" align="center"/>
 </div>
-<div>
+<div class="w-[46%]" width-ratio="46">
 <img src="/assets/Ob6qbO9WUoOFVZxe97KcfcVOn0b.png" src-width="2280" src-height="1414" align="center"/>
 </div>
 </div>
 
 如果需要手工錄入的分錄很少，可以選擇【手動錄入】
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/DKe2bQYxXoFDTZx23ELcvkOOn5c.png" src-width="2502" src-height="1330" align="center"/>
 </div>
-<div>
+<div class="w-[49%]" width-ratio="49">
 <img src="/assets/F8KTbchXmoofyvxjzkQcvI5Znzb.png" src-width="2446" src-height="1346" align="center"/>
 </div>
 </div>

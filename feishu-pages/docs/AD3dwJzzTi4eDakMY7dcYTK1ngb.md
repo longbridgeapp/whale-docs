@@ -167,11 +167,11 @@ sidebar_position: 1
 
 支持主帳帳戶開立,也支持特定帳戶標籤處理
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/HJetbrVhcokrJwxvMB8cKF0vnjs.png" src-width="1022" src-height="584" align="center"/>
 </div>
-<div>
+<div class="w-[49%]" width-ratio="49">
 <img src="/assets/IXURbo3fdoC4jcxWkcgcmI54nzh.png" src-width="1018" src-height="590" align="center"/>
 </div>
 </div>
