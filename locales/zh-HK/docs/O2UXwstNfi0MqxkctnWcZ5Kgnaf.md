@@ -14,7 +14,7 @@ sidebar_position: 0
 </colgroup>
 <thead>
 <tr>
-<th><p><strong>名****詞</strong></p></th><th><p><strong>解释</strong></p></th></tr>
+<th><p><strong>名詞</strong></p></th><th><p><strong>解释</strong></p></th></tr>
 </thead>
 <tbody>
 <tr>

@@ -43,7 +43,7 @@ sidebar_position: 4
 
 <img src="/assets/XDujb8DY4ou5RgxGQ0AcxbJJnmf.png" src-width="2962" src-height="1778" align="center"/>
 
-**清算****操作流程：**
+**清算操作流程：**
 
 1. 選擇產生的基金管道訂單，選擇‘訂單初始化’狀態後，中點擊【數據發送】，彈框資訊確認無誤後，點擊【確認】，此時訂單狀況會變成'發送成功'
 
