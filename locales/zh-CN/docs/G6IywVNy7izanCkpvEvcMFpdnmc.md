@@ -1,6 +1,6 @@
 ---
 title: 借币提醒
-slug: xxx
+slug: G6IywVNy7izanCkpvEvcMFpdnmc
 sidebar_position: 2
 ---
 
@@ -16,6 +16,8 @@ sidebar_position: 2
 无
 
 ## 业务流程
+
+<img src="/assets/HTxDbudDwopcbjxKxxvcFuAPnRc.png" src-width="616" src-height="1356" align="center"/>
 
 ## 操作说明
 
@@ -41,8 +43,8 @@ sidebar_position: 2
 <img src="/assets/AL6rbl69ootUKxxCDomcn8YVnLd.png" src-width="3218" src-height="1070" align="center"/>
 
 1. 同时，开启规则后，客户在 App 上可以对应查看【自动还款】功能，可以自主选择开启该功能。若客户打开自动还款，当命中规则时，系统将进行自动换汇或后台操作人工兑换
-    1. App 端「自动还款」功能入口：「我的」-「设置」-「账户设置」
-    <img src="/assets/O591b74Lzo9Cv1xbGXmctyuNnLe.png" src-width="1170" src-height="2532"/>
+    1. App 端「自动还款」
+    <img src="/assets/O591b74Lzo9Cv1xbGXmctyuNnLe.png" src-width="1170" src-height="2532" align="center"/>
     1. App 若开启「自动还款」，页面「自动换汇」则为「开启」，支持操作【兑换】
     <img src="/assets/MlH4bA93PocqlJxZRDFckjRqnPe.png" src-width="3216" src-height="682" align="center"/>
 

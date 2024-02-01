@@ -1,6 +1,6 @@
 ---
 title: 机构合约
-slug: bomanager-contract-mechanism
+slug: PgNgwUZLci87HPkPmSRcEfivnhf
 sidebar_position: 1
 ---
 
@@ -10,6 +10,9 @@ sidebar_position: 1
 ## 适用场景
 
 机构合约（上手劵商）管理操作
+
+- 机构合约的延迟交收
+- 机构费用的对帐
 
 ## 前置条件
 

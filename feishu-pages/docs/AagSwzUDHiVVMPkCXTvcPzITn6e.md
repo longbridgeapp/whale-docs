@@ -1,11 +1,11 @@
 ---
-title: 活動系統-常見問題
+title: 常見問題
 slug: AagSwzUDHiVVMPkCXTvcPzITn6e
 sidebar_position: 3
 ---
 
 
-# 活動系統-常見問題
+# 常見問題
 
 ### 活动创建相关
 
@@ -55,4 +55,24 @@ sidebar_position: 3
 </div>
 
 答：如果當前時間節點已過，則不允許再更改了。例如：如果當前你已開戶，那麼則不允許更改開戶邀請人，但是你還可更改入金邀請人。
+
+### 活动奖励相关
+
+<div class="callout callout-bg-2 callout-border-2">
+<p>❓ 用戶咨詢未收到獎勵，運營如何查詢？</p>
+</div>
+
+答：執行菜單：運營系統&gt; 活動系統&gt;標準活動管理
+
+首先查活動配置是否正確，點擊對應活動後方詳情進入查看活動規則配置，確認配置的對應規則和獎勵是否正確 ？
+
+<img src="/assets/PT4hbT6u6oUqLtx4nuzcFJzRnpe.png" src-width="3228" src-height="1502" align="center"/>
+
+<img src="/assets/Uhy0bqPi5oNG2Ox7lCKcp0cYnyb.png" src-width="3214" src-height="1598" align="center"/>
+
+若正確，則正確進入獲獎名單查詢是否生成以及獎勵記錄狀態
+
+<img src="/assets/Z50tbmd3hoquurxFpHfc4RRhn2c.png" src-width="3218" src-height="1114" align="center"/>
+
+若發放中則說明系統還在發放中，若待提交則需要運營人員點擊提交進行發放。
 

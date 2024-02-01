@@ -1,11 +1,11 @@
 ---
-title: 基金管理-系统介绍
+title: 系统介绍
 slug: R1lWwBSSFiWgUAkUJKScIOXrn6d
 sidebar_position: 2
 ---
 
 
-# 基金管理-系统介绍
+# 系统介绍
 
 # 概述
 
@@ -15,7 +15,32 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 **基金交易流程**
 
+<img src="/assets/CnHTb2sHRo8zW3x8Ggnce8Qmnmg.jpeg" src-width="2611" src-height="5775" align="center"/>
+
 **重要時間點參考： **（以下會根據不同基金代理商有所不同）
+
+<table>
+<colgroup>
+<col width="202"/>
+<col width="269"/>
+<col width="157"/>
+<col width="192"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>時間 </p></td><td><p>操作內容 </p></td><td><p>操作人員 </p></td><td><p>備註 </p></td></tr>
+<tr>
+<td><p>T日12：00 cut-off </p></td><td><p>申購、贖回數據發送基金代理商(例：高騰) （會由前台自動獲取訂單） </p></td><td><p>BO 後台人員</p></td><td><p>資產凍結、發送後不可撤單 </p></td></tr>
+<tr>
+<td><p>T日16：00之前 </p></td><td><p>T日訂單發送申購贖回表至基金託管行 </p></td><td><p>BO 後台人員</p></td><td></td></tr>
+<tr>
+<td><p>T日18：00之前 </p></td><td><p>申購款打到基金託管行 </p></td><td><p>財務 </p></td><td></td></tr>
+<tr>
+<td><p>T+1日（21：00點左右） </p></td><td><p>申購份額、贖回份額確認 </p></td><td></td><td><p>證劵訂單顯示成交 </p></td></tr>
+<tr>
+<td><p>T+2日（18：00之前） </p></td><td><p>劵商收到贖回款 </p></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 # 基金業務操作管理
 
@@ -180,6 +205,8 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 首先私募基金的業務系統操作流程如下 （SOP） :
 
+<img src="/assets/MXq0bDZzloI8woxgUxvcvqIBnse.jpeg" src-width="1160" src-height="1954" align="center"/>
+
 #### 基金管理
 
 執行菜單：基金管理&gt; 私募基金&gt;基金管理 Tab 頁籤
@@ -283,10 +310,10 @@ A. **數據發送**
 **APP 端展示畫面如下：**
 
 <div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[36%]" width-ratio="36">
+<div class="w-[47%]" width-ratio="47">
 <img src="/assets/UI98bgHw5o92VSxF9tScFNJqnnx.png" src-width="1125" src-height="2436"/>
 </div>
-<div class="w-[63%]" width-ratio="63">
+<div class="w-[52%]" width-ratio="52">
 <img src="/assets/IJ4Nb7fb3oOMgsx9mgncy1oYnjg.png" src-width="1242" src-height="2451"/>
 </div>
 </div>
@@ -344,6 +371,8 @@ A. **數據發送**
 當租戶劵商本身也接入同樣採用 Whale 的 BSS 證劵系統的 OB 劵商時，可以針對下游 OB 劵商的基金訂單作主動拉取與限額檢查
 
 整體流程參考示意如下：
+
+<img src="/assets/UlsAb55GAoN0bHx8kzOczAbgn5e.png" src-width="1354" src-height="636" align="center"/>
 
 ### 基金帳號管理
 

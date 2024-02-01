@@ -1,6 +1,6 @@
 ---
 title: 日終任務配置操作
-slug: bomanager-end-day-tasks-configuration
+slug: NNidwNOtAiyKaokiG0rc3GEYnhR
 sidebar_position: 0
 ---
 

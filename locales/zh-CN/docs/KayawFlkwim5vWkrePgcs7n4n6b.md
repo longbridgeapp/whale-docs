@@ -1,11 +1,11 @@
 ---
-title: 公司行动操作顺序
+title: 操作顺序
 slug: xxxxxxxxx
 sidebar_position: 3
 ---
 
 
-# 公司行动操作顺序
+# 操作顺序
 
 ## 适用场景
 
@@ -39,9 +39,8 @@ sidebar_position: 3
 
 接下展示是**预告信息**：同时系统也针对部分公司行动提供预设配置项来优化，
 
-      例： 派发位置（Street 或 NOMiNEE） 或 支付日期+N 配置 （每家租户可能不同）
-
-      零股转分红预设（是或否）。  注意：以上预设配置变更，若有需要请联络 长桥运营团队来配置
+- 例：派发位置（Street 或 NOMiNEE）或 支付日期+N 配置（每家租户可能不同）
+- 零股转分红预设（是或否）。注意：以上预设配置变更，若有需要请联络 长桥运营团队来配置
 
 <img src="/assets/VlTmbNpcKoEwWCxipR7c5JALn8b.png" src-width="2888" src-height="1408" align="center"/>
 
@@ -73,7 +72,9 @@ sidebar_position: 3
 
 在登记时，提供业务校验功能的同时，增加了更多的业务检查项目
 
-注：系统会判断 必须 帐务日期&gt;= 登记日 才可进行登记操作
+<div class="callout callout-bg-3 callout-border-3">
+<p>💡 注：系统会判断 必须 帐务日期&gt;= 登记日 才可进行登记操作</p>
+</div>
 
 <img src="/assets/FR1bbMIi5oJLCYx9GRhcjSDWncc.png" src-width="2542" src-height="150" align="center"/>
 

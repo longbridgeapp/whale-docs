@@ -1,6 +1,6 @@
 ---
 title: 風控管理
-slug: risk-manage
+slug: LjNDwiZERi4r4skdM8dc6PbOnkc
 sidebar_position: 7
 ---
 

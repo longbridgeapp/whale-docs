@@ -1,6 +1,6 @@
 ---
 title: 资产帐户
-slug: wbo-account
+slug: Xd2qwHVugivJ2fkmA0zc7939npb
 sidebar_position: 0
 ---
 

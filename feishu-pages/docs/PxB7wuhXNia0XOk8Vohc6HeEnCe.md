@@ -1,22 +1,24 @@
 ---
 title: 公司行動
-slug: corp-action
+slug: PxB7wuhXNia0XOk8Vohc6HeEnCe
 sidebar_position: 6
 ---
 
 
 # 公司行動
 
-名詞釋義
+## 名詞釋義
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="203"/>
 <col width="719"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p><strong>術語/ 缩略詞</strong></p></td><td><p><strong>說明</strong></p></td></tr>
+<th><p><strong>術語/ 缩略詞</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>登記日Record Date</p></td><td><p>分股分紅的登記日，拆合股的生效日<br/>系統基於此獲取持倉客戶</p></td></tr>
 <tr>
@@ -48,6 +50,20 @@ sidebar_position: 6
 
 # **已支持的的公司行動類型**
 
+- TM (Take-Over (Compulsory) / Auto-Exercise of Structured Products)
+- BE (Benefit Entitlement)
+- CA (Corporate Action)
+- DS (Delisted, Expired, Lapsed)
+- OO (Open Offer)
+- EO (Excess Open Offer)
+- RS (Rights Subscription)
+- ER (Excess Rights Subscription)
+- TU (Take-Over (Unconditional))
+- TC (Take-Over (Conditional))
+- ADR (ADR Fee)
+- SO (Spin Off)
+- IP (Interest Payment)
+    
 ## **公司行動處理流程**
 
 <img src="/assets/Ibsxbbh4AobkkLxH8GZcQErwnzd.png" src-width="3878" src-height="2806" align="center"/>
@@ -59,6 +75,8 @@ sidebar_position: 6
 <img src="/assets/RSEQbp0w6oOQRwxuG0rcQMstnVg.png" src-width="3594" src-height="1442" align="center"/>
 
 ## **自願類系统操作流程**
+
+部分BE、OO、EO 、RS、ER、TU、TC
 
 <img src="/assets/DbAlbxrhnoWMcaxo0uXcJemcnDe.png" src-width="3018" src-height="1618" align="center"/>
 

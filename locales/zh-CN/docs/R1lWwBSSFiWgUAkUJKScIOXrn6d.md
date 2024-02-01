@@ -1,11 +1,11 @@
 ---
-title: 基金管理 - 系统介绍
+title: 系统介绍
 slug: R1lWwBSSFiWgUAkUJKScIOXrn6d
 sidebar_position: 2
 ---
 
 
-# 基金管理 - 系统介绍
+# 系统介绍
 
 # 概述
 
@@ -15,7 +15,32 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 **基金交易流程**
 
+<img src="/assets/CnHTb2sHRo8zW3x8Ggnce8Qmnmg.jpeg" src-width="2611" src-height="5775" align="center"/>
+
 **重要时间点参考： **（以下会根据不同基金代理商有所不同）
+
+<table>
+<colgroup>
+<col width="202"/>
+<col width="269"/>
+<col width="157"/>
+<col width="192"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>时间 </p></td><td><p>操作内容 </p></td><td><p>操作人员 </p></td><td><p>备注 </p></td></tr>
+<tr>
+<td><p>T 日 12:00 cut-off </p></td><td><p>申购、赎回数据发送基金代理商 (例：高腾) （会由前台自动获取订单） </p></td><td><p>BO 后台人员</p></td><td><p>资产冻结、发送后不可撤单 </p></td></tr>
+<tr>
+<td><p>T 日 16:00 之前 </p></td><td><p>T 日订单发送申购赎回表至基金托管行 </p></td><td><p>BO 后台人员</p></td><td></td></tr>
+<tr>
+<td><p>T 日 18:00 之前 </p></td><td><p>申购款打到基金托管行 </p></td><td><p>财务 </p></td><td></td></tr>
+<tr>
+<td><p>T+1 日（21:00 点左右） </p></td><td><p>申购份额、赎回份额确认 </p></td><td></td><td><p>证劵订单显示成交 </p></td></tr>
+<tr>
+<td><p>T+2 日（18:00 之前） </p></td><td><p>劵商收到赎回款 </p></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 # 基金业务操作管理
 
@@ -180,6 +205,8 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 首先私募基金的业务系统操作流程如下（SOP） :
 
+<img src="/assets/MXq0bDZzloI8woxgUxvcvqIBnse.jpeg" src-width="1160" src-height="1954" align="center"/>
+
 #### 基金管理
 
 执行菜单：基金管理&gt; 私募基金&gt;基金管理 Tab 页签
@@ -283,10 +310,10 @@ A. **数据发送**
 **APP 端展示画面如下：**
 
 <div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[36%]" width-ratio="36">
+<div class="w-[47%]" width-ratio="47">
 <img src="/assets/UI98bgHw5o92VSxF9tScFNJqnnx.png" src-width="1125" src-height="2436"/>
 </div>
-<div class="w-[63%]" width-ratio="63">
+<div class="w-[52%]" width-ratio="52">
 <img src="/assets/IJ4Nb7fb3oOMgsx9mgncy1oYnjg.png" src-width="1242" src-height="2451"/>
 </div>
 </div>
@@ -344,6 +371,8 @@ A. **数据发送**
 当租户劵商本身也接入同样采用 Whale 的 BSS 证劵系统的 OB 劵商时，可以针对下游 OB 劵商的基金订单作主动拉取与限额检查
 
 整体流程参考示意如下：
+
+<img src="/assets/UlsAb55GAoN0bHx8kzOczAbgn5e.png" src-width="1354" src-height="636" align="center"/>
 
 ### 基金帐号管理
 

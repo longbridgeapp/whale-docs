@@ -1,6 +1,6 @@
 ---
 title: 報表管理
-slug: xxx
+slug: DgyFwnAgCictXGkMKgxcsP23n2A
 sidebar_position: 8
 ---
 
@@ -11,14 +11,16 @@ sidebar_position: 8
 
 為方便使用者快速記憶報表的分類，WBO 報表的報表代號也以常規的部門英文名稱來方便記憶學習
 
-<table>
+<table header_row="1">
 <colgroup>
 <col width="399"/>
 <col width="359"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p><strong>部门名称</strong></p></td><td><p>报表前缀</p></td></tr>
+<th><p><strong>部门名称</strong></p></th><th><p>报表前缀</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>結算部（Settlement Delivery Department）</p></td><td><p>SDR</p></td></tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: 基础活动
-slug: activities-basis
+slug: OFh3wZ5lpiFi1Qk8KDvc1VvInzf
 sidebar_position: 1
 ---
 
@@ -29,14 +29,16 @@ sidebar_position: 1
 
 活动模版字段按如下规则进行配置：
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>字段名称</p></td><td><p>配置说明</p></td></tr>
+<th><p>字段名称</p></th><th><p>配置说明</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>活动名称</p></td><td><p>填写的名称将最终展示在用户的奖励资讯中，需要谨慎填写。可配置多语言，支持中文简体、中文繁体、英语三种语言标题配置，配置好后将更具用户手机系统语言默认展示对应语言。若无需多语言展示则三个语言标题都配置统一语言标题即可。</p></td></tr>
 <tr>
@@ -97,14 +99,16 @@ sidebar_position: 1
 
 <img src="/assets/Y9uTbmh2coLljgxj4KacMi6vnRC.png" src-width="3258" src-height="1242" align="center"/>
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
+<th><p>列表字段</p></th><th><p>字段说明</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>编号</p></td><td><p>奖励记录编号</p></td></tr>
 <tr>

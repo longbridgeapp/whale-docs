@@ -1,6 +1,6 @@
 ---
 title: 市場清算
-slug: bomanager-market
+slug: U4HAwqHNUiqehVk9r8tc0mMxnhd
 sidebar_position: 1
 ---
 
@@ -9,16 +9,18 @@ sidebar_position: 1
 
 Whale 市場清算流程步驟：將每個市場進行下列流程操作
 
-<table>
+<table header_row="1">
 <colgroup>
 <col width="124"/>
 <col width="468"/>
 <col width="153"/>
 <col width="131"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>任務</p></td><td><p>任務说明</p></td><td><p>前置處理</p></td><td><p>是否分市場執行</p></td></tr>
+<th><p>任務</p></th><th><p>任務说明</p></th><th><p>前置處理</p></th><th><p>是否分市場執行</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>日終數據同步</p></td><td><p>從前台拉取交易流水保存到後台<br/>包括開戶、交易、出入金等<br/>每次點擊分別觸發任務<br/>同步數據範圍為上一帳務日數據日切點 - 當日數據日切點的數據<br/>每次點擊分別觸發任務</p></td><td></td><td><p>分市場</p></td></tr>
 <tr>

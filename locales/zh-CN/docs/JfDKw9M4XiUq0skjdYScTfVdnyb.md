@@ -1,6 +1,6 @@
 ---
 title: 帐户间转仓
-slug: wbo-transfer-account/holding
+slug: JfDKw9M4XiUq0skjdYScTfVdnyb
 sidebar_position: 1
 ---
 

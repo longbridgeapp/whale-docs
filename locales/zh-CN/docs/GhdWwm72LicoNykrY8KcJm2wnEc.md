@@ -1,6 +1,6 @@
 ---
 title: 活动系统
-slug: activities-system
+slug: GhdWwm72LicoNykrY8KcJm2wnEc
 sidebar_position: 1
 ---
 
@@ -11,15 +11,15 @@ sidebar_position: 1
 
 透过方便的营销活动模板，来管理各种营销活动
 
-<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920"/>
+<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920" align="center"/>
 
 在整体架构上，活动系统的管理就是完成整个 OPA 运营系统中的核心活动管理，透过活动模板配置，协助劵商租户完成多场景/多营销面向的活动管理
 
-<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818"/>
+<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818" align="center"/>
 
 **作业摘要**
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="130"/>
 <col width="659"/>

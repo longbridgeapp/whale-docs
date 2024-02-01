@@ -1,6 +1,6 @@
 ---
 title: 日終任務
-slug: bomanager-end-day-tasks
+slug: G4ddwtkMnisaE2k9E7dcp5zRn4e
 sidebar_position: 0
 ---
 
@@ -18,6 +18,8 @@ sidebar_position: 0
 ## 前置條件
 
 系統上線初期或日後新市場加入，需事先配置好日終任務 
+
+- 請參考文檔：[日終任務配置操作](./NNidwNOtAiyKaokiG0rc3GEYnhR) 
 
 完成市場規則配置
 

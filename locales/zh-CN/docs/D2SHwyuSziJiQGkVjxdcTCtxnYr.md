@@ -9,6 +9,28 @@ sidebar_position: 2
 
 # 概述
 
+<table header_column="1">
+<colgroup>
+<col width="130"/>
+<col width="659"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>菜单功能目录</p></td><td><p>作业说明</p></td></tr>
+<tr>
+<td><p>标准活动管理</p></td><td><p>具有标准活动模版，可选中对应活动模版创建活动，并进行规则配置与活动数据的管理</p>
+<ul>
+<li>邀请活动模版：通过用户邀请好友完成任务获得奖品（常用的裂变活动模式）</li>
+<li>基础活动模版：用户本人完成对应活动获得奖品（每月新用户活动更新、老用户回馈活动。) </li>
+<li>组队活动模版：多人一起参与活动，达到指定人数要求且队员都完成对应任务即可获得奖品。</li>
+</ul></td></tr>
+<tr>
+<td><p>非标准活动管理</p></td><td><p>主要用于进行非标准活动参数的配置与管理</p></td></tr>
+<tr>
+<td><p>邀请关系管理</p></td><td><p>主要对于活动相关的邀请绑定关系进行管理。可对用户的邀请关系信息查询、更改、绑定</p></td></tr>
+</tbody>
+</table>
+
 ## **适用场景**
 
 想要选中活动模版，创建对应规则，让系统按照规则判断给用户自动发奖
@@ -39,7 +61,7 @@ sidebar_position: 2
 
 活动管理列表字段说明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -89,7 +111,7 @@ sidebar_position: 2
 
 活动常见达标任务类型及说明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="100"/>
 <col width="352"/>
@@ -143,7 +165,7 @@ sidebar_position: 2
 
 活动模版字段按如下规则进行配置：
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -218,7 +240,7 @@ sidebar_position: 2
 
 活动模版字段按如下规则进行配置：
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -256,15 +278,17 @@ sidebar_position: 2
 
 不同奖励生成时间则奖励的计算逻辑会有部分差别
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="117"/>
 <col width="265"/>
 <col width="401"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>达标任务类型</p></td><td><p>实时生成</p></td><td><p>结束统一生成</p></td></tr>
+<th><p>达标任务类型</p></th><th><p>实时生成</p></th><th><p>结束统一生成</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>注册</p></td><td><p>完成注册时生成奖励发放请求</p></td><td><p>活动结束 T+1 日后生成奖励发放请求</p></td></tr>
 <tr>
@@ -286,14 +310,16 @@ sidebar_position: 2
 
 <img src="/assets/Hy9qbu7NNoF5hnxYQaDc0KsRnmc.png" src-width="3258" src-height="1242" align="center"/>
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
+<th><p>列表字段</p></th><th><p>字段说明</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>编号</p></td><td><p>奖励记录编号</p></td></tr>
 <tr>

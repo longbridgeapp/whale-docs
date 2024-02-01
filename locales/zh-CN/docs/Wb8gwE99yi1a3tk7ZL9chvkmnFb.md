@@ -1,6 +1,6 @@
 ---
 title: 风控报表
-slug: fengkongbaobiao
+slug: Wb8gwE99yi1a3tk7ZL9chvkmnFb
 sidebar_position: 5
 ---
 

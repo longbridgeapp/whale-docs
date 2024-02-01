@@ -1,6 +1,6 @@
 ---
 title: 基金下单
-slug: jijinxiadan
+slug: TbDRwiqbziYnqAk7sTvctWvTnkf
 sidebar_position: 0
 ---
 

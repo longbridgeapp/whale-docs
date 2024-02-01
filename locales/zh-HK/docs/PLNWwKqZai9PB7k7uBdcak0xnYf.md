@@ -1,6 +1,6 @@
 ---
 title: 交易限額
-slug: jiaoyixiane
+slug: PLNWwKqZai9PB7k7uBdcak0xnYf
 sidebar_position: 4
 ---
 
@@ -41,14 +41,16 @@ sidebar_position: 4
 
 重點字段說明如下：
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="172"/>
 <col width="612"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>字段名稱</p></td><td><p>說明</p></td></tr>
+<th><p>字段名稱</p></th><th><p>說明</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>限額幣種</p></td><td><p>無：則為純數量的判斷，與金額無關<br/>HKD：則全部轉化為 HKD 計算限額<br/>USD：則全部轉化為 USD 計算限額 </p></td></tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: 分成管理
-slug: xxx
+slug: C7wvwc1tBiN0PdkTCYScD7mEnue
 sidebar_position: 2
 ---
 

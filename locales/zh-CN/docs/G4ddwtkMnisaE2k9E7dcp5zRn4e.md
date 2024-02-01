@@ -1,6 +1,6 @@
 ---
 title: 日终任务
-slug: bomanager-end-day-tasks
+slug: G4ddwtkMnisaE2k9E7dcp5zRn4e
 sidebar_position: 0
 ---
 
@@ -18,6 +18,8 @@ sidebar_position: 0
 ## 前置条件
 
 系统上线初期或日后新市场加入，需事先配置好日终任务 
+
+- 请参考文档：[日终任务配置操作](./NNidwNOtAiyKaokiG0rc3GEYnhR) 
 
 完成市场规则配置
 

@@ -1,6 +1,6 @@
 ---
 title: 邀请关系管理
-slug: Invitation
+slug: Hb5AwXXa2izF6nkJ0hAcAZUlnJe
 sidebar_position: 6
 ---
 

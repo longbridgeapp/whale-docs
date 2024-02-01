@@ -1,6 +1,6 @@
 ---
 title: 邀请活动
-slug: activities-invite
+slug: DbZcwF2cAiO6p3kHIgicqjFKn1d
 sidebar_position: 0
 ---
 
@@ -99,4 +99,11 @@ sidebar_position: 0
 <img src="/assets/FTqKbWI4SoNQPJxO6OGcNRDznff.png" src-width="3248" src-height="1156" align="center"/>
 
 数据统计状态：
+
+- 待提交：未提交进行发放的奖励记录
+- 发放中：发放中的奖励记录
+- 已发放：已发放成功的奖励记录
+- 失败：发放失败的奖励记录数
+- 取消发放：点击取消的奖励记录数
+- 全部：所有该活动奖励记录数
 

@@ -1,6 +1,6 @@
 ---
 title: 帐户间转帐
-slug: wbo-transfer-account/balance
+slug: UgBnwUMoFixICzkyw5BcTzsonFe
 sidebar_position: 0
 ---
 

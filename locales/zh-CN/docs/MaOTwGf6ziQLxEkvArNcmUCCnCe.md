@@ -1,6 +1,6 @@
 ---
 title: 文件处理
-slug: bomanager-ob-file-manage
+slug: MaOTwGf6ziQLxEkvArNcmUCCnCe
 sidebar_position: 1
 ---
 
@@ -11,7 +11,14 @@ sidebar_position: 1
 
 文件导入支持：
 
+- 导入交易文件
+- 导入持仓文件
+- 导入公司行动 05、02 文件
+- 导入其它文件
+
 文件导出支持：
+
+- 下载导出 ATI、SI 指令
 
 ## 前置条件
 
@@ -38,6 +45,10 @@ sidebar_position: 1
 系统最早可在交易日的清算交收步骤后就可导出文件
 
 在报表导出介面可下载 ATI 档
+
+- 买卖方向为空的，导出的为全部档
+- 买卖方向为 1 的，导出的是买入交易的记录
+- 买卖方向为 2 的，导出的是卖出交易的档
 
 <img src="/assets/IBFnb5wcRoWAObx1mZJc5qEmnic.png" src-width="2924" src-height="1560" align="center"/>
 

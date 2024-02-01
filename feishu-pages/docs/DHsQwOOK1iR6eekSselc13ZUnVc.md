@@ -1,6 +1,6 @@
 ---
 title: 業務管理
-slug: wbo-biz-code/group
+slug: DHsQwOOK1iR6eekSselc13ZUnVc
 sidebar_position: 1
 ---
 

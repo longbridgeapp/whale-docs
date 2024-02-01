@@ -27,6 +27,8 @@ sidebar_position: 3
 
 目前系統支持以下 GL 軟體匯入格式：
 
+<img src="/assets/Teq3bbDICoX7HxxS7zzcBSMynhd.png" src-width="3256" src-height="1622" align="center"/>
+
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[50%]" width-ratio="50">
 </div>

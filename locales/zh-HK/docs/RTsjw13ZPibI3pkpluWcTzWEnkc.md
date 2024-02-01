@@ -1,7 +1,7 @@
 ---
 title: 客户明細
-slug: xxxxxxxxx
-sidebar_position: 1
+slug: RTsjw13ZPibI3pkpluWcTzWEnkc
+sidebar_position: 2
 ---
 
 

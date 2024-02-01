@@ -1,11 +1,11 @@
 ---
-title: 场景 - 红股红利
-slug: xxxxxxxxx
-sidebar_position: 6
+title: 红股红利
+slug: VkDUwdaYkicQvQkg2wFcdIzlnkw
+sidebar_position: 2
 ---
 
 
-# 场景 - 红股红利
+# 红股红利
 
 ## 适用场景
 

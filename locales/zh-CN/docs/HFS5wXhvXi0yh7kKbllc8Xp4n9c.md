@@ -1,6 +1,6 @@
 ---
 title: 投放系统
-slug: delivery-system
+slug: HFS5wXhvXi0yh7kKbllc8Xp4n9c
 sidebar_position: 0
 ---
 
@@ -15,43 +15,45 @@ sidebar_position: 0
 
 每一个投放运营计划都是在：触发条件/受众用户/触达配置/目标设置 的维度下作运营计划项目的管理
 
-<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg" src-width="1286" src-height="454"/>
+<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg" src-width="1286" src-height="454" align="center"/>
 
 ## 前置条件
 
 您需要获取以下授权后方可正常使用系统功能
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="293"/>
 <col width="392"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p><strong>权限名称</strong></p></td><td><p><strong>权限说明</strong></p></td></tr>
+<th><p><strong>权限名称</strong></p></th><th><p><strong>权限说明</strong></p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><p>增删改查个人名下运营计划；创建、管理、查看用户分群；增删改查 Banner、弹窗、Push、SMS、Email</p></td></tr>
 </tbody>
 </table>
 
-您需要接入 Whale 柜台后方可使用人群画像中的规则创建用户分群
-
-您需要使用 Whale 的白标 App 产品并完成交付配置后，方可使用 Banner、弹窗、Push 通道触达用户
-
-您需要完成消息服务的交付配置后，方可使用 SMS、Email 通道触达用户
+- 您需要接入 Whale 柜台后方可使用人群画像中的规则创建用户分群
+- 您需要使用 Whale 的白标 App 产品并完成交付配置后，方可使用 Banner、弹窗、Push 通道触达用户
+- 您需要完成消息服务的交付配置后，方可使用 SMS、Email 通道触达用户
 
 ## 基本概念
 
 ### 名词解释
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p><strong>名词</strong></p></td><td><p><strong>解释</strong></p></td></tr>
+<th><p><strong>名词</strong></p></th><th><p><strong>解释</strong></p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p><strong>运营计划</strong></p></td><td><p>运营计划是投放系统的基础模块，帮助运营人员快速创建计划，以某种触达方式（短信、邮件、APP Banner、App 推送、APP 弹窗等）对满足一定条件的目标受众进行触达。如，新用户的任务触达、开户未入金用户的专题活动触达等。</p></td></tr>
 <tr>
@@ -103,7 +105,7 @@ sidebar_position: 0
 
 ### 指标解释
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -132,15 +134,11 @@ sidebar_position: 0
 
 每一个运营计划都是依下列顺序来操作：
 
-第一步：选择创建计划
-
-第二步：设置触发条件
-
-第三步：选择受众用户
-
-第四步：配置触达规则
-
-第五步：设置触达目标
+1. 第一步：选择创建计划
+2. 第二步：设置触发条件
+3. 第三步：选择受众用户
+4. 第四步：配置触达规则
+5. 第五步：设置触达目标
 
 以下分别 整理几个常见运营计划，逐步导引来建立计划
 
@@ -148,13 +146,10 @@ sidebar_position: 0
 
 #### 适用场景
 
-场景描述**：**定向召回流失交易用户
-
-目标受众**：**假设帐户资产＜200，历史交易过 5 次以上的用户
-
-运营策略：给目标受众发放任务币，配置专属兑换活动，并发邮件通知
-
-效果评估：计划上线后，追踪目标受众的 APP 启动情况、兑换情况、入金交易情况
+- 场景描述**：**定向召回流失交易用户
+- 目标受众**：**假设帐户资产＜200，历史交易过 5 次以上的用户
+- 运营策略：给目标受众发放任务币，配置专属兑换活动，并发邮件通知
+- 效果评估：计划上线后，追踪目标受众的 APP 启动情况、兑换情况、入金交易情况
 
 #### 使用说明
 
@@ -276,9 +271,7 @@ sidebar_position: 0
 
 <img src="/assets/KMuCb3qfmoG6hgxyHeRcI7Ainuc.png" src-width="1788" src-height="1022" align="center"/>
 
-弹窗示例：
-
-<img src="/assets/OzrTbBeSToJRChxYmHNcNc54nBe.jpeg" src-width="1080" src-height="2234"/>
+<img src="/assets/OzrTbBeSToJRChxYmHNcNc54nBe.jpeg" src-width="1080" src-height="2234" align="center"/>
 
 **第五步：设置触达目标**
 
@@ -332,9 +325,7 @@ sidebar_position: 0
 
 <img src="/assets/M5H3bY6yBoORxJxtPz4c7RcNnQd.png" src-width="2206" src-height="1178" align="center"/>
 
-Push 内容示例：
-
-<img src="/assets/E2GqbIYQPoo3YlxV0FmcqCGKnFc.png" src-width="1284" src-height="771"/>
+<img src="/assets/E2GqbIYQPoo3YlxV0FmcqCGKnFc.png" src-width="1284" src-height="771" align="center"/>
 
 **第五步：设置触达目标**
 
@@ -369,7 +360,7 @@ Push 内容示例：
 
 投放系统支持通过 2 种方式创建用户分群，分别是规则创建和导入创建，您可以根据自己的需求选择
 
-<img src="/assets/B2Hib6DhgosUGOx9pPRcY52Fnk5.png" src-width="582" src-height="366"/>
+<img src="/assets/B2Hib6DhgosUGOx9pPRcY52Fnk5.png" src-width="582" src-height="366" align="center"/>
 
 #### 规则创建用户分群
 

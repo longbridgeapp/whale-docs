@@ -1,6 +1,6 @@
 ---
 title: 公募基金管理
-slug: gongmujijingunali
+slug: LPlrwK0Y3iubWMkR9btcUInwn7Z
 sidebar_position: 5
 ---
 

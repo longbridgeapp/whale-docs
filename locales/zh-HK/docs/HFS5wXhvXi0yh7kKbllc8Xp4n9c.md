@@ -1,6 +1,6 @@
 ---
 title: 投放系统
-slug: delivery-system
+slug: HFS5wXhvXi0yh7kKbllc8Xp4n9c
 sidebar_position: 0
 ---
 
@@ -15,43 +15,45 @@ sidebar_position: 0
 
 每一個投放運營計畫都是在：觸發條件/受眾用戶/觸達配置/目標設置 的維度下作運營計畫項目的管理
 
-<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg" src-width="1286" src-height="454"/>
+<img src="/assets/QiXsb2jkmo5RChxhXVTctMNNn2O.jpeg" src-width="1286" src-height="454" align="center"/>
 
 ## 前置條件
 
 您需要獲取以下授權後方可正常使用系統功能
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="293"/>
 <col width="392"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p><strong>權限名稱</strong></p></td><td><p><strong>權限說明</strong></p></td></tr>
+<th><p><strong>權限名稱</strong></p></th><th><p><strong>權限說明</strong></p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><p>增刪改查個人名下運營計劃；創建、管理、查看用戶分群；增刪改查 Banner、彈窗、Push、SMS、Email</p></td></tr>
 </tbody>
 </table>
 
-您需要接入 Whale 櫃檯後方可使用人群畫像中的規則創建用戶分群
-
-您需要使用 Whale 的白標 App 產品並完成交付配置後，方可使用 Banner、彈窗、Push 通道觸達用戶
-
-您需要完成消息服務的交付配置後，方可使用 SMS、Email 通道觸達用戶
+- 您需要接入 Whale 櫃檯後方可使用人群畫像中的規則創建用戶分群
+- 您需要使用 Whale 的白標 App 產品並完成交付配置後，方可使用 Banner、彈窗、Push 通道觸達用戶
+- 您需要完成消息服務的交付配置後，方可使用 SMS、Email 通道觸達用戶
 
 ## 基本概念
 
 ### 名詞解釋
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p><strong>名詞</strong></p></td><td><p><strong>解釋</strong></p></td></tr>
+<th><p><strong>名詞</strong></p></th><th><p><strong>解釋</strong></p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p><strong>運營計劃</strong></p></td><td><p>運營計劃是投放系統的基礎模塊，幫助運營人員快速創建計劃，以某種觸達方式（短信、郵件、APP Banner、App 推送、APP 彈窗等）對滿足一定條件的目標受衆進行觸達。如，新用戶的任務觸達、開戶未入金用戶的專題活動觸達等。</p></td></tr>
 <tr>
@@ -103,7 +105,7 @@ sidebar_position: 0
 
 ### 指標解釋
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -132,15 +134,11 @@ sidebar_position: 0
 
 每一個運營計畫都是依下列順序來操作：
 
-第一步：選擇創建計劃
-
-第二步：設置觸發條件
-
-第三步：選擇受衆用戶
-
-第四步：配置觸達規則
-
-第五步：設置觸達目標
+1. 第一步：選擇創建計劃
+2. 第二步：設置觸發條件
+3. 第三步：選擇受衆用戶
+4. 第四步：配置觸達規則
+5. 第五步：設置觸達目標
 
 以下分別 整理幾個常見運營計畫，逐步導引來建立計畫
 
@@ -148,13 +146,10 @@ sidebar_position: 0
 
 #### 適用場景
 
-場景描述**：**定向召回流失交易用戶
-
-目標受衆**：**假設帳戶資產＜200，歷史交易過 5 次以上的用戶
-
-運營策略：給目標受衆發放任務幣，配置專屬兌換活動，併發郵件通知
-
-效果評估：計劃上線後，追蹤目標受衆的 APP 啓動情況、兌換情況、入金交易情况
+- 場景描述**：**定向召回流失交易用戶
+- 目標受衆**：**假設帳戶資產＜200，歷史交易過 5 次以上的用戶
+- 運營策略：給目標受衆發放任務幣，配置專屬兌換活動，併發郵件通知
+- 效果評估：計劃上線後，追蹤目標受衆的 APP 啓動情況、兌換情況、入金交易情况
 
 #### 使用說明
 
@@ -276,9 +271,7 @@ sidebar_position: 0
 
 <img src="/assets/KMuCb3qfmoG6hgxyHeRcI7Ainuc.png" src-width="1788" src-height="1022" align="center"/>
 
-彈窗示例：
-
-<img src="/assets/OzrTbBeSToJRChxYmHNcNc54nBe.jpeg" src-width="1080" src-height="2234"/>
+<img src="/assets/OzrTbBeSToJRChxYmHNcNc54nBe.jpeg" src-width="1080" src-height="2234" align="center"/>
 
 **第五步：設置觸達目標**
 
@@ -332,9 +325,7 @@ sidebar_position: 0
 
 <img src="/assets/M5H3bY6yBoORxJxtPz4c7RcNnQd.png" src-width="2206" src-height="1178" align="center"/>
 
-Push 內容示例：
-
-<img src="/assets/E2GqbIYQPoo3YlxV0FmcqCGKnFc.png" src-width="1284" src-height="771"/>
+<img src="/assets/E2GqbIYQPoo3YlxV0FmcqCGKnFc.png" src-width="1284" src-height="771" align="center"/>
 
 **第五步：設置觸達目標**
 
@@ -369,7 +360,7 @@ Push 內容示例：
 
 投放系統支持通過 2 種方式創建用戶分羣，分別是規則創建和導入創建，您可以根據自己的需求選擇
 
-<img src="/assets/B2Hib6DhgosUGOx9pPRcY52Fnk5.png" src-width="582" src-height="366"/>
+<img src="/assets/B2Hib6DhgosUGOx9pPRcY52Fnk5.png" src-width="582" src-height="366" align="center"/>
 
 #### 規則創建用戶分羣
 

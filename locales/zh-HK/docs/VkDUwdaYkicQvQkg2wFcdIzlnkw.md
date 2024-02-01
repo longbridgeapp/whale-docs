@@ -1,11 +1,11 @@
 ---
-title: 場景 - 紅股紅利
-slug: xxxxxxxxx
-sidebar_position: 6
+title: 紅股紅利
+slug: VkDUwdaYkicQvQkg2wFcdIzlnkw
+sidebar_position: 2
 ---
 
 
-# 場景 - 紅股紅利
+# 紅股紅利
 
 ## 適用場景
 

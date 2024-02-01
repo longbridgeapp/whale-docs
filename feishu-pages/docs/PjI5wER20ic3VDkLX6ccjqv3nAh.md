@@ -1,11 +1,11 @@
 ---
-title: 公司行動手動新增
+title: 手動新增
 slug: xxxxxxxxx
 sidebar_position: 1
 ---
 
 
-# 公司行動手動新增
+# 手動新增
 
 ## 適用場景
 

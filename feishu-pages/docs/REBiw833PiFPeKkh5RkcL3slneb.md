@@ -1,11 +1,11 @@
 ---
-title: 基金管理-常见问题
+title: 常见问题
 slug: REBiw833PiFPeKkh5RkcL3slneb
 sidebar_position: 3
 ---
 
 
-# 基金管理-常见问题
+# 常见问题
 
 ## 基金展示管理問題
 
