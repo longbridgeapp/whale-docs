@@ -1,8 +1,5 @@
 name: Export feishu pages and create pull request to dev branch
-on:
-  pull_request:
-    branches:
-      - feishu-pages
+on: workflow_dispatch
 jobs:
   download_feishu_pages:
     name: Download feishu pages
