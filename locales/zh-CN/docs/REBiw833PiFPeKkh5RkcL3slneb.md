@@ -7,6 +7,14 @@ sidebar_position: 3
 
 # 基金管理 - 常见问题
 
+## 基金展示管理问题
+
+<div class="callout callout-bg-2 callout-border-2">
+<p>❓ 问：为什么在 App 展示管理中配置了基金，但是 App 端还是没有展示？展示了为什么无法交易？</p>
+</div>
+
+答：App 端展示的前提条件为：基金状态为显示状态；基金支持交易的前提条件为：基金在显示状态 & 基金在上架中状态。
+
 ## 基金渠道问题
 
 <div class="callout callout-bg-2 callout-border-2">

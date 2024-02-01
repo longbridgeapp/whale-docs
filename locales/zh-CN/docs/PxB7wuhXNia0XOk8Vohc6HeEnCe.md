@@ -16,7 +16,7 @@ sidebar_position: 6
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>术语</strong><strong>/ 缩略****词</strong></p></td><td><p><strong>说****明</strong></p></td></tr>
+<td><p><strong>术语/ 缩略词</strong></p></td><td><p><strong>说明</strong></p></td></tr>
 <tr>
 <td><p>登记日 Record Date</p></td><td><p>分股分红的登记日，拆合股的生效日<br/>系统基于此获取持仓客户</p></td></tr>
 <tr>
@@ -46,9 +46,9 @@ sidebar_position: 6
 </tbody>
 </table>
 
-# **已支持的的公司行****动类****型**
+# **已支持的的公司行动类型**
 
-## **公司行****动处****理流程**
+## **公司行动处理流程**
 
 <img src="/assets/Ibsxbbh4AobkkLxH8GZcQErwnzd.png" src-width="3878" src-height="2806" align="center"/>
 
@@ -58,7 +58,7 @@ sidebar_position: 6
 
 <img src="/assets/RSEQbp0w6oOQRwxuG0rcQMstnVg.png" src-width="3594" src-height="1442" align="center"/>
 
-## **自****愿类****系统操作流程**
+## **自愿类系统操作流程**
 
 <img src="/assets/DbAlbxrhnoWMcaxo0uXcJemcnDe.png" src-width="3018" src-height="1618" align="center"/>
 
