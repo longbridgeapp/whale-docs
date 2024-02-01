@@ -1,7 +1,7 @@
 ---
 title: 美股期權
-slug: xxxxxxxxx
-sidebar_position: 2
+slug: E2RvwEXp2itkGWknXpdc7dennqg
+sidebar_position: 3
 ---
 
 
@@ -39,7 +39,7 @@ sidebar_position: 2
 
 其中欄位說明如下：
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="125"/>
 <col width="145"/>

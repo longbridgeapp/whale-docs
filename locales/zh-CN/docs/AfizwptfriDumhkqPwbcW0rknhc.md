@@ -1,11 +1,11 @@
 ---
-title: 场景 - 股权认购（OO、EO、RS、ER、TU、TC）
+title: 股权认购（OO、EO、RS、ER、TU、TC）
 slug: xxxxxxxxx
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 
-# 场景 - 股权认购（OO、EO、RS、ER、TU、TC）
+# 股权认购（OO、EO、RS、ER、TU、TC）
 
 ## 适用场景
 

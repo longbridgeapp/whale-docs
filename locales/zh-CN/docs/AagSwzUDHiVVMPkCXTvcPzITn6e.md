@@ -1,11 +1,11 @@
 ---
-title: 活动系统 - 常见问题
+title: 常见问题
 slug: AagSwzUDHiVVMPkCXTvcPzITn6e
 sidebar_position: 3
 ---
 
 
-# 活动系统 - 常见问题
+# 常见问题
 
 ### 活动创建相关
 
@@ -55,4 +55,24 @@ sidebar_position: 3
 </div>
 
 答：如果当前时间节点已过，则不允许再更改了。例如：如果当前你已开户，那么则不允许更改开户邀请人，但是你还可更改入金邀请人。
+
+### 活动奖励相关
+
+<div class="callout callout-bg-2 callout-border-2">
+<p>❓ 用户咨询未收到奖励，运营如何查询？</p>
+</div>
+
+答：执行菜单：运营系统&gt; 活动系统&gt;标准活动管理
+
+首先查活动配置是否正确，点击对应活动后方详情进入查看活动规则配置，确认配置的对应规则和奖励是否正确？
+
+<img src="/assets/PT4hbT6u6oUqLtx4nuzcFJzRnpe.png" src-width="3228" src-height="1502" align="center"/>
+
+<img src="/assets/Uhy0bqPi5oNG2Ox7lCKcp0cYnyb.png" src-width="3214" src-height="1598" align="center"/>
+
+若正确，则正确进入获奖名单查询是否生成以及奖励记录状态
+
+<img src="/assets/Z50tbmd3hoquurxFpHfc4RRhn2c.png" src-width="3218" src-height="1114" align="center"/>
+
+若发放中则说明系统还在发放中，若待提交则需要运营人员点击提交进行发放。
 

@@ -1,6 +1,6 @@
 ---
 title: 風險預警
-slug: fengxianyujing
+slug: WR76w9DMGibqOokSWDfcxSohnIf
 sidebar_position: 0
 ---
 
@@ -13,7 +13,7 @@ sidebar_position: 0
 
 業務流程如下：
 
-<img src="/assets/MUNYbs75AoscaIxZ2qhcSrBynHe.jpeg" src-width="1139" src-height="1284"/>
+<img src="/assets/HlpbbSpxvoHS3CxfsJTcEToynAb.png" src-width="916" src-height="1356" align="center"/>
 
 ## 前置條件
 

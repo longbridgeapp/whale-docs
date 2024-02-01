@@ -1,6 +1,6 @@
 ---
 title: 邀請活動
-slug: activities-invite
+slug: DbZcwF2cAiO6p3kHIgicqjFKn1d
 sidebar_position: 0
 ---
 
@@ -99,4 +99,11 @@ sidebar_position: 0
 <img src="/assets/FTqKbWI4SoNQPJxO6OGcNRDznff.png" src-width="3248" src-height="1156" align="center"/>
 
 數據統計狀態：
+
+- 待提交：未提交進行發放的獎勵記錄
+- 發放中：發放中的獎勵記錄
+- 已發放：已發放成功的獎勵記錄
+- 失敗：發放失敗的獎勵記錄數
+- 取消發放：點擊取消的獎勵記錄數
+- 全部：所有該活動獎勵記錄數
 

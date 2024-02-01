@@ -1,6 +1,6 @@
 ---
 title: 資產解凍
-slug: wbo-account-balance-unlocks
+slug: BAsywiC8mi8SFJkUf2Wc3rc8nOg
 sidebar_position: 1
 ---
 

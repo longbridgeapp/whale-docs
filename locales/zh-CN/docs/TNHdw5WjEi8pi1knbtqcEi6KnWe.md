@@ -1,6 +1,6 @@
 ---
 title: 客户合约
-slug: bomanager-contract-customer
+slug: TNHdw5WjEi8pi1knbtqcEi6KnWe
 sidebar_position: 0
 ---
 
@@ -37,8 +37,12 @@ sidebar_position: 0
 
 <div class="callout callout-bg-2 callout-border-2">
 <p>💡 注意：</p>
-<p>前台合约只支持编辑费用信息、IBOND 累计利息、结算币种、仓位信息</p>
-<p>前台合约的其它字段如果有问题，需要先修改前台合约数据，再依次执行清算前检查和清算计费步骤</p>
+<ul>
+<li><p>前台合约只支持编辑费用信息、IBOND 累计利息、结算币种、仓位信息</p>
+</li>
+<li><p>前台合约的其它字段如果有问题，需要先修改前台合约数据，再依次执行清算前检查和清算计费步骤</p>
+</li>
+</ul>
 </div>
 
 <img src="/assets/RwiIbvmCyoNdmKxdYE5cvDD7n2c.png" src-width="2486" src-height="1544" align="center"/>

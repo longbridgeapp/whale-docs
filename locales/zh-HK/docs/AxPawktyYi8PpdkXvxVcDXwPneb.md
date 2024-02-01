@@ -1,6 +1,6 @@
 ---
 title: 清算管理
-slug: bomanager
+slug: AxPawktyYi8PpdkXvxVcDXwPneb
 sidebar_position: 5
 ---
 

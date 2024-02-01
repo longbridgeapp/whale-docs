@@ -1,6 +1,6 @@
 ---
 title: 活動系统
-slug: activities-system
+slug: GhdWwm72LicoNykrY8KcJm2wnEc
 sidebar_position: 1
 ---
 
@@ -11,15 +11,15 @@ sidebar_position: 1
 
 透過方便的營銷活動模板，來管理各種營銷活動
 
-<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920"/>
+<img src="/assets/Z1EWbAKzeobvyjxihTocH31Unlg.png" src-width="1276" src-height="920" align="center"/>
 
 在整體架構上，活動系統的管理就是完成整個 OPA 運營系統中的核心活動管理，透過活動模板配置 ，協助劵商租戶完成多場景/多營銷面向的活動管理
 
-<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818"/>
+<img src="/assets/J6S3bdNgXoTFgWx8WAMca1KcnXg.png" src-width="1334" src-height="818" align="center"/>
 
 **作業摘要**
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="130"/>
 <col width="659"/>

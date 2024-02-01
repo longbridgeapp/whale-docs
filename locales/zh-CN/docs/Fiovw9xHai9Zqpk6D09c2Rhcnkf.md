@@ -1,6 +1,6 @@
 ---
 title: 账务日期查询
-slug: xxx
+slug: Fiovw9xHai9Zqpk6D09c2Rhcnkf
 sidebar_position: 4
 ---
 

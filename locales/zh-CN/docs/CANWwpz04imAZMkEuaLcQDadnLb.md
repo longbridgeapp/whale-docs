@@ -1,6 +1,6 @@
 ---
 title: 仓位管理
-slug: xxx
+slug: CANWwpz04imAZMkEuaLcQDadnLb
 sidebar_position: 1
 ---
 

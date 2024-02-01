@@ -1,6 +1,6 @@
 ---
 title: 合約管理
-slug: bomanager-contract
+slug: AmY7wo5zviU2LakZvt9cAupxn0b
 sidebar_position: 0
 ---
 
@@ -13,7 +13,7 @@ sidebar_position: 0
 
 機構合約（上手劵商）
 
-<img src="/assets/EqjCbYlQroZDlFxR2NIcPBSYnsb.png" src-width="1604" src-height="472"/>
+<img src="/assets/VzpTbMnVqo1WrhxLAT0cXz3ynuc.png" src-width="1606" src-height="474" align="center"/>
 
 ## 前置條件
 

@@ -1,6 +1,6 @@
 ---
 title: 團隊與經紀人
-slug: xxx
+slug: HXpow2zeIif4nFkNWNacUQYunZb
 sidebar_position: 1
 ---
 

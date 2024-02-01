@@ -95,7 +95,11 @@ sidebar_position: 0
 
 - 如果報表配置了支持 PDF 格式則可以預覽檔案 
 - 預覽只支持預覽前 30 條明細記錄生成的檔案； 
-- 預覽介面頁可以選擇下載或者列印。 ⚠️ 因為預覽只顯示部分數據，所以請注意要數據是否完整後再進行下載；後期會優化在預覽檔案裏說明是否是完整數據
+- 預覽介面頁可以選擇下載或者列印。 
+
+<div class="callout callout-bg-1 callout-border-1">
+<p>❗ 因為預覽只顯示部分數據，所以請注意要數據是否完整後再進行下載；後期會優化在預覽檔案裏說明是否是完整數據</p>
+</div>
 
 <img src="/assets/QWaqbJh25oaVwoxZBPQckJxLnwd.png" src-width="3232" src-height="1644" align="center"/>
 

@@ -1,6 +1,6 @@
 ---
 title: 名词释义
-slug: xxx
+slug: ETWGwzwiWiZEMQkgT0uc2LHUnFg
 sidebar_position: 0
 ---
 

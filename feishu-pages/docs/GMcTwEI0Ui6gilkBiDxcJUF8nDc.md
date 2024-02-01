@@ -1,6 +1,6 @@
 ---
 title: 收盤價管理
-slug: xxx
+slug: GMcTwEI0Ui6gilkBiDxcJUF8nDc
 sidebar_position: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 交收系统
-slug: xxx
+slug: TfU6wIlpjikZhhk7fMZceYTAnSb
 sidebar_position: 6
 ---
 

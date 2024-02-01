@@ -1,6 +1,6 @@
 ---
 title: 团队与经纪人
-slug: xxx
+slug: HXpow2zeIif4nFkNWNacUQYunZb
 sidebar_position: 1
 ---
 

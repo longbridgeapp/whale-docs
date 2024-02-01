@@ -1,6 +1,6 @@
 ---
 title: 指数管理
-slug: ˙zhishuguanli
+slug: WQxNw84RpiU6uqkbY6CcBl2Tnrh
 sidebar_position: 7
 ---
 

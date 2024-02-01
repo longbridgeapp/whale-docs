@@ -1,6 +1,6 @@
 ---
 title: 公募基金
-slug: gongmujijin
+slug: BeaQwFXULiLLcNkayLicZPT0nsh
 sidebar_position: 4
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: 公司行动使用指南
+title: 使用指南
 slug: BEWZwntMZiUcvKkTozWc5aannWc
-sidebar_position: 4
+sidebar_position: 0
 ---
 
 
-# 公司行动使用指南
+# 使用指南
 
 # 一、系统介绍
 
@@ -14,6 +14,8 @@ sidebar_position: 4
 根据客户是否参与公司行动，公司行动可分为强制型和自愿类（可选择）两种类型。强制型公司行动是指客户无需采取任何操作即可参与的行动，例如普通分红。自愿类公司行动是指客户需要采取一定的操作才能参与的行动，例如供股、选股选息。两种类型公司行动的流程略有差异
 
 公司行动系统架构如下：
+
+<img src="/assets/XdySbVwKOon4p3xJJOKcNdvAncg.png" src-width="3856" src-height="2196" align="center"/>
 
 # 二、系统设定
 

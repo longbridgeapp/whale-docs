@@ -1,11 +1,11 @@
 ---
-title: 场景 - 终止处理
+title: 终止处理
 slug: xxxxxxxxx
-sidebar_position: 11
+sidebar_position: 7
 ---
 
 
-# 场景 - 终止处理
+# 终止处理
 
 ## 适用场景
 

@@ -1,6 +1,6 @@
 ---
 title: 手工调帐
-slug: wbo-adjustments/balance-change-tickets
+slug: VulVwMwOKi6bP5ksxykcDPc9nBd
 sidebar_position: 0
 ---
 

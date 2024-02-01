@@ -1,11 +1,11 @@
 ---
-title: 場景-撤銷處理
+title: 撤銷處理
 slug: xxxxxxxxx
-sidebar_position: 10
+sidebar_position: 6
 ---
 
 
-# 場景-撤銷處理
+# 撤銷處理
 
 ## 適用場景
 

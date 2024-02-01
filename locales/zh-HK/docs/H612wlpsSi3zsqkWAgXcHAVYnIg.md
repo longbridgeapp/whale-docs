@@ -1,6 +1,6 @@
 ---
 title: 資產凍結
-slug: wbo-account-balance-lock-tickets
+slug: H612wlpsSi3zsqkWAgXcHAVYnIg
 sidebar_position: 0
 ---
 

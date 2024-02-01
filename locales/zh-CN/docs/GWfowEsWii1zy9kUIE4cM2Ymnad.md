@@ -1,6 +1,6 @@
 ---
 title: 页面管理
-slug: xxx
+slug: GWfowEsWii1zy9kUIE4cM2Ymnad
 sidebar_position: 1
 ---
 
@@ -33,7 +33,7 @@ sidebar_position: 1
 
 <img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png" src-width="3286" src-height="1002" align="center"/>
 
-纪录右侧操作区的可以操作： 【编辑】/【复制】/【删除】
+纪录右侧操作区的可以操作：【编辑】/【复制】/【删除】
 
 页面列表字段/功能说明：
 

@@ -15,10 +15,6 @@ sidebar_position: 12
 
 透過全局公告模組的作業管理,能方便降低劵商對客戶公告的人工處理，提高券商公告的即時效率管理。
 
-```yaml
-slug: xxx
-```
-
 ## 適用場景
 
 當劵商運營人員需要管理對外公告時操作(新增/ 編輯/禁用)
@@ -39,7 +35,7 @@ slug: xxx
 
 當需要新增一個對外公告時,可以點選右上角【新增公告】,開始配置一個新公告
 
-<img src="/assets/R3olbgGQfoPOl8xCGcEc0fwRnhh.png" src-width="3246" src-height="1616" align="center"/>
+<img src="/assets/MP6AbPUOKov77exBYslcET1onHh.png" src-width="2134" src-height="1518" align="center"/>
 
 公告類型支持如下：                                                                          
 
@@ -56,10 +52,6 @@ slug: xxx
 頁面範圍：
 
 <img src="/assets/NDz0b67pnohaDexM7Tgc8xSqnyf.png" src-width="933" src-height="553" align="center"/>
-
-公告推送終端渠道支持如下：
-
-<img src="/assets/QcejbkQERoBvSrxEJkUc0rAEnbg.png" src-width="915" src-height="149"/>
 
 其他根據需要配置公告內容：
 

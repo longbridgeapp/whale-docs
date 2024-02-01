@@ -1,6 +1,6 @@
 ---
 title: 資產帳戶
-slug: wbo-account
+slug: Xd2qwHVugivJ2fkmA0zc7939npb
 sidebar_position: 0
 ---
 

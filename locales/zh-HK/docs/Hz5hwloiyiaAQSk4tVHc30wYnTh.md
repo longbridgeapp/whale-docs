@@ -1,6 +1,6 @@
 ---
 title: 颱風天處理
-slug: xxx
+slug: Hz5hwloiyiaAQSk4tVHc30wYnTh
 sidebar_position: 5
 ---
 

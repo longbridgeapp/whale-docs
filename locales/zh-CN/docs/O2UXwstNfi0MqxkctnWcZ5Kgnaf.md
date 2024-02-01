@@ -1,6 +1,6 @@
 ---
 title: 名词释义
-slug: shouxinedu-mingcishiyi
+slug: O2UXwstNfi0MqxkctnWcZ5Kgnaf
 sidebar_position: 0
 ---
 
