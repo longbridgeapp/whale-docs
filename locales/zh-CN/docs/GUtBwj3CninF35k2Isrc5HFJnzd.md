@@ -1,7 +1,7 @@
 ---
 title: 标准活动管理
 slug: activities-normal
-sidebar_position: 0
+sidebar_position: 4
 ---
 
 

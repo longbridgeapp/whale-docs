@@ -27,10 +27,10 @@ sidebar_position: 3
 
 目前系统支持以下 GL 软体汇入格式：
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 </div>
-<div>
+<div class="w-[50%]" width-ratio="50">
 </div>
 </div>
 

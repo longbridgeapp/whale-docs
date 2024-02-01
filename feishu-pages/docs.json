@@ -14,7 +14,7 @@
         "node_token": "P3yaw6jZHi5H0Hkp5wPc9kVrnCf",
         "parent_node_token": "XhZdwsgDriSeekkM5uLcDz3wnzb",
         "obj_create_time": "1696927895",
-        "obj_edit_time": "1702466372",
+        "obj_edit_time": "1706174984",
         "obj_token": "FfPydDprCoQyoAxMFERcPNbWnbb",
         "children": [
           {
@@ -455,6 +455,23 @@
                 "slug": "WiA8wlqAfiWWWQkdhlicA3eJnUe",
                 "position": 2,
                 "filename": "WiA8wlqAfiWWWQkdhlicA3eJnUe.md"
+              },
+              {
+                "depth": 3,
+                "title": "消息中心",
+                "node_token": "ECVywlie2ij8TskNT3ocy75Rnhf",
+                "parent_node_token": "FhuGw7gL7iINIBk2shrcITKfnTW",
+                "obj_create_time": "1699347562",
+                "obj_edit_time": "1706597364",
+                "obj_token": "JG3hdPA3FoZJIqxrfXQcTz9Fnpc",
+                "children": [],
+                "has_child": false,
+                "meta": {
+                  "slug": "message-center"
+                },
+                "slug": "ECVywlie2ij8TskNT3ocy75Rnhf",
+                "position": 4,
+                "filename": "ECVywlie2ij8TskNT3ocy75Rnhf.md"
               }
             ],
             "has_child": true,
@@ -480,7 +497,7 @@
                 "node_token": "Xd2qwHVugivJ2fkmA0zc7939npb",
                 "parent_node_token": "QQGNwf6t6i3nS9ko0ZTcwb8tnuh",
                 "obj_create_time": "1697191199",
-                "obj_edit_time": "1702883338",
+                "obj_edit_time": "1706174817",
                 "obj_token": "KrFNddDwVoKoErxpvN8cYpADnwe",
                 "children": [
                   {
@@ -779,6 +796,62 @@
                 "children": [
                   {
                     "depth": 4,
+                    "title": "基金管理-业务介绍",
+                    "node_token": "HIeBwKfdPiOMGykVgmuc3T00nyQ",
+                    "parent_node_token": "MsrcwasClizlyKk5xnQc2v04ntc",
+                    "obj_create_time": "1706580276",
+                    "obj_edit_time": "1706595411",
+                    "obj_token": "AllGd92k1o7MckxHYfpcnqLcnKf",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "HIeBwKfdPiOMGykVgmuc3T00nyQ",
+                    "position": 0,
+                    "filename": "HIeBwKfdPiOMGykVgmuc3T00nyQ.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "基金管理-快速上手",
+                    "node_token": "UMWcwWJFkix9AdkVRp7cjzsunHf",
+                    "parent_node_token": "MsrcwasClizlyKk5xnQc2v04ntc",
+                    "obj_create_time": "1706595858",
+                    "obj_edit_time": "1706598969",
+                    "obj_token": "IHbSdN2BVoskCrx2y1ncZRWbnuL",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "UMWcwWJFkix9AdkVRp7cjzsunHf",
+                    "position": 1,
+                    "filename": "UMWcwWJFkix9AdkVRp7cjzsunHf.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "基金管理-系统介绍",
+                    "node_token": "R1lWwBSSFiWgUAkUJKScIOXrn6d",
+                    "parent_node_token": "MsrcwasClizlyKk5xnQc2v04ntc",
+                    "obj_create_time": "1706599061",
+                    "obj_edit_time": "1706601019",
+                    "obj_token": "D8c5dF0dboulLxxjkKtch5rVnkb",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "R1lWwBSSFiWgUAkUJKScIOXrn6d",
+                    "position": 2,
+                    "filename": "R1lWwBSSFiWgUAkUJKScIOXrn6d.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "基金管理-常见问题",
+                    "node_token": "REBiw833PiFPeKkh5RkcL3slneb",
+                    "parent_node_token": "MsrcwasClizlyKk5xnQc2v04ntc",
+                    "obj_create_time": "1706601049",
+                    "obj_edit_time": "1706602051",
+                    "obj_token": "TrCPdK1uvoWHWcxWzeTc06pVnTD",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "REBiw833PiFPeKkh5RkcL3slneb",
+                    "position": 3,
+                    "filename": "REBiw833PiFPeKkh5RkcL3slneb.md"
+                  },
+                  {
+                    "depth": 4,
                     "title": "公募基金",
                     "node_token": "BeaQwFXULiLLcNkayLicZPT0nsh",
                     "parent_node_token": "MsrcwasClizlyKk5xnQc2v04ntc",
@@ -791,7 +864,7 @@
                       "slug": "gongmujijin"
                     },
                     "slug": "BeaQwFXULiLLcNkayLicZPT0nsh",
-                    "position": 0,
+                    "position": 4,
                     "filename": "BeaQwFXULiLLcNkayLicZPT0nsh.md"
                   },
                   {
@@ -808,7 +881,7 @@
                       "slug": "gongmujijingunali"
                     },
                     "slug": "LPlrwK0Y3iubWMkR9btcUInwn7Z",
-                    "position": 1,
+                    "position": 5,
                     "filename": "LPlrwK0Y3iubWMkR9btcUInwn7Z.md"
                   },
                   {
@@ -825,7 +898,7 @@
                       "slug": "simujijin"
                     },
                     "slug": "FYOjwZT8ui9O4AkoWn6cv0T2n2e",
-                    "position": 2,
+                    "position": 6,
                     "filename": "FYOjwZT8ui9O4AkoWn6cv0T2n2e.md"
                   },
                   {
@@ -842,7 +915,7 @@
                       "slug": "APPzhanshiguanli"
                     },
                     "slug": "A8cIw3eYXiEGJJktP3PcvrU9nn0",
-                    "position": 3,
+                    "position": 7,
                     "filename": "A8cIw3eYXiEGJJktP3PcvrU9nn0.md"
                   }
                 ],
@@ -1460,6 +1533,20 @@
                     "slug": "PW34wZp2OiSNdlk4Et0ctGxsnLh",
                     "position": 3,
                     "filename": "PW34wZp2OiSNdlk4Et0ctGxsnLh.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "公司行动使用指南",
+                    "node_token": "BEWZwntMZiUcvKkTozWc5aannWc",
+                    "parent_node_token": "PxB7wuhXNia0XOk8Vohc6HeEnCe",
+                    "obj_create_time": "1705577116",
+                    "obj_edit_time": "1705990563",
+                    "obj_token": "Q53tdl6jmoSQhHxNIBEcQf0mnv1",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "BEWZwntMZiUcvKkTozWc5aannWc",
+                    "position": 4,
+                    "filename": "BEWZwntMZiUcvKkTozWc5aannWc.md"
                   }
                 ],
                 "has_child": true,
@@ -1494,7 +1581,7 @@
                         "node_token": "O2UXwstNfi0MqxkctnWcZ5Kgnaf",
                         "parent_node_token": "FDPWw5Jx8iozOwk0K0Sc5Vzxngd",
                         "obj_create_time": "1700460238",
-                        "obj_edit_time": "1700550010",
+                        "obj_edit_time": "1706698484",
                         "obj_token": "LlIFdz1LiozBCVx0UEYchB1dn1b",
                         "children": [],
                         "has_child": false,
@@ -2124,28 +2211,10 @@
                 "node_token": "ApzpwrzLpi6iNdkXoO7c5ZtUnjf",
                 "parent_node_token": "QQGNwf6t6i3nS9ko0ZTcwb8tnuh",
                 "obj_create_time": "1699343050",
-                "obj_edit_time": "1700810368",
+                "obj_edit_time": "1706597571",
                 "obj_token": "D9LEdSG9moj0mqxWHrKcgP0HnAc",
-                "children": [
-                  {
-                    "depth": 4,
-                    "title": "公告管理",
-                    "node_token": "LETww6TvJi7CsjkF2pPcjir0nQb",
-                    "parent_node_token": "ApzpwrzLpi6iNdkXoO7c5ZtUnjf",
-                    "obj_create_time": "1699343054",
-                    "obj_edit_time": "1700819397",
-                    "obj_token": "JwV6dDFC5oz0oqxQphpcUKiSnCf",
-                    "children": [],
-                    "has_child": false,
-                    "meta": {
-                      "slug": "xxx"
-                    },
-                    "slug": "LETww6TvJi7CsjkF2pPcjir0nQb",
-                    "position": 0,
-                    "filename": "LETww6TvJi7CsjkF2pPcjir0nQb.md"
-                  }
-                ],
-                "has_child": true,
+                "children": [],
+                "has_child": false,
                 "slug": "ApzpwrzLpi6iNdkXoO7c5ZtUnjf",
                 "position": 12,
                 "filename": "ApzpwrzLpi6iNdkXoO7c5ZtUnjf.md"
@@ -2174,79 +2243,10 @@
                 "node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
                 "parent_node_token": "IEzzwtXSwiQRlfk5MxXcixFYn0f",
                 "obj_create_time": "1697191305",
-                "obj_edit_time": "1700820010",
+                "obj_edit_time": "1706685246",
                 "obj_token": "C5sCdBPIUoGkc3xEWm1c1t2snOf",
-                "children": [
-                  {
-                    "depth": 4,
-                    "title": "名詞釋義",
-                    "node_token": "JtPWwBed0i8H6ukpRIVcXLkJnvb",
-                    "parent_node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
-                    "obj_create_time": "1699341085",
-                    "obj_edit_time": "1699828253",
-                    "obj_token": "O8E6d1nV7oETMWxYKl2chuwgnQf",
-                    "children": [],
-                    "has_child": false,
-                    "meta": {
-                      "slug": "DeliverySystemnoun"
-                    },
-                    "slug": "JtPWwBed0i8H6ukpRIVcXLkJnvb",
-                    "position": 0,
-                    "filename": "JtPWwBed0i8H6ukpRIVcXLkJnvb.md"
-                  },
-                  {
-                    "depth": 4,
-                    "title": "運營計畫",
-                    "node_token": "AmT7wLDONiG6BMkaHaMchSa8nOg",
-                    "parent_node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
-                    "obj_create_time": "1699789711",
-                    "obj_edit_time": "1702870478",
-                    "obj_token": "LE6id2hdSo60IAx3rDncJjuWnUb",
-                    "children": [],
-                    "has_child": false,
-                    "meta": {
-                      "slug": "delivery-system"
-                    },
-                    "slug": "AmT7wLDONiG6BMkaHaMchSa8nOg",
-                    "position": 1,
-                    "filename": "AmT7wLDONiG6BMkaHaMchSa8nOg.md"
-                  },
-                  {
-                    "depth": 4,
-                    "title": "用戶分群",
-                    "node_token": "GOzGwOwG8iwszsksO8Mc81GNnFo",
-                    "parent_node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
-                    "obj_create_time": "1699790959",
-                    "obj_edit_time": "1701066785",
-                    "obj_token": "TgbldMjxiouJ9oxhpGOcx59Vngf",
-                    "children": [],
-                    "has_child": false,
-                    "meta": {
-                      "slug": "xxx"
-                    },
-                    "slug": "GOzGwOwG8iwszsksO8Mc81GNnFo",
-                    "position": 2,
-                    "filename": "GOzGwOwG8iwszsksO8Mc81GNnFo.md"
-                  },
-                  {
-                    "depth": 4,
-                    "title": "通道管理",
-                    "node_token": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                    "parent_node_token": "HFS5wXhvXi0yh7kKbllc8Xp4n9c",
-                    "obj_create_time": "1699791215",
-                    "obj_edit_time": "1702868747",
-                    "obj_token": "Tra5d2GaEoqkUXxRVxTcouM7nId",
-                    "children": [],
-                    "has_child": false,
-                    "meta": {
-                      "slug": "xxx"
-                    },
-                    "slug": "STFEw4Lqni88GtkV2CHcTL71nAg",
-                    "position": 3,
-                    "filename": "STFEw4Lqni88GtkV2CHcTL71nAg.md"
-                  }
-                ],
-                "has_child": true,
+                "children": [],
+                "has_child": false,
                 "meta": {
                   "slug": "delivery-system"
                 },
@@ -2265,11 +2265,67 @@
                 "children": [
                   {
                     "depth": 4,
+                    "title": "活動系統-業務介紹",
+                    "node_token": "KZDywC8bji89KrkZtfEcdKolnbe",
+                    "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
+                    "obj_create_time": "1706582796",
+                    "obj_edit_time": "1706606218",
+                    "obj_token": "Em53de1blotGT0xRtuGcaZsPnic",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "KZDywC8bji89KrkZtfEcdKolnbe",
+                    "position": 0,
+                    "filename": "KZDywC8bji89KrkZtfEcdKolnbe.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "活動系統-快速上手",
+                    "node_token": "CyimwcixHiX8NGkEpS5cJhD6nWh",
+                    "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
+                    "obj_create_time": "1706583574",
+                    "obj_edit_time": "1706698582",
+                    "obj_token": "WZNSdb4VBo5icTx6WxjcTPzUnac",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "CyimwcixHiX8NGkEpS5cJhD6nWh",
+                    "position": 1,
+                    "filename": "CyimwcixHiX8NGkEpS5cJhD6nWh.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "活動系統-系統介紹",
+                    "node_token": "D2SHwyuSziJiQGkVjxdcTCtxnYr",
+                    "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
+                    "obj_create_time": "1706583624",
+                    "obj_edit_time": "1706612514",
+                    "obj_token": "LWKYd0fA8oeElWxyoOIcHuJLnde",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "D2SHwyuSziJiQGkVjxdcTCtxnYr",
+                    "position": 2,
+                    "filename": "D2SHwyuSziJiQGkVjxdcTCtxnYr.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "活動系統-常見問題",
+                    "node_token": "AagSwzUDHiVVMPkCXTvcPzITn6e",
+                    "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
+                    "obj_create_time": "1706583729",
+                    "obj_edit_time": "1706696461",
+                    "obj_token": "L4SIdU8f9okp6DxkbeKcBS01nQf",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "AagSwzUDHiVVMPkCXTvcPzITn6e",
+                    "position": 3,
+                    "filename": "AagSwzUDHiVVMPkCXTvcPzITn6e.md"
+                  },
+                  {
+                    "depth": 4,
                     "title": "標準活動管理",
                     "node_token": "GUtBwj3CninF35k2Isrc5HFJnzd",
                     "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
                     "obj_create_time": "1699341369",
-                    "obj_edit_time": "1700896873",
+                    "obj_edit_time": "1706610582",
                     "obj_token": "KqIvdRFnWonbP5x8MPjcV51RnTe",
                     "children": [
                       {
@@ -2329,7 +2385,7 @@
                       "slug": "activities-normal"
                     },
                     "slug": "GUtBwj3CninF35k2Isrc5HFJnzd",
-                    "position": 0,
+                    "position": 4,
                     "filename": "GUtBwj3CninF35k2Isrc5HFJnzd.md"
                   },
                   {
@@ -2346,7 +2402,7 @@
                       "slug": "Invitation"
                     },
                     "slug": "Hb5AwXXa2izF6nkJ0hAcAZUlnJe",
-                    "position": 2,
+                    "position": 6,
                     "filename": "Hb5AwXXa2izF6nkJ0hAcAZUlnJe.md"
                   }
                 ],
@@ -2458,7 +2514,7 @@
                 "node_token": "HIYMwktOui1w6skOympcYuAKnLc",
                 "parent_node_token": "IEzzwtXSwiQRlfk5MxXcixFYn0f",
                 "obj_create_time": "1697191360",
-                "obj_edit_time": "1700203287",
+                "obj_edit_time": "1706698566",
                 "obj_token": "AnyWdW8uSoodPnxS0fCcWAhPnVf",
                 "children": [
                   {
@@ -2484,7 +2540,7 @@
                     "node_token": "GWfowEsWii1zy9kUIE4cM2Ymnad",
                     "parent_node_token": "HIYMwktOui1w6skOympcYuAKnLc",
                     "obj_create_time": "1700202733",
-                    "obj_edit_time": "1701070229",
+                    "obj_edit_time": "1706682033",
                     "obj_token": "RhfEdsGKQoxm9AxlgDHcC15Gnme",
                     "children": [
                       {
@@ -2493,7 +2549,7 @@
                         "node_token": "D3MZwurWOiWBsHkeLhVc8tR1nbf",
                         "parent_node_token": "GWfowEsWii1zy9kUIE4cM2Ymnad",
                         "obj_create_time": "1700203076",
-                        "obj_edit_time": "1700824344",
+                        "obj_edit_time": "1706684941",
                         "obj_token": "RxR7dLihaoay4RxRirYcElXbnKh",
                         "children": [],
                         "has_child": false,
@@ -2543,7 +2599,7 @@
       "slug": "zh-HK"
     },
     "slug": "XhZdwsgDriSeekkM5uLcDz3wnzb",
-    "position": 0,
+    "position": 1,
     "filename": "XhZdwsgDriSeekkM5uLcDz3wnzb.md"
   }
 ]

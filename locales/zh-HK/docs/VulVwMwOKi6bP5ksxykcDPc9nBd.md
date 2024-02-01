@@ -23,11 +23,11 @@ sidebar_position: 0
 
 在手工調帳選擇對應的調帳類型 Tab 頁籤 (現金/股票/基金/債劵/OTC），點擊【新增】，打開新增調帳頁面
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[84%]" width-ratio="84">
 <img src="/assets/QuZybpeiwofdl6xeg9Dc1XM3ncf.png" src-width="3220" src-height="958" align="center"/>
 </div>
-<div>
+<div class="w-[15%]" width-ratio="15">
 <img src="/assets/GwgKbIzNvoTUIaxvQh4cKoWTnWd.png" src-width="1028" src-height="1808" align="center"/>
 </div>
 </div>
@@ -38,11 +38,11 @@ sidebar_position: 0
 
 審批完成後，可以在列表查看調賬結果。若調賬成功後仍發現有錯誤，可以【撤銷調賬】；此時撤銷調賬會通過生成一筆反向流水抵銷當前調賬流水，同時如果當天清算未完成日切，可以支持無痕撤銷（即客戶端無法看到調賬流水），詳細可以看撤銷彈窗頁面
 
-<div class="grid gap-3 grid-cols-2">
-<div>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[84%]" width-ratio="84">
 <img src="/assets/VYOSbZoJjohQwBxpD28cFIrCnmf.png" src-width="3132" src-height="622" align="center"/>
 </div>
-<div>
+<div class="w-[15%]" width-ratio="15">
 <img src="/assets/N3fcb9zm1od0Rrxy4MacbGKSngE.png" src-width="1022" src-height="1186" align="center"/>
 </div>
 </div>

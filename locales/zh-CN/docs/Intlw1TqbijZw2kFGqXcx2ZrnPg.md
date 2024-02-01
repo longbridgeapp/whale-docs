@@ -44,7 +44,7 @@ sidebar_position: 1
 </colgroup>
 <tbody>
 <tr>
-<td><p><strong>港股<strong><strong>EP</strong></strong>模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
+<td><p><strong>港股 EP 模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
 <tr>
 <td><p>CCEP：选择当前租户选项<br/>使用者：选择当前租户选项<br/>是否上报：选择‘是’<br/>起始编号/结束编号：手动输入配置· </p></td><td><p>CCEP：选择‘lb’选项<br/>使用者：选择当前租户选项<br/> 是否上报：选择‘是’<br/> 起始编号/结束编号：手动输入配置·</p></td></tr>
 <tr>

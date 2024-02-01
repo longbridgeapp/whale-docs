@@ -1,7 +1,7 @@
 ---
 title: 公募基金
 slug: gongmujijin
-sidebar_position: 0
+sidebar_position: 4
 ---
 
 
@@ -43,7 +43,7 @@ sidebar_position: 0
 
 <img src="/assets/XDujb8DY4ou5RgxGQ0AcxbJJnmf.png" src-width="2962" src-height="1778" align="center"/>
 
-**清算****操作流程：**
+**清算操作流程：**
 
 1. 选择产生的基金管道订单，选择‘订单初始化’状态后，中点击【数据发送】，弹框资讯确认无误后，点击【确认】，此时订单状况会变成'发送成功'
 

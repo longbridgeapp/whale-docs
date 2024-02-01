@@ -20,27 +20,27 @@ sidebar_position: 4
 
 ### 卡券
 
-<div class="grid gap-3 grid-cols-4">
-<div>
+<div class="flex gap-3 columns-4" column-size="4">
+<div class="w-[25%]" width-ratio="25">
 <p><strong>App 入口</strong></p>
 <img src="/assets/TVzObuszjooalxx8eIvc8mXynxj.png" src-width="628" src-height="1352" align="center"/>
 
 <p>我的 - 我的卡券</p>
 </div>
-<div>
+<div class="w-[25%]" width-ratio="25">
 <p><strong>我的卡券</strong></p>
 <img src="/assets/BgKWbwMcmoy1zAx2zy0cQrLLnNg.png" src-width="624" src-height="1360" align="center"/>
 
 <p>用户可自行查看当前已有卡券以及卡券状态</p>
 </div>
-<div>
+<div class="w-[25%]" width-ratio="25">
 <p><strong>交易使用卡券</strong></p>
 <img src="/assets/CIQtbbzTnoOaYVxraiscz09TnMh.png" src-width="674" src-height="1366" align="center"/>
 
 <img src="/assets/FnrqbzTLloQwgAxzgYrckGk0n9f.png" src-width="750" src-height="1624" align="center"/>
 
 </div>
-<div>
+<div class="w-[25%]" width-ratio="25">
 <p><strong>打新使用卡券</strong></p>
 <img src="/assets/MvENbY06IojgG3xVn8UcgRf1n4e.jpeg" src-width="724" src-height="1610" align="center"/>
 
@@ -49,8 +49,8 @@ sidebar_position: 4
 
 ### 奖励
 
-<div class="grid gap-3 grid-cols-3">
-<div>
+<div class="flex gap-3 columns-3" column-size="3">
+<div class="w-[33%]" width-ratio="33">
 <p><strong>App 入口</strong></p>
 <img src="/assets/Y8fab6Du8osXcnxOvpXcgNg4nOb.png" src-width="620" src-height="1366" align="center"/>
 
@@ -59,7 +59,7 @@ sidebar_position: 4
 
 <p>我的 - 活动中心 - 奖励</p>
 </div>
-<div>
+<div class="w-[33%]" width-ratio="33">
 <p><strong>奖励记录</strong></p>
 <img src="/assets/C6TnbIU91o8qQBxu0I8cNmCZnNf.jpeg" src-width="1080" src-height="2374" align="center"/>
 
@@ -68,7 +68,7 @@ sidebar_position: 4
 
 <p>可筛选类别进行查看</p>
 </div>
-<div>
+<div class="w-[33%]" width-ratio="33">
 <p><strong>实物奖励领取</strong></p>
 <img src="/assets/SUiYbhNe8oVK2QxDaFKcqBAkn7d.png" src-width="750" src-height="1624" align="center"/>
 
@@ -84,8 +84,8 @@ sidebar_position: 4
 
 ### 权益商店
 
-<div class="grid gap-3 grid-cols-4">
-<div>
+<div class="flex gap-3 columns-4" column-size="4">
+<div class="w-[25%]" width-ratio="25">
 <p><strong>商店入口</strong></p>
 <img src="/assets/GVjUb9KjQoCwhaxZOxUcVboqn3d.png" src-width="614" src-height="1366" align="center"/>
 
@@ -93,19 +93,19 @@ sidebar_position: 4
 
 <p>我的 - 我的行情 - 行情商店</p>
 </div>
-<div>
+<div class="w-[25%]" width-ratio="25">
 <p><strong>行情商店</strong></p>
 <img src="/assets/Ew0QbtyZloSwYixEds5cBRAmnzd.jpeg" src-width="1080" src-height="2374" align="center"/>
 
 <p>展示所有产品，可分 tab 切换不同市场行情产品列表</p>
 </div>
-<div>
+<div class="w-[25%]" width-ratio="25">
 <p><strong>购买产品</strong></p>
 <img src="/assets/HtKVbolYXorOQqxQAkxcI3P9nBg.jpeg" src-width="1080" src-height="2374" align="center"/>
 
 <p>选择对应产品、对应套餐支付购买</p>
 </div>
-<div>
+<div class="w-[25%]" width-ratio="25">
 <p><strong>购买记录查看</strong></p>
 <img src="/assets/AX5Yb8QkToobLQxscTacnoq7n9e.png" src-width="628" src-height="1330" align="center"/>
 
