@@ -1,11 +1,5 @@
-name: Download feishu pages and create pull request
-on:
-  push:
-    branches:
-      - feishu/*
-  pull_request:
-    branches:
-      - dev
+name: Export feishu pages and create pull request to dev branch
+on: workflow_dispatch
 jobs:
   download_feishu_pages:
     name: Download feishu pages
@@ -18,10 +12,10 @@ jobs:
 
       - name: Use feishu pages cache
         uses: actions/cache@v3
-        id: feishu_pages_download_cache
+        id: feishu_pages_export_cache
         with:
           path: ./feishu-pages/.cache
-          key: feishu_pages_download_cache_key
+          key: feishu_pages_export_cache_key
 
       - name: Start export feishu pages
         env:
