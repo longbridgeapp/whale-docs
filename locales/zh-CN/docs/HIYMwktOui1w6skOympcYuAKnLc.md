@@ -47,168 +47,29 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 </tbody>
 </table>
 
-## 基础配置说明
+## 配置说明
 
-### 组件说明
-
-#### 组件树/物料库
-
-组件树木展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置。物料库为所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览去页面中。
-
-<div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/WpMvbhVm3oyGscxUlpxc05Ajnce.png" src-width="664" src-height="754" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/PdIjbWH7uoZ7HPxAfVycBnVqn0g.png" src-width="690" src-height="1268" align="center"/>
-</div>
-</div>
-
-#### 导航头
-
-可以设置导航背景色、Logo 点击跳转后的链接、导航右侧可操作的功能。
-
-<img src="/assets/PgORbhvZUoR40txyb3jcA1IQnvb.png" src-width="3828" src-height="1946" align="center"/>
-
-#### 图片
-
-<img src="/assets/S3P5b5u6yoYtxKxyybAcPwmZnxf.png" src-width="3822" src-height="1928" align="center"/>
-
-#### 热区
-
-- 链接分享效果：用户点击后会复制分享链接到剪贴版中
-- 海报分享效果：用户点击后按所配置图片生成一张海报，可以下载保存以海报形式分享出去
-- 面对面分享效果：用户点击后按所配置图片生成打开二维码，可截图或者直接扫码进行分享。
-- 开户：点击后跳转开户页面
-- 入金：点击后跳转入金页面
-- 转仓：点击后跳转转仓页面
-- 跳转链接：点击后可自定义跳转到配置链接地址页面
-- 开户 - 入金 - 链接：用户未开户跳转开户，已开户跳转入金，入金完成后直接对转所配置的链接页面。
-
-<div class="callout callout-bg-3 callout-border-3">
-<p>💡 单个热区可以添加配置多个热区点击事件。</p>
-</div>
-
-<img src="/assets/QhyKbPGV3oN1ngxFYjNcRdwcnHg.png" src-width="3812" src-height="1942" align="center"/>
-
-#### 按钮
-
-1. 按钮点击事件支持配置：
-
-- 链接分享效果：用户点击后会复制分享链接到剪贴版中
-- 海报分享效果：用户点击后按所配置图片生成一张海报，可以下载保存以海报形式分享出去
-- 面对面分享效果：用户点击后按所配置图片生成打开二维码，可截图或者直接扫码进行分享。
-- 开户：点击后跳转开户页面
-- 入金：点击后跳转入金页面
-- 转仓：点击后跳转转仓页面
-- 跳转链接：点击后可自定义跳转到配置链接地址页面
-- 开户 - 入金 - 链接：用户未开户跳转开户，已开户跳转入金，入金完成后直接对转所配置的链接页面。
-
-1. 文件链接配置
-
-如果按钮需要附带超链，例如协议文本等等，可以在此设置文案以及跳转链接
-
-1. 其他配置
-
-是否悬浮固定底部：勾选后则用户滚动屏幕时，按钮始终展示在页面底部
-
-组件背景颜色：可设置按钮外的组件背景颜色。
-
-<img src="/assets/IGwobollgoKFQRx875Tch6PEnZb.png" src-width="3792" src-height="1948" align="center"/>
-
-#### 隔离区
-
-<img src="/assets/DVdWbBSkpoHAD2x37ImcFYmOnCg.png" src-width="3810" src-height="1952" align="center"/>
-
-#### 我的战绩
-
-<img src="/assets/Zcy2bAcHDocXl6xhcXNcqC23nKc.png" src-width="3824" src-height="1918" align="center"/>
-
-#### **预览区**
-
-<img src="/assets/Plvlb6OH7oTacoxY5DMcXFQQnle.png" src-width="2406" src-height="1832"/>
-
-### **配置区域说明**
-
-#### 页面配置
-
-当前页面主要参数配置
-
-<img src="/assets/ZooPbfuBko1EVrx7p7BcuNUXnGf.png" src-width="696" src-height="632"/>
-
-#### 多语言设置
-
-可配置当前页面需要支持的语种与页面标题，也支持快捷切换。
-
-<img src="/assets/VPlRbVRuuoEFmMxpMSTcmS72nwh.png" src-width="800" src-height="356"/>
-
-#### 适用区域设置
-
-可配置能打开当前页面的 IP 区域有哪些。分为不限制、仅支持区域、不支持区域三种类型可选。
-
-不限制：则表示任何地区 IP 均可访问该页面
-
-仅支持区域：仅限制所配置的地区 IP 可访问该页面
-
-不支持区域：仅限制所配置的地区 IP 不可访问该页面
-
-#### 活动配置
-
-可配置当前页面是否需要登录后才可访问
-
-不需要登录：则用户不需要登录账号即可访问页面
-
-通用登录页：则用户需要在通用登录页面中进行登录后才可访问页面
-
-1. UI 配置
-
-页面的背景颜色配置
-
-1. 链接参数配置
-
-链接渠道号配置，若为了统计数据需要区分渠道来源的话可以配置专属渠道号。否则可以不填。
-
-1. 分享配置
-
-页面分享功能的配置
-
-- 链接分享模式：即点击分享时直接复制链接或者当前链接形式直接分享
-
-可配置分享链接时自带的分享标题以及分享描述。
-
-分享链接可单独配置，不配置则默认分享当前页面的链接，若配置后则分享时将分享配置之后的页面链接。
-
-分享缩略图即当分享链接至微信或者其他需要缩略图展示的平台时，可展示当前配置的缩略图
-
-- 面对面分享模式：即点击分享时直接弹出自带二维码的图片，可截图分享或者当面扫码打开对应页面
-
-二维码弹窗背景图片配置
-
-## 操作说明
-
-### 适用场景
-
-场景描述：基础组队，基础组队 - 净转入，基础组队 - 净转仓，基础组队 - 开户，基础组队 - 净入金，基础组队 - 不同任务所得奖励不同（有/无参团条件），助力活动等 H5 页面
-
-### 基础操作
+### 基础操作说明
 
 菜单入口：活动系统 &gt; 标准活动管理
 
-本作业可以管理维护透过 PageHub 制作出来的页面
+本作业可以管理维护透过 PageHub 制作出来的页面，右侧操作区的可以操作： 【编辑】/【复制】/【删除】
 
-<img src="/assets/XAbObnhpeofesVxXeM3c0pgSnbc.png" src-width="3354" src-height="1454" align="center"/>
+<img src="/assets/CdX6bvTs8oPftcxPAiXccBeEnKf.png" src-width="3354" src-height="1454" align="center"/>
+
+#### 链接复制
 
 在 Pagehub 查询管理页面列表，提供【链接复制】的功能操作，可以点选 Copy 图示
 
-<img src="/assets/QB1BboWo5ox1UvxA1n9cn40Ynmf.png" src-width="3306" src-height="918" align="center"/>
+<img src="/assets/PHambIDf9oRHFyxJ4UCcVkvanFf.png" src-width="3306" src-height="918" align="center"/>
+
+#### 二维码预览
 
 在 PageHub 查询管理页面列表，提供【二维码】的预览功能操作
 
-<img src="/assets/JcjMbttgioxARgxRqcScaXrHnkf.png" src-width="3286" src-height="1002" align="center"/>
+<img src="/assets/ACkrbYudWok5jzxnPWUcrvJunYc.png" src-width="3286" src-height="1002" align="center"/>
 
-纪录右侧操作区的可以操作： 【编辑】/【复制】/【删除】
-
-页面列表字段/功能说明：
+#### 列表字段说明
 
 <table>
 <colgroup>
@@ -243,7 +104,144 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 </tbody>
 </table>
 
-### 如何搭建 H5 页面？
+### 组件说明
+
+#### 组件树/物料库
+
+组件树木展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置。物料库为所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览去页面中。
+
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/WpMvbhVm3oyGscxUlpxc05Ajnce.png" src-width="664" src-height="754" align="center"/>
+</div>
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/PdIjbWH7uoZ7HPxAfVycBnVqn0g.png" src-width="690" src-height="1268" align="center"/>
+</div>
+</div>
+
+#### 基础组件
+
+##### 导航头
+
+可以设置导航背景色、Logo 点击跳转后的链接、导航右侧可操作的功能。
+
+<img src="/assets/PgORbhvZUoR40txyb3jcA1IQnvb.png" src-width="3828" src-height="1946" align="center"/>
+
+##### 图片
+
+<img src="/assets/S3P5b5u6yoYtxKxyybAcPwmZnxf.png" src-width="3822" src-height="1928" align="center"/>
+
+##### 热区
+
+- 链接分享效果：用户点击后会复制分享链接到剪贴版中
+- 海报分享效果：用户点击后按所配置图片生成一张海报，可以下载保存以海报形式分享出去
+- 面对面分享效果：用户点击后按所配置图片生成打开二维码，可截图或者直接扫码进行分享。
+- 开户：点击后跳转开户页面
+- 入金：点击后跳转入金页面
+- 转仓：点击后跳转转仓页面
+- 跳转链接：点击后可自定义跳转到配置链接地址页面
+- 开户 - 入金 - 链接：用户未开户跳转开户，已开户跳转入金，入金完成后直接对转所配置的链接页面。
+
+<div class="callout callout-bg-3 callout-border-3">
+<p>💡 单个热区可以添加配置多个热区点击事件。</p>
+</div>
+
+<img src="/assets/QhyKbPGV3oN1ngxFYjNcRdwcnHg.png" src-width="3812" src-height="1942" align="center"/>
+
+##### 按钮组
+
+1. 按钮点击事件支持配置：
+
+链接分享效果：用户点击后会复制分享链接到剪贴版中
+
+- 海报分享效果：用户点击后按所配置图片生成一张海报，可以下载保存以海报形式分享出去
+- 面对面分享效果：用户点击后按所配置图片生成打开二维码，可截图或者直接扫码进行分享。
+- 开户：点击后跳转开户页面
+- 入金：点击后跳转入金页面
+- 转仓：点击后跳转转仓页面
+- 跳转链接：点击后可自定义跳转到配置链接地址页面
+- 开户 - 入金 - 链接：用户未开户跳转开户，已开户跳转入金，入金完成后直接对转所配置的链接页面。
+
+1. 文件链接配置
+
+如果按钮需要附带超链，例如协议文本等等，可以在此设置文案以及跳转链接
+
+1. 其他配置
+
+是否悬浮固定底部：勾选后则用户滚动屏幕时，按钮始终展示在页面底部
+
+组件背景颜色：可设置按钮外的组件背景颜色。
+
+<img src="/assets/IGwobollgoKFQRx875Tch6PEnZb.png" src-width="3792" src-height="1948" align="center"/>
+
+##### 间隔区
+
+<img src="/assets/DVdWbBSkpoHAD2x37ImcFYmOnCg.png" src-width="3810" src-height="1952" align="center"/>
+
+#### 营销组件
+
+##### 我的战绩
+
+<img src="/assets/Zcy2bAcHDocXl6xhcXNcqC23nKc.png" src-width="3824" src-height="1918" align="center"/>
+
+##### 助力得奖
+
+##### 基础组队得奖
+
+#### **组件快捷操作**
+
+<img src="/assets/Plvlb6OH7oTacoxY5DMcXFQQnle.png" src-width="2406" src-height="1832"/>
+
+### 页面**配置区域说明**
+
+页面配置区域参数，如下图：
+
+<img src="/assets/ZooPbfuBko1EVrx7p7BcuNUXnGf.png" src-width="696" src-height="632"/>
+
+#### 多语言设置
+
+可配置当前页面需要支持的语种与页面标题，也支持快捷切换。
+
+<img src="/assets/VPlRbVRuuoEFmMxpMSTcmS72nwh.png" src-width="800" src-height="356"/>
+
+#### 适用区域设置
+
+可配置能打开当前页面的 IP 区域有哪些。分为不限制、仅支持区域、不支持区域三种类型可选。
+
+- 不限制：则表示任何地区 IP 均可访问该页面
+- 仅支持区域：仅限制所配置的地区 IP 可访问该页面
+- 不支持区域：仅限制所配置的地区 IP 不可访问该页面
+
+#### 活动配置
+
+可配置当前页面是否需要登录后才可访问
+
+- 不需要登录：则用户不需要登录账号即可访问页面
+- 通用登录页：则用户需要在通用登录页面中进行登录后才可访问页面
+
+#### UI 配置
+
+页面的背景颜色配置
+
+#### 链接参数配置
+
+链接渠道号配置，若为了统计数据需要区分渠道来源的话可以配置专属渠道号。否则可以不填。
+
+#### 分享配置
+
+页面分享功能的配置
+
+- 链接分享模式：即点击分享时直接复制链接或者当前链接形式直接分享，可配置分享链接时自带的分享标题以及分享描述。分享链接可单独配置，不配置则默认分享当前页面的链接，若配置后则分享时将分享配置之后的页面链接。分享缩略图即当分享链接至微信或者其他需要缩略图展示的平台时，可展示当前配置的缩略图。
+- 面对面分享模式：即点击分享时直接弹出自带二维码的图片，可截图分享或者当面扫码打开对应页面。需配置二维码弹窗背景图片。
+- 海报分享模式：
+
+## 操作说明
+
+### 适用场景
+
+场景描述：基础组队，基础组队 - 净转入，基础组队 - 净转仓，基础组队 - 开户，基础组队 - 净入金，基础组队 - 不同任务所得奖励不同（有/无参团条件），助力活动等 H5 页面
+
+### 使用说明
 
 **第一步：选择新建页面**
 

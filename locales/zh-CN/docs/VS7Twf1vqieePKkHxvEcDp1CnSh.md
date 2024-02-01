@@ -1,6 +1,6 @@
 ---
 title: 融资管理
-slug: xxx
+slug: VS7Twf1vqieePKkHxvEcDp1CnSh
 sidebar_position: 2
 ---
 

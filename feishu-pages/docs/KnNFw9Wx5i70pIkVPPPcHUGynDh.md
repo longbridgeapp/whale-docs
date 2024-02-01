@@ -1,11 +1,11 @@
 ---
-title: 公司行動版面說明
-slug: xxxxxxxxx
+title: 版面說明
+slug: KnNFw9Wx5i70pIkVPPPcHUGynDh
 sidebar_position: 2
 ---
 
 
-# 公司行動版面說明
+# 版面說明
 
 ## 適用場景
 
@@ -44,6 +44,9 @@ sidebar_position: 2
 <img src="/assets/KScFbzEXoo8HXXx0bd5c7dJAnwd.png" src-width="2674" src-height="1182" align="center"/>
 
  同時在詳情頁，基本上提供所有可供操作的功能鍵入口
+
+- 在詳情頁可以直接增、刪、改客戶派發計算的權益
+- 在詳情頁-客戶詳情可以進一步操作線下行權、更改權益和費用
 
 <img src="/assets/GcVVbypQgoB6TPx6ucAcaJaunNd.png" src-width="2504" src-height="1634" align="center"/>
 
@@ -87,9 +90,19 @@ sidebar_position: 2
 
 方案備註（预告備註）
 
+- HK 市场自動处理，其它市場手填
+- TM、BE、IP 类：股票编号+市場+名稱+逗号+CCASS 备注
+- 其它類：CCASS 备注
+
 權益備註
+
+- 方案備註+逗号+持倉
 
 費用備註格式（非 TAX_FEE）：費用名稱英文+股票编號+市場+股票名稱
 
+- 例：Handling Fee 03893.HK CROSSTEC
+
 費用備註格式（TAX_FEE）：預告（或方案備註）+ "- Withholding TAX"
+
+- 例：TROW（US74144T1088） Cash Dividend USD 1.22 per Share （Ordinary Dividend） - Withholding TAX
 

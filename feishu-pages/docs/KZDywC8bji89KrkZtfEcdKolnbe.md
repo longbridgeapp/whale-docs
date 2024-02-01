@@ -1,15 +1,23 @@
 ---
-title: 活動系統-業務介紹
+title: 業務介紹
 slug: KZDywC8bji89KrkZtfEcdKolnbe
 sidebar_position: 0
 ---
 
 
-# 活動系統-業務介紹
+# 業務介紹
 
 # 概述
 
-活動系統，是傳統券商轉型互聯網券商的必備工具，可通過線上活動規則搭建完成及時發獎，適用於拉新、留存、促活、轉化等各種用戶生命週期節點管理，合理的運用好活動工具，能助力券商快速應對市場變化。
+活動系統是 Whale OPA 運營系統所提供營銷活動管理核心，方便劵商租戶來管理各種市場營銷活動，提供各種營銷活動的配置管理，系統目前提供下列活動類型組：
+
+透過方便的營銷活動模板，來管理各種營銷活動
+
+<img src="/assets/BZOnbAcDgoCyFnxFdLfc23sBnJc.png" src-width="1276" src-height="920" align="center"/>
+
+在整體架構上，活動系統的管理就是完成整個 OPA 運營系統中的核心活動管理，透過活動模板配置 ，協助劵商租戶完成多場景/多營銷面向的活動管理
+
+<img src="/assets/Iagob0WUkoisH4xOiqKcEOGZnAF.png" src-width="1334" src-height="818" align="center"/>
 
 # 活動創建步驟
 

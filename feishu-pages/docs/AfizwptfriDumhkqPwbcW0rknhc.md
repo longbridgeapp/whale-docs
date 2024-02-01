@@ -1,11 +1,11 @@
 ---
-title: 場景-股權認購（OO、EO、RS、ER、TU、TC）
+title: 股權認購（OO、EO、RS、ER、TU、TC）
 slug: xxxxxxxxx
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 
-# 場景-股權認購（OO、EO、RS、ER、TU、TC）
+# 股權認購（OO、EO、RS、ER、TU、TC）
 
 ## 適用場景
 

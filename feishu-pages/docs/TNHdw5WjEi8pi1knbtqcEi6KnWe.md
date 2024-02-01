@@ -1,6 +1,6 @@
 ---
 title: 客戶合約
-slug: bomanager-contract-customer
+slug: TNHdw5WjEi8pi1knbtqcEi6KnWe
 sidebar_position: 0
 ---
 
@@ -37,8 +37,12 @@ sidebar_position: 0
 
 <div class="callout callout-bg-2 callout-border-2">
 <p>💡 注意：</p>
-<p>前台合約只支持編輯費用信息、IBOND 累計利息、結算幣種、倉位信息</p>
-<p>前台合約的其它字段如果有問題，需要先修改前台合約數據，再依次執行清算前檢查和清算計費步驟</p>
+<ul>
+<li><p>前台合約只支持編輯費用信息、IBOND 累計利息、結算幣種、倉位信息</p>
+</li>
+<li><p>前台合約的其它字段如果有問題，需要先修改前台合約數據，再依次執行清算前檢查和清算計費步驟</p>
+</li>
+</ul>
 </div>
 
 <img src="/assets/RwiIbvmCyoNdmKxdYE5cvDD7n2c.png" src-width="2486" src-height="1544" align="center"/>

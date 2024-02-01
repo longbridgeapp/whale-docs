@@ -1,6 +1,6 @@
 ---
 title: 業務碼查詢
-slug: wbo-
+slug: KxTvwTFPnitoYbkECcMcvfobnGb
 sidebar_position: 0
 ---
 

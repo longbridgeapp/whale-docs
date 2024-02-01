@@ -1,6 +1,6 @@
 ---
 title: 組隊活動
-slug: activities-team
+slug: CiEqwejVki1scbkNL3icZOgWnNe
 sidebar_position: 2
 ---
 

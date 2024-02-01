@@ -9,6 +9,28 @@ sidebar_position: 2
 
 # 概述
 
+<table header_column="1">
+<colgroup>
+<col width="130"/>
+<col width="659"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>菜單功能目錄</p></td><td><p>作業說明</p></td></tr>
+<tr>
+<td><p>標準活動管理</p></td><td><p>具有標準活動模版，可選中對應活動模版創建活動，並進行規則配置與活動數據的管理</p>
+<ul>
+<li>邀請活動模版：通過用戶邀請好友完成任務獲得獎品（常用的裂變活動模式）</li>
+<li>基礎活動模版：用戶本人完成對應活動獲得獎品（每月新用戶活動更新、老用戶回饋活動。) </li>
+<li>組隊活動模版：多人一起參與活動，達到指定人數要求且隊員都完成對應任務即可獲得獎品。</li>
+</ul></td></tr>
+<tr>
+<td><p>非標準活動管理</p></td><td><p>主要用於進行非標準活動參數的配置與管理</p></td></tr>
+<tr>
+<td><p>邀請關係管理</p></td><td><p>主要對於活動相關的邀請綁定關係進行管理。可對用戶的邀請關係信息查詢、更改、綁定</p></td></tr>
+</tbody>
+</table>
+
 ## **適用場景**
 
 想要選中活動模版，創建對應規則，讓系統按照規則判斷給用戶自動發獎
@@ -39,7 +61,7 @@ sidebar_position: 2
 
 活動管理列表字段說明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -89,7 +111,7 @@ sidebar_position: 2
 
 活動常見達標任務類型及說明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="100"/>
 <col width="352"/>
@@ -143,7 +165,7 @@ sidebar_position: 2
 
 活動模版字段按如下規則進行配置：
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -218,7 +240,7 @@ sidebar_position: 2
 
 活動模版字段按如下規則進行配置：
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -256,15 +278,17 @@ sidebar_position: 2
 
 不同獎勵生成时间则獎勵的計算逻辑会有部分差别
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="117"/>
 <col width="265"/>
 <col width="401"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>達標任務類型</p></td><td><p>實時生成</p></td><td><p>結束統一生成</p></td></tr>
+<th><p>達標任務類型</p></th><th><p>實時生成</p></th><th><p>結束統一生成</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>註冊</p></td><td><p>完成註冊時生成獎勵發放請求</p></td><td><p>活動結束 T+1 日後生成獎勵發放請求</p></td></tr>
 <tr>
@@ -286,14 +310,16 @@ sidebar_position: 2
 
 <img src="/assets/Hy9qbu7NNoF5hnxYQaDc0KsRnmc.png" src-width="3258" src-height="1242" align="center"/>
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td><p>列表字段</p></td><td><p>字段說明</p></td></tr>
+<th><p>列表字段</p></th><th><p>字段說明</p></th></tr>
+</thead>
+<tbody>
 <tr>
 <td><p>編號</p></td><td><p>獎勵記錄編號</p></td></tr>
 <tr>

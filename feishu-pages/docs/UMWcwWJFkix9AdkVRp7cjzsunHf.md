@@ -1,11 +1,11 @@
 ---
-title: 基金管理-快速上手
+title: 快速上手
 slug: UMWcwWJFkix9AdkVRp7cjzsunHf
 sidebar_position: 1
 ---
 
 
-# 基金管理-快速上手
+# 快速上手
 
 # 概述
 
@@ -23,7 +23,15 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 <img src="/assets/NcS0b7TvBoRj9fxDAg2crCxUnGd.png" src-width="3252" src-height="1708" align="center"/>
 
-❤ 注意： 
+<div class="callout callout-bg-3 callout-border-3">
+<p>💡 - 基金公司渠道一定要遵循範例格式模式填寫，禁止填寫中文以及其他特殊符號；</p>
+<ul>
+<li><p>私募基金的基金公司渠道嚴格按照提示加前綴 private-；</p>
+</li>
+<li><p>其中自動回填就是通过 API 拉取第三方基金公司的确認净值/确認金额/确認份额等，若劵商租户没有走 API 的配置時，請任意填下时间即可；</p>
+</li>
+</ul>
+</div>
 
 **步骤二：新建基金**
 
@@ -47,7 +55,12 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 在基金管理列表中，将新建的基金设置为显示&上架状态，此时App中的基金排行中将显示该基金，同时基金支持交易。
 
-❤ 注意： 
+<div class="callout callout-bg-3 callout-border-3">
+<p>💡 - 隐藏状态的基金，App客户端无法搜索和查看基金；</p>
+<ul>
+<li>显示状态但是未上架的基金，App客户端可搜索和查看基金，但客户无法交易基金；</li>
+</ul>
+</div>
 
 **步骤二：配置基金运营场景**
 
@@ -85,7 +98,9 @@ App客户端展示位置如下
 
 <img src="/assets/JL00bmM6zoAXPAxkFGRckiwpn2b.png" src-width="1280" src-height="734" align="center"/>
 
-❤ Tips: 
+<div class="callout callout-bg-3 callout-border-3">
+<p>💡 申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在0.5时，点击『 确定 』将提示错误，需要重新填写。</p>
+</div>
 
 **步骤三：核对确认并交收**
 

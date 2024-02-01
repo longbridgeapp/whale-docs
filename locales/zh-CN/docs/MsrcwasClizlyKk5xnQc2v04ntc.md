@@ -29,5 +29,28 @@ sidebar_position: 4
 
 ## **重要时间点参考 **
 
+<table>
+<colgroup>
+<col width="159"/>
+<col width="306"/>
+<col width="138"/>
+<col width="217"/>
+</colgroup>
+<tbody>
+<tr>
+<td><p>时间 </p></td><td><p>操作内容 </p></td><td><p>操作人员 </p></td><td><p>备注 </p></td></tr>
+<tr>
+<td><p>T 日 12:00 cut-off </p></td><td><p>申购、赎回数据发送基金代理商 (例：高腾) （会由前台自动获取订单） </p></td><td><p>BO 后台人员</p></td><td><p>资产冻结、发送后不可撤单 </p></td></tr>
+<tr>
+<td><p>T 日 16:00 之前 </p></td><td><p>T 日订单发送申购赎回表至基金托管行 </p></td><td><p>BO 后台人员</p></td><td></td></tr>
+<tr>
+<td><p>T 日 18:00 之前 </p></td><td><p>申购款打到基金托管行 </p></td><td><p>财务 </p></td><td></td></tr>
+<tr>
+<td><p>T+1 日（21:00 点左右） </p></td><td><p>申购份额、赎回份额确认 </p></td><td></td><td><p>证劵订单显示成交 </p></td></tr>
+<tr>
+<td><p>T+2 日（18:00 之前） </p></td><td><p>劵商收到赎回款 </p></td><td></td><td></td></tr>
+</tbody>
+</table>
+
 （以上会根据不同基金代理商有所不同）
 

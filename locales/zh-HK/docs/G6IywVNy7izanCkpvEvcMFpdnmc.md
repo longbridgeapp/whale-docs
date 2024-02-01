@@ -1,6 +1,6 @@
 ---
 title: 借幣提醒
-slug: xxx
+slug: G6IywVNy7izanCkpvEvcMFpdnmc
 sidebar_position: 2
 ---
 
@@ -16,6 +16,8 @@ sidebar_position: 2
 無
 
 ## 業務流程
+
+<img src="/assets/HTxDbudDwopcbjxKxxvcFuAPnRc.png" src-width="616" src-height="1356" align="center"/>
 
 ## 操作說明
 
@@ -41,8 +43,8 @@ sidebar_position: 2
 <img src="/assets/AL6rbl69ootUKxxCDomcn8YVnLd.png" src-width="3218" src-height="1070" align="center"/>
 
 1. 同時，開啓規則後，客戶在 App 上可以對應查看【自動還款】功能，可以自主選擇開啓該功能。若客戶打開自動還款，當命中規則時，系統將進行自動換匯或後台操作人工兌換
-    1. App 端「自動還款」功能入口：「我的」-「設置」-「賬戶設置」
-    <img src="/assets/O591b74Lzo9Cv1xbGXmctyuNnLe.png" src-width="1170" src-height="2532"/>
+    1. App 端「自動還款」
+    <img src="/assets/O591b74Lzo9Cv1xbGXmctyuNnLe.png" src-width="1170" src-height="2532" align="center"/>
     1. App 若開啓「自動還款」，頁面「自動換匯」則為「開啓」，支持操作【兌換】
     <img src="/assets/MlH4bA93PocqlJxZRDFckjRqnPe.png" src-width="3216" src-height="682" align="center"/>
 

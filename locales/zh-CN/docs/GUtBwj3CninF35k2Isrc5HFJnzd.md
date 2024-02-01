@@ -1,6 +1,6 @@
 ---
 title: 标准活动管理
-slug: activities-normal
+slug: GUtBwj3CninF35k2Isrc5HFJnzd
 sidebar_position: 4
 ---
 
@@ -23,6 +23,10 @@ sidebar_position: 4
 
 适用：运营人员，活动系统涉及到下列几个主体：
 
+- 活动系统：运营人员负责配置管理在线活动
+- 用户分群：圈定目标用户，以及活动过程中资产相关数据获取
+- 权益系统：关联相关活动奖励
+
 <img src="/assets/OfZab8MYcoEPPUx8a5ycu2TDnUc.jpeg" src-width="2190" src-height="894" align="center"/>
 
 ### 该菜单页的功能说明
@@ -31,15 +35,14 @@ sidebar_position: 4
 
 本作业可以维护管理标准活动
 
-上层：可选择活动模版进行创建
-
-下层：可对已创建好的活动纪录进行查询
+- 上层：可选择活动模版进行创建
+- 下层：可对已创建好的活动纪录进行查询
 
 <img src="/assets/J1WNbXNUiouVlzxqdkLcfuf4nfg.png" src-width="3230" src-height="1588" align="center"/>
 
 活动管理列表字段说明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -89,11 +92,11 @@ sidebar_position: 4
 
 ### 活动常见达标任务类型及说明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="100"/>
 <col width="352"/>
-<col width="260"/>
+<col width="412"/>
 </colgroup>
 <tbody>
 <tr>

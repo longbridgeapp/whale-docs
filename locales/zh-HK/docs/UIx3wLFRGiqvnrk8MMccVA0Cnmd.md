@@ -1,6 +1,6 @@
 ---
 title: 平倉
-slug: pingcang
+slug: UIx3wLFRGiqvnrk8MMccVA0Cnmd
 sidebar_position: 2
 ---
 

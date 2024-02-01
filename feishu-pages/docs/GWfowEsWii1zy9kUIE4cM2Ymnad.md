@@ -1,6 +1,6 @@
 ---
 title: 頁面管理
-slug: xxx
+slug: GWfowEsWii1zy9kUIE4cM2Ymnad
 sidebar_position: 1
 ---
 
@@ -33,7 +33,7 @@ sidebar_position: 1
 
 <img src="/assets/DTt2bvpfmoUMvNxHq2ccUPMdnVb.png" src-width="3286" src-height="1002" align="center"/>
 
-紀錄右側操作區的可以操作： 【編輯】/【複製】/【刪除】
+紀錄右側操作區的可以操作：【編輯】/【複製】/【刪除】
 
 頁面列表字段/功能說明：
 

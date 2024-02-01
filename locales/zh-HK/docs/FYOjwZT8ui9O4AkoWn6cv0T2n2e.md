@@ -1,6 +1,6 @@
 ---
 title: 私募基金
-slug: simujijin
+slug: FYOjwZT8ui9O4AkoWn6cv0T2n2e
 sidebar_position: 6
 ---
 
@@ -53,7 +53,9 @@ sidebar_position: 6
 
 <img src="/assets/GgmpbJevhoO4fIxAt5gc3CHnnqs.png" src-width="2992" src-height="1708" align="center"/>
 
-注意：由於淨值數據有可能直接影響客戶歷史盈虧數據，因此私募淨值不支持輸入歷史淨值，即系統已存最新日期淨值，則不可添加早於這個淨值日期的淨值添加。
+<div class="callout callout-bg-1 callout-border-1">
+<p>💡 注意：由於淨值數據有可能直接影響客戶歷史盈虧數據，因此私募淨值不支持輸入歷史淨值，即系統已存最新日期淨值，則不可添加早於這個淨值日期的淨值添加。</p>
+</div>
 
 #### 客戶訂單
 

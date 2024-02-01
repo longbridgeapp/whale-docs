@@ -1,15 +1,23 @@
 ---
-title: 活动系统 - 业务介绍
+title: 业务介绍
 slug: KZDywC8bji89KrkZtfEcdKolnbe
 sidebar_position: 0
 ---
 
 
-# 活动系统 - 业务介绍
+# 业务介绍
 
 # 概述
 
-活动系统，是传统券商转型互联网券商的必备工具，可通过线上活动规则搭建完成及时发奖，适用于拉新、留存、促活、转化等各种用户生命周期节点管理，合理的运用好活动工具，能助力券商快速应对市场变化。
+活动系统是 Whale OPA 运营系统所提供营销活动管理核心，方便劵商租户来管理各种市场营销活动，提供各种营销活动的配置管理，系统目前提供下列活动类型组：
+
+透过方便的营销活动模板，来管理各种营销活动
+
+<img src="/assets/BZOnbAcDgoCyFnxFdLfc23sBnJc.png" src-width="1276" src-height="920" align="center"/>
+
+在整体架构上，活动系统的管理就是完成整个 OPA 运营系统中的核心活动管理，透过活动模板配置，协助劵商租户完成多场景/多营销面向的活动管理
+
+<img src="/assets/Iagob0WUkoisH4xOiqKcEOGZnAF.png" src-width="1334" src-height="818" align="center"/>
 
 # 活动创建步骤
 

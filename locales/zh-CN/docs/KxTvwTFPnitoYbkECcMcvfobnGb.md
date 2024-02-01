@@ -1,6 +1,6 @@
 ---
 title: 业务码查询
-slug: wbo-
+slug: KxTvwTFPnitoYbkECcMcvfobnGb
 sidebar_position: 0
 ---
 

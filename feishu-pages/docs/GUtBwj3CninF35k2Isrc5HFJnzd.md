@@ -1,6 +1,6 @@
 ---
 title: 標準活動管理
-slug: activities-normal
+slug: GUtBwj3CninF35k2Isrc5HFJnzd
 sidebar_position: 4
 ---
 
@@ -23,6 +23,10 @@ sidebar_position: 4
 
 適用：運營人員，活動系統涉及到下列幾個主體：
 
+- 活動系統： 運營人員負責配置管理在線活動
+- 用戶分群：圈定目標用戶，以及活動過程中資產相關數據獲取
+- 權益系統：  關聯相關活動獎勵
+
 <img src="/assets/OfZab8MYcoEPPUx8a5ycu2TDnUc.jpeg" src-width="2190" src-height="894" align="center"/>
 
 ### 該菜單頁的功能說明
@@ -31,15 +35,14 @@ sidebar_position: 4
 
 本作業可以維護管理標準活動
 
-上層：可選擇活動模版進行創建
-
-下層：可對已創建好的活動紀錄進行查詢
+- 上層：可選擇活動模版進行創建
+- 下層：可對已創建好的活動紀錄進行查詢
 
 <img src="/assets/J1WNbXNUiouVlzxqdkLcfuf4nfg.png" src-width="3230" src-height="1588" align="center"/>
 
 活動管理列表字段說明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="111"/>
 <col width="753"/>
@@ -89,11 +92,11 @@ sidebar_position: 4
 
 ### 活動常見達標任務類型及說明
 
-<table>
+<table header_column="1">
 <colgroup>
 <col width="100"/>
 <col width="352"/>
-<col width="260"/>
+<col width="412"/>
 </colgroup>
 <tbody>
 <tr>

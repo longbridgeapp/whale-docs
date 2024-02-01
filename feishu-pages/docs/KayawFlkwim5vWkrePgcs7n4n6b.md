@@ -1,11 +1,11 @@
 ---
-title: 公司行動操作順序
+title: 操作順序
 slug: xxxxxxxxx
 sidebar_position: 3
 ---
 
 
-# 公司行動操作順序
+# 操作順序
 
 ## 適用場景
 
@@ -39,9 +39,8 @@ sidebar_position: 3
 
 接下展示是**預告信息**： 同時系統也針對部分公司行動提供預設配置項來優化，
 
-      例： 派發位置（Street 或 NOMiNEE） 或 支付日期+N 配置 （每家租戶可能不同）
-
-      零股轉分紅預設（是或否）。  注意：以上預設配置變更，若有需要請聯絡 長橋運營團隊來配置
+- 例： 派發位置（Street 或 NOMiNEE） 或 支付日期+N 配置 （每家租戶可能不同）
+- 零股轉分紅預設（是或否）。  注意：以上預設配置變更，若有需要請聯絡 長橋運營團隊來配置
 
 <img src="/assets/VlTmbNpcKoEwWCxipR7c5JALn8b.png" src-width="2888" src-height="1408" align="center"/>
 
@@ -73,7 +72,9 @@ sidebar_position: 3
 
 在登記時，提供業務校驗功能的同時，增加了更多的業務檢查項目
 
-注： 系統會判斷 必須 帳務日期&gt;= 登記日 才可進行登記操作
+<div class="callout callout-bg-3 callout-border-3">
+<p>💡 注： 系統會判斷 必須 帳務日期&gt;= 登記日 才可進行登記操作</p>
+</div>
 
 <img src="/assets/FR1bbMIi5oJLCYx9GRhcjSDWncc.png" src-width="2542" src-height="150" align="center"/>
 

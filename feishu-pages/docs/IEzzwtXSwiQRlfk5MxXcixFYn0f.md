@@ -1,6 +1,6 @@
 ---
 title: 運營系统（OPA）
-slug: opa
+slug: IEzzwtXSwiQRlfk5MxXcixFYn0f
 sidebar_position: 2
 ---
 
@@ -12,6 +12,10 @@ OPERATION-ADMIN（簡稱 OPA）運營系統是 Whale 針對劵商客戶營銷所
 <img src="/assets/KmiYbhbDAoAHxXxdPphcQWeLnCg.png" src-width="2464" src-height="984" align="center"/>
 
 同時整個 OPA 運營系統的核心作業， 提供了全鏈路的營銷運營管理，包含下列層級：
+
+- **活動管理**：提供多業務/多場景的 標準化的營銷活動管理工具
+- **觸達用戶**:   組合多樣的投放服務，達到用戶喚醒行為（主動與被動推送）
+- **營銷權益**:   透過不同權益獎勵推出，達到客戶留存與轉化
 
      
 

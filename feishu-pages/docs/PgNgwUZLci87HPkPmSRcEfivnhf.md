@@ -1,6 +1,6 @@
 ---
 title: 機構合約
-slug: bomanager-contract-mechanism
+slug: PgNgwUZLci87HPkPmSRcEfivnhf
 sidebar_position: 1
 ---
 
@@ -10,6 +10,9 @@ sidebar_position: 1
 ## 適用場景
 
 機構合約（上手劵商）管理操作
+
+- 機構合約的延遲交收
+- 機構費用的對帳
 
 ## 前置條件
 

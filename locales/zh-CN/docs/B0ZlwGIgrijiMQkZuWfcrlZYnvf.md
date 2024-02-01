@@ -1,6 +1,6 @@
 ---
 title: 授信额度
-slug: xxx
+slug: B0ZlwGIgrijiMQkZuWfcrlZYnvf
 sidebar_position: 1
 ---
 

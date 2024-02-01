@@ -1,6 +1,6 @@
 ---
 title: APP 展示管理
-slug: APPzhanshiguanli
+slug: A8cIw3eYXiEGJJktP3PcvrU9nn0
 sidebar_position: 7
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 賬戶明細
-slug: wbo-account-balance-changes
+slug: LjCTwMSsUiaBTGkVfAicQlzenYe
 sidebar_position: 3
 ---
 

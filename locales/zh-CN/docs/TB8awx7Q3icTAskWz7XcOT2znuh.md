@@ -1,6 +1,6 @@
 ---
 title: 账户余额
-slug: wbo-account-type=SETTLEMENT
+slug: TB8awx7Q3icTAskWz7XcOT2znuh
 sidebar_position: 2
 ---
 

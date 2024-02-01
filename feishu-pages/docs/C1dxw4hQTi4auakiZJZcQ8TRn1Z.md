@@ -1,6 +1,6 @@
 ---
 title: 凍結/解凍
-slug: xxxxxx
+slug: C1dxw4hQTi4auakiZJZcQ8TRn1Z
 sidebar_position: 1
 ---
 
