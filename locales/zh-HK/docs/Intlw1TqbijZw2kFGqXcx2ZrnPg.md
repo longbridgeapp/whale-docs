@@ -43,12 +43,9 @@ sidebar_position: 1
 <col width="503"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p><strong>港股 EP 模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
-<tr>
-<td><p>CCEP：選擇當前租戶選項<br/>使用者：選擇當前租戶選項<br/>是否上報：選擇‘是’<br/>起始編號/結束編號：手動輸入配置· </p></td><td><p>CCEP：選擇‘lb’選項<br/>使用者：選擇當前租戶選項<br/> 是否上報：選擇‘是’<br/> 起始編號/結束編號：手動輸入配置·</p></td></tr>
-<tr>
-<td colspan="2"><p>注意：（‘1’ - ‘99’是交易所自測區間，不可使用，不可用‘0’前置占位，建議按 lb 提供的區間配置）</p></td></tr>
+<tr><td><p><strong>港股 EP 模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
+<tr><td><p>CCEP：選擇當前租戶選項<br/>使用者：選擇當前租戶選項<br/>是否上報：選擇‘是’<br/>起始編號/結束編號：手動輸入配置· </p></td><td><p>CCEP：選擇‘lb’選項<br/>使用者：選擇當前租戶選項<br/> 是否上報：選擇‘是’<br/> 起始編號/結束編號：手動輸入配置·</p></td></tr>
+<tr><td colspan="2"><p>注意：（‘1’ - ‘99’是交易所自測區間，不可使用，不可用‘0’前置占位，建議按 lb 提供的區間配置）</p></td></tr>
 </tbody>
 </table>
 

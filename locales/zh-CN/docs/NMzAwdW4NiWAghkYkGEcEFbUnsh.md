@@ -29,32 +29,19 @@ sidebar_position: 2
 <col width="753"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>字段名称</p></td><td><p>配置说明</p></td></tr>
-<tr>
-<td><p>订单号</p></td><td><p>用户购买订单流水号</p></td></tr>
-<tr>
-<td><p>产品名称</p></td><td><p>用户所购买的产品名称</p></td></tr>
-<tr>
-<td><p>付款人</p></td><td><p>付款用户 ID</p></td></tr>
-<tr>
-<td><p>账户</p></td><td><p>用户付款账户</p></td></tr>
-<tr>
-<td><p>支付流水号</p></td><td><p>用户付款流水号</p></td></tr>
-<tr>
-<td><p>货币类型</p></td><td><p>付款货币类型</p></td></tr>
-<tr>
-<td><p>产品成本</p></td><td><p>产品实际成本价格</p></td></tr>
-<tr>
-<td><p>支付额度</p></td><td><p>用户付款金额</p></td></tr>
-<tr>
-<td><p>支付时间</p></td><td><p>用户支付完成时间</p></td></tr>
-<tr>
-<td><p>下单时间</p></td><td><p>用户下单时间</p></td></tr>
-<tr>
-<td><p>支付状态</p></td><td><p>用户当前支付状态</p></td></tr>
-<tr>
-<td><p>创建时间</p></td><td><p>订单创建时间</p></td></tr>
+<tr><td><p>字段名称</p></td><td><p>配置说明</p></td></tr>
+<tr><td><p>订单号</p></td><td><p>用户购买订单流水号</p></td></tr>
+<tr><td><p>产品名称</p></td><td><p>用户所购买的产品名称</p></td></tr>
+<tr><td><p>付款人</p></td><td><p>付款用户 ID</p></td></tr>
+<tr><td><p>账户</p></td><td><p>用户付款账户</p></td></tr>
+<tr><td><p>支付流水号</p></td><td><p>用户付款流水号</p></td></tr>
+<tr><td><p>货币类型</p></td><td><p>付款货币类型</p></td></tr>
+<tr><td><p>产品成本</p></td><td><p>产品实际成本价格</p></td></tr>
+<tr><td><p>支付额度</p></td><td><p>用户付款金额</p></td></tr>
+<tr><td><p>支付时间</p></td><td><p>用户支付完成时间</p></td></tr>
+<tr><td><p>下单时间</p></td><td><p>用户下单时间</p></td></tr>
+<tr><td><p>支付状态</p></td><td><p>用户当前支付状态</p></td></tr>
+<tr><td><p>创建时间</p></td><td><p>订单创建时间</p></td></tr>
 </tbody>
 </table>
 

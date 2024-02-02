@@ -72,36 +72,32 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 <col width="544"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>處理方式</p></td><td><p>名詞解釋</p></td></tr>
-<tr>
-<td><p>關聯</p></td><td><p>指代根據銀行帳單中的付款方銀行帳號、付款方姓名、幣種、金額等欄位自動與入金記錄是否一致來進行關聯入賬。</p></td></tr>
-<tr>
-<td><p>入金退還</p></td><td><p>指代沒有正常開戶的客戶或因客戶帳戶有風險等原因無法入帳至證券帳戶的情況，需要將資金退回客戶銀行卡的整體處理流程。</p></td></tr>
-<tr>
-<td><p>出金退還</p></td><td><p>指代用戶的出金被用戶的收款行拒絕，用戶需要把客戶被收款行退回的錢配對到客戶的帳戶中。（由於對銀行流水而言是一筆資金流入，為了能夠區分正常的入金，故放置在入金匹配的頁面）</p></td></tr>
+<tr><td><p>處理方式</p></td><td><p>名詞解釋</p></td></tr>
+<tr><td><p>關聯</p></td><td><p>指代根據銀行帳單中的付款方銀行帳號、付款方姓名、幣種、金額等欄位自動與入金記錄是否一致來進行關聯入賬。</p></td></tr>
+<tr><td><p>入金退還</p></td><td><p>指代沒有正常開戶的客戶或因客戶帳戶有風險等原因無法入帳至證券帳戶的情況，需要將資金退回客戶銀行卡的整體處理流程。</p></td></tr>
+<tr><td><p>出金退還</p></td><td><p>指代用戶的出金被用戶的收款行拒絕，用戶需要把客戶被收款行退回的錢配對到客戶的帳戶中。（由於對銀行流水而言是一筆資金流入，為了能夠區分正常的入金，故放置在入金匹配的頁面）</p></td></tr>
 </tbody>
 </table>
 
 - 關聯：僅入金的銀行賬單中系統無法自動匹配需要人工操作的記錄，在此頁面下操作員可以根據系統提示進行確認，並進行後續入賬或者其他操作。
     - 關聯頁面將根據姓名配對用戶自動比對欄位（如圖），確認無誤後可點選【關聯】
     <div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/TvXgbQOkcom643xSHe5cbtnDnBc.png" src-width="3818" src-height="1842" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/SkrUbgAmDoo4fMxHRy2cOR6Qngg.png" src-width="3904" src-height="1950" align="center"/>
-</div>
-</div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/TvXgbQOkcom643xSHe5cbtnDnBc.png" src-width="3818" src-height="1842" align="right"/>
+        </div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/SkrUbgAmDoo4fMxHRy2cOR6Qngg.png" src-width="3904" src-height="1950" align="center"/>
+        </div>
+    </div>
     - 如係統預設匹配的用戶不準，可透過【自定義】手動關聯該筆銀行流水所對應的客戶。關聯的方式有：入金的申請與證券帳號
     <div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/NthfbU9kiozjvgxLe7tcsd4Gntb.png" src-width="3308" src-height="1776" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/GMHlbwoAgooLyRxOW2qct14MnHf.png" src-width="3308" src-height="1750" align="center"/>
-</div>
-</div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/NthfbU9kiozjvgxLe7tcsd4Gntb.png" src-width="3308" src-height="1776" align="center"/>
+        </div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/GMHlbwoAgooLyRxOW2qct14MnHf.png" src-width="3308" src-height="1750" align="center"/>
+        </div>
+    </div>
 
 入金退還：若因種種原因，導致入金未能正常進入客戶的證券帳戶，需要對這筆記錄進行退款時，可以使用該功能進行操作。用戶需填寫客戶的銀行卡訊息，確認無誤後點選【確定】流轉至入金審核頁面進行審核操作。
 

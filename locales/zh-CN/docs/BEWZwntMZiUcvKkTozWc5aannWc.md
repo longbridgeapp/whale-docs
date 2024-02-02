@@ -49,22 +49,17 @@ sidebar_position: 0
 <col width="569"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填写说明</strong></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填写说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>渠道名称</p></td><td><p>是</p></td><td><p>自定义渠道名称，建议小于 10 个字符，不能有空格<br/>在配置融资池时，会根据名称选择。</p></td></tr>
-<tr>
-<td><p>支持类型</p></td><td><p>是</p></td><td><p>该渠道都支援什么样的认购类型，可多选。</p></td></tr>
-<tr>
-<td><p>是否同步至港交所</p></td><td><p>是</p></td><td><p>对应通路的订单是否需要同步到港交所。</p>
+<tr><td><p>渠道名称</p></td><td><p>是</p></td><td><p>自定义渠道名称，建议小于 10 个字符，不能有空格<br/>在配置融资池时，会根据名称选择。</p></td></tr>
+<tr><td><p>支持类型</p></td><td><p>是</p></td><td><p>该渠道都支援什么样的认购类型，可多选。</p></td></tr>
+<tr><td><p>是否同步至港交所</p></td><td><p>是</p></td><td><p>对应通路的订单是否需要同步到港交所。</p>
 <ul>
 <li>是 - 开启了 FINI 后，会透过 API 自动把该通路订单同步给港交所</li>
 <li>否 - 不同步<br/>例如：透过上手/银行做的新股认购，不直接提交到港交所，则选择<strong>否</strong>；</li>
 </ul></td></tr>
-<tr>
-<td><p>备注</p></td><td><p>否</p></td><td><p>自主备注，方便查看这个管道的用途、定义</p></td></tr>
+<tr><td><p>备注</p></td><td><p>否</p></td><td><p>自主备注，方便查看这个管道的用途、定义</p></td></tr>
 </tbody>
 </table>
 
@@ -82,12 +77,9 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 <col width="720"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>认购手续费</p></td><td><p>对申购的有效订单，收取的固定手续费，与申购金额无关</p></td></tr>
-<tr>
-<td><p>融资年利率</p></td><td><p>收取客户的利息 = 融资金额 * 融资年利率/365 * 计息天数</p></td></tr>
-<tr>
-<td><p>中签费用</p></td><td><p>此设置为比例，按照最终中签金额 × 对应的比例</p></td></tr>
+<tr><td><p>认购手续费</p></td><td><p>对申购的有效订单，收取的固定手续费，与申购金额无关</p></td></tr>
+<tr><td><p>融资年利率</p></td><td><p>收取客户的利息 = 融资金额 * 融资年利率/365 * 计息天数</p></td></tr>
+<tr><td><p>中签费用</p></td><td><p>此设置为比例，按照最终中签金额 × 对应的比例</p></td></tr>
 </tbody>
 </table>
 
@@ -119,26 +111,17 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 <col width="604"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填写说明</strong></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填写说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>证监会交易征费</p></td><td><p>是</p></td><td><p>对应港交所 SFC Transaction Levy 的费用类型</p></td></tr>
-<tr>
-<td><p>联交所交易征费</p></td><td><p>是</p></td><td><p>对应港交所 Transaction Fee 的费用类型</p></td></tr>
-<tr>
-<td><p>财汇局交易征费</p></td><td><p>是</p></td><td><p>对应港交所 Transaction Levy 的费用类型</p></td></tr>
-<tr>
-<td><p>经纪人佣金</p></td><td><p>是</p></td><td><p>给经纪人的佣金（具体使用待确认）</p></td></tr>
-<tr>
-<td><p>费率名称</p></td><td><p>是</p></td><td><p>券商自定义的费率名称，再配置 IPO 费用时，选择使用，如下图：<br/><img src="/assets/NKwQb6RphoYlU3xBOBQcAe6Cnee.png" src-width="1162" src-height="472" align="center"/></p></td></tr>
-<tr>
-<td><p>计费币种</p></td><td><p>是</p></td><td><p>港股 IPO 默认以港币计费</p></td></tr>
-<tr>
-<td><p>客户融资年利率</p></td><td><p>是</p></td><td><p>为客户提供融资认购，收取客户的融资利息年利率，可以为 0</p></td></tr>
-<tr>
-<td><p>认购手续费</p></td><td><p>是</p></td><td><p>IPO 认购时，券商收取客户的认购手续费，为一次性收费，与认购金额无关，可以为 0</p></td></tr>
+<tr><td><p>证监会交易征费</p></td><td><p>是</p></td><td><p>对应港交所 SFC Transaction Levy 的费用类型</p></td></tr>
+<tr><td><p>联交所交易征费</p></td><td><p>是</p></td><td><p>对应港交所 Transaction Fee 的费用类型</p></td></tr>
+<tr><td><p>财汇局交易征费</p></td><td><p>是</p></td><td><p>对应港交所 Transaction Levy 的费用类型</p></td></tr>
+<tr><td><p>经纪人佣金</p></td><td><p>是</p></td><td><p>给经纪人的佣金（具体使用待确认）</p></td></tr>
+<tr><td><p>费率名称</p></td><td><p>是</p></td><td><p>券商自定义的费率名称，再配置 IPO 费用时，选择使用，如下图：<br/><img src="/assets/NKwQb6RphoYlU3xBOBQcAe6Cnee.png" src-width="1162" src-height="472" align="center"/></p></td></tr>
+<tr><td><p>计费币种</p></td><td><p>是</p></td><td><p>港股 IPO 默认以港币计费</p></td></tr>
+<tr><td><p>客户融资年利率</p></td><td><p>是</p></td><td><p>为客户提供融资认购，收取客户的融资利息年利率，可以为 0</p></td></tr>
+<tr><td><p>认购手续费</p></td><td><p>是</p></td><td><p>IPO 认购时，券商收取客户的认购手续费，为一次性收费，与认购金额无关，可以为 0</p></td></tr>
 </tbody>
 </table>
 
@@ -182,16 +165,11 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 <col width="589"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p><strong>字段</strong></p></td><td><p><strong>是否必填</strong></p></td><td><p><strong>填写说明</strong></p></td></tr>
-<tr>
-<td><p>认购开始时间</p></td><td><p>Y</p></td><td><p>认购开始时间默认为交易所可认购时间，券商可自行修改</p></td></tr>
-<tr>
-<td><p>现金认购 - 结束时间</p></td><td><p>Y</p></td><td><p>现金认购结束时间，默认为交易所结束时间，券商可自行修改</p></td></tr>
-<tr>
-<td><p>费率</p></td><td><p>Y</p></td><td><p>现金费率为默认费率，券商可自行修改为任意费率套餐</p></td></tr>
-<tr>
-<td><p>渠道</p></td><td><p>Y</p></td><td><p>现金认购的渠道为默认现金渠道，券商可自行修改为其他现金渠道</p></td></tr>
+<tr><td><p><strong>字段</strong></p></td><td><p><strong>是否必填</strong></p></td><td><p><strong>填写说明</strong></p></td></tr>
+<tr><td><p>认购开始时间</p></td><td><p>Y</p></td><td><p>认购开始时间默认为交易所可认购时间，券商可自行修改</p></td></tr>
+<tr><td><p>现金认购 - 结束时间</p></td><td><p>Y</p></td><td><p>现金认购结束时间，默认为交易所结束时间，券商可自行修改</p></td></tr>
+<tr><td><p>费率</p></td><td><p>Y</p></td><td><p>现金费率为默认费率，券商可自行修改为任意费率套餐</p></td></tr>
+<tr><td><p>渠道</p></td><td><p>Y</p></td><td><p>现金认购的渠道为默认现金渠道，券商可自行修改为其他现金渠道</p></td></tr>
 </tbody>
 </table>
 
@@ -262,62 +240,50 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 <col width="589"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>字段</strong></p></th><th><p><strong>是否必填</strong></p></th><th><p><strong>填写说明</strong></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>是否必填</strong></p></th><th><p><strong>填写说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>融资总金额</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>融资总金额</p></td><td><p>是</p></td><td><blockquote>
 <p>用于限制所有客户可使用融资的最大总金额<br/>例如设置融资总金额设定为 500,000 HKD，融资比例为 90%。</p>
 </blockquote>
 <ol>
 <li>客户 A 使用了 200,000 HKD 融资</li>
 <li>客户 B 使用了 210,000 HKD 融资<br/>那么此时融资池只剩下 90,000 HKD 额度，客户使用 90% 的融资进行申购，最多只能申购 90,000 /90% =100,000 HKD 的金额，申购完毕后，融资池已用额度 500,000 HKD，其他客户将不可用再使用该融资申购，除非券商将融资额度调高。</li>
 </ol></td></tr>
-<tr>
-<td><p>渠道</p></td><td><p>是</p></td><td><p>可选择任意支持『融资』类型的渠道，建议券商根据实际情况进行选择</p></td></tr>
-<tr>
-<td><p>融资比例</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>渠道</p></td><td><p>是</p></td><td><p>可选择任意支持『融资』类型的渠道，建议券商根据实际情况进行选择</p></td></tr>
+<tr><td><p>融资比例</p></td><td><p>是</p></td><td><blockquote>
 <p>代表提供给客户的融资比例<br/>例如融资比例为 90%，那么客户 IPO 认购金额为 20,000 HKD 时，会用到 18,000 HKD 的 IPO 融资。</p>
 </blockquote>
 <ol>
 <li>支持融资比例选择</li>
 <li>可自定义融资比例，设置好系统自动提醒杠杆倍数<img src="/assets/RJQtb4jl4o4DGlxoXYecnydBnGh.png" src-width="1156" src-height="200"/></li>
 </ol></td></tr>
-<tr>
-<td><p>费率</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>费率</p></td><td><p>是</p></td><td><blockquote>
 <p>代表客户选择此方式认购时，所匹配的费率套餐<br/>所选费率只能为<a href="https://longbridge.feishu.cn/wiki/NCxvwUuDfiJJ66kgmcrcCUVunYg">费率管理</a>预设好的费率</p>
 </blockquote></td></tr>
-<tr>
-<td><p>认购时间</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>认购时间</p></td><td><p>是</p></td><td><blockquote>
 <p>代表此认购方式的可认购时间<br/>券商可以灵活使用这个时间，做好 IPO 运营管理，例如可以配置为：</p>
 </blockquote>
 <ol>
 <li>1 月 3 日支持 20 倍打新（2024-01-03 00:00:00  ～  2024-01-04 00:00:00）</li>
 <li>1 月 4 日支持 10 倍打新（2024-01-04 00:00:00  ～  2024-01-05 00:00:00）</li>
 </ol></td></tr>
-<tr>
-<td><p>预警金额</p></td><td><p>否</p></td><td><blockquote>
+<tr><td><p>预警金额</p></td><td><p>否</p></td><td><blockquote>
 <p>当融资池剩余金额小于设定值后，会有相关的预警通知，CS 会对券商做好友好提醒<br/>例如设置融资总金额设定为 500,000 HKD，若预警金额设置为 100,000 HKD，那么当融资池剩余额度低于设定值时，系统会进行相关通知</p>
 </blockquote></td></tr>
-<tr>
-<td><p>最低本金要求</p></td><td><p>否</p></td><td><blockquote>
+<tr><td><p>最低本金要求</p></td><td><p>否</p></td><td><blockquote>
 <p>一般情况下不设定，代表客户使用此融资方式认购时，需要至少付出的本金<br/>例如：认购 A 股票 1 手为 5,000 HKD，融资池给的融资额度为 90%，若不设定此值时，客户认购 1 手，只需要付出 500 HKD 本金，但当次值设置为 1,000 HKD 时，说明客户至少要付出 1,000 HKD 本金。当客户申购 3 手时，需要付出 1,500 HKD 本金，此时已经 &gt; 1,000 HKD，才能使用满 90% 融资。</p>
 </blockquote></td></tr>
-<tr>
-<td><p>渠道融资比例</p></td><td><p>否</p></td><td><blockquote>
+<tr><td><p>渠道融资比例</p></td><td><p>否</p></td><td><blockquote>
 <p>仅作为记录使用，代表上手或银行提供了多少融资比例。<br/>例如上手只给了 80% 的融资比例，但券商想给客户提供 90% 融资，那么可设置为：</p>
 </blockquote>
 <ol>
 <li>融资比例 = 90%</li>
 <li>渠道融资比例 = 80%<br/>系统在统计时，能更方便的计算出券商自己垫付了 10% 的融资</li>
 </ol></td></tr>
-<tr>
-<td><p>可见客户群体<br/>-客户分群</p></td><td><p>是</p></td><td><p>系统默认对全部客户开放，若券商有『Whale - 运营系统』，才会有用户分群功能<br/>不在对应分群内的客户，则在 IPO 申购时，看不到此认购方式</p></td></tr>
-<tr>
-<td><p>可见客户群体<br/>-上限股数</p></td><td><p>是</p></td><td><p>系统默认填充，交易所允许的最大申购股数，券商可根据运营需要做相关修改</p></td></tr>
-<tr>
-<td><p>可见客户群体<br/>-下限股数</p></td><td><p>是</p></td><td><p>系统默认填充，交易所的 1 手股数，券商可根据运营需要做相关修改</p></td></tr>
+<tr><td><p>可见客户群体<br/>-客户分群</p></td><td><p>是</p></td><td><p>系统默认对全部客户开放，若券商有『Whale - 运营系统』，才会有用户分群功能<br/>不在对应分群内的客户，则在 IPO 申购时，看不到此认购方式</p></td></tr>
+<tr><td><p>可见客户群体<br/>-上限股数</p></td><td><p>是</p></td><td><p>系统默认填充，交易所允许的最大申购股数，券商可根据运营需要做相关修改</p></td></tr>
+<tr><td><p>可见客户群体<br/>-下限股数</p></td><td><p>是</p></td><td><p>系统默认填充，交易所的 1 手股数，券商可根据运营需要做相关修改</p></td></tr>
 </tbody>
 </table>
 
@@ -481,20 +447,14 @@ IPO 系统提供多种中签方式，券商可根据实际情况选择不同的�
 <col width="522"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
+<tr><th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
-<tr>
-<td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
-<tr>
-<td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
-<tr>
-<td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
-<tr>
-<td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
+<tr><td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
+<tr><td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
+<tr><td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
+<tr><td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
+<tr><td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
 </tbody>
 </table>
 

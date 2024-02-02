@@ -49,22 +49,17 @@ sidebar_position: 0
 <col width="569"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>渠道名稱</p></td><td><p>是</p></td><td><p>自定義渠道名稱，建議小于 10 個字符，不能有空格<br/>在配置融資池時，會根據名稱選擇。</p></td></tr>
-<tr>
-<td><p>支持類型</p></td><td><p>是</p></td><td><p>該渠道都支援什麼樣的認購類型，可多選。</p></td></tr>
-<tr>
-<td><p>是否同步至港交所</p></td><td><p>是</p></td><td><p>對應通路的訂單是否需要同步到港交所。</p>
+<tr><td><p>渠道名稱</p></td><td><p>是</p></td><td><p>自定義渠道名稱，建議小于 10 個字符，不能有空格<br/>在配置融資池時，會根據名稱選擇。</p></td></tr>
+<tr><td><p>支持類型</p></td><td><p>是</p></td><td><p>該渠道都支援什麼樣的認購類型，可多選。</p></td></tr>
+<tr><td><p>是否同步至港交所</p></td><td><p>是</p></td><td><p>對應通路的訂單是否需要同步到港交所。</p>
 <ul>
 <li>是 - 開啟了 FINI 後，會透過 API 自動把該通路訂單同步給港交所</li>
 <li>否 - 不同步<br/>例如：透過上手/銀行做的新股認購，不直接提交到港交所，則選擇<strong>否</strong>；</li>
 </ul></td></tr>
-<tr>
-<td><p>備註</p></td><td><p>否</p></td><td><p>自主備註，方便查看這個管道的用途、定義</p></td></tr>
+<tr><td><p>備註</p></td><td><p>否</p></td><td><p>自主備註，方便查看這個管道的用途、定義</p></td></tr>
 </tbody>
 </table>
 
@@ -82,12 +77,9 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 <col width="720"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>認購手續費</p></td><td><p>對申購的有效訂單，收取的固定手續費，與申購金額無關</p></td></tr>
-<tr>
-<td><p>融資年利率</p></td><td><p>收取客戶的利息 = 融資金額 * 融資年利率/365 * 計息天數</p></td></tr>
-<tr>
-<td><p>中籤費用</p></td><td><p>此設置為比例，按照最終中籤金額 × 對應的比例</p></td></tr>
+<tr><td><p>認購手續費</p></td><td><p>對申購的有效訂單，收取的固定手續費，與申購金額無關</p></td></tr>
+<tr><td><p>融資年利率</p></td><td><p>收取客戶的利息 = 融資金額 * 融資年利率/365 * 計息天數</p></td></tr>
+<tr><td><p>中籤費用</p></td><td><p>此設置為比例，按照最終中籤金額 × 對應的比例</p></td></tr>
 </tbody>
 </table>
 
@@ -119,26 +111,17 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 <col width="604"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>證監會交易徵費</p></td><td><p>是</p></td><td><p>對應港交所 SFC Transaction Levy 的費用類型</p></td></tr>
-<tr>
-<td><p>聯交所交易徵費</p></td><td><p>是</p></td><td><p>對應港交所 Transaction Fee 的費用類型</p></td></tr>
-<tr>
-<td><p>財匯局交易徵費</p></td><td><p>是</p></td><td><p>對應港交所 Transaction Levy 的費用類型</p></td></tr>
-<tr>
-<td><p>經紀人佣金</p></td><td><p>是</p></td><td><p>給經紀人的佣金（具體使用待確認）</p></td></tr>
-<tr>
-<td><p>費率名稱</p></td><td><p>是</p></td><td><p>券商自定義的費率名稱，再配置 IPO 費用時，選擇使用，如下圖：<br/><img src="/assets/NKwQb6RphoYlU3xBOBQcAe6Cnee.png" src-width="1162" src-height="472" align="center"/></p></td></tr>
-<tr>
-<td><p>計費幣種</p></td><td><p>是</p></td><td><p>港股 IPO 默認以港幣計費</p></td></tr>
-<tr>
-<td><p>客戶融資年利率</p></td><td><p>是</p></td><td><p>為客戶提供融資認購，收取客戶的融資利息年利率，可以為 0</p></td></tr>
-<tr>
-<td><p>認購手續費</p></td><td><p>是</p></td><td><p>IPO 認購時，券商收取客戶的認購手續費，為一次性收費，與認購金額無關，可以為 0</p></td></tr>
+<tr><td><p>證監會交易徵費</p></td><td><p>是</p></td><td><p>對應港交所 SFC Transaction Levy 的費用類型</p></td></tr>
+<tr><td><p>聯交所交易徵費</p></td><td><p>是</p></td><td><p>對應港交所 Transaction Fee 的費用類型</p></td></tr>
+<tr><td><p>財匯局交易徵費</p></td><td><p>是</p></td><td><p>對應港交所 Transaction Levy 的費用類型</p></td></tr>
+<tr><td><p>經紀人佣金</p></td><td><p>是</p></td><td><p>給經紀人的佣金（具體使用待確認）</p></td></tr>
+<tr><td><p>費率名稱</p></td><td><p>是</p></td><td><p>券商自定義的費率名稱，再配置 IPO 費用時，選擇使用，如下圖：<br/><img src="/assets/NKwQb6RphoYlU3xBOBQcAe6Cnee.png" src-width="1162" src-height="472" align="center"/></p></td></tr>
+<tr><td><p>計費幣種</p></td><td><p>是</p></td><td><p>港股 IPO 默認以港幣計費</p></td></tr>
+<tr><td><p>客戶融資年利率</p></td><td><p>是</p></td><td><p>為客戶提供融資認購，收取客戶的融資利息年利率，可以為 0</p></td></tr>
+<tr><td><p>認購手續費</p></td><td><p>是</p></td><td><p>IPO 認購時，券商收取客戶的認購手續費，為一次性收費，與認購金額無關，可以為 0</p></td></tr>
 </tbody>
 </table>
 
@@ -182,16 +165,11 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 <col width="589"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p><strong>字段</strong></p></td><td><p><strong>是否必填</strong></p></td><td><p><strong>填寫說明</strong></p></td></tr>
-<tr>
-<td><p>認購開始時間</p></td><td><p>Y</p></td><td><p>認購開始時間默認為交易所可認購時間，券商可自行修改</p></td></tr>
-<tr>
-<td><p>現金認購-結束時間</p></td><td><p>Y</p></td><td><p>現金認購結束時間，默認為交易所結束時間，券商可自行修改</p></td></tr>
-<tr>
-<td><p>費率</p></td><td><p>Y</p></td><td><p>現金費率為默認費率，券商可自行修改為任意費率套餐</p></td></tr>
-<tr>
-<td><p>渠道</p></td><td><p>Y</p></td><td><p>現金認購的渠道為默認現金渠道，券商可自行修改為其他現金渠道</p></td></tr>
+<tr><td><p><strong>字段</strong></p></td><td><p><strong>是否必填</strong></p></td><td><p><strong>填寫說明</strong></p></td></tr>
+<tr><td><p>認購開始時間</p></td><td><p>Y</p></td><td><p>認購開始時間默認為交易所可認購時間，券商可自行修改</p></td></tr>
+<tr><td><p>現金認購-結束時間</p></td><td><p>Y</p></td><td><p>現金認購結束時間，默認為交易所結束時間，券商可自行修改</p></td></tr>
+<tr><td><p>費率</p></td><td><p>Y</p></td><td><p>現金費率為默認費率，券商可自行修改為任意費率套餐</p></td></tr>
+<tr><td><p>渠道</p></td><td><p>Y</p></td><td><p>現金認購的渠道為默認現金渠道，券商可自行修改為其他現金渠道</p></td></tr>
 </tbody>
 </table>
 
@@ -262,62 +240,50 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 <col width="589"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>字段</strong></p></th><th><p><strong>是否必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>是否必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>融資總金額</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>融資總金額</p></td><td><p>是</p></td><td><blockquote>
 <p>用於限制所有客戶可使用融資的最大總金額<br/>例如設置融資總金額設定為 500,000 HKD，融資比例為 90%。</p>
 </blockquote>
 <ol>
 <li>客戶 A 使用了 200,000 HKD 融資</li>
 <li>客戶 B 使用了 210,000 HKD 融資<br/>那麼此時融資池只剩下 90,000 HKD 額度，客戶使用 90%的融資進行申購，最多只能申購 90,000 /90% =100,000 HKD 的金額，申購完畢後，融資池已用額度 500,000 HKD，其他客戶將不可用再使用該融資申購，除非券商將融資額度調高。</li>
 </ol></td></tr>
-<tr>
-<td><p>渠道</p></td><td><p>是</p></td><td><p>可選擇任意支持『融資』類型的渠道，建議券商根據實際情況進行選擇</p></td></tr>
-<tr>
-<td><p>融資比例</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>渠道</p></td><td><p>是</p></td><td><p>可選擇任意支持『融資』類型的渠道，建議券商根據實際情況進行選擇</p></td></tr>
+<tr><td><p>融資比例</p></td><td><p>是</p></td><td><blockquote>
 <p>代表提供給客戶的融資比例<br/>例如融資比例為 90%，那麼客戶 IPO 認購金額為 20,000 HKD 時，會用到 18,000 HKD 的 IPO 融資。</p>
 </blockquote>
 <ol>
 <li>支持融資比例選擇</li>
 <li>可自定義融資比例，設置好系統自動提醒槓桿倍數<img src="/assets/RJQtb4jl4o4DGlxoXYecnydBnGh.png" src-width="1156" src-height="200"/></li>
 </ol></td></tr>
-<tr>
-<td><p>費率</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>費率</p></td><td><p>是</p></td><td><blockquote>
 <p>代表客戶選擇此方式認購時，所匹配的費率套餐<br/>所選費率只能為<a href="https://longbridge.feishu.cn/wiki/NCxvwUuDfiJJ66kgmcrcCUVunYg">費率管理</a>預設好的費率</p>
 </blockquote></td></tr>
-<tr>
-<td><p>認購時間</p></td><td><p>是</p></td><td><blockquote>
+<tr><td><p>認購時間</p></td><td><p>是</p></td><td><blockquote>
 <p>代表此認購方式的可認購時間<br/>券商可以靈活使用這個時間，做好 IPO 運營管理，例如可以配置為：</p>
 </blockquote>
 <ol>
 <li>1 月 3 日支持 20 倍打新（2024-01-03 00:00:00  ～  2024-01-04 00:00:00）</li>
 <li>1 月 4 日支持 10 倍打新（2024-01-04 00:00:00  ～  2024-01-05 00:00:00）</li>
 </ol></td></tr>
-<tr>
-<td><p>預警金額</p></td><td><p>否</p></td><td><blockquote>
+<tr><td><p>預警金額</p></td><td><p>否</p></td><td><blockquote>
 <p>當融資池剩餘金額小於設定值後，會有相關的預警通知，CS 會對券商做好友好提醒<br/>例如設置融資總金額設定為 500,000 HKD，若預警金額設置為 100,000 HKD，那麼當融資池剩餘額度低於設定值時，系統會進行相關通知</p>
 </blockquote></td></tr>
-<tr>
-<td><p>最低本金要求</p></td><td><p>否</p></td><td><blockquote>
+<tr><td><p>最低本金要求</p></td><td><p>否</p></td><td><blockquote>
 <p>一般情況下不設定，代表客戶使用此融資方式認購時，需要至少付出的本金<br/>例如：認購 A 股票 1 手為 5,000 HKD，融資池給的融資額度為 90%，若不設定此值時，客戶認購 1 手，只需要付出 500 HKD 本金，但當次值設置為 1,000 HKD 時，說明客戶至少要付出 1,000 HKD 本金。當客戶申購 3 手時，需要付出 1,500 HKD 本金，此時已經 &gt; 1,000 HKD，才能使用滿 90%融資。</p>
 </blockquote></td></tr>
-<tr>
-<td><p>渠道融資比例</p></td><td><p>否</p></td><td><blockquote>
+<tr><td><p>渠道融資比例</p></td><td><p>否</p></td><td><blockquote>
 <p>僅作為記錄使用，代表上手或銀行提供了多少融資比例。<br/>例如上手只給了 80%的融資比例，但券商想給客戶提供 90%融資，那麼可設置為：</p>
 </blockquote>
 <ol>
 <li>融資比例 = 90%</li>
 <li>渠道融資比例 = 80%<br/>系統在統計時，能更方便的計算出券商自己墊付了 10%的融資</li>
 </ol></td></tr>
-<tr>
-<td><p>可見客戶群體<br/>-客戶分群</p></td><td><p>是</p></td><td><p>系統默認對全部客戶開放，若券商有『Whale - 運營系統』，才會有用戶分群功能<br/>不在對應分群內的客戶，則在 IPO 申購時，看不到此認購方式</p></td></tr>
-<tr>
-<td><p>可見客戶群體<br/>-上限股數</p></td><td><p>是</p></td><td><p>系統默認填充，交易所允許的最大申購股數，券商可根據運營需要做相關修改</p></td></tr>
-<tr>
-<td><p>可見客戶群體<br/>-下限股數</p></td><td><p>是</p></td><td><p>系統默認填充，交易所的 1 手股數，券商可根據運營需要做相關修改</p></td></tr>
+<tr><td><p>可見客戶群體<br/>-客戶分群</p></td><td><p>是</p></td><td><p>系統默認對全部客戶開放，若券商有『Whale - 運營系統』，才會有用戶分群功能<br/>不在對應分群內的客戶，則在 IPO 申購時，看不到此認購方式</p></td></tr>
+<tr><td><p>可見客戶群體<br/>-上限股數</p></td><td><p>是</p></td><td><p>系統默認填充，交易所允許的最大申購股數，券商可根據運營需要做相關修改</p></td></tr>
+<tr><td><p>可見客戶群體<br/>-下限股數</p></td><td><p>是</p></td><td><p>系統默認填充，交易所的 1 手股數，券商可根據運營需要做相關修改</p></td></tr>
 </tbody>
 </table>
 
@@ -481,20 +447,14 @@ IPO系統提供多種中籤方式，券商可根據實際情況選擇不同的�
 <col width="522"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>中籤方式</strong></p></th><th><p><strong>中籤方式說明</strong></p></th></tr>
+<tr><th><p><strong>中籤方式</strong></p></th><th><p><strong>中籤方式說明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>港交所CCASS中籤結果</p></td><td><p><strong>通過港交所做的IPO</strong><br/>CCASS的中籤結果，下載下來，直接上傳CCASS結果即可。</p></td></tr>
-<tr>
-<td><p>自定義CSV文件</p></td><td><p><strong>不是通過港交所做的IPO，而是通過銀行或其他上手做的</strong><br/>一般情況上手把中籤結果給一份CSV或Excel文件，需要操作人把對應結果文件轉化為系統可識別的字段，再進行上傳。</p></td></tr>
-<tr>
-<td><p>FINI中籤結果</p></td><td><p><strong>通過港交所做的IPO</strong><br/>FINI平台的中籤結果，下載下來，直接上傳即可。</p></td></tr>
-<tr>
-<td><p>自動獲取上手中籤結果</p></td><td><p><strong>以長橋香港為上手做的IPO，可以系統化自動獲取</strong><br/>選擇後，直接點擊『下一步』，那麼系統將自動拉取結果。</p></td></tr>
-<tr>
-<td><p>自動獲取FINI中籤結果</p></td><td><p><strong>通過港交所FINI - API自動做的IPO訂單</strong><br/>選擇後，直接點擊『下一步』，那麼系統將自動拉取結果。</p></td></tr>
+<tr><td><p>港交所CCASS中籤結果</p></td><td><p><strong>通過港交所做的IPO</strong><br/>CCASS的中籤結果，下載下來，直接上傳CCASS結果即可。</p></td></tr>
+<tr><td><p>自定義CSV文件</p></td><td><p><strong>不是通過港交所做的IPO，而是通過銀行或其他上手做的</strong><br/>一般情況上手把中籤結果給一份CSV或Excel文件，需要操作人把對應結果文件轉化為系統可識別的字段，再進行上傳。</p></td></tr>
+<tr><td><p>FINI中籤結果</p></td><td><p><strong>通過港交所做的IPO</strong><br/>FINI平台的中籤結果，下載下來，直接上傳即可。</p></td></tr>
+<tr><td><p>自動獲取上手中籤結果</p></td><td><p><strong>以長橋香港為上手做的IPO，可以系統化自動獲取</strong><br/>選擇後，直接點擊『下一步』，那麼系統將自動拉取結果。</p></td></tr>
+<tr><td><p>自動獲取FINI中籤結果</p></td><td><p><strong>通過港交所FINI - API自動做的IPO訂單</strong><br/>選擇後，直接點擊『下一步』，那麼系統將自動拉取結果。</p></td></tr>
 </tbody>
 </table>
 

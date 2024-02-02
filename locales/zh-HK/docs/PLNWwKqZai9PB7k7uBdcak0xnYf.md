@@ -47,14 +47,11 @@ sidebar_position: 4
 <col width="612"/>
 </colgroup>
 <thead>
-<tr>
-<th><p>字段名稱</p></th><th><p>說明</p></th></tr>
+<tr><th><p>字段名稱</p></th><th><p>說明</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>限額幣種</p></td><td><p>無：則為純數量的判斷，與金額無關<br/>HKD：則全部轉化為 HKD 計算限額<br/>USD：則全部轉化為 USD 計算限額 </p></td></tr>
-<tr>
-<td><p>限制的條件類型</p></td><td><p>可選項為：&gt;=， &gt;， =&lt;， &lt;，無限，限制<br/>無限類型無需填閾值，其他均需填入閾值，僅限數字格式</p></td></tr>
+<tr><td><p>限額幣種</p></td><td><p>無：則為純數量的判斷，與金額無關<br/>HKD：則全部轉化為 HKD 計算限額<br/>USD：則全部轉化為 USD 計算限額 </p></td></tr>
+<tr><td><p>限制的條件類型</p></td><td><p>可選項為：&gt;=， &gt;， =&lt;， &lt;，無限，限制<br/>無限類型無需填閾值，其他均需填入閾值，僅限數字格式</p></td></tr>
 </tbody>
 </table>
 
