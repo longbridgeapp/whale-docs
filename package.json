@@ -9,7 +9,7 @@
   "dependencies": {
     "autocorrect-node": "^2.8.4",
     "autoprefixer": "^10.4.16",
-    "feishu-pages": "0.6.7",
+    "feishu-pages": "0.6.8",
     "glob": "^10.3.10",
     "medium-zoom": "^1.0.8",
     "opencc-js": "^1.0.5",

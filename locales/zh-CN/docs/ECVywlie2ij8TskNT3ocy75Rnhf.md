@@ -19,10 +19,8 @@ sidebar_position: 4
 <col width="392"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p><strong>权限名称</strong></p></td><td><p><strong>权限说明</strong></p></td></tr>
-<tr>
-<td><p>管理 CRM 消息推送、模板的权限<br/>ClientMessageFull</p></td><td><p>创建，编辑 SMS、Email 模板的权限；新建，审批，推送 SMS、Email 消息的权限，其中审批权限仅管理员拥有</p></td></tr>
+<tr><td><p><strong>权限名称</strong></p></td><td><p><strong>权限说明</strong></p></td></tr>
+<tr><td><p>管理 CRM 消息推送、模板的权限<br/>ClientMessageFull</p></td><td><p>创建，编辑 SMS、Email 模板的权限；新建，审批，推送 SMS、Email 消息的权限，其中审批权限仅管理员拥有</p></td></tr>
 </tbody>
 </table>
 

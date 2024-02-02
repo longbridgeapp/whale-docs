@@ -72,36 +72,32 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 <col width="544"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>处理方式</p></td><td><p>名词解释</p></td></tr>
-<tr>
-<td><p>关联</p></td><td><p>指代根据银行帐单中的付款方银行帐号、付款方姓名、币种、金额等栏位自动与入金记录是否一致来进行关联入账。</p></td></tr>
-<tr>
-<td><p>入金退还</p></td><td><p>指代没有正常开户的客户或因客户帐户有风险等原因无法入帐至证券帐户的情况，需要将资金退回客户银行卡的整体处理流程。</p></td></tr>
-<tr>
-<td><p>出金退还</p></td><td><p>指代用户的出金被用户的收款行拒绝，用户需要把客户被收款行退回的钱配对到客户的帐户中。（由于对银行流水而言是一笔资金流入，为了能够区分正常的入金，故放置在入金匹配的页面）</p></td></tr>
+<tr><td><p>处理方式</p></td><td><p>名词解释</p></td></tr>
+<tr><td><p>关联</p></td><td><p>指代根据银行帐单中的付款方银行帐号、付款方姓名、币种、金额等栏位自动与入金记录是否一致来进行关联入账。</p></td></tr>
+<tr><td><p>入金退还</p></td><td><p>指代没有正常开户的客户或因客户帐户有风险等原因无法入帐至证券帐户的情况，需要将资金退回客户银行卡的整体处理流程。</p></td></tr>
+<tr><td><p>出金退还</p></td><td><p>指代用户的出金被用户的收款行拒绝，用户需要把客户被收款行退回的钱配对到客户的帐户中。（由于对银行流水而言是一笔资金流入，为了能够区分正常的入金，故放置在入金匹配的页面）</p></td></tr>
 </tbody>
 </table>
 
 - 关联：仅入金的银行账单中系统无法自动匹配需要人工操作的记录，在此页面下操作员可以根据系统提示进行确认，并进行后续入账或者其他操作。
     - 关联页面将根据姓名配对用户自动比对栏位（如图），确认无误后可点选【关联】
     <div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/TvXgbQOkcom643xSHe5cbtnDnBc.png" src-width="3818" src-height="1842" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/SkrUbgAmDoo4fMxHRy2cOR6Qngg.png" src-width="3904" src-height="1950" align="center"/>
-</div>
-</div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/TvXgbQOkcom643xSHe5cbtnDnBc.png" src-width="3818" src-height="1842" align="right"/>
+        </div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/SkrUbgAmDoo4fMxHRy2cOR6Qngg.png" src-width="3904" src-height="1950" align="center"/>
+        </div>
+    </div>
     - 如系统预设匹配的用户不准，可透过【自定义】手动关联该笔银行流水所对应的客户。关联的方式有：入金的申请与证券帐号
     <div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/NthfbU9kiozjvgxLe7tcsd4Gntb.png" src-width="3308" src-height="1776" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/GMHlbwoAgooLyRxOW2qct14MnHf.png" src-width="3308" src-height="1750" align="center"/>
-</div>
-</div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/NthfbU9kiozjvgxLe7tcsd4Gntb.png" src-width="3308" src-height="1776" align="center"/>
+        </div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/GMHlbwoAgooLyRxOW2qct14MnHf.png" src-width="3308" src-height="1750" align="center"/>
+        </div>
+    </div>
 
 入金退还：若因种种原因，导致入金未能正常进入客户的证券帐户，需要对这笔记录进行退款时，可以使用该功能进行操作。用户需填写客户的银行卡讯息，确认无误后点选【确定】流转至入金审核页面进行审核操作。
 

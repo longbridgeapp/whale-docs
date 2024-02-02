@@ -35,12 +35,9 @@ sidebar_position: 3
 <col width="200"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>月卡</p></td><td><p>30 天</p></td></tr>
-<tr>
-<td><p>季卡</p></td><td><p>90 天</p></td></tr>
-<tr>
-<td><p>年卡</p></td><td><p>365 天</p></td></tr>
+<tr><td><p>月卡</p></td><td><p>30 天</p></td></tr>
+<tr><td><p>季卡</p></td><td><p>90 天</p></td></tr>
+<tr><td><p>年卡</p></td><td><p>365 天</p></td></tr>
 </tbody>
 </table>
 

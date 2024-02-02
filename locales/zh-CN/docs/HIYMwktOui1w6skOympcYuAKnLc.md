@@ -21,10 +21,8 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 <col width="392"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p><strong>权限名称</strong></p></td><td><p><strong>权限说明</strong></p></td></tr>
-<tr>
-<td><p>管理 PageHub 的权限</p></td><td><p>Pagehub 页面管理的查询，编辑，删除，历史记录权限</p></td></tr>
+<tr><td><p><strong>权限名称</strong></p></td><td><p><strong>权限说明</strong></p></td></tr>
+<tr><td><p>管理 PageHub 的权限</p></td><td><p>Pagehub 页面管理的查询，编辑，删除，历史记录权限</p></td></tr>
 </tbody>
 </table>
 
@@ -36,14 +34,11 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 <col width="698"/>
 </colgroup>
 <thead>
-<tr>
-<th><p>名词</p></th><th><p>解释</p></th></tr>
+<tr><th><p>名词</p></th><th><p>解释</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>H5 web page</p></td><td><p>H5 网页，是指基于 HTML5 技术制作的一种交互式网页，能够通过动态内容和视觉效果吸引用户的注意力，帮助运营人员达成运营目标。</p></td></tr>
-<tr>
-<td><p>组件</p></td><td><p>有特定功能的页面模块</p></td></tr>
+<tr><td><p>H5 web page</p></td><td><p>H5 网页，是指基于 HTML5 技术制作的一种交互式网页，能够通过动态内容和视觉效果吸引用户的注意力，帮助运营人员达成运营目标。</p></td></tr>
+<tr><td><p>组件</p></td><td><p>有特定功能的页面模块</p></td></tr>
 </tbody>
 </table>
 
@@ -77,26 +72,18 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 <col width="753"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
-<tr>
-<td><p>序号</p></td><td><p>页面序号</p></td></tr>
-<tr>
-<td><p>标题</p></td><td><p>页面标题，当配置好自定义页面后点击打开头部标题栏展示的名字</p></td></tr>
-<tr>
-<td><p>发布状态</p></td><td><ul>
+<tr><td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
+<tr><td><p>序号</p></td><td><p>页面序号</p></td></tr>
+<tr><td><p>标题</p></td><td><p>页面标题，当配置好自定义页面后点击打开头部标题栏展示的名字</p></td></tr>
+<tr><td><p>发布状态</p></td><td><ul>
 <li>未发布：该状态下页面为草稿状态，需要点击发布才会生效</li>
 <li>已发布：页面点击发布按钮并发布成功后则为该状态，该状态页面直接生效</li>
 <li>发布失败：当前页面点击发布按钮但是由于种种原因失败</li>
 </ul></td></tr>
-<tr>
-<td><p>页面地址</p></td><td><p>展示链接以及二维码两种链接形态，可复制当前链接直接打开预览，也可扫描二维码</p></td></tr>
-<tr>
-<td><p>创建人</p></td><td><p>创建该页面的操作人名称</p></td></tr>
-<tr>
-<td><p>最后发布时间</p></td><td><p>最新一次发布更新的时间</p></td></tr>
-<tr>
-<td><p>操作</p></td><td><ul>
+<tr><td><p>页面地址</p></td><td><p>展示链接以及二维码两种链接形态，可复制当前链接直接打开预览，也可扫描二维码</p></td></tr>
+<tr><td><p>创建人</p></td><td><p>创建该页面的操作人名称</p></td></tr>
+<tr><td><p>最后发布时间</p></td><td><p>最新一次发布更新的时间</p></td></tr>
+<tr><td><p>操作</p></td><td><ul>
 <li>编辑：点击打开编辑当前页面</li>
 <li>复制：点击复制当前页面内容创建并打开新页面</li>
 <li>删除：删除当前页面（谨慎使用）</li>

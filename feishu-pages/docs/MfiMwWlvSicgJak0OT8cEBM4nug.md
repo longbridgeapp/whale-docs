@@ -30,18 +30,14 @@ sidebar_position: 1
 <col width="300"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>新股列表更新</strong><br/>新股列表区分不同新股状态</p></td><td><img src="/assets/OiuibIlJWoeHK4xoJGfcA8Ganqe.png" src-width="3804" src-height="1820" align="center"/>
+<tr><td><p><strong>新股列表更新</strong><br/>新股列表区分不同新股状态</p></td><td><img src="/assets/OiuibIlJWoeHK4xoJGfcA8Ganqe.png" src-width="3804" src-height="1820" align="center"/>
 新股列表（新）</td><td><img src="/assets/Gp77bAOk8osDH8xtbfecnkRjnBX.png" src-width="2850" src-height="1358" align="center"/></td></tr>
-<tr>
-<td><p><strong>新股基本信息更新</strong><br/>新股的认购时间，认购方式一次性设置完毕</p></td><td><img src="/assets/Heltbc59PojyUYxDE4jcIkHknMc.png" src-width="3748" src-height="1810" align="center"/>
+<tr><td><p><strong>新股基本信息更新</strong><br/>新股的认购时间，认购方式一次性设置完毕</p></td><td><img src="/assets/Heltbc59PojyUYxDE4jcIkHknMc.png" src-width="3748" src-height="1810" align="center"/>
 基本信息（新）</td><td><img src="/assets/Q9a3b0bLdoEBMQxwYX4cQxc9nuh.png" src-width="2818" src-height="1340" align="center"/></td></tr>
-<tr>
-<td><p><strong>App 展示信息单独管理</strong><br/>App 展示信息使用新的页面单独管理</p></td><td><img src="/assets/Wikyb5EkHoXcojx61i7cAlBGnKd.png" src-width="3786" src-height="1808" align="center"/>
+<tr><td><p><strong>App 展示信息单独管理</strong><br/>App 展示信息使用新的页面单独管理</p></td><td><img src="/assets/Wikyb5EkHoXcojx61i7cAlBGnKd.png" src-width="3786" src-height="1808" align="center"/>
 App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.png" src-width="2812" src-height="1362" align="center"/></td></tr>
 </tbody>
 </table>
@@ -65,12 +61,10 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <col width="288"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>费率配置升级</strong></p></td><td><img src="/assets/Ftxuby92ZogOI7xFp0kcZjhenRb.png" src-width="3824" src-height="1838" align="center"/>
+<tr><td><p><strong>费率配置升级</strong></p></td><td><img src="/assets/Ftxuby92ZogOI7xFp0kcZjhenRb.png" src-width="3824" src-height="1838" align="center"/>
 <img src="/assets/TZM4bYE6doBG4FxE4KiciJXvnrc.png" src-width="3304" src-height="1802" align="center"/>
 费率配置（新）</td><td><img src="/assets/ZT69bGbqEoKGA2xBitccMJ2znBe.png" src-width="2860" src-height="1308" align="center"/>
 <img src="/assets/MrKDbbAb3oYSMaxKWrCcZb44nlh.png" src-width="2826" src-height="1334" align="center"/></td></tr>
@@ -98,12 +92,10 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <col width="300"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>融资池设置升级</strong></p>
+<tr><td><p><strong>融资池设置升级</strong></p>
 <ul>
 <li>精简必填信息</li>
 <li>可设定融资池起始、结束时间</li>
@@ -111,8 +103,7 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 </ul></td><td><img src="/assets/CIjQb1XeUozPKVxrVBOc1FAKnBp.png" src-width="3792" src-height="1836" align="center"/>
 <img src="/assets/CSm6bFCcqo1z0ex9yYSc3YF9nxh.png" src-width="3798" src-height="1840" align="center"/>
 融资配置（新）</td><td><img src="/assets/JE7ZbMnAHo1rNzxHWYsc3B7cnqe.png" src-width="2840" src-height="1328" align="center"/></td></tr>
-<tr>
-<td><p><strong>0 本金认购设置升级</strong></p>
+<tr><td><p><strong>0 本金认购设置升级</strong></p>
 <ul>
 <li>一次性设置，无需分两步设置</li>
 <li>用户分群及限制灵活</li>
@@ -120,8 +111,7 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <img src="/assets/WGNnbiTThosXaJxlffDcXfNBnwe.png" src-width="3802" src-height="1926" align="center"/>
 0 本金配置（新）</td><td><img src="/assets/VBTVbxLWdoCzkRxzOwCc4maXnXe.png" src-width="2816" src-height="1334" align="center"/>
 <img src="/assets/HYhnbISIZoLayQxqdhRcu7Iin1l.png" src-width="2836" src-height="1332" align="center"/></td></tr>
-<tr>
-<td><p><strong>融资池审核改动</strong></p>
+<tr><td><p><strong>融资池审核改动</strong></p>
 <ul>
 <li>新增/修改融资池后对接工单系统，审批后才生效</li>
 <li>审批入口多，便于操作</li>
@@ -144,12 +134,10 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <col width="300"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>认购记录改动</strong></p>
+<tr><td><p><strong>认购记录改动</strong></p>
 <ul>
 <li>以单一新股操作，则只展示目标股票的认购记录，无需筛选</li>
 <li>保留所有 IPO 申购记录的汇总查看</li>
@@ -172,12 +160,10 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <col width="300"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>扣款操作改动</strong></p>
+<tr><td><p><strong>扣款操作改动</strong></p>
 <ul>
 <li>认购列表页，若新股到了扣款阶段，则展示扣款按钮</li>
 <li>认购记录页，若新股到了扣款阶段，则展示扣款按钮</li>
@@ -199,12 +185,10 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <col width="307"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>文件导出更新</strong></p>
+<tr><td><p><strong>文件导出更新</strong></p>
 <ul>
 <li>根据渠道、融资比例分组订单数据，灵活选择指定订单</li>
 <li>生成的文件格式可自由选择，不受认购方式影响</li>
@@ -228,12 +212,10 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 <col width="283"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
+<tr><th><p><strong>更新点</strong></p></th><th><p>新版</p></th><th><p>旧版</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p><strong>融资汇总更新</strong></p>
+<tr><td><p><strong>融资汇总更新</strong></p>
 <ul>
 <li>分融资比例、渠道展示融资使用情况</li>
 <li>可视化展示使用占比</li>
