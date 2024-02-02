@@ -187,6 +187,11 @@ ol {
   img + h6 {
     @apply mt-5;
   }
+
+  th > p {
+    margin: 0;
+    padding: 0;
+  }
 }
 
 .VPDoc .VPLastUpdated {
