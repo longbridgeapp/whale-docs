@@ -176,11 +176,6 @@ ol {
   }
 }
 
-.vp-doc table tr td > p {
-  margin: 0;
-  line-height: 1.7;
-}
-
 .vp-doc {
   img + h4,
   img + h5,
@@ -188,9 +183,14 @@ ol {
     @apply mt-5;
   }
 
-  th > p {
+  table tr td > p,
+  table tr th > p {
     margin: 0;
-    padding: 0;
+    line-height: 1.7;
+  }
+  
+  table tr td {
+    vertical-align: top;
   }
 }
 
