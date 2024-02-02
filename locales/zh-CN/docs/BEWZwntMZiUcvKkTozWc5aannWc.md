@@ -24,7 +24,8 @@ sidebar_position: 0
 ## 1. 渠道管理
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 业务参数配置 &gt; 新股配置 &gt; 渠道管理</p>
+<div class='callout-emoji'>⚓</div>
+<p>业务参数配置 &gt; 新股配置 &gt; 渠道管理</p>
 </div>
 
 渠道配置主要是用来管理：劵商提供客户认购新股的融资来源 (渠道)
@@ -66,7 +67,8 @@ sidebar_position: 0
 ## 2.费率管理
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 业务参数配置 &gt; 新股配置 &gt; 费率管理</p>
+<div class='callout-emoji'>⚓</div>
+<p>业务参数配置 &gt; 新股配置 &gt; 费率管理</p>
 </div>
 
 IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用，在配置新股认购信息时，选择一个预设好的计费套餐即可，主要包括：
@@ -89,7 +91,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 - 中签费率在 0 本金认购的场景下，若不做任何收取，可在设置时，修改为 0。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 中签费率为交易所收取，一般情况下不会变化，因此只需要设置默认值，在设置计费套餐时会默认引用默认值，无需每次填写。</p>
+<div class='callout-emoji'>💡</div>
+<p>中签费率为交易所收取，一般情况下不会变化，因此只需要设置默认值，在设置计费套餐时会默认引用默认值，无需每次填写。</p>
 </div>
 
 **步骤一：默认中签费率设置**
@@ -128,7 +131,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 # 三、港股新股操作
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 港股认购 &gt; 基本信息</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 港股认购 &gt; 基本信息</p>
 </div>
 
 新股认购，是券商日常管理**可认购新股**的模块，包括开启认购、认购方式及时间设置、扣款操作、中签操作等。
@@ -224,7 +228,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 <img src="/assets/Nwy6bBpglo7Tk9xYjoqc9Lryn8b.png" src-width="2050" src-height="466" align="center"/>
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
 </div>
 
 <img src="/assets/UaWbbmjGUoZWzvxYFhOc2Ki2nUc.png" src-width="3744" src-height="1290" align="center"/>
@@ -339,7 +344,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 ## 2. 扣款操作
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 港股认购</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 港股认购</p>
 </div>
 
 当 IPO 认购截止后，券商需要把确认好的 IPO 订单资料交给港交所或其他上手，此时对客户的有效认购订单进行扣款认购金额及认购手续费的操作，并发放一定的融资金额。
@@ -368,7 +374,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 **步骤三：扣款审批**
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 扣款审批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 扣款审批</p>
 </div>
 
 扣款审批有两个入口：
@@ -385,7 +392,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 ## 3. 文件导出
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 港股认购 &gt; 文件生成</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 港股认购 &gt; 文件生成</p>
 </div>
 
 对于已经确认扣款成功的 IPO 认购订单，券商需要把订单提交给上手或港交所，一般来讲，通过港交所做的 IPO 为 CCASS 文件，通过其他上手做的 IPO 一般需要线下 Excel 或 CSV 进行文件传输。
@@ -414,7 +422,8 @@ IPO 的费率是以**计费套餐**的方式进行配置，可多个新股复用
 ## 4. 公布中签
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 港股认购</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 港股认购</p>
 </div>
 
 一般在上市前一个交易日，会完成中签结果公布，系统需要对客户完成中签结果操作，中签股票需要在当日到帐。
@@ -486,7 +495,8 @@ IPO 系统提供多种中签方式，券商可根据实际情况选择不同的�
 **步骤四：中签结果审核**
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 中签审批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 中签审批</p>
 </div>
 
 中签审批有两个入口：

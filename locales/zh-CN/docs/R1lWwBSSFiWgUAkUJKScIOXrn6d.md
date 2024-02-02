@@ -71,7 +71,8 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 <img src="/assets/YekNbg6a1osjDTx2jCLcDxzDnrq.png" src-width="3250" src-height="1406" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：系统已改成透过行情数据源自动获取公募基金的净值表（租户无法自行新增，避免数据更新错误）</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：系统已改成透过行情数据源自动获取公募基金的净值表（租户无法自行新增，避免数据更新错误）</p>
 </div>
 
 #### 基金清算
@@ -161,7 +162,8 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 <img src="/assets/YYlzbqSNwoWZduxFcreceLgPnjD.png" src-width="3300" src-height="1288" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：其中自动回填就是通过 API 拉取第三方基金公司的确认净值/确认金额/确认份额等，若劵商租户没有走 API 的配置时，请任意填下时间即可</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：其中自动回填就是通过 API 拉取第三方基金公司的确认净值/确认金额/确认份额等，若劵商租户没有走 API 的配置时，请任意填下时间即可</p>
 </div>
 
 #### 基金公司
@@ -258,7 +260,8 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 <img src="/assets/UGw8bUhOzoXEP5x4KiGcCyNOnFd.png" src-width="3294" src-height="1726" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：若后台下单后，在基金委托列表可以查询对应交易订单资讯，订单资讯也会同步到 APP 客户端展示，在未进行日切之前可以进行撤单</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：若后台下单后，在基金委托列表可以查询对应交易订单资讯，订单资讯也会同步到 APP 客户端展示，在未进行日切之前可以进行撤单</p>
 </div>
 
 #### 基金清算

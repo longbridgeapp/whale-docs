@@ -34,6 +34,7 @@ sidebar_position: 6
 - 详情：可查看绑定关系的具体手机用户资讯以及绑定管道、绑定时间、以及可以变更绑定关系。
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>🌟 注意：对于已完成的动作则不可绑定对应节点的邀请人了，未完成动作节点邀请人可以绑定和变更。</p>
+<div class='callout-emoji'>🌟</div>
+<p>注意：对于已完成的动作则不可绑定对应节点的邀请人了，未完成动作节点邀请人可以绑定和变更。</p>
 </div>
 

@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜单入口：KYC&gt;开户列表 </p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜单入口：KYC&gt;开户列表 </p>
 </div>
 
  以完整的 Dash-Board 方式来整理 KYC 状态纪录展示，方便开户人员能快速定位到各种状态，方便后续操作处理

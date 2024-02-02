@@ -58,8 +58,10 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 點擊『更多配置』，則可進行個性化設置。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 1. 『更多配置』中的配置數據，一般為須特別控制的信息，非必填。</p>
-<ol start="2">
+<div class='callout-emoji'>💡</div>
+<ol>
+<li><p>『更多配置』中的配置數據，一般為須特別控制的信息，非必填。</p>
+</li>
 <li><p>可見用戶群體：默認為全部客戶，若券商有運營系統的用戶分群功能，那麼可以指定這個融資只給部分客戶開放。</p>
 </li>
 <li><p>上下限股數用於控制客戶的可認購股數範圍。</p>
@@ -83,7 +85,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 提交審批後，融資池為默認『待審批』狀態，審批成功後，才會生效。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 融資池審批有兩個審批入口：</p>
+<div class='callout-emoji'>💡</div>
+<p>融資池審批有兩個審批入口：</p>
 <ol>
 <li><p>融資池列表</p>
 </li>
@@ -95,7 +98,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 <img src="/assets/X96MbHNdCoyVDwx0kfwc0xtnnKe.png" src-width="2050" src-height="466" align="center"/>
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 融資池審批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 融資池審批</p>
 </div>
 
 <img src="/assets/H9RwbP7wjotO3lxDYzqcvQTln0b.png" src-width="3744" src-height="1290" align="center"/>
@@ -121,7 +125,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 填寫基礎數據後，若無需關注更多配置，那麼點擊『提交審批』即可。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 此處設置，與融資認購設置相似，只是<strong>不需要填選融資比例</strong>，固定為100%。</p>
+<div class='callout-emoji'>💡</div>
+<p>此處設置，與融資認購設置相似，只是<strong>不需要填選融資比例</strong>，固定為100%。</p>
 </div>
 
 更詳細操作參考：

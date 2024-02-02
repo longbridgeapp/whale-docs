@@ -182,7 +182,8 @@ sidebar_position: 2
 <img src="/assets/UqdgbPaOVovh4JxQ110cMqCtn7c.png" src-width="2450" src-height="1616" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
+<div class='callout-emoji'>💡</div>
+<p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
 </div>
 
 活动奖励数据查询（只有当活动运行中进行发奖时才有数据显示）
@@ -339,6 +340,7 @@ sidebar_position: 2
 - 详情：可查看绑定关系的具体手机用户资讯以及绑定管道、绑定时间、以及可以变更绑定关系。
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>🌟 注意：对于已完成的动作则不可绑定对应节点的邀请人了，未完成动作节点邀请人可以绑定和变更。</p>
+<div class='callout-emoji'>🌟</div>
+<p>注意：对于已完成的动作则不可绑定对应节点的邀请人了，未完成动作节点邀请人可以绑定和变更。</p>
 </div>
 

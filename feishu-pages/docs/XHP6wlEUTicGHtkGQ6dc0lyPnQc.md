@@ -30,7 +30,8 @@ Whale 系統預設是線上發送結單
 本作業可以處理帳務日期的已經產生的結單查詢和發送
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 系統支持在日切步驟匯總進行結單自動發送,但須事先配置,請聯絡Whale 客服</p>
+<div class='callout-emoji'>💡</div>
+<p>系統支持在日切步驟匯總進行結單自動發送,但須事先配置,請聯絡Whale 客服</p>
 </div>
 
 <img src="/assets/YjXLb40nrorBAGxR3efcticInUd.png" src-width="3364" src-height="1452" align="center"/>
@@ -90,7 +91,8 @@ Whale 系統預設是線上發送結單
 提供一個客戶結單備註的管理入口，方便針對某些特定客戶結單增加備註說明
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：若有需要增加客戶結單備註，要在日終作業完成前，補錄好客戶結單備註後才能發生效用</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：若有需要增加客戶結單備註，要在日終作業完成前，補錄好客戶結單備註後才能發生效用</p>
 </div>
 
 <img src="/assets/SeDDbdMmWoCS61x6OpTcxlw1n3c.png" src-width="3116" src-height="1132" align="center"/>

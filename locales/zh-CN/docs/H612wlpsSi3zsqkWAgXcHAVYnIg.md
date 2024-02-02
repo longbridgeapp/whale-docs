@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：账户&gt;冻结解冻&gt; 资产冻结</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：账户&gt;冻结解冻&gt; 资产冻结</p>
 </div>
 
 可以选择不同的资产类型进入资产冻结操作，目前支持现金、股票和基金。

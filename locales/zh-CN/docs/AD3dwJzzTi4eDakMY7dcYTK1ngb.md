@@ -24,7 +24,8 @@ sidebar_position: 1
 ## 开户资料
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜单入口：KYC &gt; 开户资料 </p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜单入口：KYC &gt; 开户资料 </p>
 </div>
 
 <img src="/assets/Hpc7bFKDQo5c7exksHFcWVjPnqI.png" src-width="3230" src-height="1570" align="center"/>
@@ -58,7 +59,8 @@ sidebar_position: 1
 #### 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜单入口：KYC &gt; 开户资料 Tab &gt;  添加开户申请 功能键</p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜单入口：KYC &gt; 开户资料 Tab &gt;  添加开户申请 功能键</p>
 </div>
 
 <img src="/assets/IeEpb6uJeoZbdnxanPXcH7bVnWe.png" src-width="3798" src-height="812" align="center"/>
@@ -156,7 +158,8 @@ sidebar_position: 1
 #### 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：KYC &gt; 开户资料 Tab</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：KYC &gt; 开户资料 Tab</p>
 </div>
 
 针对已经开通证券帐户的客户，可申请增开证券帐户，在客户详情业进入后，在关连帐户列表区域操作
@@ -189,7 +192,8 @@ sidebar_position: 1
 #### 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜单入口：KYC &gt; 开户资料 Tab</p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜单入口：KYC &gt; 开户资料 Tab</p>
 </div>
 
 针对已经开通证券帐户的客户，可申请增开证券子帐户（包含日内帐户），在客户详情业进入后，在关连帐户列表区域操作，新增一个子帐户类型
@@ -213,7 +217,8 @@ sidebar_position: 1
 #### 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜单入口：KYC&gt;开户资料&gt;批量修改 tab 页签 </p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜单入口：KYC&gt;开户资料&gt;批量修改 tab 页签 </p>
 </div>
 
 本作业功能提供批量修改功能，也包含新增 BCAN 申报资料的批量导入功能

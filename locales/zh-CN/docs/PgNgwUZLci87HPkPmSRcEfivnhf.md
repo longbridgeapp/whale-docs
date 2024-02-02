@@ -43,7 +43,8 @@ sidebar_position: 1
 操作后，同时会在机构合约界面生成机构合约明细
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：试算生成的机构明细会在日切后被清除并重新生成</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：试算生成的机构明细会在日切后被清除并重新生成</p>
 </div>
 
 <img src="/assets/Z8g8bUWymoccbNxqq4CcP0w7nrg.png" src-width="1280" src-height="482" align="center"/>

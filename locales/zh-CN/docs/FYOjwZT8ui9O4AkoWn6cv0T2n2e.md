@@ -54,7 +54,8 @@ sidebar_position: 6
 <img src="/assets/GgmpbJevhoO4fIxAt5gc3CHnnqs.png" src-width="2992" src-height="1708" align="center"/>
 
 <div class="callout callout-bg-1 callout-border-1">
-<p>💡 注意：由于净值数据有可能直接影响客户历史盈亏数据，因此私募净值不支持输入历史净值，即系统已存最新日期净值，则不可添加早于这个净值日期的净值添加。</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：由于净值数据有可能直接影响客户历史盈亏数据，因此私募净值不支持输入历史净值，即系统已存最新日期净值，则不可添加早于这个净值日期的净值添加。</p>
 </div>
 
 #### 客户订单
