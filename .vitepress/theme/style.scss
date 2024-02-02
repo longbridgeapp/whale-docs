@@ -189,6 +189,12 @@ ol {
     }
   }
 
+  table tr th,
+  table tr td {
+    /* padding: 8px follow feishu doc. */
+    padding: 8px;
+  }
+
   table tr td > p,
   table tr th > p {
     margin: 0;
