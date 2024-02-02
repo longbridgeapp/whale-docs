@@ -183,6 +183,12 @@ ol {
     @apply mt-5;
   }
 
+  ul, ol {
+    li > p {
+      margin: 0;
+    }
+  }
+
   table tr td > p,
   table tr th > p {
     margin: 0;
