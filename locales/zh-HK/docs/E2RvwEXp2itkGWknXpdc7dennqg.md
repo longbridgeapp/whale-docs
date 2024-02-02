@@ -46,16 +46,11 @@ sidebar_position: 3
 <col width="566"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>期權標的物 </p></td><td><p>Option Symbol </p></td><td><p>期權標的物代碼，例如股票代碼發生變更，則期權標的物也對應發生變更 </p></td></tr>
-<tr>
-<td><p>持倉合約乘數 </p></td><td><p>Contract Multiplier </p></td><td><p>期權乘數。新張數=舊張數* Contract Multiplier </p></td></tr>
-<tr>
-<td><p>新乘數 </p></td><td><p>New Multiplier </p></td><td><p>x 行權時每張期權對應正股數 </p></td></tr>
-<tr>
-<td><p>生效日期 </p></td><td><p>Effective Date </p></td><td><p>規則生效日期 </p></td></tr>
-<tr>
-<td><p>行權價 </p></td><td><p>Stirke Price </p></td><td><p>新行權價，通過公式計算 ｛price｝*2 表示 新行權價=舊行權價 *2 ·<br/> 若行情同步 Strike Divisor，則行權價= ｛price｝/Strike Divisor ·</p></td></tr>
+<tr><td><p>期權標的物 </p></td><td><p>Option Symbol </p></td><td><p>期權標的物代碼，例如股票代碼發生變更，則期權標的物也對應發生變更 </p></td></tr>
+<tr><td><p>持倉合約乘數 </p></td><td><p>Contract Multiplier </p></td><td><p>期權乘數。新張數=舊張數* Contract Multiplier </p></td></tr>
+<tr><td><p>新乘數 </p></td><td><p>New Multiplier </p></td><td><p>x 行權時每張期權對應正股數 </p></td></tr>
+<tr><td><p>生效日期 </p></td><td><p>Effective Date </p></td><td><p>規則生效日期 </p></td></tr>
+<tr><td><p>行權價 </p></td><td><p>Stirke Price </p></td><td><p>新行權價，通過公式計算 ｛price｝*2 表示 新行權價=舊行權價 *2 ·<br/> 若行情同步 Strike Divisor，則行權價= ｛price｝/Strike Divisor ·</p></td></tr>
 </tbody>
 </table>
 

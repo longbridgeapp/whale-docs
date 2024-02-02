@@ -37,18 +37,12 @@ sidebar_position: 4
 <col width="217"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>時間 </p></td><td><p>操作內容 </p></td><td><p>操作人員 </p></td><td><p>備註 </p></td></tr>
-<tr>
-<td><p>T 日 12:00 cut-off </p></td><td><p>申購、贖回數據發送基金代理商 (例：高騰) （會由前台自動獲取訂單） </p></td><td><p>BO 後台人員</p></td><td><p>資產凍結、發送後不可撤單 </p></td></tr>
-<tr>
-<td><p>T 日 16:00 之前 </p></td><td><p>T 日訂單發送申購贖回表至基金託管行 </p></td><td><p>BO 後台人員</p></td><td></td></tr>
-<tr>
-<td><p>T 日 18:00 之前 </p></td><td><p>申購款打到基金託管行 </p></td><td><p>財務 </p></td><td></td></tr>
-<tr>
-<td><p>T+1 日（21:00 點左右） </p></td><td><p>申購份額、贖回份額確認 </p></td><td></td><td><p>證劵訂單顯示成交 </p></td></tr>
-<tr>
-<td><p>T+2 日（18:00 之前） </p></td><td><p>劵商收到贖回款 </p></td><td></td><td></td></tr>
+<tr><td><p>時間 </p></td><td><p>操作內容 </p></td><td><p>操作人員 </p></td><td><p>備註 </p></td></tr>
+<tr><td><p>T 日 12:00 cut-off </p></td><td><p>申購、贖回數據發送基金代理商 (例：高騰) （會由前台自動獲取訂單） </p></td><td><p>BO 後台人員</p></td><td><p>資產凍結、發送後不可撤單 </p></td></tr>
+<tr><td><p>T 日 16:00 之前 </p></td><td><p>T 日訂單發送申購贖回表至基金託管行 </p></td><td><p>BO 後台人員</p></td><td></td></tr>
+<tr><td><p>T 日 18:00 之前 </p></td><td><p>申購款打到基金託管行 </p></td><td><p>財務 </p></td><td></td></tr>
+<tr><td><p>T+1 日（21:00 點左右） </p></td><td><p>申購份額、贖回份額確認 </p></td><td></td><td><p>證劵訂單顯示成交 </p></td></tr>
+<tr><td><p>T+2 日（18:00 之前） </p></td><td><p>劵商收到贖回款 </p></td><td></td><td></td></tr>
 </tbody>
 </table>
 

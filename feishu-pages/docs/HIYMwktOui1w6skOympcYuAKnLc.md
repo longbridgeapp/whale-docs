@@ -21,10 +21,8 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 <col width="392"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p><strong>權限名稱</strong></p></td><td><p><strong>權限說明</strong></p></td></tr>
-<tr>
-<td><p>管理PageHub的权限</p></td><td><p>Pagehub 页面管理的查询，编辑，删除，历史记录权限</p></td></tr>
+<tr><td><p><strong>權限名稱</strong></p></td><td><p><strong>權限說明</strong></p></td></tr>
+<tr><td><p>管理PageHub的权限</p></td><td><p>Pagehub 页面管理的查询，编辑，删除，历史记录权限</p></td></tr>
 </tbody>
 </table>
 
@@ -36,14 +34,11 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 <col width="698"/>
 </colgroup>
 <thead>
-<tr>
-<th><p>名詞</p></th><th><p>解釋</p></th></tr>
+<tr><th><p>名詞</p></th><th><p>解釋</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>H5 web page</p></td><td><p>H5 網頁，是指基於HTML5技術製作的一種交互式網頁，能夠通過動態內容和視覺效果吸引用戶的注意力，幫助運營人員達成運營目標。</p></td></tr>
-<tr>
-<td><p>組件</p></td><td><p>有特定功能的頁面模塊</p></td></tr>
+<tr><td><p>H5 web page</p></td><td><p>H5 網頁，是指基於HTML5技術製作的一種交互式網頁，能夠通過動態內容和視覺效果吸引用戶的注意力，幫助運營人員達成運營目標。</p></td></tr>
+<tr><td><p>組件</p></td><td><p>有特定功能的頁面模塊</p></td></tr>
 </tbody>
 </table>
 
@@ -77,26 +72,18 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 <col width="753"/>
 </colgroup>
 <tbody>
-<tr>
-<td><p>列表字段</p></td><td><p>字段說明</p></td></tr>
-<tr>
-<td><p>序號</p></td><td><p>頁面序號</p></td></tr>
-<tr>
-<td><p>標題</p></td><td><p>頁面標題，當配置好自定義頁面後點擊打開頭部標題欄展示的名字</p></td></tr>
-<tr>
-<td><p>發佈狀態</p></td><td><ul>
+<tr><td><p>列表字段</p></td><td><p>字段說明</p></td></tr>
+<tr><td><p>序號</p></td><td><p>頁面序號</p></td></tr>
+<tr><td><p>標題</p></td><td><p>頁面標題，當配置好自定義頁面後點擊打開頭部標題欄展示的名字</p></td></tr>
+<tr><td><p>發佈狀態</p></td><td><ul>
 <li>未發佈：該狀態下頁面為草稿狀態，需要點擊發佈才會生效</li>
 <li>已發佈：頁面點擊發佈按鈕並發佈成功後則為該狀態，該狀態頁面直接生效</li>
 <li>發佈失敗：當前頁面點擊發佈按鈕但是由於種種原因失敗</li>
 </ul></td></tr>
-<tr>
-<td><p>頁面地址</p></td><td><p>展示鏈接以及二維碼兩種鏈接形態，可複製當前鏈接直接打開預覽，也可掃描二維碼</p></td></tr>
-<tr>
-<td><p>創建人</p></td><td><p>創建該頁面的操作人名稱</p></td></tr>
-<tr>
-<td><p>最後發佈時間</p></td><td><p>最新一次發佈更新的時間</p></td></tr>
-<tr>
-<td><p>操作</p></td><td><ul>
+<tr><td><p>頁面地址</p></td><td><p>展示鏈接以及二維碼兩種鏈接形態，可複製當前鏈接直接打開預覽，也可掃描二維碼</p></td></tr>
+<tr><td><p>創建人</p></td><td><p>創建該頁面的操作人名稱</p></td></tr>
+<tr><td><p>最後發佈時間</p></td><td><p>最新一次發佈更新的時間</p></td></tr>
+<tr><td><p>操作</p></td><td><ul>
 <li>編輯：點擊打開編輯當前頁面</li>
 <li>複製：點擊複製當前頁面內容創建並打開新頁面</li>
 <li>刪除：刪除當前頁面（謹慎使用）</li>

@@ -228,20 +228,14 @@ IPO 系统提供多种中签方式，券商可根据实际情况选择不同的�
 <col width="522"/>
 </colgroup>
 <thead>
-<tr>
-<th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
+<tr><th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
-<tr>
-<td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
-<tr>
-<td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
-<tr>
-<td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
-<tr>
-<td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
+<tr><td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
+<tr><td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
+<tr><td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
+<tr><td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
+<tr><td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
 </tbody>
 </table>
 

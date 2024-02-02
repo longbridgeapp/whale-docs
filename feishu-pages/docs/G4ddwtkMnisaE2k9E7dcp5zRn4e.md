@@ -96,58 +96,33 @@ sidebar_position: 0
 <col width="169"/>
 </colgroup>
 <thead>
-<tr>
-<th><p>分類</p></th><th><p>檢查項目</p></th><th><p>對應 作業查詢檢查</p></th><th><p>檢查層級</p></th></tr>
+<tr><th><p>分類</p></th><th><p>檢查項目</p></th><th><p>對應 作業查詢檢查</p></th><th><p>檢查層級</p></th></tr>
 </thead>
 <tbody>
-<tr>
-<td><p>交易</p></td><td><p>交易文件導入</p></td><td><p>清算管理&gt;市場清算&gt;文件導入</p></td><td><p>市場清算</p></td></tr>
-<tr>
-<td></td><td><p>市場收市</p></td><td></td><td></td></tr>
-<tr>
-<td><p>期權</p></td><td><p>期權到期行權</p></td><td></td><td><p>市場清算</p></td></tr>
-<tr>
-<td><p>資產</p></td><td><p>資產調撥審核</p></td><td><p>資產帳戶&gt;資產調撥&gt;帳戶間轉帳</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>調帳審核</p></td><td><p>資產帳戶&gt;資產調帳&gt;手工調帳</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>資產凍結解凍審核</p></td><td><p>資產帳戶&gt;凍結解凍</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td><p>款項證劵</p></td><td><p>入金審核</p></td><td><p>款項管理&gt;入金&gt;入金審核 Tab</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>出金審核</p></td><td><p>款項管理&gt;出金&gt;出金申請（未處理） Tab</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>換匯審核</p></td><td><p>款項管理&gt;換匯&gt;客戶匯兌 Tab</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>證劵取出審核</p></td><td><p>證劵管理&gt;證劵取出</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>證劵存入審核</p></td><td><p>證劵管理&gt;證劵存入</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td><p>公司行動</p></td><td><p>行動登記</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>行動上報</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>行動執行</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>行動通知</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>將退市股票</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td><p>新股</p></td><td><p>未公佈中籤操作</p></td><td><p>新股認購&gt;中籤處理&gt;結果同步 Tab</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>未操作扣款</p></td><td><p>新股認購&gt;凍結收費&gt;待扣款 Tab</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td><p>結單</p></td><td><p>結單未發送</p></td><td><p>清算管理&gt;日終管理&gt;結單管理&gt;結單查詢</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td><p>系統數據</p></td><td><p>收盤價確認</p></td><td><p>清算管理&gt;市場清算&gt;收盤價管理</p></td><td><p>日終清算</p></td></tr>
-<tr>
-<td></td><td><p>匯率檢查</p></td><td><p>款項管理&gt;匯率管理&gt;參考匯率</p></td><td><p>市場清算、日終清算</p></td></tr>
-<tr>
-<td></td><td><p>市場日曆檢查</p></td><td><p>業務參數設置&gt;市場管理&gt;市場日曆 Tab</p></td><td><p>市場清算</p></td></tr>
-<tr>
-<td></td><td><p>市場規則配置</p></td><td><p>業務參數設置&gt;市場管理&gt;市場規則 Tab</p></td><td><p>市場清算</p></td></tr>
-<tr>
-<td></td><td><p>前台流水檢查</p></td><td><p>算前準備加“前台流水全部納入清算”的檢查項目</p></td><td><p>日終清算</p></td></tr>
+<tr><td><p>交易</p></td><td><p>交易文件導入</p></td><td><p>清算管理&gt;市場清算&gt;文件導入</p></td><td><p>市場清算</p></td></tr>
+<tr><td></td><td><p>市場收市</p></td><td></td><td></td></tr>
+<tr><td><p>期權</p></td><td><p>期權到期行權</p></td><td></td><td><p>市場清算</p></td></tr>
+<tr><td><p>資產</p></td><td><p>資產調撥審核</p></td><td><p>資產帳戶&gt;資產調撥&gt;帳戶間轉帳</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>調帳審核</p></td><td><p>資產帳戶&gt;資產調帳&gt;手工調帳</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>資產凍結解凍審核</p></td><td><p>資產帳戶&gt;凍結解凍</p></td><td><p>日終清算</p></td></tr>
+<tr><td><p>款項證劵</p></td><td><p>入金審核</p></td><td><p>款項管理&gt;入金&gt;入金審核 Tab</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>出金審核</p></td><td><p>款項管理&gt;出金&gt;出金申請（未處理） Tab</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>換匯審核</p></td><td><p>款項管理&gt;換匯&gt;客戶匯兌 Tab</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>證劵取出審核</p></td><td><p>證劵管理&gt;證劵取出</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>證劵存入審核</p></td><td><p>證劵管理&gt;證劵存入</p></td><td><p>日終清算</p></td></tr>
+<tr><td><p>公司行動</p></td><td><p>行動登記</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>行動上報</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>行動執行</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>行動通知</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>將退市股票</p></td><td><p>公司行動&gt;公司行動</p></td><td><p>日終清算</p></td></tr>
+<tr><td><p>新股</p></td><td><p>未公佈中籤操作</p></td><td><p>新股認購&gt;中籤處理&gt;結果同步 Tab</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>未操作扣款</p></td><td><p>新股認購&gt;凍結收費&gt;待扣款 Tab</p></td><td><p>日終清算</p></td></tr>
+<tr><td><p>結單</p></td><td><p>結單未發送</p></td><td><p>清算管理&gt;日終管理&gt;結單管理&gt;結單查詢</p></td><td><p>日終清算</p></td></tr>
+<tr><td><p>系統數據</p></td><td><p>收盤價確認</p></td><td><p>清算管理&gt;市場清算&gt;收盤價管理</p></td><td><p>日終清算</p></td></tr>
+<tr><td></td><td><p>匯率檢查</p></td><td><p>款項管理&gt;匯率管理&gt;參考匯率</p></td><td><p>市場清算、日終清算</p></td></tr>
+<tr><td></td><td><p>市場日曆檢查</p></td><td><p>業務參數設置&gt;市場管理&gt;市場日曆 Tab</p></td><td><p>市場清算</p></td></tr>
+<tr><td></td><td><p>市場規則配置</p></td><td><p>業務參數設置&gt;市場管理&gt;市場規則 Tab</p></td><td><p>市場清算</p></td></tr>
+<tr><td></td><td><p>前台流水檢查</p></td><td><p>算前準備加“前台流水全部納入清算”的檢查項目</p></td><td><p>日終清算</p></td></tr>
 </tbody>
 </table>
 
