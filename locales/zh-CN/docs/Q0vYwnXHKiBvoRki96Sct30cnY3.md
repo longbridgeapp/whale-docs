@@ -98,7 +98,8 @@ sidebar_position: 0
 - 预览介面页可以选择下载或者列印。 
 
 <div class="callout callout-bg-1 callout-border-1">
-<p>❗ 因为预览只显示部分数据，所以请注意要数据是否完整后再进行下载；后期会优化在预览档案里说明是否是完整数据</p>
+<div class='callout-emoji'>❗</div>
+<p>因为预览只显示部分数据，所以请注意要数据是否完整后再进行下载；后期会优化在预览档案里说明是否是完整数据</p>
 </div>
 
 <img src="/assets/QWaqbJh25oaVwoxZBPQckJxLnwd.png" src-width="3232" src-height="1644" align="center"/>

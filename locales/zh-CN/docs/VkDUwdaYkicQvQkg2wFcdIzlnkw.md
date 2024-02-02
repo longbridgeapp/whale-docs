@@ -33,7 +33,8 @@ sidebar_position: 2
 - 登记后系统会自动计算权益和费用（有过户费的，也会计算过户费）
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 直联港交所的可以增加筛选项目 CCASS 执行状态，提高权益最终结果操作的准确性</p>
+<div class='callout-emoji'>💡</div>
+<p>直联港交所的可以增加筛选项目 CCASS 执行状态，提高权益最终结果操作的准确性</p>
 <p>非直联 CCASS 的根据上送派发信息核对</p>
 </div>
 

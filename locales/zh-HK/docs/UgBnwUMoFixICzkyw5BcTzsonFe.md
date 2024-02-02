@@ -20,7 +20,8 @@ sidebar_position: 0
 ## 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：資產帳戶&gt;資產調撥&gt; 賬戶間轉帳</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：資產帳戶&gt;資產調撥&gt; 賬戶間轉帳</p>
 </div>
 
 列表頁記錄包含後台操作流水和客戶 App 上自主操作的轉帳流水

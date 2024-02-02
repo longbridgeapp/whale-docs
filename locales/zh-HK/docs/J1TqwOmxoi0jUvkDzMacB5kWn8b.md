@@ -18,7 +18,8 @@ sidebar_position: 3
 ## 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：帳戶管理&gt;紀錄查詢</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：帳戶管理&gt;紀錄查詢</p>
 </div>
 
 本作業可以查詢管理帳戶的操作記錄與登錄設備紀錄

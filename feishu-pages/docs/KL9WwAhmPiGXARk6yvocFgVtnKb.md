@@ -24,7 +24,8 @@ Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異
 # 二、操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>📍 菜單入口：款項管理-出金</p>
+<div class='callout-emoji'>📍</div>
+<p>菜單入口：款項管理-出金</p>
 </div>
 
 ## 出金申請

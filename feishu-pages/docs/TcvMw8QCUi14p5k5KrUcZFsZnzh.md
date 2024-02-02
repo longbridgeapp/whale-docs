@@ -26,7 +26,8 @@ sidebar_position: 2
 ## 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：帳戶管理&gt;工單中心</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：帳戶管理&gt;工單中心</p>
 </div>
 
 本作業可以管理帳戶（或用戶）的安全管理事項，可以在對應 Tab 頁籤上作出凍結/解鎖/ 注銷的帳戶操作

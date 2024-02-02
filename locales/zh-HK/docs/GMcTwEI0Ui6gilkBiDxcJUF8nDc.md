@@ -32,7 +32,8 @@ sidebar_position: 4
 修改收盤價並提交
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 提交後，需要重新再執行一次數據匯總</p>
+<div class='callout-emoji'>💡</div>
+<p>提交後，需要重新再執行一次數據匯總</p>
 <p>如果是清算前準備報錯的，可先執行清算交收，然後重新執行清算前準備</p>
 </div>
 

@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：资产帐户&gt;调帐&gt; 手工调帐</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：资产帐户&gt;调帐&gt; 手工调帐</p>
 </div>
 
 在手工调帐选择对应的调帐类型 Tab 页签 (现金/股票/基金/债劵/OTC），点击【新增】，打开新增调帐页面

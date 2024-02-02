@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：帐户管理&gt;帐户列表</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：帐户管理&gt;帐户列表</p>
 </div>
 
 可以查询所有已开户的客户帐户状态资料

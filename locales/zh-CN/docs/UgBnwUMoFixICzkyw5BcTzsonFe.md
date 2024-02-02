@@ -20,7 +20,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：资产帐户&gt;资产调拨&gt; 账户间转帐</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：资产帐户&gt;资产调拨&gt; 账户间转帐</p>
 </div>
 
 列表页记录包含后台操作流水和客户 App 上自主操作的转帐流水

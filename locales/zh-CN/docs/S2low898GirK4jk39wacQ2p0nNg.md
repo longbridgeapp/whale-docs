@@ -18,7 +18,8 @@ sidebar_position: 5
 ## 操作说明 
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>💡 执行菜单：公司行动&gt;公司行动管理</p>
+<div class='callout-emoji'>💡</div>
+<p>执行菜单：公司行动&gt;公司行动管理</p>
 </div>
 
 - 整体流程类似 TM，用于处理拆合股、换股场景 

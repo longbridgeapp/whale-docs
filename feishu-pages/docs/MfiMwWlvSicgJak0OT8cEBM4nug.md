@@ -10,7 +10,8 @@ sidebar_position: 1
 ## 开启认购
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>拆分后台配置与 App 配置，且配置信息一目了然</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>拆分后台配置与 App 配置，且配置信息一目了然</strong></p>
 <ol>
 <li><p>新股列表优化，状态区分</p>
 </li>
@@ -45,7 +46,8 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 ## 费率配置
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>费率配置更灵活，更精简</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>费率配置更灵活，更精简</strong></p>
 <ol>
 <li><p>单独的中签费管理</p>
 </li>
@@ -74,7 +76,8 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 ## 融资配置
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>融资配置一步完成</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>融资配置一步完成</strong></p>
 <ol>
 <li><p>融资配置流程、设置项精简，操作简单</p>
 </li>
@@ -124,7 +127,8 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 ## 认购记录
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>多入口、场景化展示认购记录</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>多入口、场景化展示认购记录</strong></p>
 </div>
 
 <table header_row="1">
@@ -150,7 +154,8 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 ## 扣款操作
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>根据新股状态，动态展示，引导扣款操作</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>根据新股状态，动态展示，引导扣款操作</strong></p>
 </div>
 
 <table header_row="1">
@@ -175,7 +180,8 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 ## 文件导出
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>文件生成的数据范围、文件格式更灵活</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>文件生成的数据范围、文件格式更灵活</strong></p>
 </div>
 
 <table header_row="1">
@@ -202,7 +208,8 @@ App 展示信息（新）</td><td><img src="/assets/LTBUbSZioo2zJrx1pJ4cHYTlnhc.
 ## 融资使用统计
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>🎉 <strong>可视化展示融资池使用情况</strong></p>
+<div class='callout-emoji'>🎉</div>
+<p><strong>可视化展示融资池使用情况</strong></p>
 </div>
 
 <table header_row="1">

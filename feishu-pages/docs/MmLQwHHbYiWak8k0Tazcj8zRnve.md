@@ -18,7 +18,8 @@ sidebar_position: 2
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：xxx  &gt; xxx</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：xxx  &gt; xxx</p>
 </div>
 
 ### 二级標題 1

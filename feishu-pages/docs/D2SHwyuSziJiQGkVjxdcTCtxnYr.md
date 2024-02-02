@@ -182,7 +182,8 @@ sidebar_position: 2
 <img src="/assets/UqdgbPaOVovh4JxQ110cMqCtn7c.png" src-width="2450" src-height="1616" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 填寫完成後不可隨意切換活動類型和獎勵類型，不然會導致列表清空</p>
+<div class='callout-emoji'>💡</div>
+<p>填寫完成後不可隨意切換活動類型和獎勵類型，不然會導致列表清空</p>
 </div>
 
 活動獎勵數據查詢（只有當活動運行中進行發獎時才有數據顯示）
@@ -339,6 +340,7 @@ sidebar_position: 2
 - 詳情：可查看綁定關係的具體手機用戶資訊以及綁定管道、綁定時間、以及可以變更綁定關係。
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>🌟 注意：對於已完成的動作則不可綁定對應節點的邀請人了，未完成動作節點邀請人可以綁定和變更。</p>
+<div class='callout-emoji'>🌟</div>
+<p>注意：對於已完成的動作則不可綁定對應節點的邀請人了，未完成動作節點邀請人可以綁定和變更。</p>
 </div>
 

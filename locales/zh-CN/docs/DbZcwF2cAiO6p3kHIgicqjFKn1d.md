@@ -80,7 +80,8 @@ sidebar_position: 0
 <img src="/assets/CaXobHvMkoaib0xlJljcB0LLnAc.png" src-width="2450" src-height="1616" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
+<div class='callout-emoji'>💡</div>
+<p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
 </div>
 
 活动奖励数据查询（只有当活动运行中进行发奖时才有数据显示）

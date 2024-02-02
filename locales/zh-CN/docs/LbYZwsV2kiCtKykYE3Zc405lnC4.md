@@ -18,7 +18,8 @@ sidebar_position: 4
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：KYC&gt;第三方验证</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：KYC&gt;第三方验证</p>
 </div>
 
 在客户身份认证的环节上，可以手动上传第三方验证文件，也可以点选【手动验证】点阅已提交的验证文件内容

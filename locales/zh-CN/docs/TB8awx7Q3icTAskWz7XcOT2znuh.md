@@ -18,7 +18,8 @@ sidebar_position: 2
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：资产账户 &gt; 帐户 &gt; 余额查询</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：资产账户 &gt; 帐户 &gt; 余额查询</p>
 </div>
 
 选择需要查询的资产类型，分现金、股票、基金、期权、债券、OTC 其他、虚拟资产

@@ -130,7 +130,8 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 - 開戶-入金-鏈接：用戶未開戶跳轉開戶，已開戶跳轉入金，入金完成後直接對轉所配置的鏈接頁面。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 單個熱區可以添加配置多個熱區點擊事件。</p>
+<div class='callout-emoji'>💡</div>
+<p>單個熱區可以添加配置多個熱區點擊事件。</p>
 </div>
 
 <img src="/assets/QhyKbPGV3oN1ngxFYjNcRdwcnHg.png" src-width="3812" src-height="1942" align="center"/>

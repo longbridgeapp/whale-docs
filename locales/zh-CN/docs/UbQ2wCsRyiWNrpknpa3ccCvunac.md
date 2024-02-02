@@ -88,7 +88,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 <img src="/assets/XsDabcQkco29O4xpLzYc2ZmKncg.png" src-width="2050" src-height="466" align="center"/>
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
 </div>
 
 <img src="/assets/Wqd2bDApMoSFOpxI2bHcjeOEnzS.png" src-width="3744" src-height="1290" align="center"/>

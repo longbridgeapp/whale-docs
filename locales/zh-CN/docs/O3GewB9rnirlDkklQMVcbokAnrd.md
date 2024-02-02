@@ -18,7 +18,8 @@ sidebar_position: 1
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：客户管理系统&gt;CRM&gt;看板</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：客户管理系统&gt;CRM&gt;看板</p>
 </div>
 
 以 Dash-board 的方式展现成为有效客户前的几个重要节点汇总数据，如注册、待开户、待入金、已入金

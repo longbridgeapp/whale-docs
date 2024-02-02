@@ -18,7 +18,8 @@ sidebar_position: 3
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：KYC&gt; AML 监查后台（TESS）</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：KYC&gt; AML 监查后台（TESS）</p>
 </div>
 
 本作业可以查看全部有 TESS 调用记录的客户的监控状态和待处理警报

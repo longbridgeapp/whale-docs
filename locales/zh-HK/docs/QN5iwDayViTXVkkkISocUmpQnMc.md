@@ -20,7 +20,8 @@ Whale 系統包含了取出申請、取出明細、電子郵件通知券商等�
 # 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>📍 菜單入口：證券管理 - 證券存入</p>
+<div class='callout-emoji'>📍</div>
+<p>菜單入口：證券管理 - 證券存入</p>
 </div>
 
 ## 取出申請

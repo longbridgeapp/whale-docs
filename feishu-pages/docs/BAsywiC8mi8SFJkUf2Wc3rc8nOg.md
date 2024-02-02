@@ -18,7 +18,8 @@ sidebar_position: 1
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：帳戶&gt;凍結解凍&gt; 資產解凍</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：帳戶&gt;凍結解凍&gt; 資產解凍</p>
 </div>
 
 若資產凍結時，支持設定到期時間，則系統會在到期時，會自動解凍該資產紀錄；在到期日之前，可以在頁面人工進行解凍

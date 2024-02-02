@@ -18,7 +18,8 @@ sidebar_position: 2
 ## 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：KYC&gt;開戶審核記錄</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：KYC&gt;開戶審核記錄</p>
 </div>
 
 可查詢客戶開戶審核記錄，點選 【詳情】可以查詢開戶 KYC 流程審核節點（合規/RO/VC）的審核記錄與細部資料

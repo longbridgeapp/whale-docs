@@ -18,7 +18,8 @@ sidebar_position: 1
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：帐户&gt;冻结解冻&gt; 资产解冻</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：帐户&gt;冻结解冻&gt; 资产解冻</p>
 </div>
 
 若资产冻结时，支持设定到期时间，则系统会在到期时，会自动解冻该资产纪录；在到期日之前，可以在页面人工进行解冻

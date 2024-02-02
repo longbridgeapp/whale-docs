@@ -18,7 +18,8 @@ sidebar_position: 2
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：資產賬戶 &gt; 帳戶 &gt; 餘額查詢</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：資產賬戶 &gt; 帳戶 &gt; 餘額查詢</p>
 </div>
 
 選擇需要查詢的資產類型，分現金、股票、基金、期權、債券、OTC 其他、虛擬資產

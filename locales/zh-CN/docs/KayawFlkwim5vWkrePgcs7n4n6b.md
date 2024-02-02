@@ -73,7 +73,8 @@ sidebar_position: 3
 在登记时，提供业务校验功能的同时，增加了更多的业务检查项目
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 注：系统会判断 必须 帐务日期&gt;= 登记日 才可进行登记操作</p>
+<div class='callout-emoji'>💡</div>
+<p>注：系统会判断 必须 帐务日期&gt;= 登记日 才可进行登记操作</p>
 </div>
 
 <img src="/assets/FR1bbMIi5oJLCYx9GRhcjSDWncc.png" src-width="2542" src-height="150" align="center"/>

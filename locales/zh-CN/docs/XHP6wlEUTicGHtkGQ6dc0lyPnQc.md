@@ -30,7 +30,8 @@ Whale 系统预设是线上发送结单
 本作业可以处理帐务日期的已经产生的结单查询和发送
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 系统支持在日切步骤汇总进行结单自动发送，但须事先配置，请联络 Whale 客服</p>
+<div class='callout-emoji'>💡</div>
+<p>系统支持在日切步骤汇总进行结单自动发送，但须事先配置，请联络 Whale 客服</p>
 </div>
 
 <img src="/assets/YjXLb40nrorBAGxR3efcticInUd.png" src-width="3364" src-height="1452" align="center"/>
@@ -90,7 +91,8 @@ Whale 系统预设是线上发送结单
 提供一个客户结单备注的管理入口，方便针对某些特定客户结单增加备注说明
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：若有需要增加客户结单备注，要在日终作业完成前，补录好客户结单备注后才能发生效用</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：若有需要增加客户结单备注，要在日终作业完成前，补录好客户结单备注后才能发生效用</p>
 </div>
 
 <img src="/assets/SeDDbdMmWoCS61x6OpTcxlw1n3c.png" src-width="3116" src-height="1132" align="center"/>
