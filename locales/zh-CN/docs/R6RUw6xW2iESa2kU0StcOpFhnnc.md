@@ -79,7 +79,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 提交审批后，融资池为默认『待审批』状态，审批成功后，才会生效。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 融资池审批有两个审批入口：</p>
+<div class='callout-emoji'>💡</div>
+<p>融资池审批有两个审批入口：</p>
 <ol>
 <li><p>融资池列表</p>
 </li>
@@ -91,7 +92,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 <img src="/assets/Ye1pbXkFQouOOOxiLXScXas6n9e.png" src-width="2050" src-height="466" align="center"/>
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
 </div>
 
 <img src="/assets/RaJ7bi6L7oFySgxKuAncZGR2nnb.png" src-width="3744" src-height="1290" align="center"/>
@@ -117,7 +119,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 此处设置，与融资认购设置相似，只是<strong>不需要填选融资比例</strong>，固定为 100%。</p>
+<div class='callout-emoji'>💡</div>
+<p>此处设置，与融资认购设置相似，只是<strong>不需要填选融资比例</strong>，固定为 100%。</p>
 </div>
 
 更详细操作参考：

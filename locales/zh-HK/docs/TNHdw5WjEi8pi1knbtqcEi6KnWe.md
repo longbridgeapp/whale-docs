@@ -36,7 +36,8 @@ sidebar_position: 0
 數據來源是“交易”的爲前台合約
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：</p>
 <ul>
 <li><p>前台合約只支持編輯費用信息、IBOND 累計利息、結算幣種、倉位信息</p>
 </li>

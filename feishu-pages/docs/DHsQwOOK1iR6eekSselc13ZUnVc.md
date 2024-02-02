@@ -20,7 +20,8 @@ sidebar_position: 1
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：資產帳戶&gt;業務碼&gt;業務管理</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：資產帳戶&gt;業務碼&gt;業務管理</p>
 </div>
 
 進入菜單，查看所有業務碼分組

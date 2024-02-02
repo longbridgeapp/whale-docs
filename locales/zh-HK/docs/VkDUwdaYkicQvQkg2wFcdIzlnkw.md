@@ -33,7 +33,8 @@ sidebar_position: 2
 - 登記後系統會自動計算權益和費用（有過戶費的，也會計算過戶費）
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 直聯港交所的可以增加篩選項目 CCASS 執行狀態，提高權益最終結果操作的準確性</p>
+<div class='callout-emoji'>💡</div>
+<p>直聯港交所的可以增加篩選項目 CCASS 執行狀態，提高權益最終結果操作的準確性</p>
 <p>非直聯 CCASS 的根據上送派發信息核對</p>
 </div>
 

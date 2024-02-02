@@ -29,7 +29,8 @@ sidebar_position: 4
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：客户管理系统-CRM  &gt; 消息中心</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：客户管理系统-CRM  &gt; 消息中心</p>
 </div>
 
 ### 创建SMS/Email消息模板

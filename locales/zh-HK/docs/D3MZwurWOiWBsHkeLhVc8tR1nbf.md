@@ -41,7 +41,8 @@ sidebar_position: 0
 - 開戶 - 入金 - 鏈接：用戶未開戶跳轉開戶，已開戶跳轉入金，入金完成後直接對轉所配置的鏈接頁面。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 單個熱區可以添加配置多個熱區點擊事件。</p>
+<div class='callout-emoji'>💡</div>
+<p>單個熱區可以添加配置多個熱區點擊事件。</p>
 </div>
 
 ### 按鈕

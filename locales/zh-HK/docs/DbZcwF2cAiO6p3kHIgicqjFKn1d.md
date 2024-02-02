@@ -80,7 +80,8 @@ sidebar_position: 0
 <img src="/assets/CaXobHvMkoaib0xlJljcB0LLnAc.png" src-width="2450" src-height="1616" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 填寫完成後不可隨意切換活動類型和獎勵類型，不然會導致列表清空</p>
+<div class='callout-emoji'>💡</div>
+<p>填寫完成後不可隨意切換活動類型和獎勵類型，不然會導致列表清空</p>
 </div>
 
 活動獎勵數據查詢（只有當活動運行中進行發獎時才有數據顯示）

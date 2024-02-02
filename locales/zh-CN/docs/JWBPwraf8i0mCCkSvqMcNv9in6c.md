@@ -22,7 +22,8 @@ Whale 系统包含了存入申请、存入明细、便捷导入参数设置、�
 # 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>📍 菜单入口：证券管理 - 证券存入</p>
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：证券管理 - 证券存入</p>
 </div>
 
 ## 存入申请

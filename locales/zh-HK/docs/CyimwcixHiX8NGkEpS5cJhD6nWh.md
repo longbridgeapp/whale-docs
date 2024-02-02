@@ -14,7 +14,8 @@ Whale 活動系统支持按照不同任務規則判斷進行獎勵記錄生成�
 # 快速上手
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>📌 以邀請活動活動規則如下舉例：</p>
+<div class='callout-emoji'>📌</div>
+<p>以邀請活動活動規則如下舉例：</p>
 <p>1 月份面向所有用戶的邀請活動，邀請一人註冊即可得 10 HKD，活動時間內最高可得 100HKD 現金。</p>
 </div>
 

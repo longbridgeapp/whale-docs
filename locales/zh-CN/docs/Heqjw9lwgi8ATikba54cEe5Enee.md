@@ -18,7 +18,8 @@ sidebar_position: 4
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：客户管理系统&gt;CRM&gt;客户经理</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：客户管理系统&gt;CRM&gt;客户经理</p>
 </div>
 
 本作业可以维护管理 CRM 相关客务团队职务人员，包括客户经理的增删改查、二维码、离职等信息

@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：賬戶&gt;凍結解凍&gt; 資產凍結</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：賬戶&gt;凍結解凍&gt; 資產凍結</p>
 </div>
 
 可以選擇不同的資產類型進入資產凍結操作，目前支持現金、股票和基金。

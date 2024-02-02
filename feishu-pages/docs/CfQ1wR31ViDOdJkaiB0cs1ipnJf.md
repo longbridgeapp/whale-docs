@@ -22,7 +22,8 @@ Whale - IPO系統管理模組用於支持新股從發行到中籤的相關信息
 ## 1. 渠道管理
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 業務參數配置 &gt; 新股配置 &gt; 渠道管理</p>
+<div class='callout-emoji'>⚓</div>
+<p>業務參數配置 &gt; 新股配置 &gt; 渠道管理</p>
 </div>
 
 渠道配置主要是用來管理：劵商提供客戶認購新股的融資來源(渠道)
@@ -64,7 +65,8 @@ Whale - IPO系統管理模組用於支持新股從發行到中籤的相關信息
 ## 2.费率管理
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 業務參數配置 &gt; 新股配置 &gt; 費率管理</p>
+<div class='callout-emoji'>⚓</div>
+<p>業務參數配置 &gt; 新股配置 &gt; 費率管理</p>
 </div>
 
 IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用，在配置新股認購信息時，選擇一個預設好的計費套餐即可，主要包括：
@@ -87,7 +89,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 - 中籤費率在 0 本金認購的場景下，若不做任何收取，可在設置時，修改為 0。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 中籤費率為交易所收取，一般情況下不會變化，因此只需要設置默認值，在設置計費套餐時會默認引用默認值，無需每次填寫。</p>
+<div class='callout-emoji'>💡</div>
+<p>中籤費率為交易所收取，一般情況下不會變化，因此只需要設置默認值，在設置計費套餐時會默認引用默認值，無需每次填寫。</p>
 </div>
 
 **步驟一：默認中籤費率設置**
@@ -126,7 +129,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 # 三、港股新股操作
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 港股認購 &gt; 基本信息</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 港股認購 &gt; 基本信息</p>
 </div>
 
 新股認購，是券商日常管理**可認購新股**的模塊，包括開啟認購、認購方式及時間設置、扣款操作、中籤操作等。
@@ -142,7 +146,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 對於未開啟認購的新股，點擊『詳情』，進行新股配置。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 當有新股公告時，系統會透過行情自動同步數據，會默認記錄在『未開啟認購』列表中，方便券商查看與配置。</p>
+<div class='callout-emoji'>💡</div>
+<p>當有新股公告時，系統會透過行情自動同步數據，會默認記錄在『未開啟認購』列表中，方便券商查看與配置。</p>
 </div>
 
 <img src="/assets/JxB4bfh2Uog8NZxtPqycX0kHnXb.png" src-width="3804" src-height="1832" align="center"/>
@@ -194,8 +199,10 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 點擊『更多配置』，則可進行個性化設置。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 1. 『更多配置』中的配置數據，一般為須特別控制的信息，非必填。</p>
-<ol start="2">
+<div class='callout-emoji'>💡</div>
+<ol>
+<li><p>『更多配置』中的配置數據，一般為須特別控制的信息，非必填。</p>
+</li>
 <li><p>可見用戶群體：默認為全部客戶，若券商有運營系統的用戶分群功能，那麼可以指定這個融資只給部分客戶開放。</p>
 </li>
 <li><p>上下限股數用於控制客戶的可認購股數範圍。</p>
@@ -228,7 +235,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 <img src="/assets/K65hb9qlBoCDAvx0MeYcrQcxnTb.png" src-width="2050" src-height="466" align="center"/>
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 融資池審批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 融資池審批</p>
 </div>
 
 <img src="/assets/Em3BbxX8EocqYTxL1Y6cQmrEn6e.png" src-width="3744" src-height="1290" align="center"/>
@@ -308,7 +316,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 填寫基礎數據後，若無需關注更多配置，那麼點擊『提交審批』即可。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 此處設置，與融資認購設置相似，只是<strong>不需要填選融資比例</strong>，固定為100%，更詳細操作參考</p>
+<div class='callout-emoji'>💡</div>
+<p>此處設置，與融資認購設置相似，只是<strong>不需要填選融資比例</strong>，固定為100%，更詳細操作參考</p>
 </div>
 
 [融資認購設置](./CfQ1wR31ViDOdJkaiB0cs1ipnJf)。
@@ -343,7 +352,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 ## 2. 扣款操作
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 港股認購</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 港股認購</p>
 </div>
 
 當IPO認購截止後，券商需要把確認好的IPO訂單資料交給港交所或其他上手，此時對客戶的有效認購訂單進行扣款認購金額及認購手續費的操作，並發放一定的融資金额。
@@ -372,7 +382,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 **步驟三：扣款審批**
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 扣款審批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 扣款審批</p>
 </div>
 
 扣款審批有兩個入口：
@@ -389,7 +400,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 ## 3. 文件導出
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 港股認購 &gt; 文件生成</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 港股認購 &gt; 文件生成</p>
 </div>
 
 對於已經確認扣款成功的IPO認購訂單，券商需要把訂單提交給上手或港交所，一般來講，通過港交所做的IPO為CCASS文件，通過其他上手做的IPO一般需要線下Excel或CSV進行文件傳輸。
@@ -418,7 +430,8 @@ IPO 的費率是以**計費套餐**的方式進行配置，可多個新股複用
 ## 4. 公佈中籤
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 港股認購</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 港股認購</p>
 </div>
 
 一般在上市前一個交易日，會完成中籤結果公佈，系統需要對客戶完成中籤結果操作，中簽股票需要在當日到帳。
@@ -490,7 +503,8 @@ IPO系統提供多種中籤方式，券商可根據實際情況選擇不同的�
 **步驟四：中籤結果審核**
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股認購 &gt; 新股認購 &gt; 中籤審批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 中籤審批</p>
 </div>
 
 中籤審批有兩個入口：

@@ -130,7 +130,8 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 - 开户 - 入金 - 链接：用户未开户跳转开户，已开户跳转入金，入金完成后直接对转所配置的链接页面。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 单个热区可以添加配置多个热区点击事件。</p>
+<div class='callout-emoji'>💡</div>
+<p>单个热区可以添加配置多个热区点击事件。</p>
 </div>
 
 <img src="/assets/QhyKbPGV3oN1ngxFYjNcRdwcnHg.png" src-width="3812" src-height="1942" align="center"/>

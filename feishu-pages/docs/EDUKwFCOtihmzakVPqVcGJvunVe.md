@@ -14,7 +14,8 @@ sidebar_position: 2
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：客戶管理系統&gt;CRM&gt;客戶池</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：客戶管理系統&gt;CRM&gt;客戶池</p>
 </div>
 
 本作業支持針對不同的用戶（客戶），進行【分配客經】與【批量備註】與【導出】的操作

@@ -43,7 +43,8 @@ sidebar_position: 1
 操作后，同时會在機構合约界面生成機構合約明细
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：試算生成的機構明细會在日切后被清除並重新生成</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：試算生成的機構明细會在日切后被清除並重新生成</p>
 </div>
 
 <img src="/assets/Z8g8bUWymoccbNxqq4CcP0w7nrg.png" src-width="1280" src-height="482" align="center"/>

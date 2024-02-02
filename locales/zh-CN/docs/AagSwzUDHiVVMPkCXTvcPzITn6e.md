@@ -10,7 +10,8 @@ sidebar_position: 3
 ### 活动创建相关
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>❓ 已经运行中的活动是否支持可以修改规则？</p>
+<div class='callout-emoji'>❓</div>
+<p>已经运行中的活动是否支持可以修改规则？</p>
 </div>
 
 答：活动已在运行中状态是，支持修改的字段如下：
@@ -20,7 +21,8 @@ sidebar_position: 3
 - 新建规则：在当前活动下添加新的规则
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>❓ 如何判断使用哪种活动模版较为合适？</p>
+<div class='callout-emoji'>❓</div>
+<p>如何判断使用哪种活动模版较为合适？</p>
 </div>
 
 答：券商可依据当前需求是想要提升拉新、留存、转化等方面的需求来进行判断使用哪个活动模版，一般情况下
@@ -32,7 +34,8 @@ sidebar_position: 3
 ### 绑定邀请关系相关
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>❓ 如何成功绑定邀请关系？</p>
+<div class='callout-emoji'>❓</div>
+<p>如何成功绑定邀请关系？</p>
 </div>
 
 答：目前绑定邀请关系有两种模式
@@ -41,7 +44,8 @@ sidebar_position: 3
 - 用户手动绑定：用户在邀请绑定页面中，输入好友邀请码点击提交，可手动与好友进行绑定
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>❓ 是否可以更改已绑定的邀请关系？</p>
+<div class='callout-emoji'>❓</div>
+<p>是否可以更改已绑定的邀请关系？</p>
 </div>
 
 答：在对应时间节点之前可在邀请绑定页面中更改已绑定的邀请关系
@@ -51,7 +55,8 @@ sidebar_position: 3
 - 入金邀请人 - 首次入金前可更改，入金后不支持更改
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>❓ 为什么我绑定的邀请关系不可更改了？</p>
+<div class='callout-emoji'>❓</div>
+<p>为什么我绑定的邀请关系不可更改了？</p>
 </div>
 
 答：如果当前时间节点已过，则不允许再更改了。例如：如果当前你已开户，那么则不允许更改开户邀请人，但是你还可更改入金邀请人。
@@ -59,7 +64,8 @@ sidebar_position: 3
 ### 活动奖励相关
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>❓ 用户咨询未收到奖励，运营如何查询？</p>
+<div class='callout-emoji'>❓</div>
+<p>用户咨询未收到奖励，运营如何查询？</p>
 </div>
 
 答：执行菜单：运营系统&gt; 活动系统&gt;标准活动管理

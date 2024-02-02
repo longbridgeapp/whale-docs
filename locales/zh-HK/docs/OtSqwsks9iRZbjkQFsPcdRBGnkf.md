@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：客戶管理系統&gt;CRM&gt;任務</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：客戶管理系統&gt;CRM&gt;任務</p>
 </div>
 
 每個不同的互動進程的信息展示。例如，入金/出金/注冊等。

@@ -87,7 +87,8 @@ sidebar_position: 0
 <img src="/assets/CYdxbVcP2o2rrixHhzdcxAMsnlf.png" src-width="2668" src-height="1642" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
-<p>💡 注意：</p>
+<div class='callout-emoji'>💡</div>
+<p>注意：</p>
 <ol>
 <li><p>登记日为当天的，需要在日切（下午 5 点）且生成持仓数据后才操作 </p>
 </li>

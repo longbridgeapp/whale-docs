@@ -18,7 +18,8 @@ sidebar_position: 0
 ## 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：帳戶管理&gt;帳戶列表</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：帳戶管理&gt;帳戶列表</p>
 </div>
 
 可以查詢所有已開戶的客戶帳戶狀態資料

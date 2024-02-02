@@ -20,7 +20,8 @@ sidebar_position: 0
 ## 操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜单入口：资产账户&gt;业务码&gt;业务码查询</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：资产账户&gt;业务码&gt;业务码查询</p>
 </div>
 
 进入菜单页，可以在列表查询所有业务码，支持通过编码和名称搜索

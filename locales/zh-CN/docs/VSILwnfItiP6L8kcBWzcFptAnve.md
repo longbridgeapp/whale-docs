@@ -58,8 +58,10 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 点击『更多配置』，则可进行个性化设置。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 1. 『更多配置』中的配置数据，一般为须特别控制的信息，非必填。</p>
-<ol start="2">
+<div class='callout-emoji'>💡</div>
+<ol>
+<li><p>『更多配置』中的配置数据，一般为须特别控制的信息，非必填。</p>
+</li>
 <li><p>可见用户群体：默认为全部客户，若券商有运营系统的用户分群功能，那么可以指定这个融资只给部分客户开放。</p>
 </li>
 <li><p>上下限股数用于控制客户的可认购股数范围。</p>
@@ -92,7 +94,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 <img src="/assets/N4tibMisaoyk8ixatGQcfiHknag.png" src-width="2050" src-height="466" align="center"/>
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>⚓</div>
+<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
 </div>
 
 <img src="/assets/Xa9KbmyWRoE5pgx9VSFcOoA8nNg.png" src-width="3744" src-height="1290" align="center"/>
@@ -118,7 +121,8 @@ Whale 新股认购系统全面支持券商处理客户新股认购流程，包�
 填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
 
 <div class="callout callout-bg-3 callout-border-3">
-<p>💡 此处设置，与融资认购设置相似，只是<strong>不需要填选融资比例</strong>，固定为 100%，更详细操作参考：</p>
+<div class='callout-emoji'>💡</div>
+<p>此处设置，与融资认购设置相似，只是<strong>不需要填选融资比例</strong>，固定为 100%，更详细操作参考：</p>
 </div>
 
 **1.2 融资认购设置**。

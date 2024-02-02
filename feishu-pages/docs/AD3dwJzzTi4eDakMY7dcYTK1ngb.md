@@ -24,7 +24,8 @@ sidebar_position: 1
 ## 開戶資料
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜單入口：KYC &gt; 開戶資料 </p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜單入口：KYC &gt; 開戶資料 </p>
 </div>
 
 <img src="/assets/Hpc7bFKDQo5c7exksHFcWVjPnqI.png" src-width="3230" src-height="1570" align="center"/>
@@ -58,7 +59,8 @@ sidebar_position: 1
 #### 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜單入口：KYC &gt; 開戶資料 Tab &gt;  添加開戶申請 功能鍵</p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜單入口：KYC &gt; 開戶資料 Tab &gt;  添加開戶申請 功能鍵</p>
 </div>
 
 <img src="/assets/IeEpb6uJeoZbdnxanPXcH7bVnWe.png" src-width="3798" src-height="812" align="center"/>
@@ -156,7 +158,8 @@ sidebar_position: 1
 #### 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓ 菜單入口：KYC &gt; 開戶資料 Tab</p>
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：KYC &gt; 開戶資料 Tab</p>
 </div>
 
 針對已經開通證券帳戶的客戶，可申請增開證券帳戶，在客戶詳情業進入後，在關連帳戶列表區域操作
@@ -189,7 +192,8 @@ sidebar_position: 1
 #### 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜單入口：KYC &gt; 開戶資料 Tab</p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜單入口：KYC &gt; 開戶資料 Tab</p>
 </div>
 
 針對已經開通證券帳戶的客戶，可申請增開證券子帳戶（包含日內帳戶），在客戶詳情業進入後，在關連帳戶列表區域操作，新增一個子帳戶類型
@@ -213,7 +217,8 @@ sidebar_position: 1
 #### 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
-<p>⚓  菜單入口：KYC&gt;開戶資料&gt;批量修改 tab 頁籤 </p>
+<div class='callout-emoji'>⚓</div>
+<p> 菜單入口：KYC&gt;開戶資料&gt;批量修改 tab 頁籤 </p>
 </div>
 
 本作業功能提供批量修改功能，也包含新增 BCAN 申報資料的批量導入功能
