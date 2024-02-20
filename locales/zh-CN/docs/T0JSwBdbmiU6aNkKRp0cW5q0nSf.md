@@ -7,283 +7,138 @@ sidebar_position: 2
 
 # 系统介绍
 
-# 概述
+# 一、系统介绍
 
-Whale 新股认购系统全面支持券商处理客户新股认购流程，包括新股信息管理、认购配置、订单管理、中签分配等全流程的管理。
+证券存入功能是指投资者透过证券交易平台将资金转入证券帐户的操作。投资者即可方便地将资金转入证券帐户，随时随地参与证券交易和投资活动。
 
-针对即将上市的新股，快速配置即可支持客户线上进行新股认购。
+Whale 系统包含了存入申请、存入明细、便捷导入参数设置、电子邮件通知券商等功能，流程支援了不同角色的审核要求，有效地提升了证券存入的精确性。整体流程架构如下：
 
-# 快速上手
+## 前置条件
 
-## 一、开启认购
+无
 
-以港股现金认购为例，经过几分钟快速的配置，即可支持客户线上进行新股认购。
-
-### 1.1 现金认购配置
-
-若券商打算对某一个 IPO 开启客户申购，那么需要手动开启，并进行一些基础的费率、时间设置。
-
-**步骤一：查看新股列表**
-
-当有新股公告时，系统会透过行情自动同步数据，会默认记录在『未开启认购』列表中，方便券商查看与配置。对于未开启认购的新股，点击『详情』，进行新股配置。
-
-<img src="/assets/T1cUbB7uDoVJlGxoRFKcem3AnDc.png" src-width="3804" src-height="1832" align="center"/>
-
-**步骤二：开启认购**
-
-1. 点击新股列表的『详情』，则进入配置页面，进入页面后，默认为“不可认购”，如下图。
-2. 单选，选择『是』，再进行保存，则开启认购，开启后默认只能现金认购。
-3. 此处设置完成，即现金认购开启完成
-
-<img src="/assets/SF6NbmxYVolqCLxuGMBcf8ktnvh.png" src-width="3782" src-height="1764" align="center"/>
-
-### 1.2 融资认购配置
-
-若券商对该新股需要开启『融资认购』，那么需要设定融资池，**若不开启，则无需此设置**。
-
-**步骤一：新建融资池**
-
--**基础信息**
-
-点选『融资认购』右上角：‘新建’，设定对应融资池信息，点击后弹出设置信息。
-
-<img src="/assets/R1i6bdS7soZdRWxk3LqcPzX5nGB.png" src-width="3776" src-height="1816" align="center"/>
-
-填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
-
-<img src="/assets/GFkkbmgPno1hNRxbPRGcsOLinyf.png" src-width="3296" src-height="1802" align="center"/>
-
-**-更多配置**
-
-点击『更多配置』，则可进行个性化设置。
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<ol>
-<li><p>『更多配置』中的配置数据，一般为须特别控制的信息，非必填。</p>
-</li>
-<li><p>可见用户群体：默认为全部客户，若券商有运营系统的用户分群功能，那么可以指定这个融资只给部分客户开放。</p>
-</li>
-<li><p>上下限股数用于控制客户的可认购股数范围。</p>
-</li>
-</ol>
-</div>
-
-<img src="/assets/ASVkbUVMXo9bxQxrx9YcsZGFnLf.png" src-width="3288" src-height="1808" align="center"/>
-
-**客户分群配置**
-
-融资池可设置多个分群规则，配合运营要求，例如：
-
-1. A 客户群体只能最多申购 10000 股；
-2. B 客户群体最多可以申购 100000 股。
-
-<img src="/assets/R7dubiQziomKssxvm6FciQRYnDd.png" src-width="3766" src-height="1834" align="center"/>
-
-**步骤二：融资池审批**
-
-提交审批后，融资池为默认『待审批』状态，审批成功后，才会生效。
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<p>融资池审批有两个审批入口：</p>
-<ol>
-<li><p>融资池列表</p>
-</li>
-<li><p>融资池审批页面</p>
-</li>
-</ol>
-</div>
-
-<img src="/assets/AI0FbZ1BaoRLVExxAI4cGkDjnzp.png" src-width="2050" src-height="466" align="center"/>
+# 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：证券管理 - 证券存入</p>
 </div>
 
-<img src="/assets/TdeIbwTQyogM4zxmLilcfAyLnvd.png" src-width="3744" src-height="1290" align="center"/>
+## 存入申请
 
-点击『审批』按钮，查看工单详情，审批通过后，融资池生效。
+证券存入申请为用户方提出，申请的内容包含了券商资讯、帐户资讯、证券详情与备注 4 大部分。WHALE 使用者可以手动帮助客户进行证券入仓并根据客户提交的申请进行驳回、提交审批、通知券商等操作。
 
-<img src="/assets/XMIhbo40DoUGAmxpDWmcaZBQn9e.png" src-width="3274" src-height="1824" align="center"/>
+- 手工入仓
 
-### 1.3 零本金认购配置
+适用于使用者联络后台操作员进行手动新增转入申请记录的场景，操作员需要依序填写客户的证券资讯、帐户资讯以及证券的明细资讯。
 
-若券商对该新股需要开启『0 本金认购』，那么需要设定 0 本金认购的融资池，若不开启，则无需此设置。
+<img src="/assets/Rs8lbixwro3MMExotmlcy7Uqnwe.png" src-width="2076" src-height="2469" align="center"/>
 
-0 本金认购为一种比较特殊的认购方式，提供给客户的融资比例只能为 100%，即客户不需要任何本金，就可以认购 IPO。
+- 驳回（**可批量操作）**：若客户递交证券存入申请资料有误或使用者反馈本次申请无效时，操作员可以进行【驳回】操作
+- 通知券商：由于转仓业务需要对方券商的配合，在实际操作过程中，为了能够顺利转入，用户通常会联络券商及时处理。此功能将提供邮件发送功能，并根据邮件发送的结果显示给用户是否已经通知了券商，以便于用户进一步处理业务。
+    - 选择需要寄送邮件的券商机构，系统会自动带出对方券商的邮件地址，操作员可检查邮箱是否正确
+    - 选择目标券商下的涉及到的证券转入申请明细（已发送过的证券申请将被剔除）
+    - 预览邮件内容，确认无误后点选发送
+    - 至邮件发送记录页面中查看发送状态
 
-**步骤一：新建融资池**
-
-**基础信息**
-
-点选『0 本金认购』右上角：‘新建’，设定对应融资池信息，点击后弹出设置信息。
-
-<img src="/assets/UJ6UbMXS5oHrsBxWX0Gcs2xUnAh.png" src-width="3056" src-height="1840" align="center"/>
-
-填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<p>此处设置，与融资认购设置相似，只是<strong>不需要填选融资比例</strong>，固定为 100%。</p>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[49%]" width-ratio="49">
+<img src="/assets/Pe7GbOsfAo6RQqxgTa8c3vbWnde.png" src-width="2858" src-height="1330" align="center"/>
+</div>
+<div class="w-[49%]" width-ratio="49">
+<img src="/assets/G1o5bwjNKorKgTxljAHcBMB0nDc.png" src-width="2856" src-height="1332" align="center"/>
+</div>
 </div>
 
-更详细操作参考：
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/PTVDbTCJVoZBlUxF6MZcGEZXn8b.png" src-width="1280" src-height="599" align="center"/>
+</div>
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/BlwubaEs5oJyRsxfs4kcyvOFnWf.png" src-width="1280" src-height="624" align="center"/>
+</div>
+</div>
 
-**1.2 融资认购设置**。
+- 提交（**可批量操作）**：经过操作人员初步审查无误后，可以将申请提交至下一节点的操作人员进行审核 - 入仓操作
+- 编辑：若操作员在处理转入申请时，从客户方得知券商已通知或未通知的信息，可以透过【编辑】按钮进行修改通知状态，以保证对方券商是否知晓需要处理证券转仓的信息与实际情况相符
 
-<img src="/assets/Ic9nbedDuoostjxoU8DcuyaAnMe.png" src-width="3258" src-height="1814" align="center"/>
+<img src="/assets/QV1ebO67IoH0nwxN9OKcyFmHn9f.png" src-width="3830" src-height="1380" align="center"/>
 
-## 二、认购截止扣款
+- 指标卡
 
-当 IPO 认购截止后，券商需要把确认好的 IPO 订单资料交给港交所或其他上手，此时对客户的有效认购订单进行扣款认购金额及认购手续费的操作，并发放一定的融资金额。
+若券商的证券转入业务量较大，可以透过系统的分类展示卡进行精细化作业，指标卡的左右排布反映了业务操作的先后顺序
 
-扣款操作有两个入口：
+<img src="/assets/HggKbN1i8o3i4TxYy3Wcmgnjn1g.png" src-width="3818" src-height="1780" align="center"/>
 
-1. 认购处理中列表页面：会根据订单状态，动态展示快捷操作入口
-2. IPO 详情，认购记录页面：会根据订单状态，动态展示快捷操作入口
+## 存入明细
 
-<img src="/assets/CEXgbPdgIopkVbxY8FDcaYeHnHc.png" src-width="3280" src-height="860" align="center"/>
+由于一个存入申请下可能存在多笔证券明细记录，具体操作入仓的审核人员需要针对每笔存入明细进行仔细核对，审核通过后方可入仓。
 
-<img src="/assets/HfFobT19boPFzZxrCroccPyPnNf.png" src-width="3286" src-height="1574" align="center"/>
+- 修改：若在处理证券明细时，发现用户提交的某笔具体的明细记录有问题，可在与客户确认无误后可以透过【编辑】按钮进行修正
+    - 修改的范围：股票名称、托管商编号、子仓编号、证券明细数量、转入成本、结单备注
 
-**步骤一：点击扣款，确认订单范围**
+<img src="/assets/VCsIbKiGOoCzpNxrRC4cHIFzn5f.png" src-width="3818" src-height="1836"/>
 
-点击扣款后，会展示待扣款的订单范围，确认并选择订单范围，再进行下一步操作。
+- 删除：若在证券明细时，用户反映提交的某笔具体的明细记录不再进行转入，可以透过【删除】按钮直接删除目标明细记录
+- 生成 SI 指令（**可批量操作）**：由于转仓业务需要在 CCASS 里填写必要的 SI 信息，生成 SI 指令功能可以将这些必要的信息以文件的形式自动保存，供用户进行上传 CCASS，以免于手动在 CCASS 系统录入。产生的 SI 指令也可以在「SI 指令清单」选单下进行详情查看、汇出等操作
 
-<img src="/assets/Tohjb44bWoeTZLxrIJqcWu17nWg.png" src-width="3304" src-height="1820" align="center"/>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/Sd08b1d1yoPMeaxsM2oc98HOnna.png" src-width="3828" src-height="1824" align="center"/>
+</div>
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/IwfnbUH2oorMwFxIcS5cCZlGnqd.png" src-width="3822" src-height="1796" align="center"/>
+</div>
+</div>
 
-**步骤二：核对扣款订单明细**
+- 编辑 SI 指令（**可批量操作）**：若需要对已经产生的 SI 资讯进行修改，可以点选【编辑 SI 资讯】对目标栏位进行修正
 
-系统会自动根据认购订单、费用、融资比例等计算出预览数据，如下图，操作人员需要核对相关的数据，并提交审核。
+<img src="/assets/CXNObXfNhoyoLoxtqwDcqZ5nnxb.png" src-width="2872" src-height="1322" align="center"/>
 
-<img src="/assets/PTDTbRWMFo4gk1xWmoecNQX9nUc.png" src-width="3298" src-height="1836" align="center"/>
+- 处理-成功提交/失败提交（**可批量操作）**：若操作人员认定某个明细没有问题，可以点选【处理】选择【成功提交】，反之选择【失败提交】。
+    - 处理完毕后，流程进行至下一节点，需要在工单中心进行审核，审核通过购，股票成功入仓
+    <img src="/assets/HjJ4bfRmYobd1Hxg6rVcsZ0Tnic.png" src-width="3824" src-height="1782" align="center"/>
+    - 若用户转入的证券为实体股票，可在处理时同时手动设定实体股票的解冻时间，实体股票将在设定的时间点自动解冻，如若未设定时间，流程通过后则立即解冻
+    <img src="/assets/TUtGbejRkouYMDxKszzcKVzxn6g.png" src-width="3828" src-height="1566" align="center"/>
 
-**步骤三：扣款审批**
+- 审批（**可批量操作）**：处理结果提交后，操作列出现【审核】按钮，点选可以召唤出工单审核页面
+    - 处理完毕后，流程进行至下一节点，需要在工单中心进行审核，审核通过购，股票成功入仓
 
-扣款审批有两个入口：
+<img src="/assets/KvRBb19f0oCmahxZVzvcI2PQnsd.png" src-width="3906" src-height="1943" align="center"/>
 
-1. 专门的扣款审批页面：可查看历史的扣款申请、审批记录。
-2. 工单记录：有审批权限的人，直接可在**待办工单**中操作审批。
+- 提交解冻（**可批量操作）**：若客户转入的证券为实体股票，且在处理时，设定了解冻时间，但在期限到达前想要提前对实体股票进行处理，可以进行手动解冻，提交后需再次进行审批，审批通过后立即解冻成功。
 
-点击『审批』，则可查看工单，审批通过即可
+<img src="/assets/I2XsbjBPeo1htexdyWfcZm7VnXf.png" src-width="3822" src-height="1162" align="center"/>
 
-<img src="/assets/On0IbLKwzoHHzWx7B9ec8gP6n5c.png" src-width="3294" src-height="976" align="center"/>
+<img src="/assets/TGOob6vbroPLL8xiXOgcZoZKn8e.png" src-width="3824" src-height="1866" align="center"/>
 
-<img src="/assets/N4fub212oo6P8BxmQ6mcAXhanSb.png" src-width="3302" src-height="1844" align="center"/>
+## 存入限制
 
-## 三、订单提交上手
+为了提高证券准入的成功率，杜绝一些诸如已退市股票的转入，可以透过设定股票黑名单的方式提前控制目标股票的转入限制。系统提供了单笔限制与批量限制功能：
 
-对于已经确认扣款成功的 IPO 认购订单，券商需要把订单提交给上手或港交所，一般来讲，通过港交所做的 IPO 为 CCASS 文件，通过其他上手做的 IPO 一般需要线下 Excel 或 CSV 进行文件传输。
+- 单笔限制
 
-### 3.1 **已配置 FINI**
+<img src="/assets/M7Q5bgrIUoyYFkxZK0Qc6CUqn7c.png" src-width="3814" src-height="1856" align="center"/>
 
-若券商已配置采用新的** FINI 平台**，Whale 系统将直接以 API 的方式将**IPO 订单直接同步给港交所**，则无需此操作。
+- 批量限制
 
-### 3.2 **未配置 FINI**
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
+<p>入口</p>
+<img src="/assets/ZdqpbCPZJoHcN5xprGKcq2Sonie.png" src-width="3824" src-height="1844" align="center"/>
 
-**步骤一：选择订单类型**
+</div>
+<div class="w-[50%]" width-ratio="50">
+<p>范本</p>
+<img src="/assets/ZmWNbUItNopz8Cx15DJcl5cUneh.png" src-width="652" src-height="372" align="center"/>
 
-根据渠道或融资比例，选择指定的订单类型，点击『生成文件』按钮。
+</div>
+</div>
 
-这里建议相同上手的数据，生成同一份文件。
+## 邮件发送记录
 
-例如：
+用户将目标存入申请通知券商后，相应的邮件记录将会被保存，以用于后续进行问题追踪。
 
-1. 融资是通过某一银行做的，不直接通过港交所，那么单独选择，生成 CSV 文件。
-2. 现金、0 成本打新是通过港交所做的，那么一起选择，生成 CCASS 文件。
+<img src="/assets/QC2gboHuWofvXSxXF40cXYMEnsh.png" src-width="3834" src-height="1856" align="center"/>
 
-<img src="/assets/NhFfb6boQoPmuCxt1TJcePxJn5c.png" src-width="3288" src-height="1318" align="center"/>
-
-**步骤二：生成指定文件**
-
-弹出侧拉弹窗后，选择**文件格式**，并自定义**文件名**，点击『生成并下载』即可。
-
-<img src="/assets/XMrbbnjlXo7c8kxQV5jcxglRnvb.png" src-width="3302" src-height="1844" align="center"/>
-
-## 四、公布中签
-
-一般在上市前一个交易日，会完成中签结果公布，系统需要对客户完成中签结果操作，中签股票需要在当日到帐。
-
-对于中签的客户：将退还认购金额，回收提供的 IPO 融资金额，扣除 IPO 融资利息，额外扣除中签款、中签费，发放中签的新股。
-
-对于未中签的客户：将退还认购金额，回收提供的 IPO 融资金额，同时扣除 IPO 融资利息
-
-中签操作有两个入口：
-
-1. 认购处理中列表页面：会根据订单状态，动态展示快捷操作入口
-2. IPO 详情，认购记录页面：会根据订单状态，动态展示快捷操作入口
-
-<img src="/assets/YmmLbdWMqoY5WQxNCKkct66Qnwb.png" src-width="3282" src-height="720" align="center"/>
-
-<img src="/assets/Q6PebZHA0onUlnxwKxzcpPVcn6b.png" src-width="3284" src-height="1590" align="center"/>
-
-**步骤一：点击公布中签，核对数据**
-
-点击公布中签后，首先需要券商确认好以下数据，若信息无误，则直接点击『下一步』即可。
-
-1. IPO 价格：一般情况系统会自动获取，券商二次确认即可，若 IPO 价格系统自动获取是异常的，操作人也可以人工填写
-2. 客户的计息天数：默认计息天数为中签日 - 认购截止日的差值（与港交所时间一致），操作者亦可自行修改。
-
-<img src="/assets/JYecbyY0foB7FPxOVTNcpbmcnAe.png" src-width="3306" src-height="1820" align="center"/>
-
-**步骤二：选择中签方式**
-
-IPO 系统提供多种中签方式，券商可根据实际情况选择不同的中签方式。
-
-<table header_row="1">
-<colgroup>
-<col width="189"/>
-<col width="522"/>
-</colgroup>
-<thead>
-<tr><th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
-</thead>
-<tbody>
-<tr><td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
-<tr><td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
-<tr><td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
-<tr><td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
-<tr><td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
-</tbody>
-</table>
-
-**上传自定义 CSV 文件**
-
-1. 下载示例模板，模板如下：
-    1. Order：代表 IPO 系统的订单号
-    2. APPLY：代表该订单客户申请了多少股
-    3. SUCCESS：代表客户中签了多少股
-
-<img src="/assets/Z9M8bhQEmo2NbpxTAxpcAXnFnMg.png" src-width="1004" src-height="258" align="center"/>
-
-1. 填写中签数据，并上传文件
-
-<img src="/assets/NLZ8bRC1goX1yJxmqKRc2PRXn0c.png" src-width="3286" src-height="1822" align="center"/>
-
-**步骤三：核对中签结果**
-
-系统会根据操作人所选的中签方式及中签文件，自动解析中签结果，生成汇总及明细数据。
-
-汇总数据：用于跟上手核对总数量、总中签数量，便于快捷发现中签数量问题。
-
-明细数据：用于预览中签数据及扣费数据。
-
-若数据无误，点击『确定』，则提交审核。
-
-<img src="/assets/FbmPbjGUuofhWZxKRBdcoOLXnUh.png" src-width="3294" src-height="1832" align="center"/>
-
-**步骤四：中签结果审核**
-
-中签审批有两个入口：
-
-1. 专门的中签审批页面：可查看历史的中签申请、审批记录。
-2. 工单记录：有审批权限的人，直接可在**待办工单**中操作审批。
-
-点击『审批』，则可查看工单，审批通过即可。
-
-<img src="/assets/PAZDbAnfdoXi0oxIZmxcEgSIn0e.png" src-width="3272" src-height="954" align="center"/>
-
-<img src="/assets/GRgHbh57Wopd8ixExyic50wWnvm.png" src-width="3286" src-height="1820" align="center"/>
-
+# 

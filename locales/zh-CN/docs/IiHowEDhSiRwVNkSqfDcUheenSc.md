@@ -1,13 +1,11 @@
 ---
 title: 作业介面说明
-slug: getting-started
+slug: IiHowEDhSiRwVNkSqfDcUheenSc
 sidebar_position: 0
 ---
 
 
 # 作业介面说明
-
-# 单元作业操作设计
 
 Whale 针对单元作业 也提供基础体验优化，以下是常见的一些设计操作：
 

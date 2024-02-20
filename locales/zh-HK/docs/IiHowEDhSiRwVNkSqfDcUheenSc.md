@@ -1,13 +1,11 @@
 ---
 title: 作業介面說明
-slug: getting-started
+slug: IiHowEDhSiRwVNkSqfDcUheenSc
 sidebar_position: 0
 ---
 
 
 # 作業介面說明
-
-# 單元作業操作設計
 
 Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些設計操作：
 

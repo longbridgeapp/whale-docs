@@ -7,283 +7,127 @@ sidebar_position: 2
 
 # 系统介绍
 
-# 概述
+# 一、系统介绍
 
-Whale 新股认购系统全面支持券商处理客户新股认购流程，包括新股信息管理、认购配置、订单管理、中签分配等全流程的管理。
+出金功能是指投资者从其证券帐户中提取资金的操作。这个功能允许投资者将其证券帐户中的资金转移到其银行帐户或其他指定的帐户中。
 
-针对即将上市的新股，快速配置即可支持客户线上进行新股认购。
+Whale 系统包含了处理出金申请、提现处理、对帐、单独处理异常出金、出金记录查询等功能，由于监理与风控需求，系统的功能设计具备多角色、流程化的特色，在兼顾出金效率的同时，同步降低了资金风险。
 
-# 快速上手
+整体业务流程如下：
 
-## 一、开启认购
+<img src="/assets/QSsob9ZMtoHJE1x051hcwIFgnhn.png" src-width="2146" src-height="256" align="center"/>
 
-以港股现金认购为例，经过几分钟快速的配置，即可支持客户线上进行新股认购。
+## 前置条件
 
-### 1.1 现金认购配置
+无
 
-若券商打算对某一个 IPO 开启客户申购，那么需要手动开启，并进行一些基础的费率、时间设置。
-
-**步骤一：查看新股列表**
-
-当有新股公告时，系统会透过行情自动同步数据，会默认记录在『未开启认购』列表中，方便券商查看与配置。对于未开启认购的新股，点击『详情』，进行新股配置。
-
-<img src="/assets/SWOkb21E3oibJ1xwnfrcwnPcn4g.png" src-width="3804" src-height="1832" align="center"/>
-
-**步骤二：开启认购**
-
-1. 点击新股列表的『详情』，则进入配置页面，进入页面后，默认为“不可认购”，如下图。
-2. 单选，选择『是』，再进行保存，则开启认购，开启后默认只能现金认购。
-3. 此处设置完成，即现金认购开启完成
-
-<img src="/assets/NThCbAym9oJLUpxAm5rcSCeanrb.png" src-width="3782" src-height="1764" align="center"/>
-
-### 1.2 融资认购配置
-
-若券商对该新股需要开启『融资认购』，那么需要设定融资池，**若不开启，则无需此设置**。
-
-**步骤一：新建融资池**
-
--**基础信息**
-
-点选『融资认购』右上角：‘新建’，设定对应融资池信息，点击后弹出设置信息。
-
-<img src="/assets/IcKTbRJqMocqsrxvTgkcsKwxnme.png" src-width="3776" src-height="1816" align="center"/>
-
-填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
-
-<img src="/assets/Nk2KbzOfQoOby7x7zdtcnwPRntb.png" src-width="3296" src-height="1802" align="center"/>
-
-**-更多配置**
-
-点击『更多配置』，则可进行个性化设置。
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<ol>
-<li><p>『更多配置』中的配置数据，一般为须特别控制的信息，非必填。</p>
-</li>
-<li><p>可见用户群体：默认为全部客户，若券商有运营系统的用户分群功能，那么可以指定这个融资只给部分客户开放。</p>
-</li>
-<li><p>上下限股数用于控制客户的可认购股数范围。</p>
-</li>
-</ol>
-</div>
-
-<img src="/assets/VRywb2tlfowSHCxLx3lchmDPnpb.png" src-width="3288" src-height="1808" align="center"/>
-
-**-客户分群配置**
-
-融资池可设置多个分群规则，配合运营要求，例如：
-
-1. A 客户群体只能最多申购 10000 股；
-2. B 客户群体最多可以申购 100000 股。
-
-<img src="/assets/RrdDbL94Qo5ME7xgRdfcvIrjnlg.png" src-width="3766" src-height="1834" align="center"/>
-
-**步骤二：融资池审批**
-
-提交审批后，融资池为默认『待审批』状态，审批成功后，才会生效。
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<p>融资池审批有两个审批入口：</p>
-<ol>
-<li><p>融资池列表</p>
-</li>
-<li><p>融资池审批页面</p>
-</li>
-</ol>
-</div>
-
-<img src="/assets/IuCob8BnhoQ12yxhWohc6gsvnAg.png" src-width="2050" src-height="466" align="center"/>
+# 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：款项管理 - 出金</p>
 </div>
 
-<img src="/assets/ADghb13WSo9ljLxQCm1cBfY1nHd.png" src-width="3744" src-height="1290" align="center"/>
+## 出金申请
 
-点击『审批』按钮，查看工单详情，审批通过后，融资池生效。
+出金申请为用户方提出，申请的内容包含了币种、申请金额、收款银行卡与备注 4 大部分。WHALE 使用者可以手动帮助客户进行证券入仓并根据客户提交的申请进行驳回、提交审批等操作。
 
-<img src="/assets/Nz4BbIHZcoQMfyxqgfgcUNYmnkG.png" src-width="3274" src-height="1824" align="center"/>
+- 手工提现
 
-### 1.3 零本金认购配置
+适用于使用者联络后台操作员进行手动出金的场景，操作员需要依序填写客户的币种、申请金额、出金手续费、收款银行卡、备注资讯。如果客户有出金的证明也可以上传至系统。
 
-若券商对该新股需要开启『0 本金认购』，那么需要设定 0 本金认购的融资池，若不开启，则无需此设置。
+<img src="/assets/VPYlbZJfjokg7ZxkLf1c0MMdn6g.png" src-width="1192" src-height="2434" align="center"/>
 
-0 本金认购为一种比较特殊的认购方式，提供给客户的融资比例只能为 100%，即客户不需要任何本金，就可以认购 IPO。
+- 驳回（**可批量操作）**：若客户递交的出金申请资料有误或使用者反馈本次申请无效时，操作员可以进行【驳回】操作
+- 删除：若客户递交的出金申请资料有误或使用者反馈本次申请无效时，操作员也可以透过【删除】按钮直接删除目标记录
+- 修改：若在提交出金申请前，发现客户递交的某笔具出金申请有问题，可在与客户确认无误后可以透过【编辑】按钮进行修正，修改后需进行工单审批，审批通过后修改内容生效。
+    - 修改的范围：申请金额、出金手续费、收款银行卡、备注、凭证（重新上传）
 
-**步骤一：新建融资池**
+<img src="/assets/KygmbMCcfo4HVxxNuvVcCWmHnnd.png" src-width="3824" src-height="1418" align="center"/>
 
--**基础信息**
+<img src="/assets/UtkubpN0Fo09CpxtRRRcmQBonOd.png" src-width="3322" src-height="1674" align="center"/>
 
-点选『0 本金认购』右上角：‘新建’，设定对应融资池信息，点击后弹出设置信息。
+- 提交（**可批量操作**）：经过操作人员初步审查无误后，可以将申请提交至下一节点的操作人员进行审核 - 提现
 
-<img src="/assets/SaOLbvrX4omPKYxiLnZcjdaVnmb.png" src-width="3056" src-height="1840" align="center"/>
+操作
 
-填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
+## 提现处理
 
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<p>此处设置，与融资认购设置相似，只是<strong>不需要填选融资比例</strong>，固定为 100%。</p>
-</div>
+在初审人员提交出金申请后，复审操作人员需要进行提现处理。提现处理提供了 2 种方式：直接出帐与打包提审。其中：
 
-更详细操作参考：
-
-**1.2 融资认购设置**。
-
-<img src="/assets/Mb24bDQbYox285xtOl1cTEEynEw.png" src-width="3258" src-height="1814" align="center"/>
-
-## 二、认购截止扣款
-
-当 IPO 认购截止后，券商需要把确认好的 IPO 订单资料交给港交所或其他上手，此时对客户的有效认购订单进行扣款认购金额及认购手续费的操作，并发放一定的融资金额。
-
-扣款操作有两个入口：
-
-1. 认购处理中列表页面：会根据订单状态，动态展示快捷操作入口
-2. IPO 详情，认购记录页面：会根据订单状态，动态展示快捷操作入口
-
-<img src="/assets/NSAMbFWmroqAZtxyTSYczd91nCb.png" src-width="3280" src-height="860" align="center"/>
-
-<img src="/assets/UfkWbKgOfohKwtx1SrHcHQEInPf.png" src-width="3286" src-height="1574" align="center"/>
-
-**步骤一：点击扣款，确认订单范围**
-
-点击扣款后，会展示待扣款的订单范围，确认并选择订单范围，再进行下一步操作。
-
-<img src="/assets/E2PHbxhl7oPr89xC7grc2qkqn4d.png" src-width="3304" src-height="1820" align="center"/>
-
-**步骤二：核对扣款订单明细**
-
-系统会自动根据认购订单、费用、融资比例等计算出预览数据，如下图，操作人员需要核对相关的数据，并提交审核。
-
-<img src="/assets/ARhsbuhnuoxN51xn8v8ctPv4nGT.png" src-width="3298" src-height="1836" align="center"/>
-
-**步骤三：扣款审批**
-
-扣款审批有两个入口：
-
-1. 专门的扣款审批页面：可查看历史的扣款申请、审批记录。
-2. 工单记录：有审批权限的人，直接可在**待办工单**中操作审批。
-
-点击『审批』，则可查看工单，审批通过即可
-
-<img src="/assets/BCVMbJj3ion1oPxdZ7JccpE2n0b.png" src-width="3294" src-height="976" align="center"/>
-
-<img src="/assets/AhkCbytfdonZAbxhbrfcngrinUc.png" src-width="3302" src-height="1844" align="center"/>
-
-## 三、订单提交上手
-
-对于已经确认扣款成功的 IPO 认购订单，券商需要把订单提交给上手或港交所，一般来讲，通过港交所做的 IPO 为 CCASS 文件，通过其他上手做的 IPO 一般需要线下 Excel 或 CSV 进行文件传输。
-
-### 3.1 **已配置 FINI**
-
-若券商已配置采用新的** FINI 平台**，Whale 系统将直接以 API 的方式将**IPO 订单直接同步给港交所**，则无需此操作。
-
-### 3.2 **未配置 FINI**
-
-**步骤一：选择订单类型**
-
-根据渠道或融资比例，选择指定的订单类型，点击『生成文件』按钮。
-
-这里建议相同上手的数据，生成同一份文件。
-
-例如：
-
-1. 融资是通过某一银行做的，不直接通过港交所，那么单独选择，生成 CSV 文件。
-2. 现金、0 成本打新是通过港交所做的，那么一起选择，生成 CCASS 文件。
-
-<img src="/assets/NEEDb4s1EoiVDxxCHKPcEPHZntH.png" src-width="3288" src-height="1318" align="center"/>
-
-**步骤二：生成指定文件**
-
-弹出侧拉弹窗后，选择**文件格式**，并自定义**文件名**，点击『生成并下载』即可。
-
-<img src="/assets/INs7byeTCodDajxjWiJcYidpnYg.png" src-width="3302" src-height="1844" align="center"/>
-
-## 四、公布中签
-
-一般在上市前一个交易日，会完成中签结果公布，系统需要对客户完成中签结果操作，中签股票需要在当日到帐。
-
-对于中签的客户：将退还认购金额，回收提供的 IPO 融资金额，扣除 IPO 融资利息，额外扣除中签款、中签费，发放中签的新股。
-
-对于未中签的客户：将退还认购金额，回收提供的 IPO 融资金额，同时扣除 IPO 融资利息
-
-中签操作有两个入口：
-
-1. 认购处理中列表页面：会根据订单状态，动态展示快捷操作入口
-2. IPO 详情，认购记录页面：会根据订单状态，动态展示快捷操作入口
-
-<img src="/assets/Fa6ZbTNafo88l8xx2UrckwAjnhc.png" src-width="3282" src-height="720" align="center"/>
-
-<img src="/assets/SYZ1b2Ak3on3ijxBqZYchidjnqc.png" src-width="3284" src-height="1590" align="center"/>
-
-**步骤一：点击公布中签，核对数据**
-
-点击公布中签后，首先需要券商确认好以下数据，若信息无误，则直接点击『下一步』即可。
-
-1. IPO 价格：一般情况系统会自动获取，券商二次确认即可，若 IPO 价格系统自动获取是异常的，操作人也可以人工填写
-2. 客户的计息天数：默认计息天数为中签日 - 认购截止日的差值（与港交所时间一致），操作者亦可自行修改。
-
-<img src="/assets/FQv3bE1JeoqQn6x7J7VcDeaQn8e.png" src-width="3306" src-height="1820" align="center"/>
-
-**步骤二：选择中签方式**
-
-IPO 系统提供多种中签方式，券商可根据实际情况选择不同的中签方式。
-
-<table header_row="1">
+<table>
 <colgroup>
-<col width="189"/>
-<col width="522"/>
+<col width="155"/>
+<col width="598"/>
 </colgroup>
-<thead>
-<tr><th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
-</thead>
 <tbody>
-<tr><td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
-<tr><td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
-<tr><td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
-<tr><td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
-<tr><td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
+<tr><td><p>出金方式</p></td><td><p>适用场景</p></td></tr>
+<tr><td><p>直接出帐</p></td><td><p>出金的记录较少，且需要快速进行出金</p></td></tr>
+<tr><td><p>打包提审</p></td><td><p>出金的记录较多，需要对某一时段或某一特定的客户或其他需要进行集中处理出金的情形</p></td></tr>
 </tbody>
 </table>
 
-**上传自定义 CSV 文件**
+- 直接出账
+    - 选择目标记录后，点选操作列的【直接出帐】
+    <img src="/assets/HVnIbKbt6o0u9rxPxumcX6psnvf.png" src-width="3826" src-height="1024"/>
+    - 在弹窗中输入银行名称、银行帐户、渠道等信息，并在出帐明细中可选择是否补充银行流水信息
+    <img src="/assets/NXXHbrWQXo1V2JxsMedcwzX2n0f.png" src-width="1674" src-height="1748" align="center"/>
+    - 提交审核后，记录流转至「直接出帐待处理」页面，审核者需进行工单审批，审核通过后，完成出帐
+    <img src="/assets/SXmZbOROqoIWaCxT1N4c9TdYnfg.png" src-width="3810" src-height="1860"/>
 
-1. 下载示例模板，模板如下：
-    1. Order：代表 IPO 系统的订单号
-    2. APPLY：代表该订单客户申请了多少股
-    3. SUCCESS：代表客户中签了多少股
+- 打包提审
+    - 选择目标记录后，点选批次操作行的【打包提审】，如果在打包后需要进行移除部分明细记录，可以在弹跳窗内进行操作，填好出金的银行资讯以及渠道资讯后，该批进入审核流程
+    <img src="/assets/EbULbLUddo5PbsxvW44cAvdPnvh.png" src-width="3818" src-height="1536" align="center"/>
+    <img src="/assets/F0Z4byQjOoTC1SxhGeCcDMchnce.png" src-width="3832" src-height="1848" align="center"/>
+    - 提交审核后，记录流转至「打包待处理」页面，审核者需进行工单审批，审核通过后，完成出帐
+    <img src="/assets/Cjp2b0NecoErKXxfhhJcpLEGnac.png" src-width="3830" src-height="1146" align="center"/>
+    <img src="/assets/T7WobwUbjobX3ixxhuDcpYA0nVi.png" src-width="3826" src-height="1826" align="center"/>
+    - 注：由于出金的数量与渠道限制，部分出金管道需要人工更新出金的状态，用户需要点选【检视并更新结果】进入至详情页面进行手动更新（可批量更新）
+    <img src="/assets/X9S5bVwl9odtz4xyzFscfYdXnHg.png" src-width="3910" src-height="1942" align="center"/>
+    - 完成出帐后，可将出金文件下载至电脑本地留存
 
-<img src="/assets/MqPebLKGfoH9kixrZASc4YHdnFr.png" src-width="1004" src-height="258" align="center"/>
+<img src="/assets/E6MfbCyUuoQhUuxwqXncDA3Fnxf.png" src-width="3836" src-height="1826" align="center"/>
 
-1. 填写中签数据，并上传文件
+- 指标卡
 
-<img src="/assets/EkYsbStJRo5qxbxGKKuc2ocPn3e.png" src-width="3286" src-height="1822" align="center"/>
+若出金业务量较大，可以透过系统的分类展示卡进行精细化作业，指标卡的左右排布反映了业务操作的先后顺序
 
-**步骤三：核对中签结果**
+<img src="/assets/OdhXbgRF9oRKAvxtEdKcY3xznVf.png" src-width="3830" src-height="1268" align="center"/>
 
-系统会根据操作人所选的中签方式及中签文件，自动解析中签结果，生成汇总及明细数据。
+- 支票列印
 
-汇总数据：用于跟上手核对总数量、总中签数量，便于快捷发现中签数量问题。
+用户若是采用支票方式出金，流程结束后需要列印支票时，可点选页面右上方的【支票列印】进入二级页面
 
-明细数据：用于预览中签数据及扣费数据。
+<img src="/assets/FCDNb8gZ6ojbCExiTsQc0PBhnWc.png" src-width="3326" src-height="1712" align="center"/>
 
-若数据无误，点击『确定』，则提交审核。
+页面内显示全部支票方式出金的记录，使用者选择目标记录后可选择支票补打或首打，（支援大量列印）输入支票号，点选【确定列印】
 
-<img src="/assets/WjuCb5futoUWamx1sD0cMEMRnBe.png" src-width="3294" src-height="1832" align="center"/>
+<img src="/assets/UexCbO5gZoDtp9xXIXkc8QSanJc.png" src-width="3324" src-height="1758" align="center"/>
 
-**步骤四：中签结果审核**
+## 出金对帐
 
-中签审批有两个入口：
+为了保障资金流水的准确性，业务中需要将银行的流水与系统中的出金记录进行比对，降低资金流失的风险。银行流水的来源有 2 种：①API 对接（自动产生）、②手动导入。
 
-1. 专门的中签审批页面：可查看历史的中签申请、审批记录。
-2. 工单记录：有审批权限的人，直接可在**待办工单**中操作审批。
+- 对帐：用户可以选择目标期间的银行流水进行刷新，系统将自动匹配银行流水与系统的出金记录，对帐完成后，可以关注清单中的「对帐结果」列，如果不一致，需要进一步追踪处理。
 
-点击『审批』，则可查看工单，审批通过即可。
+<img src="/assets/EGR2bPbVcoJVVJxppgpcOlG4nde.png" src-width="3826" src-height="1790" align="center"/>
 
-<img src="/assets/UMVzbAXlXo4xfmxqQ4kczY6Inph.png" src-width="3272" src-height="954" align="center"/>
+<img src="/assets/HD4TbxUeQozTP4xIjDCcBDhInib.png" src-width="3818" src-height="1808" align="center"/>
 
-<img src="/assets/L2RebUQihomw7LxdcEIcyPk8nTe.png" src-width="3286" src-height="1820" align="center"/>
+## 异常出金
 
+若出金申请在提现与对帐流程发现了异常，可在异常出金页面进行处理（**可批量操作**）。系统提供了 4 种处理方式：
+
+<img src="/assets/MqMrb0SsXoIvIFxkxkocBp7ynO0.png" src-width="3826" src-height="1788" align="center"/>
+
+- 选择了具体的处理方式后，记录流转只待审核页面，业务人员需要再次复核处理结果，通过后异常出金记录处理完毕
+
+<img src="/assets/IWRobrlgYoyuSZx8182cNrwonJf.png" src-width="3832" src-height="1312" align="center"/>
+
+## 出金记录
+
+出金记录页面记录出金的全流程状态，使用者可随时进行查询、汇出等操作
+
+<img src="/assets/XPuMbA0sxomiAvxw8r9cuwvGndA.png" src-width="3816" src-height="1854" align="center"/>
+
+# 

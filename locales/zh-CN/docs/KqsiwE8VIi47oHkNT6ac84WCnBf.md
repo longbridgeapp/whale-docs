@@ -1,11 +1,11 @@
 ---
-title: 汇出日志
+title: 汇出日志 - 待移除
 slug: KqsiwE8VIi47oHkNT6ac84WCnBf
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 
-# 汇出日志
+# 汇出日志 - 待移除
 
 ## 适用场景
 

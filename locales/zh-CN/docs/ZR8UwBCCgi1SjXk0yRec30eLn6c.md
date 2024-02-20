@@ -1,7 +1,7 @@
 ---
 title: 资产调拨
 slug: ZR8UwBCCgi1SjXk0yRec30eLn6c
-sidebar_position: 3
+sidebar_position: 7
 ---
 
 

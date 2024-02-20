@@ -1,7 +1,7 @@
 ---
 title: 风控报表
 slug: Wb8gwE99yi1a3tk7ZL9chvkmnFb
-sidebar_position: 5
+sidebar_position: 9
 ---
 
 

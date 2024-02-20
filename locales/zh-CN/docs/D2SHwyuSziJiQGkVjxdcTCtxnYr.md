@@ -1,11 +1,11 @@
 ---
-title: 活动系统 - 系统介绍
+title: 系统介绍
 slug: D2SHwyuSziJiQGkVjxdcTCtxnYr
 sidebar_position: 2
 ---
 
 
-# 活动系统 - 系统介绍
+# 系统介绍
 
 # 概述
 
@@ -43,7 +43,7 @@ sidebar_position: 2
 
 # 各菜单介绍
 
-## 标准活动管理
+## 标准活动
 
 执行菜单：运营系统&gt; 活动系统&gt;标准活动管理
 
@@ -321,7 +321,7 @@ sidebar_position: 2
 
 <img src="/assets/O2Zlb7oRoojmmvxP26mc6q0JnMd.png" src-width="3288" src-height="1288" align="center"/>
 
-## 邀请关系管理
+## 邀请关系
 
 菜单入口：活动系统 &gt; 邀请关系管理
 

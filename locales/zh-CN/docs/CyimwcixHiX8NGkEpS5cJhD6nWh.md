@@ -13,6 +13,23 @@ Whale 活动系统支持按照不同任务规则判断进行奖励记录生成�
 
 # 快速上手
 
+### 前置条件
+
+您需要获取以下授权后方可正常使用系统功能
+
+<table header_row="1">
+<colgroup>
+<col width="300"/>
+<col width="393"/>
+</colgroup>
+<thead>
+<tr><th><p>权限名称</p></th><th><p>权限说明</p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>管理活动、邀请关系配置的权限<br/>ActivityCenterFull</p></td><td><p>查看、编辑、创建、发布、审核活动业务的权限；<br/>查看、创建用户的注册、开户、入金邀请关系的权限；</p></td></tr>
+</tbody>
+</table>
+
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>📌</div>
 <p>以邀请活动活动规则如下举例：</p>

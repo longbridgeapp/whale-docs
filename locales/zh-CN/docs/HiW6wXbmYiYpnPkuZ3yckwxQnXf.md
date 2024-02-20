@@ -7,270 +7,148 @@ sidebar_position: 2
 
 # 系统介绍
 
-# 概述
+# 一、系统介绍
 
-Whale 新股认购系统全面支持券商处理客户新股认购流程，包括新股信息管理、认购配置、订单管理、中签分配等全流程的管理。
+入金是指投资者将资金转入其证券帐户的过程。这一过程涉及多个环节，确保资金的安全、准确地进入投资者的帐户。
 
-针对即将上市的新股，快速配置即可支持客户线上进行新股认购。
+Whale 系统包含了处理入金申请、匹配银行流水、入金审核、单独处理开户中入金、对帐、入金记录查询等功能，由于监理与风控需求，系统的功能设计具备多角色、流程化的特色，兼顾了高入金效率与低资金风险。
 
-# 快速上手
+因不同券商公司对于入金的要求不同，有些券商要求快速入金，有些公司要求精准匹配银行流水后再入金，综合考虑了上述因素，系统兼容了 2 套入金的流程，如下：
 
-## 一、开启认购
+## 前置条件
 
-以港股现金认购为例，经过几分钟快速的配置，即可支持客户线上进行新股认购。
+无
 
-### 1.1 现金认购配置
-
-若券商打算对某一个 IPO 开启客户申购，那么需要手动开启，并进行一些基础的费率、时间设置。
-
-**步骤一：查看新股列表**
-
-当有新股公告时，系统会透过行情自动同步数据，会默认记录在『未开启认购』列表中，方便券商查看与配置。对于未开启认购的新股，点击『详情』，进行新股配置。
-
-<img src="/assets/Vgg2b5YrPoioDCxRBxNc8ZxKnif.png" src-width="3804" src-height="1832" align="center"/>
-
-**步骤二：开启认购**
-
-1. 点击新股列表的『详情』，则进入配置页面，进入页面后，默认为“不可认购”，如下图。
-2. 单选，选择『是』，再进行保存，则开启认购，开启后默认只能现金认购。
-3. 此处设置完成，即现金认购开启完成
-
-<img src="/assets/Mv5vbIfGcoAoR1xeE8ec3Ks6nhc.png" src-width="3782" src-height="1764" align="center"/>
-
-### 1.2 融资认购配置
-
-若券商对该新股需要开启『融资认购』，那么需要设定融资池，**若不开启，则无需此设置**。
-
-**步骤一：新建融资池**
-
--**基础信息**
-
-点选『融资认购』右上角：‘新建’，设定对应融资池信息，点击后弹出设置信息。
-
-<img src="/assets/Scjnb87WjoVSZpxxlZNcBe0YnHd.png" src-width="3776" src-height="1816" align="center"/>
-
-填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
-
-<img src="/assets/LnjmbTFV6oHbPExvDyIcIo4rnT3.png" src-width="3296" src-height="1802" align="center"/>
-
-**-更多配置**
-
-点击『更多配置』，则可进行个性化设置。
-
-❤ Tips: 
-
-1. 『更多配置』中的配置数据，一般为须特别控制的信息，非必填。
-2. 可见用户群体：默认为全部客户，若券商有运营系统的用户分群功能，那么可以指定这个融资只给部分客户开放。
-3. 上下限股数用于控制客户的可认购股数范围。
-
-<img src="/assets/ELnObi3zLo5WWRxAXo0cC0OMnJg.png" src-width="3288" src-height="1808" align="center"/>
-
-**-客户分群配置**
-
-融资池可设置多个分群规则，配合运营要求，例如：
-
-1. A 客户群体只能最多申购 10000 股；
-2. B 客户群体最多可以申购 100000 股。
-
-<img src="/assets/MIXnbdtVeopKyOxhLFjcxrCwnpc.png" src-width="3766" src-height="1834" align="center"/>
-
-**步骤二：融资池审批**
-
-提交审批后，融资池为默认『待审批』状态，审批成功后，才会生效。
-
-❤ Tips: 
-
-融资池审批有两个审批入口：
-
-1. 融资池列表
-2. 融资池审批页面
-
-<img src="/assets/X8tubpykdoVtCZxtF37cToaSnZf.png" src-width="2050" src-height="466" align="center"/>
+# 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>新股认购 &gt; 新股认购 &gt; 融资池审批</p>
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：款项管理 - 入金</p>
 </div>
 
-<img src="/assets/Bc8Zby7aKoKThJxpF6wcMXIxnyc.png" src-width="3744" src-height="1290" align="center"/>
+## 入金申请
 
-点击『审批』按钮，查看工单详情，审批通过后，融资池生效。
+入金申请为用户方提出，申请的内容包含了币种、申请金额、收款银行卡与备注 4 大部分。WHALE 使用者可以手动帮助客户进行证券入仓并根据客户提交的申请进行驳回、提交审批等操作。
 
-<img src="/assets/DbMnbTxPhoocnqxWOcGcYKSunQd.png" src-width="3274" src-height="1824" align="center"/>
+- 新建 (入金申请)
 
-### 1.3 零本金认购配置
+适用于使用者联络后台操作员进行手动入金的场景，操作员需要依序选择客户并输入金的币种、方式、收款银行、金额、备注、凭证（如有）
 
-若券商对该新股需要开启『0 本金认购』，那么需要设定 0 本金认购的融资池，若不开启，则无需此设置。
+<img src="/assets/KkeVbvwzToGPx1xtVh0cetdOnKd.gif" src-width="2074" src-height="1000" align="center"/>
 
-0 本金认购为一种比较特殊的认购方式，提供给客户的融资比例只能为 100%，即客户不需要任何本金，就可以认购 IPO。
+- 驳回：若客户递交的入金申请资料有误或使用者反馈本次申请无效时，操作员可以进行【驳回】操作
+- 删除：若客户递交的入金申请资料有误或使用者反馈本次申请无效时，操作员也可以透过【删除】按钮直接删除目标记录
+- 修改：若在提交入金申请前，发现客户递交的某笔入金申请有问题，可在与客户确认无误后可以透过【编辑】按钮进行修正，修改后需进行工单审批，审批通过后修改内容生效。
+    - 修改的范围：币种、入金方式、收款银行、金额、入金手续费、备注、凭证（重新上传）
+    <img src="/assets/IlRVbRl3toqWxFxk9tJcmms6nNf.gif" src-width="2076" src-height="998" align="center"/>
 
-**步骤一：新建融资池**
+- 提交（**可批量操作**）：经过操作人员初步审查无误后，可以将申请提交至下一节点的操作人员进行审核 - 提现
 
--**基础信息**
+操作
 
-点选『0 本金认购』右上角：‘新建’，设定对应融资池信息，点击后弹出设置信息。
+- 直接入帐：由于不同券商使用者对于入金的时效性要求不同，直接入帐可以帮助使用者快速处理入金流程，使用者接收到客户的入金申请后只需补充银行流水资讯即可完成入帐。直接入帐预设需要进行审批，如果不需要审核可联络运维人员进行配置。
+    - 需要审批：进入直接入账的弹窗内确认信息无误后，点击【提交审批】后，记录流转至入金审核页面，审批后即可入账
+    - 无需审批：进入直接入账的弹窗内确认信息无误后，点击【确定入帐】后即可入账
 
-<img src="/assets/GKzvbYhkXoopNXxfDRocmBPSn7d.png" src-width="3056" src-height="1840" align="center"/>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
+<p>需要审批</p>
+<img src="/assets/FlOqbkU7loUf14xPDTscaU6cnzh.png" src-width="1678" src-height="1764" align="center"/>
+</div>
+<div class="w-[50%]" width-ratio="50">
+<p>无需审批</p>
+<img src="/assets/OYtkbLK4QolXjYx2OalckTh1nwf.png" src-width="1688" src-height="1754" align="center"/>
+</div>
+</div>
 
-填写基础数据后，若无需关注更多配置，那么点击『提交审批』即可。
+## 入金匹配
 
-❤ Tips: 
+此页面的数据皆来自银行帐单中的入金帐单，若券商的业务规范需要银行流水与入金记录匹配一直后进行入帐，在确认银行流水资讯已同步系统后，可手动在入金匹配页面下处理。处理的方式分为：关联入帐、退还客户 2 大类。
 
-此处设置，与融资认购设置相似，只是**不需要填选融资比例**，固定为 100%，更详细操作参考：
-
-**1.2 融资认购设置**。
-
-<img src="/assets/TTgVbAykSoaKtNx0nsCc8fxonoh.png" src-width="3258" src-height="1814" align="center"/>
-
-## 二、认购截止扣款
-
-当 IPO 认购截止后，券商需要把确认好的 IPO 订单资料交给港交所或其他上手，此时对客户的有效认购订单进行扣款认购金额及认购手续费的操作，并发放一定的融资金额。
-
-扣款操作有两个入口：
-
-1. 认购处理中列表页面：会根据订单状态，动态展示快捷操作入口
-2. IPO 详情，认购记录页面：会根据订单状态，动态展示快捷操作入口
-
-<img src="/assets/S6Cxbqoh2ozDjCxDQatcL4Elnjg.png" src-width="3280" src-height="860" align="center"/>
-
-<img src="/assets/XPHIb67I5owul3xVnVHcRxABnET.png" src-width="3286" src-height="1574" align="center"/>
-
-**步骤一：点击扣款，确认订单范围**
-
-点击扣款后，会展示待扣款的订单范围，确认并选择订单范围，再进行下一步操作。
-
-<img src="/assets/Hq0hbdkvGorpLQxitSmcxtQenXf.png" src-width="3304" src-height="1820" align="center"/>
-
-**步骤二：核对扣款订单明细**
-
-系统会自动根据认购订单、费用、融资比例等计算出预览数据，如下图，操作人员需要核对相关的数据，并提交审核。
-
-<img src="/assets/Of4vb8fiWoIKyTxI0TXcSPnsnCg.png" src-width="3298" src-height="1836" align="center"/>
-
-**步骤三：扣款审批**
-
-扣款审批有两个入口：
-
-1. 专门的扣款审批页面：可查看历史的扣款申请、审批记录。
-2. 工单记录：有审批权限的人，直接可在**待办工单**中操作审批。
-
-点击『审批』，则可查看工单，审批通过即可
-
-<img src="/assets/Ag9hbJIisohWVXxsGqEcsnyNn3e.png" src-width="3294" src-height="976" align="center"/>
-
-<img src="/assets/Xbxib8O0poIdhOxD5mAcoSGHnYd.png" src-width="3302" src-height="1844" align="center"/>
-
-## 三、订单提交上手
-
-对于已经确认扣款成功的 IPO 认购订单，券商需要把订单提交给上手或港交所，一般来讲，通过港交所做的 IPO 为 CCASS 文件，通过其他上手做的 IPO 一般需要线下 Excel 或 CSV 进行文件传输。
-
-### 3.1 **已配置 FINI**
-
-若券商已配置采用新的** FINI 平台**，Whale 系统将直接以 API 的方式将**IPO 订单直接同步给港交所**，则无需此操作。
-
-### 3.2 **未配置 FINI**
-
-**步骤一：选择订单类型**
-
-根据渠道或融资比例，选择指定的订单类型，点击『生成文件』按钮。
-
-这里建议相同上手的数据，生成同一份文件。
-
-例如：
-
-1. 融资是通过某一银行做的，不直接通过港交所，那么单独选择，生成 CSV 文件。
-2. 现金、0 成本打新是通过港交所做的，那么一起选择，生成 CCASS 文件。
-
-<img src="/assets/ABg3bO5snonPSwxSlAWcFVLXnlf.png" src-width="3288" src-height="1318" align="center"/>
-
-**步骤二：生成指定文件**
-
-弹出侧拉弹窗后，选择**文件格式**，并自定义**文件名**，点击『生成并下载』即可。
-
-<img src="/assets/Vyr3bfP3HoX9bkxF4Z0c2Ij4nqJ.png" src-width="3302" src-height="1844" align="center"/>
-
-## 四、公布中签
-
-一般在上市前一个交易日，会完成中签结果公布，系统需要对客户完成中签结果操作，中签股票需要在当日到帐。
-
-对于中签的客户：将退还认购金额，回收提供的 IPO 融资金额，扣除 IPO 融资利息，额外扣除中签款、中签费，发放中签的新股。
-
-对于未中签的客户：将退还认购金额，回收提供的 IPO 融资金额，同时扣除 IPO 融资利息
-
-中签操作有两个入口：
-
-1. 认购处理中列表页面：会根据订单状态，动态展示快捷操作入口
-2. IPO 详情，认购记录页面：会根据订单状态，动态展示快捷操作入口
-
-<img src="/assets/OUE3bdAExoEByOxTIJgcAcWhngd.png" src-width="3282" src-height="720" align="center"/>
-
-<img src="/assets/RrVXbq1cfofmGHxuaLzcaffWnxP.png" src-width="3284" src-height="1590" align="center"/>
-
-**步骤一：点击公布中签，核对数据**
-
-点击公布中签后，首先需要券商确认好以下数据，若信息无误，则直接点击『下一步』即可。
-
-1. IPO 价格：一般情况系统会自动获取，券商二次确认即可，若 IPO 价格系统自动获取是异常的，操作人也可以人工填写
-2. 客户的计息天数：默认计息天数为中签日 - 认购截止日的差值（与港交所时间一致），操作者亦可自行修改。
-
-<img src="/assets/MCAUbbFCroFDq9xK5DXcXgJ7nbh.png" src-width="3306" src-height="1820" align="center"/>
-
-**步骤二：选择中签方式**
-
-IPO 系统提供多种中签方式，券商可根据实际情况选择不同的中签方式。
-
-<table header_row="1">
+<table>
 <colgroup>
-<col width="189"/>
-<col width="522"/>
+<col width="100"/>
+<col width="544"/>
 </colgroup>
-<thead>
-<tr><th><p><strong>中签方式</strong></p></th><th><p><strong>中签方式说明</strong></p></th></tr>
-</thead>
 <tbody>
-<tr><td><p>港交所 CCASS 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>CCASS 的中签结果，下载下来，直接上传 CCASS 结果即可。</p></td></tr>
-<tr><td><p>自定义 CSV 文件</p></td><td><p><strong>不是通过港交所做的 IPO，而是通过银行或其他上手做的</strong><br/>一般情况上手把中签结果给一份 CSV 或 Excel 文件，需要操作人把对应结果文件转化为系统可识别的字段，再进行上传。</p></td></tr>
-<tr><td><p>FINI 中签结果</p></td><td><p><strong>通过港交所做的 IPO</strong><br/>FINI 平台的中签结果，下载下来，直接上传即可。</p></td></tr>
-<tr><td><p>自动获取上手中签结果</p></td><td><p><strong>以长桥香港为上手做的 IPO，可以系统化自动获取</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
-<tr><td><p>自动获取 FINI 中签结果</p></td><td><p><strong>通过港交所 FINI - API 自动做的 IPO 订单</strong><br/>选择后，直接点击『下一步』，那么系统将自动拉取结果。</p></td></tr>
+<tr><td><p>处理方式</p></td><td><p>名词解释</p></td></tr>
+<tr><td><p>关联</p></td><td><p>指代根据银行帐单中的付款方银行帐号、付款方姓名、币种、金额等栏位自动与入金记录是否一致来进行关联入账。</p></td></tr>
+<tr><td><p>入金退还</p></td><td><p>指代没有正常开户的客户或因客户帐户有风险等原因无法入帐至证券帐户的情况，需要将资金退回客户银行卡的整体处理流程。</p></td></tr>
+<tr><td><p>出金退还</p></td><td><p>指代用户的出金被用户的收款行拒绝，用户需要把客户被收款行退回的钱配对到客户的帐户中。（由于对银行流水而言是一笔资金流入，为了能够区分正常的入金，故放置在入金匹配的页面）</p></td></tr>
 </tbody>
 </table>
 
-**上传自定义 CSV 文件**
+- 关联：仅入金的银行账单中系统无法自动匹配需要人工操作的记录，在此页面下操作员可以根据系统提示进行确认，并进行后续入账或者其他操作。
+    - 关联页面将根据姓名配对用户自动比对栏位（如图），确认无误后可点选【关联】
+    <div class="flex gap-3 columns-2" column-size="2">
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/Wb1ibQjqOoeDcjxeySLcfNXNnHd.png" src-width="3818" src-height="1842" align="right"/>
+        </div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/Wj7sbldCoopPv3xe4rHcfuHpnNg.png" src-width="3904" src-height="1950" align="center"/>
+        </div>
+    </div>
+    - 如系统预设匹配的用户不准，可透过【自定义】手动关联该笔银行流水所对应的客户。关联的方式有：入金的申请与证券帐号
+    <div class="flex gap-3 columns-2" column-size="2">
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/QgoqbKGL6oftC5xOl7JczjwEnRc.png" src-width="3308" src-height="1776" align="center"/>
+        </div>
+    <div class="w-[50%]" width-ratio="50">
+        <img src="/assets/FFOubF4z9oJkS7xQCFqcSVvFnid.png" src-width="3308" src-height="1750" align="center"/>
+        </div>
+    </div>
 
-1. 下载示例模板，模板如下：
-    1. Order：代表 IPO 系统的订单号
-    2. APPLY：代表该订单客户申请了多少股
-    3. SUCCESS：代表客户中签了多少股
+入金退还：若因种种原因，导致入金未能正常进入客户的证券帐户，需要对这笔记录进行退款时，可以使用该功能进行操作。用户需填写客户的银行卡讯息，确认无误后点选【确定】流转至入金审核页面进行审核操作。
 
-<img src="/assets/ZgVGbsB9LoFG4MxlDNYcwK57nbb.png" src-width="1004" src-height="258" align="center"/>
+<img src="/assets/Q9ZybG1ano5vKixwrqzcvHSanNN.png" src-width="2436" src-height="1326" align="center"/>
 
-1. 填写中签数据，并上传文件
+出金退还：由于入金匹配页面的数据来自银行流水流入的信息，如果用户在处理客户出金的时候被银行拒绝，在银行流水中会以流入的形式存在，用户需要关联出金的业务流水号通过【出金退还】功能处理此类记录。
 
-<img src="/assets/YPkLbOVWDoxanoxfI0zc1po5nHg.png" src-width="3286" src-height="1822" align="center"/>
+<img src="/assets/OouibaBavoYDtgxrTyocGWl6nle.png" src-width="2366" src-height="1234" align="center"/>
 
-**步骤三：核对中签结果**
+## 入金审核
 
-系统会根据操作人所选的中签方式及中签文件，自动解析中签结果，生成汇总及明细数据。
+用户在「入金匹配」页面中依赖银行流水流入的资讯进行处理后，下游的审核人员会对处理的结果进行审批，通过后方可入帐。对于正常关联入帐的入金，由于存在客户在入金时时证券帐户仍在客户中的情况，后台将针对这类记录单独进行审批。
 
-汇总数据：用于跟上手核对总数量、总中签数量，便于快捷发现中签数量问题。
+- 开户中：选取目标记录后，点选【审批】后进入详情页面再次核对讯息，确认无误后发起工单审批
 
-明细数据：用于预览中签数据及扣费数据。
+<img src="/assets/BLVBbve42ozKLPxcYHjcH9kWnFb.png" src-width="3334" src-height="1598" align="center"/>
 
-若数据无误，点击『确定』，则提交审核。
+- 已开户：选取目标记录后，点选【审批】后进入详情页面再次核对讯息，确认无误后审核通过
 
-<img src="/assets/KhtKbLs5So1zbgxnqufcHVCWngg.png" src-width="3294" src-height="1832" align="center"/>
+<img src="/assets/Tk2DbATvmoM28OxL8S6cGZENnez.png" src-width="3318" src-height="1598" align="center"/>
 
-**步骤四：中签结果审核**
+- 入金退还：选取目标记录后，点选【审批】后唤出审批工单，确认资讯无误后审核通过
 
-中签审批有两个入口：
+<img src="/assets/SwY0b0oBDoBkJex4zohczvxqnQb.png" src-width="3330" src-height="1596" align="center"/>
 
-1. 专门的中签审批页面：可查看历史的中签申请、审批记录。
-2. 工单记录：有审批权限的人，直接可在**待办工单**中操作审批。
+- 出金退还：选取目标记录后，点选【审批】后确认无误后直接通过，无需走工单审批流程
 
-点击『审批』，则可查看工单，审批通过即可。
+<img src="/assets/Fc1HbyiKgoLkSIxsX5JcyXVonHb.png" src-width="3318" src-height="1598" align="center"/>
 
-<img src="/assets/EEGrbMk7Xod18bxadIscZfbCnSS.png" src-width="3272" src-height="954" align="center"/>
+## 开户中入金
 
-<img src="/assets/H6wwbxoooo4lNJxUMtnc9pTbn3j.png" src-width="3286" src-height="1820" align="center"/>
+由于入金流程与开户流程可以并行发起，存在入金流程已通过但开户流程仍在执行中的情况，针对该类入金记录，用户可在该页面中进行跟踪已通过入金流程的记录对应的开户情况。
+
+用户可以在页面中「开户状态」查看即时的状态，如果客户的开户流程未通过，可以将其【驳回】（**可批量操作**）
+
+<img src="/assets/ZhLmbvYE4orSm4xen3Hc3eqrnfg.png" src-width="3392" src-height="1693" align="center"/>
+
+## 入金对帐
+
+为了保障资金流水的准确性，业务中需要将银行的流水与系统中的入金记录进行比对，提升入金的准确率。银行流水的来源有 2 种：①API 对接（自动产生）、②手动导入。
+
+- 对帐：用户可以选择目标期间的银行流水进行刷新，系统将自动匹配银行流水与系统的入金记录，对帐完成后，可以关注清单中的「对帐结果」列，如果不一致，需要进一步追踪处理。
+
+<img src="/assets/RBp9bICB4oZqjVxxFmYcsj4GnOh.png" src-width="3336" src-height="1770" align="center"/>
+
+<img src="/assets/WxpxbAAATojywIxFPXfcUzAEnGb.png" src-width="3828" src-height="1870" align="center"/>
+
+## 入金记录
+
+入金记录页面记录入金的全流程状态，使用者可随时进行查询、导出、导入等操作。
+
+- 若用户在使用【直接入账】入金时，没有录入银行流水信息，可在该页面中通过【导入银行流水】批量导入银行流水信息
+
+<img src="/assets/YwfSbC6XZo6Izhx7DEWcZLKPnLf.png" src-width="3816" src-height="1854" align="center"/>
 
