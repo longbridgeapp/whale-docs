@@ -1,11 +1,11 @@
 ---
-title: 活動系統-系統介紹
+title: 系統介紹
 slug: D2SHwyuSziJiQGkVjxdcTCtxnYr
 sidebar_position: 2
 ---
 
 
-# 活動系統-系統介紹
+# 系統介紹
 
 # 概述
 
@@ -43,7 +43,7 @@ sidebar_position: 2
 
 # 各菜單介紹
 
-## 標準活動管理
+## 標準活動
 
 執行菜單：運營系統&gt; 活動系統&gt;標準活動管理
 
@@ -321,7 +321,7 @@ sidebar_position: 2
 
 <img src="/assets/O2Zlb7oRoojmmvxP26mc6q0JnMd.png" src-width="3288" src-height="1288" align="center"/>
 
-## 邀請關係管理
+## 邀請關係
 
 菜單入口：活動系統 &gt; 邀請關係管理
 

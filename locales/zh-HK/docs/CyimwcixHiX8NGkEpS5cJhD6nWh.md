@@ -13,6 +13,23 @@ Whale 活動系统支持按照不同任務規則判斷進行獎勵記錄生成�
 
 # 快速上手
 
+### 前置條件
+
+您需要獲取以下授權後方可正常使用系統功能
+
+<table header_row="1">
+<colgroup>
+<col width="300"/>
+<col width="393"/>
+</colgroup>
+<thead>
+<tr><th><p>權限名稱</p></th><th><p>權限說明</p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>管理活動、邀請關係配置的權限<br/>ActivityCenterFull</p></td><td><p>查看、編輯、創建、發佈、審核活動業務的權限；<br/>查看、創建用戶的註冊、開戶、入金邀請關係的權限；</p></td></tr>
+</tbody>
+</table>
+
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>📌</div>
 <p>以邀請活動活動規則如下舉例：</p>

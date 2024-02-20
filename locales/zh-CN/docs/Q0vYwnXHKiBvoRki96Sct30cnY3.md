@@ -1,11 +1,11 @@
 ---
-title: 报表打印
+title: 报表打印 - 待移除
 slug: Q0vYwnXHKiBvoRki96Sct30cnY3
-sidebar_position: 0
+sidebar_position: 3
 ---
 
 
-# 报表打印
+# 报表打印 - 待移除
 
 ## 适用场景
 
@@ -122,7 +122,7 @@ sidebar_position: 0
 
 #### 导出列表
 
-·可以查询当前登录用户所导出的报表文档，可以【删除】或直接【下载】
+可以查询当前登录用户所导出的报表文档，可以【删除】或直接【下载】
 
 <img src="/assets/VLQmbM5rmoegmYxeILrcBGm2nmi.png" src-width="3216" src-height="1516" align="center"/>
 

@@ -1,6 +1,6 @@
 ---
 title: 全局搜索
-slug: getting-started
+slug: TPsoww4Iyij5uNkrUBhcGiaqngd
 sidebar_position: 2
 ---
 
@@ -12,6 +12,21 @@ Whale 提供兩種 全局搜索 Tab 功能：  **搜索作業功能 **與 **搜�
 <img src="/assets/BVaBbtPo4ovSkZxlzz3c4xShn2g.png" src-width="3303" src-height="545" align="center"/>
 
 登錄後有右上角有搜索按鈕圖標，功能喚醒也支持快捷鍵操作
+
+<img src="/assets/TZfvbqf6qoNuVkxXFI1cX0fPnsh.png" src-width="820" src-height="90"/>
+
+### 快捷鍵操作
+
+<table>
+<colgroup>
+<col width="157"/>
+<col width="663"/>
+</colgroup>
+<tbody>
+<tr><td><p>Windows</p></td><td><p><code>Ctrl + /</code> or <code>Ctrl + T</code></p></td></tr>
+<tr><td><p>macOS</p></td><td><p><code>Command + /</code> or <code>Command + T</code></p></td></tr>
+</tbody>
+</table>
 
 ### 全局功能搜索
 

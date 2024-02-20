@@ -1,7 +1,7 @@
 ---
 title: Haircut 管理
 slug: FykcwRMs6iQdoDkeXB0cbIxjnYg
-sidebar_position: 8
+sidebar_position: 12
 ---
 
 

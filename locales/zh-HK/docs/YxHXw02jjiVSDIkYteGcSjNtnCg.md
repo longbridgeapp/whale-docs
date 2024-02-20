@@ -1,11 +1,11 @@
 ---
-title: 批量打印
+title: 批量打印 - 待移除
 slug: YxHXw02jjiVSDIkYteGcSjNtnCg
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 
-# 批量打印
+# 批量打印 - 待移除
 
 ## 適用場景
 
