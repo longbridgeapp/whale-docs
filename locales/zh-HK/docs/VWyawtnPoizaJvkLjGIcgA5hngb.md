@@ -363,11 +363,11 @@ sidebar_position: 2
 
 1. 如果操作平倉動作時，可以選擇是否平倉特定股票平倉
 
-<img src="/assets/ZWsJbnkOOodtG0xcRaccxhHwnlc.png" src-width="3190" src-height="1272" align="center"/>
+<img src="/assets/Hsk9b9caxo3LW6xIHx4cGnSSn8c.png" src-width="3248" src-height="1294" align="center"/>
 
-1. 設置自動平倉
+1. 設置自動平倉：可以自定義設置自動平倉時間
 
-<img src="/assets/K8fdboKxlo3bvYx9zGycWzmXnxc.png" src-width="3136" src-height="1172" align="center"/>
+<img src="/assets/W54lbRGVlox4KYxSG9Jc7oPDncf.png" src-width="3222" src-height="1306" align="center"/>
 
 1. 也可以對列入監控預警的客戶，在記錄區右側點選【詳情】，提供該客戶的資金摘要與持倉資料與正在平倉的股票清單；支持在詳情頁操作【平倉】或者【發送消息】
 
@@ -401,9 +401,9 @@ sidebar_position: 2
 
 **菜單功能介紹**：margin call 結束後會進入歷史記錄頁面，該菜單下可以查看歷史 margin call 訂單的詳細信息。
 
-點擊列表頁的【詳情】可以查看 margin call 觸發前後的詳細數據
+1. 點擊列表頁的【詳情】可以查看 margin call 觸發前後的詳細數據
 
-<img src="/assets/DjyXbDZ2Uoa1b6x5qaDcoLSCnyf.png" src-width="3298" src-height="710" align="center"/>
+<img src="/assets/D269bVtCYosDvmx8TNecJkRcngb.png" src-width="3300" src-height="736" align="center"/>
 
 #### 快照
 
@@ -514,7 +514,7 @@ sidebar_position: 2
 
 1. 列表展示所有股票保證金設置現狀
 
-<img src="/assets/Ow0JbhZzaotQwCxIiYpcPgtvndc.png" src-width="3232" src-height="1430" align="center"/>
+<img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
 
 多頭股票保證金列表頁
 
@@ -524,11 +524,11 @@ sidebar_position: 2
 
 <img src="/assets/N6nJb2KWhoys7ix5cRXcAIGEnkb.png" src-width="2238" src-height="1014" align="center"/>
 
-1. 批量設置保證金比例
+1. 批量設置保證金比例：下載模板後根據模板字段說明填寫並上傳文件
 
 <img src="/assets/Dfewbq5Vfol5hRx7S3AcuRAXnDt.png" src-width="3200" src-height="1012" align="center"/>
 
-1. 無論是單個新建還是批量上傳，都會在「設置記錄」生成記錄，操作見「設置紀錄」菜單
+1. 無論是單個新建還是批量上傳，都會在「設置記錄」生成記錄，操作見「[設置紀錄](./VWyawtnPoizaJvkLjGIcgA5hngb)」菜單
 2. 若股票保證金設置已存在，需要修改比例，則可以在列表操作【編輯】，編輯操作流程同新增；如需刪除某只股票的保證集比例設置，可以操作【刪除】
 
 <img src="/assets/VGsNbHo1FoCnKoxq0PvcnS2InPc.png" src-width="3058" src-height="428" align="center"/>
@@ -546,9 +546,9 @@ sidebar_position: 2
 
 **菜單功能介紹**：針對日內融業務，可以單獨設置支持日內交易的股票保證金比例。
 
-1. 列表展示所有支持日內交易的股票保證金比例記錄
+1. 列表展示所有支持日內交易的股票保證金比例記錄；系統會自動根據交易時段變更保證金狀態，相關規則可參看列表保證金狀態字段的幫助提示
 
-<img src="/assets/TrQPbyKsxoBsRKxJE9vcOsCJnwc.png" src-width="3284" src-height="1126" align="center"/>
+<img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
 
 日內融股票保證金列表
 
@@ -590,7 +590,9 @@ sidebar_position: 2
 
 <img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
 
-1. 支持批量上傳
+空頭保證金列表頁面
+
+1. 支持批量上傳：下載模板文件根據文件要求填寫後上傳
 
 <img src="/assets/RVOWbBklxohO32xfme9cEGpWnBd.png" src-width="3268" src-height="1122" align="center"/>
 

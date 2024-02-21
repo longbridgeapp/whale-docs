@@ -363,11 +363,11 @@ sidebar_position: 2
 
 1. 如果操作平仓动作时，可以选择是否平仓特定股票平仓
 
-<img src="/assets/ZWsJbnkOOodtG0xcRaccxhHwnlc.png" src-width="3190" src-height="1272" align="center"/>
+<img src="/assets/Hsk9b9caxo3LW6xIHx4cGnSSn8c.png" src-width="3248" src-height="1294" align="center"/>
 
-1. 设置自动平仓
+1. 设置自动平仓：可以自定义设置自动平仓时间
 
-<img src="/assets/K8fdboKxlo3bvYx9zGycWzmXnxc.png" src-width="3136" src-height="1172" align="center"/>
+<img src="/assets/W54lbRGVlox4KYxSG9Jc7oPDncf.png" src-width="3222" src-height="1306" align="center"/>
 
 1. 也可以对列入监控预警的客户，在记录区右侧点选【详情】，提供该客户的资金摘要与持仓资料与正在平仓的股票清单；支持在详情页操作【平仓】或者【发送消息】
 
@@ -401,9 +401,9 @@ sidebar_position: 2
 
 **菜单功能介绍**：margin call 结束后会进入历史记录页面，该菜单下可以查看历史 margin call 订单的详细信息。
 
-点击列表页的【详情】可以查看 margin call 触发前后的详细数据
+1. 点击列表页的【详情】可以查看 margin call 触发前后的详细数据
 
-<img src="/assets/DjyXbDZ2Uoa1b6x5qaDcoLSCnyf.png" src-width="3298" src-height="710" align="center"/>
+<img src="/assets/D269bVtCYosDvmx8TNecJkRcngb.png" src-width="3300" src-height="736" align="center"/>
 
 #### 快照
 
@@ -514,7 +514,7 @@ sidebar_position: 2
 
 1. 列表展示所有股票保证金设置现状
 
-<img src="/assets/Ow0JbhZzaotQwCxIiYpcPgtvndc.png" src-width="3232" src-height="1430" align="center"/>
+<img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
 
 多头股票保证金列表页
 
@@ -524,11 +524,11 @@ sidebar_position: 2
 
 <img src="/assets/N6nJb2KWhoys7ix5cRXcAIGEnkb.png" src-width="2238" src-height="1014" align="center"/>
 
-1. 批量设置保证金比例
+1. 批量设置保证金比例：下载模板后根据模板字段说明填写并上传文件
 
 <img src="/assets/Dfewbq5Vfol5hRx7S3AcuRAXnDt.png" src-width="3200" src-height="1012" align="center"/>
 
-1. 无论是单个新建还是批量上传，都会在「设置记录」生成记录，操作见「设置纪录」菜单
+1. 无论是单个新建还是批量上传，都会在「设置记录」生成记录，操作见「[设置纪录](./VWyawtnPoizaJvkLjGIcgA5hngb)」菜单
 2. 若股票保证金设置已存在，需要修改比例，则可以在列表操作【编辑】，编辑操作流程同新增；如需删除某只股票的保证集比例设置，可以操作【删除】
 
 <img src="/assets/VGsNbHo1FoCnKoxq0PvcnS2InPc.png" src-width="3058" src-height="428" align="center"/>
@@ -546,9 +546,9 @@ sidebar_position: 2
 
 **菜单功能介绍**：针对日内融业务，可以单独设置支持日内交易的股票保证金比例。
 
-1. 列表展示所有支持日内交易的股票保证金比例记录
+1. 列表展示所有支持日内交易的股票保证金比例记录；系统会自动根据交易时段变更保证金状态，相关规则可参看列表保证金状态字段的帮助提示
 
-<img src="/assets/TrQPbyKsxoBsRKxJE9vcOsCJnwc.png" src-width="3284" src-height="1126" align="center"/>
+<img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
 
 日内融股票保证金列表
 
@@ -590,7 +590,9 @@ sidebar_position: 2
 
 <img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
 
-1. 支持批量上传
+空头保证金列表页面
+
+1. 支持批量上传：下载模板文件根据文件要求填写后上传
 
 <img src="/assets/RVOWbBklxohO32xfme9cEGpWnBd.png" src-width="3268" src-height="1122" align="center"/>
 

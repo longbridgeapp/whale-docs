@@ -52,3 +52,16 @@ sidebar_position: 3
 
 答：不一定，需要满足以下条件：1）客户欠款和其他币种结余满足当前设置的换汇规则；2）客户 APP 已开启自动还款功能
 
+## Margin Call 问题
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>问：是否可以设置某些场景客户不被 margin call</p>
+</div>
+
+答：可以通过在「业务参数设置」-「风控」-「风控参数」设置 Margin Call 豁免规则，命中规则的场景则不会 margin call。支持全局及单客户豁免规则。
+
+<img src="/assets/SI78bT8smor9fnx46phc8kginVd.png" src-width="3250" src-height="672" align="center"/>
+
+## 交易限额问题
+

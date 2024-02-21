@@ -52,3 +52,16 @@ sidebar_position: 3
 
 答：不一定，需要滿足以下條件：1）客戶欠款和其他幣種結餘滿足當前設置的換匯規則；2）客戶APP已開啟自動還款功能
 
+## Margin Call問題
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>問：是否可以設置某些場景客戶不被margin call</p>
+</div>
+
+答：可以通過在「業務參數設置」-「風控」-「風控參數」設置Margin Call豁免規則，命中規則的場景則不會margin call。支持全局及單客戶豁免規則。
+
+<img src="/assets/SI78bT8smor9fnx46phc8kginVd.png" src-width="3250" src-height="672" align="center"/>
+
+## 交易限額問題
+
