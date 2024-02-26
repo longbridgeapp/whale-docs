@@ -17,6 +17,45 @@ sidebar_position: 2
 
 資產基礎管理能力：資產還提供了調賬、資產凍結/解凍、業務碼管理的基礎能力，輔助更加便捷地管理資產。
 
+**賬戶類別**
+
+<table header_column="1" header_row="1">
+<colgroup>
+<col width="124"/>
+<col width="116"/>
+<col width="485"/>
+</colgroup>
+<thead>
+<tr><th><p>術語 / 中文</p></th><th><p>術語 / 英文</p></th><th><p>說明</p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>業務賬戶</p></td><td><p>BUSINESS</p></td><td><p><strong>可用不可提</strong><br/>一般的交易發生，都會先對業務賬戶做處理，業務賬戶的現金可用不可提</p></td></tr>
+<tr><td><p>結算賬戶</p></td><td><p>SETTLEMENT</p></td><td><p><strong>可用可提</strong><br/>清結算交收後，會把業務賬戶的錢或券，交收（結轉）到結算賬戶</p></td></tr>
+<tr><td><p>外部過渡戶</p></td><td><p>EXTERNAL</p></td><td><p><strong>不可用不可提</strong><br/>部分業務實際上遊已扣款，但沒有資產加進來，例如IPO先扣款，但沒有持倉，業務上為了使得用戶總資產不變，會把扣掉的錢額外加在外部過渡戶上</p></td></tr>
+<tr><td><p>內部過渡戶</p></td><td><p>INTERNAL</p></td><td><p>暗盤買入時，先扣 INTERNAL賬戶的錢， 暗盤買入結轉後，INTERNAL賬戶的錢再加回來，再扣除business的錢</p></td></tr>
+<tr><td><p>結算過渡戶</p></td><td><p>SETTLEMENT_INTERNAL</p></td><td><p>中臺的結算過渡戶，出掉一筆錢後會影響可用，在部分業務影響需要只影響可提（換匯、余額通申購中間狀態），會從結算過渡戶扣錢</p></td></tr>
+<tr><td><p>換匯過渡戶</p></td><td><p>EXCHANGE</p></td><td><p>部分業務（換匯、余額通申購中間狀態），從結算過渡戶扣錢之後，需要在換匯過渡戶加錢，加完之後用戶總資產不變</p></td></tr>
+</tbody>
+</table>
+
+**資產變更類型**
+
+<table header_column="1" header_row="1">
+<colgroup>
+<col width="124"/>
+<col width="601"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>術語 / 中文</strong></p></th><th><p><strong>说明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>凍結</p></td><td><p>業務提交後，成功前，一般需要先凍結現金/證券，使得這部分資產不可被重復使用</p></td></tr>
+<tr><td><p>解凍</p></td><td><p>業務結束後，會解凍</p></td></tr>
+<tr><td><p>出賬</p></td><td><p>相當於對資產進行扣減</p></td></tr>
+<tr><td><p>入賬</p></td><td><p>相當於資產進行增加</p></td></tr>
+</tbody>
+</table>
+
 ## 資產架構
 
 <img src="/assets/Dr8SbtkXeoxzkFxO5XSchH4fnGy.png" src-width="2438" src-height="1422" align="center"/>
@@ -252,7 +291,7 @@ sidebar_position: 2
 
 新建現金調賬
 
-❤️**Tip：**
+❤️Tips**：**
 
 - 選擇客戶後可以點擊客戶賬戶查看當前資產情況，用來輔助調賬決策
 
@@ -285,11 +324,21 @@ sidebar_position: 2
 
 <img src="/assets/PZ4ubT5nCo0Ezqx6c2ccdISSnAd.png" src-width="3282" src-height="1370" align="center"/>
 
+❤️Tips：
+
+如需關注調賬失敗消息，可以在訂閱管理下訂閱“調賬通知”消息
+
+<img src="/assets/EvdCbTjwcoLNDyxo69scmDHvnNh.png" src-width="2806" src-height="1026" align="center"/>
+
+1. 撤銷完成後，調賬記錄狀態會更新為“已撤銷”，備註和內部備註均可查看原備註和撤銷時備註
+
+<img src="/assets/F6nob8EqaocwB2xBTyDcn3zqnYg.png" src-width="2336" src-height="1084" align="center"/>
+
 1. 此外，調賬支持批量操作，可以在列表右上方入口進行；批量新增頁面可以下載模版根據【模版字段說明】進行填寫，填寫後上傳文件解析，如填寫內容錯誤，彈窗頁面均會返回錯誤原因，可根據原因進行修改後重新提交；同時，也可忽略錯誤，直接提交，但該場景下系統僅會處理解析成功的記錄。批量調賬仍需審批，審批可在一筆申請單完成
 
 <img src="/assets/JP93bY7JeoB2Exxl6GLcH8dsnGb.png" src-width="3210" src-height="802" align="center"/>
 
-<img src="/assets/Uj69b6d7bowbb5xcmGFckOaZnMg.png" src-width="3268" src-height="1752" align="center"/>
+<img src="/assets/K1ObbAozcoZ4Lrx6IZNcy7Zsn3d.png" src-width="2394" src-height="1282" align="center"/>
 
 ### 臨時調賬
 

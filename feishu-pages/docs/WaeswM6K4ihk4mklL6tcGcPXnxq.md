@@ -65,3 +65,14 @@ sidebar_position: 3
 
 ## 交易限額問題
 
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>問：是否可以對交易的客戶或證券做特殊限制？</p>
+</div>
+
+答：可以通過交易限額配置規則實現。系統提供了完整維度來管理交易限額，含公司、客户、证券、交易员层面的交易限额控制。
+
+當前支持的全部限額代碼可在全局限額查看。如需对所有交易做整体限制可在全局限额配置规则，如需限定指定客户或证券等，可在指定限额类型下配置规则。其中多维度限额支持同时对指定客户和指定股票做限额。
+
+<img src="/assets/UUYsbZeBcom6rrxO8F0clss2nah.png" src-width="3292" src-height="846" align="center"/>
+

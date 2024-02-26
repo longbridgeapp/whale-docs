@@ -105,7 +105,10 @@ sidebar_position: 1
 
 ### 用户分群
 
-菜單入口：投放系統&gt;用戶分群
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：投放系統&gt;用戶分群</p>
+</div>
 
 用户分群是一种基于用戶標籤做人群劃分的工具，它通过将用户按照特定的标准或规则划分为不同的群体，從而實現數據層面對用戶的分組。
 
@@ -113,7 +116,10 @@ sidebar_position: 1
 
 ### 用户标签
 
-菜單入口：投放系統&gt;用戶標籤
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：投放系統&gt;用戶標籤</p>
+</div>
 
 用戶標籤是一種用於描述和分類用戶屬性、行為和偏好的標識符，它透過將抽象的用戶數據轉化為具體、易於理解的標籤形式，幫助企業更好地理解和細分其用戶群體。
 

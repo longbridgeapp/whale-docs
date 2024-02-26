@@ -20,7 +20,10 @@ sidebar_position: 0
 <tr><th><p><strong>權限名稱</strong></p></th><th><p><strong>權限說明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><p>增刪改查個人名下運營計劃；創建、管理、查看用戶分群；增刪改查Banner、彈窗、Push、SMS、Email</p></td></tr>
+<tr><td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><ul>
+<li>增刪改查個人名下運營計劃；創建、管理、查看用戶分群；</li>
+<li>增刪改查Banner、彈窗、Push、SMS、Email</li>
+</ul></td></tr>
 </tbody>
 </table>
 
@@ -63,13 +66,13 @@ sidebar_position: 0
 
 **第四步：配置觸達規則**
 
-以郵件的方式給用戶發送APP新版本升級介紹
+以郵件的方式給用戶發送 App 新版本升級介紹
 
 <img src="/assets/UNS2bHMKWo6kV6x1huVcUMg7n2g.png" src-width="2218" src-height="1220" align="center"/>
 
 **第五步：設置觸達目標**
 
-用戶收到郵件後，1 天內完成APP啓動
+用戶收到郵件後，1 天內完成 App 啓動
 
 <img src="/assets/Ars0bIeJKoHru2xfnrscagZGnwf.png" src-width="2158" src-height="1060" align="center"/>
 
@@ -89,7 +92,10 @@ sidebar_position: 0
 
 **第一步：選擇創建計劃**
 
-菜單入口：投放系統&gt;運營計畫
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：投放系統&gt;運營計畫</p>
+</div>
 
 點擊右上角‘創建計劃’，設置計劃名稱（例：定期邀請開戶活動）
 
@@ -103,7 +109,7 @@ sidebar_position: 0
 
 **第三步：選擇受衆用戶**
 
-配置條件如下：已開戶用戶 且 最近APP啓動時間在2022-12-01 至 2023-01-31
+配置條件如下：已開戶用戶 且 最近 App 啓動時間在2022-12-01 至 2023-01-31
 
 <img src="/assets/W4KZbOJxrod5XWxgd6fcyvmKnqc.png" src-width="2836" src-height="1588" align="center"/>
 
@@ -123,19 +129,19 @@ sidebar_position: 0
 
 #### 適用場景
 
-場景描述：首發認購預熱
-
-目標受衆：全部用戶
-
-運營策略：通過APP 彈窗的強提醒方式，引導用戶參與認購
-
-效果評估：計劃上線後，追蹤目標受衆的APP 彈窗打開率
+- 場景描述：首發認購預熱
+- 目標受衆：全部用戶
+- 運營策略：通過APP 彈窗的強提醒方式，引導用戶參與認購
+- 效果評估：計劃上線後，追蹤目標受衆的APP 彈窗打開率
 
 #### 使用說明
 
 **第一步：选择創建計劃**
 
-菜單入口：投放系統&gt;運營計畫
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：投放系統&gt;運營計畫</p>
+</div>
 
 點擊右上角‘創建計劃’，設置計劃名稱（例:越南概念ETF認購預熱）
 
@@ -171,13 +177,10 @@ sidebar_position: 0
 
 #### 適用場景
 
-場景描述：新用戶註冊12天內，進行持續的內容觸達或引導
-
-目標受衆：新註冊用戶
-
-運營策略：通過多種觸達方式組合，在用戶註冊完成後的不同時間點，向用戶觸達不同類型的內容
-
-效果評估：追蹤目標受衆的轉化情況、留存情況
+- 場景描述：新用戶註冊12天內，進行持續的內容觸達或引導
+- 目標受衆：新註冊用戶
+- 運營策略：通過多種觸達方式組合，在用戶註冊完成後的不同時間點，向用戶觸達不同類型的內容
+- 效果評估：追蹤目標受衆的轉化情況、留存情況
 
 #### 使用說明
 
@@ -189,7 +192,10 @@ sidebar_position: 0
 
 **第一步：选择創建計劃**
 
-菜單入口：投放系統&gt;運營計畫
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：投放系統&gt;運營計畫</p>
+</div>
 
 點擊右上角‘創建計劃’，設置計劃名稱（例：註冊4天關注股票引導）
 
@@ -217,7 +223,7 @@ sidebar_position: 0
 
 **第五步：設置觸達目標**
 
-用戶收到Push後，5分鐘內，完成Push點擊，點擊push的標題爲：順藤摸瓜，選到更多好股票
+用戶收到Push後，5分鐘內，完成Push點擊，點擊Push的標題爲：順藤摸瓜，選到更多好股票
 
 <img src="/assets/APxVbCkaTouyMex9bL8clLPYnEf.png" src-width="2200" src-height="1188" align="center"/>
 
@@ -233,7 +239,9 @@ sidebar_position: 0
 
 基於用戶屬性和用戶行爲，設置規則創建分羣，您可以根據自己的需求選擇：
 
-1. 僅使用用戶屬性，2。僅使用用戶行爲，3。同時使用用戶屬性和用戶行爲
+1. 僅使用用戶屬性
+2. 僅使用用戶行爲
+3. 同時使用用戶屬性和用戶行爲
 
 **結果更新說明：**已經創建並保存成功的分羣，在每次被請求時，均會使用分羣規則去重新計算，從而獲取最新的數據結果
 
@@ -241,7 +249,7 @@ sidebar_position: 0
 
 #### 導入創建用戶分羣
 
-通過導入指定 id 的名單來創建分羣，系統會將導入的 id 進行匹配，匹配成功的 id 則保存到分羣的結果中，導入 id 需爲用戶的唯一標識：member_id
+通過導入指定 `id` 的名單來創建分羣，系統會將導入的 `id` 進行匹配，匹配成功的 `id` 則保存到分羣的結果中，導入 `id` 需爲用戶的唯一標識：`member_id`
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[52%]" width-ratio="52">

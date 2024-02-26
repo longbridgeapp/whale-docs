@@ -1,6 +1,6 @@
 ---
 title: 權限申請操作
-slug: getting-started
+slug: VgcdwsM0FiTFjLkS5YqcHZdhn1f
 sidebar_position: 1
 ---
 

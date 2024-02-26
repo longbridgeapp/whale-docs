@@ -19,7 +19,7 @@ Whale 活动系统支持按照不同任务规则判断进行奖励记录生成�
 
 <table header_row="1">
 <colgroup>
-<col width="300"/>
+<col width="265"/>
 <col width="393"/>
 </colgroup>
 <thead>

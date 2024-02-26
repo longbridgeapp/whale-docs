@@ -1,6 +1,6 @@
 ---
 title: 客户管理系统（CRM)
-slug: crm
+slug: FhuGw7gL7iINIBk2shrcITKfnTW
 sidebar_position: 0
 ---
 

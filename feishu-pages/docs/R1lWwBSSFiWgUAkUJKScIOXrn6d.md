@@ -347,6 +347,8 @@ A. **數據發送**
 
 <img src="/assets/RU65btDIxofplSx7cZ4cHgnbnRf.png" src-width="2824" src-height="1332" align="center"/>
 
+基金主题的排序权重越大，主题的在前端的顺序越靠前；基金主题内的基金列表中的排序越小，基金在前端的顺序越靠前。
+
 **APP 端展示畫面如下：**
 
 <img src="/assets/GPhMblDP3oJfH5xnzLwcNUCpnOe.png" src-width="686" src-height="1482" align="center"/>
