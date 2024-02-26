@@ -9,7 +9,7 @@ sidebar_position: 0
 
 ## 前置條件
 
-您需要獲取以下授權後方可正常使用 Pagehub
+您需要獲取以下授權後方可正常使用 PageHub
 
 <table>
 <colgroup>
@@ -26,7 +26,10 @@ sidebar_position: 0
 
 **第一步：選擇新建頁面**
 
-菜單入口：運營系統 &gt; PageHub
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：運營系統 &gt; PageHub</p>
+</div>
 
 點擊右上角‘新建頁面’，進入配置頁面
 
@@ -34,7 +37,7 @@ sidebar_position: 0
 
 **第二步：填寫基本活動信息**
 
-編輯活動的標題和右側的基本信息，基本信息包含：多語言，適用區域，活動配置，分享設置等。
+編輯活動的標題和右側的基本信息，基本信息包含：多語言、適用區域、活動配置、分享設置等。
 
 <img src="/assets/Jgr6bOqK8oaKirxOs47coWR1nTf.png" src-width="2778" src-height="1422" align="center"/>
 
@@ -46,7 +49,7 @@ sidebar_position: 0
 
 **第四步：保存和發佈**
 
-點擊右上角保存按鈕則保存當前編輯後的效果在 pagehub 中。點擊右上角發佈按鈕則直接保存當前編輯後的效果，並且發佈線上，發佈成功則該鏈接下用戶訪問效果立即生效。發布後的页面可以在页面管理列表中看到。
+點擊右上角保存按鈕則保存當前編輯後的效果在 PageHub 中。點擊右上角發佈按鈕則直接保存當前編輯後的效果，並且發佈線上，發佈成功則該鏈接下用戶訪問效果立即生效。發布後的页面可以在页面管理列表中看到。
 
 <img src="/assets/XVwtbFVk0o2d4kxNIG6cczyIn2g.png" src-width="3776" src-height="1850" align="center"/>
 
@@ -56,7 +59,7 @@ sidebar_position: 0
 
 <img src="/assets/EgdubVR1RoFAtRxyGnycsB9ZnJg.png" src-width="3760" src-height="1854" align="center"/>
 
-以下是一個通過 pagehub 搭建的頁面效果示例：
+以下是一個通過 PageHub 搭建的頁面效果示例：
 
 <img src="/assets/OftVb7LjGoJv4Exl2oqcUugpnDb.png" src-width="1284" src-height="2609" align="center"/>
 

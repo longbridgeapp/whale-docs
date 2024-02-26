@@ -105,7 +105,10 @@ sidebar_position: 1
 
 ### 用户分群
 
-菜单入口：投放系统&gt;用户分群
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：投放系统&gt;用户分群</p>
+</div>
 
 用户分群是一种基于用户标签做人群划分的工具，它通过将用户按照特定的标准或规则划分为不同的群体，从而实现数据层面对用户的分组。
 
@@ -113,7 +116,10 @@ sidebar_position: 1
 
 ### 用户标签
 
-菜单入口：投放系统&gt;用户标签
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：投放系统&gt;用户标签</p>
+</div>
 
 用户标签是一种用于描述和分类用户属性、行为和偏好的标识符，它透过将抽象的用户数据转化为具体、易于理解的标签形式，帮助企业更好地理解和细分其用户群体。
 

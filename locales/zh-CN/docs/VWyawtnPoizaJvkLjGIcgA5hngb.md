@@ -23,7 +23,7 @@ sidebar_position: 2
 
 客户若开通 margin 账户，后面客户操作了转仓/入金，则系统自动会给客户授信一定的额度，客户可以进行保证金交易，系统支持自动授信机制（转仓到账/入金到账），整理自动授信流程如下：
 
-<img src="/assets/Gq6NbwRHCoyntlxtSmmcq3yHnGc.png" src-width="1280" src-height="979" align="center"/>
+<img src="/assets/BPYrbPRX7oEOn9xtqxKc6bpPnzb.png" src-width="953" src-height="733" align="center"/>
 
 #### 客户额度
 
@@ -33,6 +33,7 @@ sidebar_position: 2
 </div>
 
 **菜单功能介绍**：该菜单主要用于查询所有授信客户额度情况，同时若有客户需求，也可支持人工给客户授信及调整额度。​
+
 主要操作场景如下：
 
 **调整客户额度**
@@ -43,9 +44,30 @@ sidebar_position: 2
 
 <img src="/assets/CtWwb9ZhGo2giVxCaUTckYAgnZe.png" src-width="2166" src-height="1348" align="center"/>
 
+- 页面字段说明
+
+<table header_row="1">
+<colgroup>
+<col width="132"/>
+<col width="375"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>说明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>融资额度</p></td><td><p>客户当前的融资额度</p></td></tr>
+<tr><td><p>已用融资额度</p></td><td><p>客户当前已经使用的融资额度</p></td></tr>
+<tr><td><p>剩余融资额度</p></td><td><p>客户剩余还可以使用的额度，剩余融资额度=融资额度 - 已用融资额度</p></td></tr>
+<tr><td><p>实时计算额度</p></td><td><p>同“自动授信”计算逻辑</p></td></tr>
+<tr><td><p>调整后额度</p></td><td><p>由人工填入</p></td></tr>
+<tr><td><p>调整额度</p></td><td><p>根据人工填入的调整后额度自动计算，调整额度=调整后额度 - 融资额度</p></td></tr>
+<tr><td><p>备注</p></td><td><p>由人工填入，若填入则会在「额度审批」页面的列表“备注”列展示</p></td></tr>
+</tbody>
+</table>
+
 1. 确定【调整后额度】，提交则需要进入额度审批页面的对应记录进行额度审批；见「[额度审批](./VWyawtnPoizaJvkLjGIcgA5hngb)」
 
-<img src="/assets/YEC4bY03BonZgyxPlbIcWar4n5f.png" src-width="1026" src-height="214" align="center"/>
+<img src="/assets/HvREbEXKFoMelIxT5XMc2dWrn0f.png" src-width="876" src-height="202" align="center"/>
 
 **新建授信客户**
 
@@ -77,9 +99,40 @@ sidebar_position: 2
 
 **设置公司额度**
 
-1. 根据客户整体额度汇总情况，若需同步调整公司额度进行额度管控，可以在页面列表上方【设置公司额度】进入相关页面操作，后续会在对应页面详细说明操作方式
+1. 根据客户整体额度汇总情况，若需同步调整公司额度进行额度管控，可以在页面列表上方【设置公司额度】进入相关页面操作
 
-<img src="/assets/MJlPbDFYmoWNGYxKeTrcaU8wnse.png" src-width="3188" src-height="1174" align="center"/>
+<img src="/assets/Ne9ob0KPRoIWo6xonbbc4LPlnpg.png" src-width="3178" src-height="1442" align="center"/>
+
+1. 公司额度设置：租户上线时，系统会默认初始化额度，后租户可根据业务需求进行自定义修改；修改各维度额度，可通过页面【编辑】操作。修改后，需要走工单审批通过即可完成修改
+
+<img src="/assets/VbZSbz9N1oAmd0xj4gbc4IKSnvb.png" src-width="3270" src-height="1060" align="center"/>
+
+公司额度设置页面
+
+- 页面字段说明
+
+<table header_column="1" header_row="1">
+<colgroup>
+<col width="144"/>
+<col width="160"/>
+<col width="416"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>类别</strong></p></th><th><p><strong>字段</strong></p></th><th><p><strong>说明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="3"><p>融资额度（HKD）​<br/>*币种由主币种决定</p></td><td><p>总融资额度</p></td><td><p>人工设定的公司层面可以授予的保证金融资授信总额度，所有客户累加额度不可超过该数值</p>
+<blockquote>
+<p>对应「客户额度」页面总融资图表的“总额度”</p>
+</blockquote></td></tr>
+<tr><td><p>已批融资额度</p></td><td><p>系统计算的已经批给客户的总额度</p></td></tr>
+<tr><td><p>已批融资额度预警阈值</p></td><td><p>人工设定的批核额度阈值</p></td></tr>
+<tr><td rowspan="4"><p>融资额度​<br/>*分币种 HKD&amp;USD</p></td><td><p>最大融资额度</p></td><td><p>人工设定的公司层面最大可融资额度</p></td></tr>
+<tr><td><p>已用融资额度</p></td><td><p>系统计算的客户已经使用的融资额度</p></td></tr>
+<tr><td><p>垫资预警阈值</p></td><td><p>人工设定的垫资额度阈值</p></td></tr>
+<tr><td><p>已垫资金额</p></td><td><p>系统计算的公司已垫资金额</p></td></tr>
+</tbody>
+</table>
 
 #### 额度审批
 
@@ -97,6 +150,28 @@ sidebar_position: 2
 1. 提交审批弹窗页面确认额度并进行额度批注
 
 <img src="/assets/ACswbkSOMoX581xYo3CcJz8jnNc.png" src-width="3286" src-height="1628" align="center"/>
+
+额度审批核对页面
+
+- 页面字段说明
+
+<table header_row="1">
+<colgroup>
+<col width="132"/>
+<col width="375"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>说明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>公司总额度</p></td><td><p>对应「公司额度设置页面」的总融资额度</p></td></tr>
+<tr><td><p>公司剩余额度</p></td><td><p>剩余可以授信的额度，对应「公司额度设置页面」的总融资额度减去已批融资额度的差值</p></td></tr>
+<tr><td><p>调整前额度</p></td><td><p>客户当前的融资额度</p></td></tr>
+<tr><td><p>调整前关联账户总额度</p></td><td><p>=if(授信组总融资额度&lt;&gt;&#39;&#39;,  授信组总融资额度，member 总融资额度）</p></td></tr>
+<tr><td><p>调整后额度</p></td><td><p>本次调整后的额度</p></td></tr>
+<tr><td><p>系统计算授信额度</p></td><td><p>系统根据当前客户资产根据自动授信计算逻辑计算的额度</p></td></tr>
+</tbody>
+</table>
 
 1. 确认信息后，提交审批，需在工单系统进行审批，审批完成后额度调整方可生效
 

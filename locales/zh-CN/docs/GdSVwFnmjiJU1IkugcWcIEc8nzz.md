@@ -20,7 +20,10 @@ sidebar_position: 0
 <tr><th><p><strong>权限名称</strong></p></th><th><p><strong>权限说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><p>增删改查个人名下运营计划；创建、管理、查看用户分群；增删改查 Banner、弹窗、Push、SMS、Email</p></td></tr>
+<tr><td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><ul>
+<li>增删改查个人名下运营计划；创建、管理、查看用户分群；</li>
+<li>增删改查 Banner、弹窗、Push、SMS、Email</li>
+</ul></td></tr>
 </tbody>
 </table>
 
@@ -63,13 +66,13 @@ sidebar_position: 0
 
 **第四步：配置触达规则**
 
-以邮件的方式给用户发送 APP 新版本升级介绍
+以邮件的方式给用户发送 App 新版本升级介绍
 
 <img src="/assets/UNS2bHMKWo6kV6x1huVcUMg7n2g.png" src-width="2218" src-height="1220" align="center"/>
 
 **第五步：设置触达目标**
 
-用户收到邮件后，1 天内完成 APP 启动
+用户收到邮件后，1 天内完成 App 启动
 
 <img src="/assets/Ars0bIeJKoHru2xfnrscagZGnwf.png" src-width="2158" src-height="1060" align="center"/>
 
@@ -89,7 +92,10 @@ sidebar_position: 0
 
 **第一步：选择创建计划**
 
-菜单入口：投放系统&gt;运营计划
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：投放系统&gt;运营计划</p>
+</div>
 
 点击右上角‘创建计划’，设置计划名称（例：定期邀请开户活动）
 
@@ -103,7 +109,7 @@ sidebar_position: 0
 
 **第三步：选择受众用户**
 
-配置条件如下：已开户用户 且 最近 APP 启动时间在 2022-12-01 至 2023-01-31
+配置条件如下：已开户用户 且 最近 App 启动时间在 2022-12-01 至 2023-01-31
 
 <img src="/assets/W4KZbOJxrod5XWxgd6fcyvmKnqc.png" src-width="2836" src-height="1588" align="center"/>
 
@@ -123,19 +129,19 @@ sidebar_position: 0
 
 #### 适用场景
 
-场景描述：首发认购预热
-
-目标受众：全部用户
-
-运营策略：通过 APP 弹窗的强提醒方式，引导用户参与认购
-
-效果评估：计划上线后，追踪目标受众的 APP 弹窗打开率
+- 场景描述：首发认购预热
+- 目标受众：全部用户
+- 运营策略：通过 APP 弹窗的强提醒方式，引导用户参与认购
+- 效果评估：计划上线后，追踪目标受众的 APP 弹窗打开率
 
 #### 使用说明
 
 **第一步：选择创建计划**
 
-菜单入口：投放系统&gt;运营计划
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：投放系统&gt;运营计划</p>
+</div>
 
 点击右上角‘创建计划’，设置计划名称（例：越南概念 ETF 认购预热）
 
@@ -171,13 +177,10 @@ sidebar_position: 0
 
 #### 适用场景
 
-场景描述：新用户注册 12 天内，进行持续的内容触达或引导
-
-目标受众：新注册用户
-
-运营策略：通过多种触达方式组合，在用户注册完成后的不同时间点，向用户触达不同类型的内容
-
-效果评估：追踪目标受众的转化情况、留存情况
+- 场景描述：新用户注册 12 天内，进行持续的内容触达或引导
+- 目标受众：新注册用户
+- 运营策略：通过多种触达方式组合，在用户注册完成后的不同时间点，向用户触达不同类型的内容
+- 效果评估：追踪目标受众的转化情况、留存情况
 
 #### 使用说明
 
@@ -189,7 +192,10 @@ sidebar_position: 0
 
 **第一步：选择创建计划**
 
-菜单入口：投放系统&gt;运营计划
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：投放系统&gt;运营计划</p>
+</div>
 
 点击右上角‘创建计划’，设置计划名称（例：注册 4 天关注股票引导）
 
@@ -217,7 +223,7 @@ sidebar_position: 0
 
 **第五步：设置触达目标**
 
-用户收到 Push 后，5 分钟内，完成 Push 点击，点击 push 的标题为：顺藤摸瓜，选到更多好股票
+用户收到 Push 后，5 分钟内，完成 Push 点击，点击 Push 的标题为：顺藤摸瓜，选到更多好股票
 
 <img src="/assets/APxVbCkaTouyMex9bL8clLPYnEf.png" src-width="2200" src-height="1188" align="center"/>
 
@@ -233,7 +239,9 @@ sidebar_position: 0
 
 基于用户属性和用户行为，设置规则创建分群，您可以根据自己的需求选择：
 
-1. 仅使用用户属性，2。仅使用用户行为，3。同时使用用户属性和用户行为
+1. 仅使用用户属性
+2. 仅使用用户行为
+3. 同时使用用户属性和用户行为
 
 **结果更新说明：**已经创建并保存成功的分群，在每次被请求时，均会使用分群规则去重新计算，从而获取最新的数据结果
 
@@ -241,7 +249,7 @@ sidebar_position: 0
 
 #### 导入创建用户分群
 
-通过导入指定 id 的名单来创建分群，系统会将导入的 id 进行匹配，匹配成功的 id 则保存到分群的结果中，导入 id 需为用户的唯一标识：member_id
+通过导入指定 `id` 的名单来创建分群，系统会将导入的 `id` 进行匹配，匹配成功的 `id` 则保存到分群的结果中，导入 `id` 需为用户的唯一标识：`member_id`
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[52%]" width-ratio="52">

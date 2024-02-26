@@ -1,11 +1,11 @@
 ---
-title: 基金管理-业务介绍
+title: 业务介绍
 slug: HIeBwKfdPiOMGykVgmuc3T00nyQ
 sidebar_position: 0
 ---
 
 
-# 基金管理-业务介绍
+# 业务介绍
 
 # 概述
 

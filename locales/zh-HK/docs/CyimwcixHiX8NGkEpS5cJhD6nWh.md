@@ -19,7 +19,7 @@ Whale 活動系统支持按照不同任務規則判斷進行獎勵記錄生成�
 
 <table header_row="1">
 <colgroup>
-<col width="300"/>
+<col width="265"/>
 <col width="393"/>
 </colgroup>
 <thead>

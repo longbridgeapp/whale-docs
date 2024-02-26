@@ -9,7 +9,7 @@ sidebar_position: 0
 
 ## 前置条件
 
-您需要获取以下授权后方可正常使用 Pagehub
+您需要获取以下授权后方可正常使用 PageHub
 
 <table>
 <colgroup>
@@ -26,7 +26,10 @@ sidebar_position: 0
 
 **第一步：选择新建页面**
 
-菜单入口：运营系统 &gt; PageHub
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜单入口：运营系统 &gt; PageHub</p>
+</div>
 
 点击右上角‘新建页面’，进入配置页面
 
@@ -34,7 +37,7 @@ sidebar_position: 0
 
 **第二步：填写基本活动信息**
 
-编辑活动的标题和右侧的基本信息，基本信息包含：多语言，适用区域，活动配置，分享设置等。
+编辑活动的标题和右侧的基本信息，基本信息包含：多语言、适用区域、活动配置、分享设置等。
 
 <img src="/assets/Jgr6bOqK8oaKirxOs47coWR1nTf.png" src-width="2778" src-height="1422" align="center"/>
 
@@ -46,7 +49,7 @@ sidebar_position: 0
 
 **第四步：保存和发布**
 
-点击右上角保存按钮则保存当前编辑后的效果在 pagehub 中。点击右上角发布按钮则直接保存当前编辑后的效果，并且发布线上，发布成功则该链接下用户访问效果立即生效。发布后的页面可以在页面管理列表中看到。
+点击右上角保存按钮则保存当前编辑后的效果在 PageHub 中。点击右上角发布按钮则直接保存当前编辑后的效果，并且发布线上，发布成功则该链接下用户访问效果立即生效。发布后的页面可以在页面管理列表中看到。
 
 <img src="/assets/XVwtbFVk0o2d4kxNIG6cczyIn2g.png" src-width="3776" src-height="1850" align="center"/>
 
@@ -56,7 +59,7 @@ sidebar_position: 0
 
 <img src="/assets/EgdubVR1RoFAtRxyGnycsB9ZnJg.png" src-width="3760" src-height="1854" align="center"/>
 
-以下是一个通过 pagehub 搭建的页面效果示例：
+以下是一个通过 PageHub 搭建的页面效果示例：
 
 <img src="/assets/OftVb7LjGoJv4Exl2oqcUugpnDb.png" src-width="1284" src-height="2609" align="center"/>
 

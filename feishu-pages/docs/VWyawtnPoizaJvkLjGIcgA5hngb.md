@@ -23,7 +23,7 @@ sidebar_position: 2
 
 客戶若開通 margin 賬戶，後面客戶操作了轉倉/入金，則系統自動會給客戶授信一定的額度，客戶可以進行保證金交易，系統支持自動授信機制（轉倉到賬/入金到賬）， 整理自動授信流程如下：
 
-<img src="/assets/Gq6NbwRHCoyntlxtSmmcq3yHnGc.png" src-width="1280" src-height="979" align="center"/>
+<img src="/assets/BPYrbPRX7oEOn9xtqxKc6bpPnzb.png" src-width="953" src-height="733" align="center"/>
 
 #### 客戶額度
 
@@ -33,6 +33,7 @@ sidebar_position: 2
 </div>
 
 **菜單功能介紹**：該菜單主要用於查詢所有授信客戶額度情況，同時若有客戶需求，也可支持人工給客戶授信及調整額度。​
+
 主要操作場景如下：
 
 **調整客戶額度**
@@ -43,9 +44,30 @@ sidebar_position: 2
 
 <img src="/assets/CtWwb9ZhGo2giVxCaUTckYAgnZe.png" src-width="2166" src-height="1348" align="center"/>
 
+- 頁面字段說明
+
+<table header_row="1">
+<colgroup>
+<col width="132"/>
+<col width="375"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>融資額度</p></td><td><p>客戶當前的融資額度</p></td></tr>
+<tr><td><p>已用融資額度</p></td><td><p>客戶當前已經使用的融資額度</p></td></tr>
+<tr><td><p>剩餘融資額度</p></td><td><p>客戶剩餘還可以使用的額度，剩餘融資額度=融資額度-已用融資額度</p></td></tr>
+<tr><td><p>實時計算額度</p></td><td><p>同“自動授信”計算邏輯</p></td></tr>
+<tr><td><p>調整後額度</p></td><td><p>由人工填入</p></td></tr>
+<tr><td><p>調整額度</p></td><td><p>根據人工填入的調整後額度自動計算，調整額度=調整後額度-融資額度</p></td></tr>
+<tr><td><p>備註</p></td><td><p>由人工填入，若填入則會在「額度審批」頁面的列表“備註”列展示</p></td></tr>
+</tbody>
+</table>
+
 1. 確定【調整後額度】，提交則需要進入額度審批頁面的對應記錄進行額度審批；见「[额度审批](./VWyawtnPoizaJvkLjGIcgA5hngb)」
 
-<img src="/assets/YEC4bY03BonZgyxPlbIcWar4n5f.png" src-width="1026" src-height="214" align="center"/>
+<img src="/assets/HvREbEXKFoMelIxT5XMc2dWrn0f.png" src-width="876" src-height="202" align="center"/>
 
 **新建授信客戶**
 
@@ -77,9 +99,40 @@ sidebar_position: 2
 
 **設置公司額度**
 
-1. 根據客戶整體額度匯總情況，若需同步調整公司額度進行額度管控，可以在頁面列表上方【設置公司額度】進入相關頁面操作，後續會在對應頁面詳細說明操作方式
+1. 根據客戶整體額度匯總情況，若需同步調整公司額度進行額度管控，可以在頁面列表上方【設置公司額度】進入相關頁面操作
 
-<img src="/assets/MJlPbDFYmoWNGYxKeTrcaU8wnse.png" src-width="3188" src-height="1174" align="center"/>
+<img src="/assets/Ne9ob0KPRoIWo6xonbbc4LPlnpg.png" src-width="3178" src-height="1442" align="center"/>
+
+1. 公司額度設置：租戶上線時，系統會默認初始化額度，後租戶可根據業務需求進行自定義修改；修改各維度額度，可通過頁面【編輯】操作。修改後，需要走工單審批通過即可完成修改
+
+<img src="/assets/VbZSbz9N1oAmd0xj4gbc4IKSnvb.png" src-width="3270" src-height="1060" align="center"/>
+
+公司額度設置頁面
+
+- 頁面字段說明
+
+<table header_column="1" header_row="1">
+<colgroup>
+<col width="144"/>
+<col width="160"/>
+<col width="416"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>類別</strong></p></th><th><p><strong>字段</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="3"><p>融資額度（HKD）​<br/>*幣種由主幣種決定</p></td><td><p>總融資額度</p></td><td><p>人工設定的公司層面可以授予的保證金融資授信總額度，所有客戶累加額度不可超過該數值</p>
+<blockquote>
+<p>對應「客戶額度」頁面總融資圖表的“總額度”</p>
+</blockquote></td></tr>
+<tr><td><p>已批融資額度</p></td><td><p>系統計算的已經批給客戶的總額度</p></td></tr>
+<tr><td><p>已批融資額度預警閾值</p></td><td><p>人工設定的批核額度閾值</p></td></tr>
+<tr><td rowspan="4"><p>融資額度​<br/>*分幣種HKD&amp;USD</p></td><td><p>最大融資額度</p></td><td><p>人工設定的公司層面最大可融資額度</p></td></tr>
+<tr><td><p>已用融資額度</p></td><td><p>系統計算的客戶已經使用的融資額度</p></td></tr>
+<tr><td><p>墊資預警閾值</p></td><td><p>人工設定的墊資額度閾值</p></td></tr>
+<tr><td><p>已墊資金額</p></td><td><p>系統計算的公司已墊資金額</p></td></tr>
+</tbody>
+</table>
 
 #### 額度審批
 
@@ -97,6 +150,28 @@ sidebar_position: 2
 1. 提交審批彈窗頁面確認額度並進行額度批注
 
 <img src="/assets/ACswbkSOMoX581xYo3CcJz8jnNc.png" src-width="3286" src-height="1628" align="center"/>
+
+額度審批核對頁面
+
+- 頁面字段說明
+
+<table header_row="1">
+<colgroup>
+<col width="132"/>
+<col width="375"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>公司總額度</p></td><td><p>對應「公司額度設置頁面」的總融資額度</p></td></tr>
+<tr><td><p>公司剩餘額度</p></td><td><p>剩餘可以授信的額度，對應「公司額度設置頁面」的總融資額度減去已批融資額度的差值</p></td></tr>
+<tr><td><p>調整前額度</p></td><td><p>客戶當前的融資額度</p></td></tr>
+<tr><td><p>調整前關聯賬戶總額度</p></td><td><p>=if(授信组总融资额度&lt;&gt;&#39;&#39;,  授信组总融资额度, member总融资额度）</p></td></tr>
+<tr><td><p>調整後額度</p></td><td><p>本次調整後的額度</p></td></tr>
+<tr><td><p>系統計算授信額度</p></td><td><p>系統根據當前客戶資產根據自動授信計算邏輯計算的額度</p></td></tr>
+</tbody>
+</table>
 
 1. 確認信息後，提交審批，需在工單系統進行審批，審批完成後額度調整方可生效
 

@@ -25,18 +25,18 @@ sidebar_position: 1
 
 <table header_row="1">
 <colgroup>
-<col width="437"/>
-<col width="393"/>
+<col width="211"/>
+<col width="450"/>
 </colgroup>
 <thead>
 <tr><th><p>權限名稱</p></th><th><p>權限說明</p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>lb_hk_app.announcements<br/>公告管理</p></td><td><p>公告查看、新建等權限</p></td></tr>
+<tr><td><p>lb_hk_app.announcements</p></td><td><p>公告查看、新建等權限</p></td></tr>
 </tbody>
 </table>
 
-## 操作说明
+## 操作說明
 
 菜單入口：公告管理&gt;公告管理
 
