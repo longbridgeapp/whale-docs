@@ -19,7 +19,18 @@ Whale 系统提供了换汇的基础参数设定与业务主流程操作功能�
 
 ## 前置条件
 
-在使用换汇功能之前，需要先设定支援的币种对并制定相应的换汇策略。如果使用汇兑池换汇策略，还需要设定汇兑池的换汇额度。详见第二节操作说明。
+1. 首先打开币种的换汇开关
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：业务参数设定&gt;资金参数&gt;币种</p>
+</div>
+
+<img src="/assets/OZUQbEJS9oWUv5x66NPcTyYZnQK.png" src-width="3822" src-height="1850" align="center"/>
+
+<img src="/assets/NLBabyI57oXTZ6xfpErcN8fPn4e.png" src-width="3820" src-height="1864" align="center"/>
+
+1. 然后先设定支援的币种对并制定相应的换汇策略。如果使用汇兑池换汇策略，还需要设定汇兑池的换汇额度。详见第二节操作说明。
 
 # 二、操作说明
 

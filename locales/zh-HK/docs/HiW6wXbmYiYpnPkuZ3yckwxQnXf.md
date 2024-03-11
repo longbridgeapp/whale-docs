@@ -17,9 +17,151 @@ Whale 系統包含了處理入金申請、匹配銀行流水、入金審核、�
 
 ## 前置条件
 
-無
+您需要獲取以下授權後方可正常使用系統功能
+
+<table header_row="1">
+<colgroup>
+<col width="437"/>
+<col width="393"/>
+</colgroup>
+<thead>
+<tr><th><p>權限名稱</p></th><th><p>權限說明</p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>管理資金參數、銀行賬單、入金的權限</p></td><td><ul>
+<li>管理銀行賬單、出入金記錄/方式、銀行卡、換匯業務、資金指引的權限</li>
+<li>管理資金參數的權限</li>
+</ul></td></tr>
+</tbody>
+</table>
 
 # 二、操作說明
+
+# 入金配置
+
+## 資金參數配置
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>業務參數設置 &gt; 資金參數</p>
+</div>
+
+1. 公司銀行賬戶
+
+在客戶入金前，需要在後臺添加對應公司銀行賬戶，並且配置公司銀行賬戶下對應的入金方式。
+
+<img src="/assets/Ps7TbaliYouroyxhlZGce9JGnkh.png" src-width="3286" src-height="998" align="center"/>
+
+**操作按鈕說明**
+
+- 新建：可根據券商公司自行增加對應公司銀行賬戶信息。
+- 編輯：對已經添加的公司银行账户信息可以進行人工編輯。
+
+1. 幣種
+
+在客戶入金前，需要進行入金幣種設置。
+
+<img src="/assets/GWgZbkb8uoWN3fx0rXTc1G85nrg.png" src-width="3282" src-height="988" align="center"/>
+
+**操作按鈕說明**
+
+- 新建：可根據券商公司自行增加幣種。
+- 編輯：對已經添加的幣種可以進行人工編輯。
+
+## 客戶銀行卡
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款項管理&gt;客户銀行卡</p>
+</div>
+
+客戶需要在券商配置好客戶自己的銀行卡信息，添加方式包括：客戶客戶端 App 自行添加、後臺添加。
+
+<img src="/assets/D9fsb2NTvo6FYsxoYOgc6zR4nSf.png" src-width="3349" src-height="1396" align="center"/>
+
+**操作按鈕說明**
+
+- 批量新增：依照模板批次進行銀行卡資訊的增加
+- 新增銀行卡：單筆新增銀行卡
+- 回收站：展示已刪除的銀行卡信息
+- 設置拒絕理由：設置駁回銀行卡拒絕理由
+- 審覈：後臺審覈銀行卡
+- 查看備註：查看銀行卡相關備註
+- 刪除：刪除銀行卡信息
+- 更新入金見證狀態：關聯客戶入賬明細，將銀行卡的入金見證狀態從“待見證”更新爲“已見證”
+
+## eDDA 授權
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款項管理&gt;客户銀行卡</p>
+</div>
+
+如果客戶需要進行 eDDA 入金，則需要進行 eDDA 授权，如果客戶进行 eDDA 授权之后，則後臺可以查到對應記錄。
+
+<img src="/assets/UsNJb31KZoqkElxU7L2c9BhQnid.png" src-width="3248" src-height="870" align="center"/>
+
+**操作按鈕說明**
+
+- 刷新：重新獲取最新的 eDDA 的授權記錄
+- 備註：對授權記錄進行配置
+- 修改狀態：修改授權記錄的狀態
+
+## 銀行相關信息配置
+
+客戶或者公司銀行賬戶信息配置時需要使用的“常見銀行枚舉值”、“國家/區域枚舉值”、“銀行區域列表枚舉值”都可以通過後臺進行配置。
+
+### 1.卡所屬銀行
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款項管理&gt;App 管理&gt;卡所屬銀行</p>
+</div>
+
+<img src="/assets/UOVXbO2yqo3QdzxXBDlcS61en5d.png" src-width="3260" src-height="866" align="center"/>
+
+**操作按鈕說明**
+
+- 新建：單筆增加各地區常見銀行列表信息
+- 編輯：對於已添加的銀行列表信息進行編輯
+
+### 2.用戶綁卡 - 國家/地區
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款項管理&gt;App 管理&gt;用戶綁卡 - 國家/地區</p>
+</div>
+
+<img src="/assets/GeynbddGsoMSjNxxDXoceiYhnPd.png" src-width="3282" src-height="814" align="center"/>
+
+### 3.銀行區域列表
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款項管理&gt;App 管理&gt;銀行區域列表</p>
+</div>
+
+<img src="/assets/XFM2bgF7goWUyrxyoPRcImLun2g.png" src-width="3302" src-height="694" align="center"/>
+
+**操作按鈕說明**
+
+- 新增：單筆增加銀行區域列表信息
+- 編輯：對於已添加的銀行區域列表信息進行編輯
+- 删除：删除銀行區域列表信息
+
+## 入金指引配置
+
+对于客户端用户入金页面，可以后台配置对应操作指引以及入金参数
+
+### 1.入金指引
+
+<img src="/assets/IiJQb7nEWoXEJIx846ZcTwG6nuh.png" src-width="3252" src-height="956" align="center"/>
+
+### 2.入金參數
+
+<img src="/assets/JMA6be0HZoGsPQxof8GcOtuinvf.png" src-width="3300" src-height="852" align="center"/>
+
+# 入金操作
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
@@ -60,6 +202,14 @@ Whale 系統包含了處理入金申請、匹配銀行流水、入金審核、�
 <img src="/assets/OYtkbLK4QolXjYx2OalckTh1nwf.png" src-width="1688" src-height="1754" align="center"/>
 </div>
 </div>
+
+- 憑證關聯，如果操作入賬的申請是多筆，則可以進入憑證關聯頁面進行批量操作入賬
+
+<img src="/assets/U0UNbBAO6oOkvTx0QigcEti1nYd.png" src-width="3774" src-height="1000" align="center"/>
+
+進入憑證關聯頁面，會篩選出所有等待入賬的申請單，由操作者進行選擇，在覈對無誤後提交入賬
+
+<img src="/assets/DQFAbPj8Bo8ScCxmXkVcndcQnxn.png" src-width="3324" src-height="1634" align="center"/>
 
 ## 入金匹配
 
@@ -125,6 +275,24 @@ Whale 系統包含了處理入金申請、匹配銀行流水、入金審核、�
 - 出金退還：選取目標記錄後，點選【審批】後確認無誤後直接通過，無需走工單審批流程
 
 <img src="/assets/Fc1HbyiKgoLkSIxsX5JcyXVonHb.png" src-width="3318" src-height="1598" align="center"/>
+
+## 銀證入金
+
+在銀證開戶之後，用戶可以通過銀證入金，系統接收到銀行通知後，會直接匹配用戶後自動入賬，無需人工干預。
+
+<img src="/assets/QQ2jbmrkDolXXrxBlcfcOjiOnPc.png" src-width="2854" src-height="1074" align="center"/>
+
+## eDDA 入金
+
+在 eDDA 授權完成之後，用戶可以通過 eDDA 入金，系統接收到銀行通知後，會直接匹配用戶後自動入賬，無需人工干預。
+
+<img src="/assets/J0SKbWDcLoQXc6xg5fPcTACWnBf.png" src-width="2820" src-height="1048" align="center"/>
+
+## FPS 轉數快
+
+對於 FPS 轉數快，在或者銀行賬單後，系統可以通過賬單和入金申請進行自動匹配，匹配一致後可以自動入賬。
+
+<img src="/assets/EK3ObfOb1oc07UxfxMXcgsb5nzd.png" src-width="2324" src-height="1070" align="center"/>
 
 ## 開戶中入金
 

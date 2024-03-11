@@ -829,7 +829,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 </colgroup>
 <tbody>
 <tr><td><p>场景</p></td><td><p>清算撤销表单</p></td><td><p>后续操作</p></td></tr>
-<tr><td><p>日切点后调账，下一日的流水到当日<br/>日切点后调账，当日的流水调整到下日</p></td><td><img src="/assets/WdXbbx8DIoxkh8xrRn8cnQd8nMf.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤销 - 流水管理界面编辑日期 - 重新执行日终<br/>注意：找不到流水的可点击更新数据</p></td></tr>
+<tr><td><p>日切点后调账，下一日的流水到当日<br/>日切点后调账，当日的流水调整到下日<br/>资金清算后，调整收盘价</p></td><td><img src="/assets/WdXbbx8DIoxkh8xrRn8cnQd8nMf.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤销 - 流水管理界面编辑日期 - 重新执行日终<br/>注意：找不到流水的可点击更新数据</p></td></tr>
 <tr><td><p>月底融资利息结算异常<br/>例子：某客户的融资利息需要调整后再结算</p></td><td><img src="/assets/P392bR0z8oKdoBxiVwsckkzinZg.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤销 - 融资利息管理编辑利息 - 重新执行日终</p></td></tr>
 <tr><td><p>台风天已经进行提前交收，需要撤销<br/>量大的租户建议谨慎操作提前交收</p></td><td><img src="/assets/PNBeb43c5or1aExSrUKcJYttn6J.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤销 - 台风天处理 - 执行日终</p></td></tr>
 <tr><td><p>日切前发现计费有问题需要调整</p></td><td><img src="/assets/Gnl7bnAxco1tuyxYKNAcoHAvnuh.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤销 - 执行日终 - 暂停 - 清算计费 - 编辑费用 - 继续日终</p></td></tr>

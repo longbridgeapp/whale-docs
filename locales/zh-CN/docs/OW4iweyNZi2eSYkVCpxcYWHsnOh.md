@@ -13,6 +13,45 @@ WHALE 证券管理系统中的证券存入功能支援用户新增客户的证�
 
 # 快速上手
 
+## 前置条件
+
+### 需要完成券商资讯初始化
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：证券管理 - 券商信息配置</p>
+</div>
+
+点选【新增】，在唤出的弹窗中依上方 tab 分别填入资讯
+
+<img src="/assets/J41GbdodxoiyTixCt8icBMehnwb.png" src-width="3818" src-height="1866" align="center"/>
+
+若已设定的券商资讯需要修改、下架、上架，可以在目标记录后的操作列进行操作
+
+<img src="/assets/TZY5blzu1oYqusxmx7IcZMwZnfd.png" src-width="3806" src-height="1854" align="center"/>
+
+名词解释
+
+<table>
+<colgroup>
+<col width="179"/>
+<col width="641"/>
+</colgroup>
+<tbody>
+<tr><td><p><strong>术语 / 缩略词</strong></p></td><td><p><strong>说明</strong></p></td></tr>
+<tr><td><p>我方券商资讯</p></td><td><p>指目前处理平台的券商帐户讯息，依证券转入和证券转出说明如下：</p>
+<ol>
+<li>证券转入：我方券商资讯指接受用户转入股票的券商平台的资讯；</li>
+<li>证券转出：我方券商资讯是指将用户股票转出的券商平台的资讯；</li>
+</ol></td></tr>
+<tr><td><p>对手方券商资讯</p></td><td><p>指对手方的券商帐户讯息，依证券转入和证券转出说明如下：</p>
+<ol>
+<li>证券转入：对手方券商资讯是指用户转出股票的券商资讯；</li>
+<li>证券转出：对手方券商资讯是指接受用户股票转入的券商资讯；</li>
+</ol></td></tr>
+</tbody>
+</table>
+
 ### 手工入仓
 
 后台操作人员依照客户的指示，完成证券转入申请提交工作。

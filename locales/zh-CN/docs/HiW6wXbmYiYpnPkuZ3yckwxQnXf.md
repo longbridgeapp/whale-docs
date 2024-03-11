@@ -17,9 +17,151 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 ## 前置条件
 
-无
+您需要获取以下授权后方可正常使用系统功能
+
+<table header_row="1">
+<colgroup>
+<col width="437"/>
+<col width="393"/>
+</colgroup>
+<thead>
+<tr><th><p>权限名称</p></th><th><p>权限说明</p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>管理资金参数、银行账单、入金的权限</p></td><td><ul>
+<li>管理银行账单、出入金记录/方式、银行卡、换汇业务、资金指引的权限</li>
+<li>管理资金参数的权限</li>
+</ul></td></tr>
+</tbody>
+</table>
 
 # 二、操作说明
+
+# 入金配置
+
+## 资金参数配置
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>业务参数设置 &gt; 资金参数</p>
+</div>
+
+1. 公司银行账户
+
+在客户入金前，需要在后台添加对应公司银行账户，并且配置公司银行账户下对应的入金方式。
+
+<img src="/assets/Ps7TbaliYouroyxhlZGce9JGnkh.png" src-width="3286" src-height="998" align="center"/>
+
+**操作按钮说明**
+
+- 新建：可根据券商公司自行增加对应公司银行账户信息。
+- 编辑：对已经添加的公司银行账户信息可以进行人工编辑。
+
+1. 币种
+
+在客户入金前，需要进行入金币种设置。
+
+<img src="/assets/GWgZbkb8uoWN3fx0rXTc1G85nrg.png" src-width="3282" src-height="988" align="center"/>
+
+**操作按钮说明**
+
+- 新建：可根据券商公司自行增加币种。
+- 编辑：对已经添加的币种可以进行人工编辑。
+
+## 客户银行卡
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款项管理&gt;客户银行卡</p>
+</div>
+
+客户需要在券商配置好客户自己的银行卡信息，添加方式包括：客户客户端 App 自行添加、后台添加。
+
+<img src="/assets/D9fsb2NTvo6FYsxoYOgc6zR4nSf.png" src-width="3349" src-height="1396" align="center"/>
+
+**操作按钮说明**
+
+- 批量新增：依照模板批次进行银行卡资讯的增加
+- 新增银行卡：单笔新增银行卡
+- 回收站：展示已删除的银行卡信息
+- 设置拒绝理由：设置驳回银行卡拒绝理由
+- 审核：后台审核银行卡
+- 查看备注：查看银行卡相关备注
+- 删除：删除银行卡信息
+- 更新入金见证状态：关联客户入账明细，将银行卡的入金见证状态从“待见证”更新为“已见证”
+
+## eDDA 授权
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款项管理&gt;客户银行卡</p>
+</div>
+
+如果客户需要进行 eDDA 入金，则需要进行 eDDA 授权，如果客户进行 eDDA 授权之后，则后台可以查到对应记录。
+
+<img src="/assets/UsNJb31KZoqkElxU7L2c9BhQnid.png" src-width="3248" src-height="870" align="center"/>
+
+**操作按钮说明**
+
+- 刷新：重新获取最新的 eDDA 的授权记录
+- 备注：对授权记录进行配置
+- 修改状态：修改授权记录的状态
+
+## 银行相关信息配置
+
+客户或者公司银行账户信息配置时需要使用的“常见银行枚举值”、“国家/区域枚举值”、“银行区域列表枚举值”都可以通过后台进行配置。
+
+### 1.卡所属银行
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款项管理&gt;App 管理&gt;卡所属银行</p>
+</div>
+
+<img src="/assets/UOVXbO2yqo3QdzxXBDlcS61en5d.png" src-width="3260" src-height="866" align="center"/>
+
+**操作按钮说明**
+
+- 新建：单笔增加各地区常见银行列表信息
+- 编辑：对于已添加的银行列表信息进行编辑
+
+### 2.用户绑卡 - 国家/地区
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款项管理&gt;App 管理&gt;用户绑卡 - 国家/地区</p>
+</div>
+
+<img src="/assets/GeynbddGsoMSjNxxDXoceiYhnPd.png" src-width="3282" src-height="814" align="center"/>
+
+### 3.银行区域列表
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>款项管理&gt;App 管理&gt;银行区域列表</p>
+</div>
+
+<img src="/assets/XFM2bgF7goWUyrxyoPRcImLun2g.png" src-width="3302" src-height="694" align="center"/>
+
+**操作按钮说明**
+
+- 新增：单笔增加银行区域列表信息
+- 编辑：对于已添加的银行区域列表信息进行编辑
+- 删除：删除银行区域列表信息
+
+## 入金指引配置
+
+对于客户端用户入金页面，可以后台配置对应操作指引以及入金参数
+
+### 1.入金指引
+
+<img src="/assets/IiJQb7nEWoXEJIx846ZcTwG6nuh.png" src-width="3252" src-height="956" align="center"/>
+
+### 2.入金参数
+
+<img src="/assets/JMA6be0HZoGsPQxof8GcOtuinvf.png" src-width="3300" src-height="852" align="center"/>
+
+# 入金操作
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
@@ -60,6 +202,14 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 <img src="/assets/OYtkbLK4QolXjYx2OalckTh1nwf.png" src-width="1688" src-height="1754" align="center"/>
 </div>
 </div>
+
+- 凭证关联，如果操作入账的申请是多笔，则可以进入凭证关联页面进行批量操作入账
+
+<img src="/assets/U0UNbBAO6oOkvTx0QigcEti1nYd.png" src-width="3774" src-height="1000" align="center"/>
+
+进入凭证关联页面，会筛选出所有等待入账的申请单，由操作者进行选择，在核对无误后提交入账
+
+<img src="/assets/DQFAbPj8Bo8ScCxmXkVcndcQnxn.png" src-width="3324" src-height="1634" align="center"/>
 
 ## 入金匹配
 
@@ -125,6 +275,24 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 - 出金退还：选取目标记录后，点选【审批】后确认无误后直接通过，无需走工单审批流程
 
 <img src="/assets/Fc1HbyiKgoLkSIxsX5JcyXVonHb.png" src-width="3318" src-height="1598" align="center"/>
+
+## 银证入金
+
+在银证开户之后，用户可以通过银证入金，系统接收到银行通知后，会直接匹配用户后自动入账，无需人工干预。
+
+<img src="/assets/QQ2jbmrkDolXXrxBlcfcOjiOnPc.png" src-width="2854" src-height="1074" align="center"/>
+
+## eDDA 入金
+
+在 eDDA 授权完成之后，用户可以通过 eDDA 入金，系统接收到银行通知后，会直接匹配用户后自动入账，无需人工干预。
+
+<img src="/assets/J0SKbWDcLoQXc6xg5fPcTACWnBf.png" src-width="2820" src-height="1048" align="center"/>
+
+## FPS 转数快
+
+对于 FPS 转数快，在或者银行账单后，系统可以通过账单和入金申请进行自动匹配，匹配一致后可以自动入账。
+
+<img src="/assets/EK3ObfOb1oc07UxfxMXcgsb5nzd.png" src-width="2324" src-height="1070" align="center"/>
 
 ## 开户中入金
 

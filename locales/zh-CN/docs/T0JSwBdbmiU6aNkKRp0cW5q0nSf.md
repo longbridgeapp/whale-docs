@@ -13,10 +13,6 @@ sidebar_position: 2
 
 Whale 系统包含了存入申请、存入明细、便捷导入参数设置、电子邮件通知券商等功能，流程支援了不同角色的审核要求，有效地提升了证券存入的精确性。整体流程架构如下：
 
-## 前置条件
-
-无
-
 # 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">

@@ -7,20 +7,7 @@ sidebar_position: 5
 
 # 常见问题
 
-<div class="callout callout-bg-2 callout-border-2">
-<div class='callout-emoji'>❓</div>
-<p>问：何时可进行登记？</p>
-</div>
-
-**推荐在执行日进行登记，可根据自身需要进行提前登记**
-
-在登记日提前登记的 BE 类公司行动，将会在结单中提示将来的派息
-
-券商如果打算提前登记，可在清算前准备中开启公司行动 - 登记检查项目
-
-登记日当天提前登记的，需要在日终的港股清算交收步骤后进行
-
-股权的标的信息在执行日才能创建完毕，无法进行提前登记
+# 公司行动创建
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -44,12 +31,53 @@ EP 模式，02 文件内有数据的 BE 类公司行动会强制生成，不再�
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[50%]" width-ratio="50">
-<img src="/assets/YgpubWeonoh0THxsDMDcwIyFnPd.png" src-width="3548" src-height="1806" align="center"/>
+<img src="/assets/LNJjbxaJ5o42HsxDswfcBS9bnyg.png" src-width="3548" src-height="1806" align="center"/>
 </div>
 <div class="w-[49%]" width-ratio="49">
-<img src="/assets/EfsBbjnHooEvbjxx6socfNM9nXe.png" src-width="3639" src-height="1886" align="center"/>
+<img src="/assets/XdDUbHHRWoheSpxubyCceykjnfg.png" src-width="3639" src-height="1886" align="center"/>
 </div>
 </div>
+
+# 登记
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>问：何时可进行登记？</p>
+</div>
+
+**推荐在执行日进行登记，可根据自身需要进行提前登记**
+
+在登记日提前登记的 BE 类公司行动，将会在结单中提示将来的派息
+
+券商如果打算提前登记，可在清算前准备中开启公司行动 - 登记检查项目
+
+登记日当天提前登记的，需要在日终的港股清算交收步骤后进行
+
+股权的标的信息在执行日才能创建完毕，无法进行提前登记
+
+# 收费配置
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>问：为什么供股、要约无法配置固定金额单次收费</p>
+</div>
+
+该配置下，所有未行权的客户，也会进行收费，暂时进行了屏蔽
+
+RS、OO、ER、EO、TU、TC 这种客户可以放弃行权的公司行动，可以按如下方式配置
+
+<img src="/assets/XUgMbk0wiownK3x5SG6cOWyOnjg.png" src-width="3578" src-height="1798" align="center"/>
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>问：如果免收一个客户的 Handing Fee</p>
+</div>
+
+在客户规则处，将费率系数和最低收费系数分别填为 0 即可
+
+<img src="/assets/WRSXbuPMKoFrZPxrqdqc3GMunNb.png" src-width="3578" src-height="1798" align="center"/>
+
+# 执行
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -59,6 +87,8 @@ EP 模式，02 文件内有数据的 BE 类公司行动会强制生成，不再�
 公司行动可能会取消，需要依据上手数据执行
 
 执行时核对报表的对端数据来源于 CCASS 的 02 文件，只支持 EP 模式，暂只支持部分类型。对端没数据的依然可执行
+
+# BE 类
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
