@@ -17,11 +17,13 @@ jobs:
           branch: main
 
       - name: Use feishu pages cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         id: feishu_pages_export_cache
         with:
           path: ./feishu-pages/.cache
           key: feishu_pages_export_cache_key
+          restore-keys: |
+            feishu_pages_export_cache_key
 
       - name: Start export feishu pages
         env:
