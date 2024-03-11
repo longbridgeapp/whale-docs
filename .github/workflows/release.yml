@@ -1,6 +1,6 @@
 name: Deploy feishu pages to release
 on:
-  pull_request:
+  push:
     branches:
       - main
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - uses: oven-sh/setup-bun@v1
       - name: Build Pages
         run: |
-          bun install 
+          bun install
           bun run build
       - name: Upload to oss
         run: |
