@@ -23,11 +23,11 @@ Whale 系统是支持系统工单的新建与审批，每个用户在登入时�
 
 <img src="/assets/EC4NbflcroxHPWx5zqrcbtD8nBe.png" src-width="1250" src-height="328" align="center"/>
 
-**已办 Tab:**
+<b>已办 Tab:</b>
 
 可以查询到自己岗位上的已办（审批）工单历史列表
 
-**已发起 Tab:**
+<b>已发起 Tab:</b>
 
 可以查询到自己岗位上的所发起工单列表
 

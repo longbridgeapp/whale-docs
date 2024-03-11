@@ -83,7 +83,7 @@ WHALE 的款項管理系統提供了多情境的出金功能，使用者可以�
 
 <img src="/assets/UTKIbXpBYoBYHKxd3dhcczGEn7f.png" src-width="3324" src-height="592" align="center"/>
 
-**步驟五：**若不需要工單審批，可以至“業務參數設定&gt;出金規則&gt;更多設置”中關閉開關
+<b>步驟五：</b>若不需要工單審批，可以至“業務參數設定&gt;出金規則&gt;更多設置”中關閉開關
 
 <img src="/assets/I06abl27boDIrVxHN5jc2I4wnJf.png" src-width="3816" src-height="1780" align="center"/>
 
