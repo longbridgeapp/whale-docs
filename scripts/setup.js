@@ -5,52 +5,69 @@
  * 4. generate zh-HK, zh-CN siderbar config
  * */
 
-const fs = require("fs");
-const path = require("path");
-const glob = require("glob");
-const OpenCC = require("opencc-js");
-const converter = OpenCC.Converter({ from: "hk", to: "cn" });
+import {
+  readFileSync,
+  writeFileSync,
+  existsSync,
+  mkdirSync,
+  copyFileSync,
+} from "fs";
+import { resolve, dirname } from "path";
+import { sync } from "glob";
+import { Converter } from "opencc-js";
+const converter = Converter({ from: "hk", to: "cn" });
 
 function convertHK2CN() {
-  const docsPath = path.resolve(__dirname, "../feishu-pages/docs");
-  const docs = glob.sync(`${docsPath}/**/*.md`);
+  const docsPath = resolve(__dirname, "../feishu-pages/docs");
+  const docs = sync(`${docsPath}/**/*.md`);
 
   docs.forEach((doc) => {
-    const hkContent = fs.readFileSync(doc, "utf-8");
+    const hkContent = readFileSync(doc, "utf-8");
     const hkFilePath = doc.replace("feishu-pages", "locales/zh-HK");
 
-    fs.writeFileSync(hkFilePath, hkContent);
+    writeFileSync(hkFilePath, hkContent);
     console.log("copy zh-HK file: ", hkFilePath);
 
     const cnContent = converter(hkContent);
     const cnFilePath = doc.replace("feishu-pages", "locales/zh-CN");
 
-    fs.writeFileSync(cnFilePath, cnContent);
+    writeFileSync(cnFilePath, cnContent);
     console.log("convert zh-CN file: ", cnFilePath);
   });
+
+  // convert docs.json to docs-zh-cn.json
+  const docsMeta = readFileSync(
+    resolve(__dirname, "../feishu-pages/docs.json"),
+    "utf-8",
+  );
+  const cnDocsMeta = converter(docsMeta);
+  writeFileSync(
+    resolve(__dirname, "../feishu-pages/docs-zh-cn.json"),
+    cnDocsMeta,
+  );
 }
 
 // Copy feishu-pages/assets/*.png to locales/assets
 function setupAssets() {
-  const assetsPath = path.resolve(__dirname, "../feishu-pages/docs/assets");
+  const assetsPath = resolve(__dirname, "../feishu-pages/docs/assets");
   // find png or jpg or jpeg gif file
-  const assets = glob.sync(`${assetsPath}/*.{png,jpg,jpeg,gif}`);
+  const assets = sync(`${assetsPath}/*.{png,jpg,jpeg,gif}`);
 
   assets.forEach((asset) => {
     const targetAssetsPath = asset.replace("feishu-pages/docs/", "locales/");
 
-    if (!fs.existsSync(path.dirname(targetAssetsPath))) {
-      fs.mkdirSync(path.dirname(targetAssetsPath));
+    if (!existsSync(dirname(targetAssetsPath))) {
+      mkdirSync(dirname(targetAssetsPath));
     }
 
-    if (!fs.existsSync(targetAssetsPath)) {
-      fs.copyFileSync(asset, targetAssetsPath);
+    if (!existsSync(targetAssetsPath)) {
+      copyFileSync(asset, targetAssetsPath);
       console.log("copy assets file: ", targetAssetsPath);
     }
   });
 }
-const docsMeta = require("../feishu-pages/docs.json");
-const hkMetadata = docsMeta.find((doc) => doc.meta?.slug === "zh-HK");
+import { find } from "../feishu-pages/docs.json";
+const hkMetadata = find((doc) => doc.meta?.slug === "zh-HK");
 const HomePageSlug = "guides";
 // read feishu-pages/docs.json file find slug equal guides, then copy it to locales/zh-HK/docs/index.md
 // for Nginx directory to index.html
@@ -61,21 +78,21 @@ function setupIndexPage() {
   });
 
   if (guidesChild) {
-    const guidesFilePath = path.resolve(
+    const guidesFilePath = resolve(
       __dirname,
       `../feishu-pages/docs/${guidesChild.slug}.md`,
     );
-    const guidesContent = fs.readFileSync(guidesFilePath, "utf-8");
-    const guidesTargetFilePath = path.resolve(
-      __dirname,
-      `../locales/zh-HK/docs.md`,
+    const guidesContent = readFileSync(guidesFilePath, "utf-8");
+    const guidesTargetFilePath = resolve(__dirname, `../locales/zh-HK/docs.md`);
+    writeFileSync(guidesTargetFilePath, guidesContent);
+    console.log(
+      `copy zh-HK ${guidesChild.title} to index file: `,
+      guidesTargetFilePath,
     );
-    fs.writeFileSync(guidesTargetFilePath, guidesContent);
-    console.log(`copy zh-HK ${guidesChild.title} to index file: `, guidesTargetFilePath);
 
     const cnContent = converter(guidesContent);
     const cnFilePath = guidesTargetFilePath.replace("zh-HK", "zh-CN");
-    fs.writeFileSync(cnFilePath, cnContent);
+    writeFileSync(cnFilePath, cnContent);
     console.log(`copy zh-CN ${guidesChild.title} to  index file: `, cnFilePath);
   }
 }

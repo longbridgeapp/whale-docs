@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 // @ts-ignore
 import { siteMetadata } from "./site-meta";
-const siderbarConfig = require("./../scripts/siderbar");
+import siderbarConfig from "./../scripts/siderbar";
 
 const editLinkPattern =
   "https://github.com/longbridgeapp/whale-docs/edit/dev/locales/:path";

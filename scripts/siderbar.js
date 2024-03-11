@@ -22,8 +22,10 @@
     }
   ]
  * */
-const docsMeta = require("../feishu-pages/docs.json");
-const hkMetadata = docsMeta.find((doc) => doc.meta?.slug === "zh-HK");
+import hkDocs from "../feishu-pages/docs.json";
+import cnDocs from "../feishu-pages/docs-zh-cn.json";
+const hkMetadata = hkDocs.find((doc) => doc.meta?.slug === "zh-HK");
+const cnMetadata = cnDocs.find((doc) => doc.meta?.slug === "zh-HK");
 
 function generateSidebarConfig(metaData, locale = "zh-HK") {
   const sidebarConfig = [];
@@ -35,7 +37,7 @@ function generateSidebarConfig(metaData, locale = "zh-HK") {
     };
 
     if (doc.has_child) {
-      sidebarItem.items = generateSidebarConfig(doc.children, locale)
+      sidebarItem.items = generateSidebarConfig(doc.children, locale);
       // not collapsed if depth = 1
       sidebarItem.collapsed = doc.depth !== 1;
     }
@@ -46,8 +48,8 @@ function generateSidebarConfig(metaData, locale = "zh-HK") {
   return sidebarConfig;
 }
 
-function hkSidebar() {
-  return generateSidebarConfig(hkMetadata.children, "zh-HK");
+function getSidebarData(metadata) {
+  return generateSidebarConfig(metadata.children, "zh-HK");
 }
 
 function replaceHKLink2CN(item) {
@@ -59,8 +61,8 @@ function replaceHKLink2CN(item) {
   }
 }
 
-function hkSidebar2CN() {
-  const hkConfig = hkSidebar();
+function getCnSidebar() {
+  const hkConfig = getSidebarData(cnMetadata);
   // item hkConfig link attr replace zh-HK to zh-CN, if items exist loop items
   hkConfig.forEach((item) => {
     replaceHKLink2CN(item);
@@ -68,7 +70,7 @@ function hkSidebar2CN() {
   return hkConfig;
 }
 
-module.exports = {
-  "zh-HK": hkSidebar(),
-  "zh-CN": hkSidebar2CN(),
+export default {
+  "zh-HK": getSidebarData(hkMetadata),
+  "zh-CN": getCnSidebar(),
 };
