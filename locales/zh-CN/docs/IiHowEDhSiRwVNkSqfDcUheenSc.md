@@ -1,11 +1,11 @@
 ---
-title: 作业介面说明
+title: 作业介面
 slug: IiHowEDhSiRwVNkSqfDcUheenSc
 sidebar_position: 0
 ---
 
 
-# 作业介面说明
+# 作业介面
 
 Whale 针对单元作业 也提供基础体验优化，以下是常见的一些设计操作：
 

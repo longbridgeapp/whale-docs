@@ -7,15 +7,15 @@ sidebar_position: 2
 
 # 系統介紹
 
-# 概述
+## 概述
 
 Whale CRM 系統支持券商對名下客戶的全生命週期進行管理和跟進，支持券商在線高效地推進一個客戶從新用戶到有效戶的轉化。
 
 CRM 系統包括任務跟進、看板管理、客戶池、今日完成、客戶經理管理等模塊。
 
-# 菜单介绍
+## 菜单介绍
 
-## 任務
+### 任務
 
 **路径：**客戶管理系統 &gt; CRM &gt;任務
 
@@ -43,7 +43,7 @@ CRM 系統包括任務跟進、看板管理、客戶池、今日完成、客戶�
 
 <img src="/assets/XuVMbmMPooVwxoxEDi4cxAImned.png" src-width="2230" src-height="1608" align="center"/>
 
-## 看板
+### 看板
 
 **路径：**客戶管理系統 &gt; CRM &gt; 看板
 
@@ -67,7 +67,7 @@ CRM 系統包括任務跟進、看板管理、客戶池、今日完成、客戶�
 slug: crm-kehuchi
 ```
 
-## 客户池
+### 客户池
 
 **路径：**客戶管理系統 &gt; CRM &gt; 客戶池
 
@@ -83,7 +83,7 @@ slug: crm-kehuchi
 
 <img src="/assets/U4UfbZEhsoc9TKxhFPNcKHMgn4o.png" src-width="2266" src-height="1066" align="center"/>
 
-## 今日完成
+### 今日完成
 
 **路径：**客戶管理系統 &gt; CRM &gt; 今日完成
 
@@ -103,7 +103,7 @@ slug: crm-kehuchi
 
 <img src="/assets/BBhrbBAMSoCdUaxlxeScGn0pnkg.png" src-width="2322" src-height="1412" align="center"/>
 
-## 客户经理
+### 客户经理
 
 **路径：**客戶管理系統 &gt; CRM &gt; 客戶經理
 

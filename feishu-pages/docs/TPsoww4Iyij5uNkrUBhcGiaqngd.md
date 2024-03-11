@@ -7,7 +7,7 @@ sidebar_position: 2
 
 # 全局搜索
 
-Whale 提供兩種 全局搜索 Tab 功能：  **搜索作業功能 **與 **搜索客戶**
+Whale 提供兩種 全局搜索 Tab 功能： **搜索作業功能 **與 **搜索客戶**
 
 <img src="/assets/BVaBbtPo4ovSkZxlzz3c4xShn2g.png" src-width="3303" src-height="545" align="center"/>
 

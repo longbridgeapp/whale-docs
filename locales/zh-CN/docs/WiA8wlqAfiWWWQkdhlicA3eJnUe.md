@@ -1,6 +1,6 @@
 ---
 title: 账户管理
-slug: account
+slug: WiA8wlqAfiWWWQkdhlicA3eJnUe
 sidebar_position: 2
 ---
 
