@@ -17,11 +17,7 @@ Whale 系統包含了處理出金申請、提現處理、對帳、單獨處理�
 
 <img src="/assets/QSsob9ZMtoHJE1x051hcwIFgnhn.png" src-width="2146" src-height="256" align="center"/>
 
-## 前置条件
-
-無
-
-# 二、操作說明
+## 二、操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
@@ -104,9 +100,9 @@ Whale 系統包含了處理出金申請、提現處理、對帳、單獨處理�
 
 <img src="/assets/UexCbO5gZoDtp9xXIXkc8QSanJc.png" src-width="3324" src-height="1758" align="center"/>
 
-## 出金對帳
+## 出金對賬
 
-為了保障資金流水的準確性，業務中需要將銀行的流水與系統中的出金記錄進行比對，降低資金流失的風險。銀行流水的來源有 2 種：①API 對接（自動產生）、②手動導入。
+為了保障資金流水的準確性，業務中需要將銀行的流水與系統中的出金記錄進行比對，降低資金流失的風險。銀行流水的來源有 2 種：①API 對接（自動產生）、②手動導入。（详见詳見「出金賬單」章節）
 
 - 對帳：用戶可以選擇目標期間的銀行流水進行刷新，系統將自動匹配銀行流水與系統的出金記錄，對帳完成後，可以關注清單中的「對帳結果」列，如果不一致，需要進一步追蹤處理。
 
@@ -130,4 +126,34 @@ Whale 系統包含了處理出金申請、提現處理、對帳、單獨處理�
 
 <img src="/assets/XPuMbA0sxomiAvxw8r9cuwvGndA.png" src-width="3816" src-height="1854" align="center"/>
 
-# 
+## 出金賬單
+
+指代券商公司銀行賬户所有資金的出賬變動記錄，是核对出金业务的重要依据。
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜單入口：款項管理 - 銀行帳單 - 出金帳單</p>
+</div>
+
+- 如果銀行已經對接銀企直連，則係統可以自動取得銀行帳單。
+    - 若無法對接銀企直連，則需要人工後台依照對應銀行帳單範本進行人工導入
+
+<img src="/assets/BN2pbCn1moFSOXxSODicXwRdnMc.png" src-width="3818" src-height="1796" align="center"/>
+
+<img src="/assets/EU48bYetBofFAAxlZvqcau24nsc.png" src-width="3820" src-height="1866" align="center"/>
+
+- 對於系統取得或手動匯入的銀行帳單，人工確認相應入帳為冗餘資料且匹配狀態為“未匹配”，可選擇手動刪除；
+
+<img src="/assets/EBTvbRMjOouihox1c1ccDLBPnsh.png" src-width="3316" src-height="1692" align="center"/>
+
+- 解析銀行帳單時，可能存在銀行出帳的負金額，此時對系統原本判斷為出帳就會出錯。若人工發現有這樣的情況，可以手工將對應的出帳置為入帳；
+
+<img src="/assets/GGKFbzp1Kol0dJxLFUccR7BPnJe.png" src-width="3308" src-height="1700" align="center"/>
+
+- 對於未配對的提現單需要人工進行根據實際出帳進行關聯打標。
+    - 打標後若發現為誤操作，仍可進行【拒絕】操作
+
+<img src="/assets/L2XYbt21xozm8jxbTCtcT0Xgn2b.png" src-width="3326" src-height="1718" align="center"/>
+
+<img src="/assets/OF19byo4Vo46cpxH3vMcPG0MncF.png" src-width="3308" src-height="1708" align="center"/>
+

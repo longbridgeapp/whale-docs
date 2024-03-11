@@ -13,6 +13,45 @@ WHALE證券管理系統中的證券存入功能支援用戶新增客戶的證券
 
 # 快速上手
 
+## 前置条件
+
+### 需要完成券商資訊初始化
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜單入口：證券管理-券商信息配置</p>
+</div>
+
+點選【新增】，在喚出的彈窗中依上方tab分別填入資訊
+
+<img src="/assets/J41GbdodxoiyTixCt8icBMehnwb.png" src-width="3818" src-height="1866" align="center"/>
+
+若已設定的券商資訊需要修改、下架、上架，可以在目標記錄後的操作列進行操作
+
+<img src="/assets/TZY5blzu1oYqusxmx7IcZMwZnfd.png" src-width="3806" src-height="1854" align="center"/>
+
+名詞解釋
+
+<table>
+<colgroup>
+<col width="179"/>
+<col width="641"/>
+</colgroup>
+<tbody>
+<tr><td><p><strong>术语 / 缩略词</strong></p></td><td><p><strong>说明</strong></p></td></tr>
+<tr><td><p>我方券商資訊</p></td><td><p>指目前處理平台的券商帳戶訊息，依證券轉入和證券轉出說明如下：</p>
+<ol>
+<li>證券轉入：我方券商資訊指接受用戶轉入股票的券商平台的資訊；</li>
+<li>證券轉出：我方券商資訊是指將用戶股票轉出的券商平台的資訊；</li>
+</ol></td></tr>
+<tr><td><p>對手方券商資訊</p></td><td><p>指對手方的券商帳戶訊息，依證券轉入和證券轉出說明如下：</p>
+<ol>
+<li>證券轉入：對手方券商資訊是指用戶轉出股票的券商資訊；</li>
+<li>證券轉出：對手方券商資訊是指接受用戶股票轉入的券商資訊；</li>
+</ol></td></tr>
+</tbody>
+</table>
+
 ### 手工入倉
 
 後台操作人員依照客戶的指示，完成證券轉入申請提交工作。

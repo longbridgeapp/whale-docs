@@ -17,11 +17,7 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 <img src="/assets/QSsob9ZMtoHJE1x051hcwIFgnhn.png" src-width="2146" src-height="256" align="center"/>
 
-## 前置条件
-
-无
-
-# 二、操作说明
+## 二、操作说明
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
@@ -104,9 +100,9 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 <img src="/assets/UexCbO5gZoDtp9xXIXkc8QSanJc.png" src-width="3324" src-height="1758" align="center"/>
 
-## 出金对帐
+## 出金对账
 
-为了保障资金流水的准确性，业务中需要将银行的流水与系统中的出金记录进行比对，降低资金流失的风险。银行流水的来源有 2 种：①API 对接（自动产生）、②手动导入。
+为了保障资金流水的准确性，业务中需要将银行的流水与系统中的出金记录进行比对，降低资金流失的风险。银行流水的来源有 2 种：①API 对接（自动产生）、②手动导入。（详见详见「出金账单」章节）
 
 - 对帐：用户可以选择目标期间的银行流水进行刷新，系统将自动匹配银行流水与系统的出金记录，对帐完成后，可以关注清单中的「对帐结果」列，如果不一致，需要进一步追踪处理。
 
@@ -130,4 +126,34 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 <img src="/assets/XPuMbA0sxomiAvxw8r9cuwvGndA.png" src-width="3816" src-height="1854" align="center"/>
 
-# 
+## 出金账单
+
+指代券商公司银行账户所有资金的出账变动记录，是核对出金业务的重要依据。
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：款项管理 - 银行帐单 - 出金帐单</p>
+</div>
+
+- 如果银行已经对接银企直连，则系统可以自动取得银行帐单。
+    - 若无法对接银企直连，则需要人工后台依照对应银行帐单范本进行人工导入
+
+<img src="/assets/BN2pbCn1moFSOXxSODicXwRdnMc.png" src-width="3818" src-height="1796" align="center"/>
+
+<img src="/assets/EU48bYetBofFAAxlZvqcau24nsc.png" src-width="3820" src-height="1866" align="center"/>
+
+- 对于系统取得或手动汇入的银行帐单，人工确认相应入帐为冗余资料且匹配状态为“未匹配”，可选择手动删除；
+
+<img src="/assets/EBTvbRMjOouihox1c1ccDLBPnsh.png" src-width="3316" src-height="1692" align="center"/>
+
+- 解析银行帐单时，可能存在银行出帐的负金额，此时对系统原本判断为出帐就会出错。若人工发现有这样的情况，可以手工将对应的出帐置为入帐；
+
+<img src="/assets/GGKFbzp1Kol0dJxLFUccR7BPnJe.png" src-width="3308" src-height="1700" align="center"/>
+
+- 对于未配对的提现单需要人工进行根据实际出帐进行关联打标。
+    - 打标后若发现为误操作，仍可进行【拒绝】操作
+
+<img src="/assets/L2XYbt21xozm8jxbTCtcT0Xgn2b.png" src-width="3326" src-height="1718" align="center"/>
+
+<img src="/assets/OF19byo4Vo46cpxH3vMcPG0MncF.png" src-width="3308" src-height="1708" align="center"/>
+

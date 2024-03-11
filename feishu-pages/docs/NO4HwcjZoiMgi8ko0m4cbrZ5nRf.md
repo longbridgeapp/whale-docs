@@ -829,7 +829,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 </colgroup>
 <tbody>
 <tr><td><p>場景</p></td><td><p>清算撤銷表單</p></td><td><p>後續操作</p></td></tr>
-<tr><td><p>日切點後調賬，下一日的流水到當日<br/>日切點後調賬，當日的流水調整到下日</p></td><td><img src="/assets/WdXbbx8DIoxkh8xrRn8cnQd8nMf.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤銷-流水管理界面編輯日期-重新執行日終<br/>注意：找不到流水的可點擊更新數據</p></td></tr>
+<tr><td><p>日切點後調賬，下一日的流水到當日<br/>日切點後調賬，當日的流水調整到下日<br/>資金清算後，調整收盤價</p></td><td><img src="/assets/WdXbbx8DIoxkh8xrRn8cnQd8nMf.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤銷-流水管理界面編輯日期-重新執行日終<br/>注意：找不到流水的可點擊更新數據</p></td></tr>
 <tr><td><p>月底融資利息結算異常<br/>例子：某客戶的融資利息需要調整後再結算</p></td><td><img src="/assets/P392bR0z8oKdoBxiVwsckkzinZg.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤銷-融資利息管理編輯利息-重新執行日終</p></td></tr>
 <tr><td><p>颱風天已經進行提前交收，需要撤銷<br/>量大的租戶建議謹慎操作提前交收</p></td><td><img src="/assets/PNBeb43c5or1aExSrUKcJYttn6J.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤銷-颱風天處理-執行日終</p></td></tr>
 <tr><td><p>日切前發現計費有問題需要調整</p></td><td><img src="/assets/Gnl7bnAxco1tuyxYKNAcoHAvnuh.png" src-width="3578" src-height="1798" align="center"/></td><td><p>清算撤銷-執行日終-暫停-清算計費-編輯費用-繼續日終</p></td></tr>

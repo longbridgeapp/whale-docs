@@ -13,6 +13,34 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 # 快速上手
 
+## 前置条件
+
+1. 设定公司银行帐户出金方式
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：业务参数设定&gt;资金参数&gt;公司银行帐户</p>
+</div>
+
+<img src="/assets/Jc3ZbG0kHoHzp9xpuYdczFiqnpf.png" src-width="2844" src-height="1304" align="center"/>
+
+- 点选【新建】，进入二级页面补充出金频道讯息（券商公司用户付款的银行账户和出金方式组合，比如：工银亚洲 001-支票转账）
+
+<img src="/assets/M3sVbq2PVomb89xPJiWcPrkGn7b.png" src-width="2846" src-height="1330" align="center"/>
+
+1. 打开币种的出金功能开关
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜单入口：业务参数设定&gt;资金参数&gt;币种</p>
+</div>
+
+<img src="/assets/Y0K4beoCYo6NN0xRQBCcX4olncc.png" src-width="2858" src-height="1318" align="center"/>
+
+- 点选【新建】，进入二级页面，将出金功能的选项设为「是」
+
+<img src="/assets/BaHTbGjrroRB1WxLnZ3cJtnfnDf.png" src-width="2864" src-height="1330" align="center"/>
+
 ## 处理出金申请
 
 根据客户提出的出金要求，可在页面手动新增出金申请，若用户在 APP 已经提交了出金申请，记录会自动展示在该页面。
@@ -31,7 +59,7 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 ## 提现处理
 
-出金申请提交后，具体操作提现的人员将会根据实际情况灵活处理提现的方式，系统提供了 2 套提现的模式：直接出帐、打包提现
+出金申请提交后，具体操作提现的人员将会根据实际情况灵活处理提现的方式，系统提供了 2 套提现的模式：直接出帐、打包提现。同时，用户相应出金的渠道可能存在日限额，所以为了降低出金异常情况，建立了出金日限额监控提示以、管理以及查看。
 
 ### 直接出帐
 
@@ -39,7 +67,7 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 <img src="/assets/P3bibjGXxo2tRYxB6U1cAJc4nrc.png" src-width="3310" src-height="1716" align="center"/>
 
-**步骤二**：在出现的弹跳窗内输入银行名称、银行帐户、通路、银行流水（如有），点选【提交审核】
+**步骤二**：在出现的弹跳窗内输入银行名称、银行帐户、通路、银行流水（如有），点选【提交审核】（_若不需要工单审批，可以进行配置，详见步骤五_）
 
 <img src="/assets/ROgZbn9cMosrZNx2KbrcKnRunDb.png" src-width="3326" src-height="1776" align="center"/>
 
@@ -54,6 +82,10 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 <img src="/assets/Oh6Kb49PooUNt9x80BBc5u9nnph.png" src-width="3316" src-height="1728" align="center"/>
 
 <img src="/assets/UTKIbXpBYoBYHKxd3dhcczGEn7f.png" src-width="3324" src-height="592" align="center"/>
+
+**步骤五：**若不需要工单审批，可以至“业务参数设定&gt;出金规则&gt;更多设置”中关闭开关
+
+<img src="/assets/I06abl27boDIrVxHN5jc2I4wnJf.png" src-width="3816" src-height="1780" align="center"/>
 
 ### 打包处理
 
@@ -78,6 +110,34 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 <img src="/assets/X8QJbJMBqohOYaxzDfdcPSZJnvb.png" src-width="3808" src-height="1868" align="center"/>
 
 <img src="/assets/FiujbaVsXoIwGkxkIqpchWqZnUg.png" src-width="3306" src-height="1686" align="center"/>
+
+### 日限额（设定）
+
+指用户相应出金的管道可能存在每日限额，所以为了降低出金异常情况，建立了出金日限额监控提示以及管理。
+
+**步骤一：进入““业务参数设定&gt;出金规则&gt;日限额 tab””，目前页面展示已设定好的限额记录**
+
+<img src="/assets/Jt1Ibr0EOoUpr0xa4WBcTOg7nGf.png" src-width="3836" src-height="1770" align="center"/>
+
+**步骤二：若需要新增限额，点选【新建】，进入弹窗填入对应的栏位后点选【确定】**
+
+<img src="/assets/EXJlbKAfGoFcwQxhFhCchB6knig.png" src-width="3834" src-height="1858" align="center"/>
+
+- 若对于已存在的记录需要调整额度，点选操作列的【调整】，在弹跳窗中选择调增或调减并输入金额
+
+<img src="/assets/JYDhbl0VDoK05yxv63ic2vTvnm2.png" src-width="3332" src-height="1756" align="center"/>
+
+- 若需要对其他栏位进行修改，可以点选操作栏的【编辑】进入弹跳窗进行操作
+
+<img src="/assets/EAQpbo27Tohgvtx5WtXcNJNCnXf.png" src-width="3444" src-height="1848" align="center"/>
+
+- 若需要删除记录，则选择记录后点选操作列的【删除】即可
+
+<img src="/assets/PlMAbyhjoocqmUxoG6BcsMfDnSh.png" src-width="3328" src-height="890" align="center"/>
+
+- 若想要查看限额的变动情况，可至「业务参数设定&gt;出金规则&gt;日限额变动表」查看
+
+<img src="/assets/TbzGbSKProwJRMxrugecwFi2npg.png" src-width="3796" src-height="1832" align="center"/>
 
 ## 处理异常出金
 

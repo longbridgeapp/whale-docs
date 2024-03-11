@@ -19,7 +19,18 @@ Whale 系統提供了換匯的基礎參數設定與業務主流程操作功能�
 
 ## 前置条件
 
-在使用換匯功能之前，需要先設定支援的幣種對並制定相應的換匯策略。如果使用匯兌池換匯策略，還需要設定匯兌池的換匯額度。詳見第二節操作說明。
+1. 首先打開幣種的換匯開關
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>📍</div>
+<p>菜單入口：業務參數設定&gt;資金參數&gt;幣種</p>
+</div>
+
+<img src="/assets/OZUQbEJS9oWUv5x66NPcTyYZnQK.png" src-width="3822" src-height="1850" align="center"/>
+
+<img src="/assets/NLBabyI57oXTZ6xfpErcN8fPn4e.png" src-width="3820" src-height="1864" align="center"/>
+
+1. 然後先設定支援的幣種對並制定相應的換匯策略。如果使用匯兌池換匯策略，還需要設定匯兌池的換匯額度。詳見第二節操作說明。
 
 # 二、操作說明
 
