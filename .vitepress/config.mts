@@ -4,7 +4,7 @@ import { siteMetadata } from "./site-meta";
 import siderbarConfig from "./../scripts/siderbar";
 
 const editLinkPattern =
-  "https://github.com/longbridgeapp/whale-docs/edit/dev/locales/:path";
+  "https://github.com/longbridgeapp/whale-docs/edit/main/locales/:path";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

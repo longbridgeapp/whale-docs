@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     # Every 3 days at 00:00
-    - cron: '0 0 */3 * *'
+    - cron: "0 0 */3 * *"
 jobs:
-  download_feishu_pages:
+  export:
     name: Download feishu pages
     timeout-minutes: 60
     runs-on: ubuntu-latest
@@ -51,7 +51,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: Update to export new feishu pages.
-          base: dev
+          base: main
           branch: ${{github.ref_name}}
           title: "[UPDATE] Export Feishu Pages"
           body: |
