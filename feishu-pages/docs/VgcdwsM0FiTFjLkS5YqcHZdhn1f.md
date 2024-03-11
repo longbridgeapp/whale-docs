@@ -1,11 +1,11 @@
 ---
-title: 權限申請操作
+title: 權限申請
 slug: VgcdwsM0FiTFjLkS5YqcHZdhn1f
 sidebar_position: 1
 ---
 
 
-# 權限申請操作
+# 權限申請
 
 ### 權限策略模式
 

@@ -1,11 +1,11 @@
 ---
-title: 作業介面說明
+title: 作業介面
 slug: IiHowEDhSiRwVNkSqfDcUheenSc
 sidebar_position: 0
 ---
 
 
-# 作業介面說明
+# 作業介面
 
 Whale 針對單元作業 也提供基礎體驗優化，以下是常見的一些設計操作：
 

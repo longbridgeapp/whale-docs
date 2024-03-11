@@ -7,13 +7,13 @@ sidebar_position: 1
 
 # 快速上手
 
-# 概述
+## 概述
 
 Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户资料审核、开户资料修改等流程管理。
 
-# 快速上手
+## 快速上手
 
-## 前置条件
+### 前置条件
 
 您需要获取以下授权后方可正常使用系统功能
 
@@ -30,7 +30,7 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
 </tbody>
 </table>
 
-## 开户审核
+### 开户审核
 
 **步骤一：查看开户列表**
 
@@ -65,7 +65,7 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
 
 <img src="/assets/U0P2bLT1XoqtwpxyN1Sc851gnM4.png" src-width="2854" src-height="1306" align="center"/>
 
-## 开户资料修改
+### 开户资料修改
 
 **步骤一：找到修改位置**
 
@@ -89,7 +89,7 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
 
 <img src="/assets/NQpybejFnotnIKx12F0cVbd7nBh.png" src-width="2542" src-height="1488" align="center"/>
 
-## 开户资料录入
+### 开户资料录入
 
 <img src="/assets/QjiybXqO0oiEvvxeOnYcPyNJnhd.png" src-width="3798" src-height="812" align="center"/>
 
@@ -97,13 +97,13 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
 
 <img src="/assets/EpmQbrIVgoxu3lxOjr7cl39bn9c.png" src-width="3288" src-height="1298" align="center"/>
 
-##### 第一步：选择开户类型
+#### 第一步：选择开户类型
 
 开户类型分为 3 个步骤：选择客户/新建客户、选择客户类型、选择客户国籍
 
 选择客户/新建客户 
 
-##### **第二步**：上传身份证件
+#### **第二步**：上传身份证件
 
 分为 3 种类型客户：
 
@@ -120,7 +120,7 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
     3. 如用户选择否，需上传其他身份证
     <img src="/assets/WKbLbf3UloN57dxc1MScAJ5gnQc.png" src-width="3252" src-height="1822" align="center"/>
 
-##### **第三步**：上传地址证明
+#### **第三步**：上传地址证明
 
 分为 2 种类型客户：
 
@@ -133,7 +133,7 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
     1. 需上传居住地址证明
     <img src="/assets/ArIpb7FOfocpFxx3BEvcg8n2nUf.png" src-width="3252" src-height="1604" align="center"/>
 
-##### **第四步**：填写各类基础信息
+#### **第四步**：填写各类基础信息
 
 主要是包含 职业资讯、纳税资讯、电子邮箱等信息。其中，
 
@@ -143,15 +143,15 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
 
 填写联系手机号，多个客户可使用相同的联系手机号
 
-##### **第五步**：填写资产投资信息
+#### **第五步**：填写资产投资信息
 
 <img src="/assets/NcsMbrqtPoneYvxbCizc3BJrnxd.png" src-width="3258" src-height="1804" align="center"/>
 
-##### **第六步**：合规资讯确认
+#### **第六步**：合规资讯确认
 
 <img src="/assets/QQvLbwCdAojkJkxPUFAcrwHOnSa.png" src-width="3254" src-height="1806" align="center"/>
 
-##### **第七步**：确认资讯
+#### **第七步**：确认资讯
 
 系统会按：身份证件/个人基础信息/职业信息/资产投资信息/合规信息确认/关联账户信息 等区块排列，将客户资料展示出来，方便按确认填写讯息
 
@@ -161,7 +161,7 @@ Whale KYC 系统支持处理客户的开户资料相关的流程，包括 开户
 
 <img src="/assets/J8aqbAbepo5ExsxT5XicuT9AnAh.png" src-width="3162" src-height="1142" align="center"/>
 
-##### **第八步**：选择帐户类型、上传开户文件
+#### **第八步**：选择帐户类型、上传开户文件
 
 上传开户文件及自定义文件： 
 
