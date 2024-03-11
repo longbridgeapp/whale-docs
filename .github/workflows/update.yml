@@ -4,16 +4,17 @@ on:
   schedule:
     # Every 3 days at 00:00
     - cron: "0 0 */3 * *"
+
 jobs:
   export:
     name: Download feishu pages
-    timeout-minutes: 60
+    timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          ref: feishu-pages
+          branch: main
 
       - name: Use feishu pages cache
         uses: actions/cache@v3
@@ -34,26 +35,28 @@ jobs:
 
       - uses: oven-sh/setup-bun@v1
 
-      - name: Copy feishu pages to repo
+      - name: Copy Pages to repo
         run: |
           bun install
           bun run setup
 
       - name: Commit feishu pages to repo
         run: |
+          git checkout -b update-pages-$(date +'%Y-%m-%d')
           git status
           git add .
-          git config --global user.name "feishu-pages-bot"
+          git config --global user.name "Longbridge Whale docs bot"
           git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
-          git commit -a -m "Update to export new feishu pages."
+          git commit -a -m "Commit feishu updated pages to repo"
+          git push origin update-pages-$(date +'%Y-%m-%d')
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: Update to export new feishu pages.
           base: main
-          branch: ${{github.ref_name}}
-          title: "[UPDATE] Export Feishu Pages"
+          branch: update-pages-$(date +'%Y-%m-%d')
+          title: "[Docs] New feishu pages version request review"
           body: |
             New feishu pages version request review
           assignees: ihavecoke
