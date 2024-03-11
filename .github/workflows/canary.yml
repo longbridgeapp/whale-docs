@@ -1,8 +1,8 @@
 name: Deploy feishu pages to canary
 on:
-  pull_request:
+  push:
     branches:
-      - canary
+      - dev
 jobs:
   deploy_canary:
     name: vitpress build
@@ -15,7 +15,7 @@ jobs:
       - uses: oven-sh/setup-bun@v1
       - name: Build Pages
         run: |
-          bun install 
+          bun install
           bun run build
       - name: Upload to oss
         run: |
