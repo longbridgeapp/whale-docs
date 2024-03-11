@@ -66,8 +66,8 @@ function setupAssets() {
     }
   });
 }
-import { find } from "../feishu-pages/docs.json";
-const hkMetadata = find((doc) => doc.meta?.slug === "zh-HK");
+import docs from "../feishu-pages/docs.json";
+const hkMetadata = docs.find((doc) => doc.meta?.slug === "zh-HK");
 const HomePageSlug = "guides";
 // read feishu-pages/docs.json file find slug equal guides, then copy it to locales/zh-HK/docs/index.md
 // for Nginx directory to index.html
