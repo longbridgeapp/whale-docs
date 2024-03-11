@@ -35,21 +35,14 @@ jobs:
 
       - name: Commit feishu pages to repo
         run: |
-          git checkout -b update-pages-$(date +'%Y-%m-%d')
+          BRANCH_NAME=update-pages-$(date +'%Y%m%d%H%M%S')
+          git checkout -b $BRANCH_NAME
           git status
           git add .
           git config --global user.name "Longbridge Whale docs bot"
           git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
           git commit -a -m "Commit feishu updated pages to repo"
-          git push origin update-pages-$(date +'%Y-%m-%d')
+          git push origin $BRANCH_NAME
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          commit-message: Update to export new feishu pages.
-          base: main
-          branch: update-pages-$(date +'%Y-%m-%d')
-          title: "[Docs] New feishu pages version request review"
-          body: |
-            New feishu pages version request review
-          assignees: ihavecoke
+          # Create Pull Request
+          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -d '{"title":"Update feishu pages","head":"'$BRANCH_NAME'","base":"main"}' https://api.github.com/repos/${{ github.repository }}/pulls
