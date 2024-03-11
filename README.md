@@ -4,6 +4,11 @@
 
 This is the documentation for the Longbridge Whale product.
 
+## Test Pages
+
+- [Canary](https://cloud.longbridge.xyz/docs) 
+- [Release](https://longbridgewhale.com/docs)
+
 ## Deploy
 
 You can visit this page to trigger GitHub Action to deploy the docs.
