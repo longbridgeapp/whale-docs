@@ -54,7 +54,7 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 
 ### 頁面組件
 
-**組件樹/物料庫：**組件樹木展示當前頁面中已經配置的組件列表，點擊對應組件名稱可進行編輯配置。物料庫為所有可配置的組件類型，點擊/拖拽對應組件類型會自動添加至預覽頁面中。
+<b>組件樹/物料庫：</b>組件樹木展示當前頁面中已經配置的組件列表，點擊對應組件名稱可進行編輯配置。物料庫為所有可配置的組件類型，點擊/拖拽對應組件類型會自動添加至預覽頁面中。
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[50%]" width-ratio="50">
@@ -65,15 +65,15 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 </div>
 </div>
 
-**導航頭：**可以設置導航背景色、Logo 點擊跳轉後的鏈接、導航右側可操作的功能。
+<b>導航頭：</b>可以設置導航背景色、Logo 點擊跳轉後的鏈接、導航右側可操作的功能。
 
 <img src="/assets/LAEibgZUYoN7WMxtj6ccFxVkn3e.png" src-width="3828" src-height="1946" align="center"/>
 
-**圖片：**支持上傳圖片和圖片地址，沒有大小限制。
+<b>圖片：</b>支持上傳圖片和圖片地址，沒有大小限制。
 
 <img src="/assets/QOSVbage3okHOIxNxFucfyf0nxc.png" src-width="3822" src-height="1928" align="center"/>
 
-**熱區：**
+<b>熱區：</b>
 
 - 鏈接分享效果：用戶點擊後會複製分享鏈接到剪貼版中
 - 海報分享效果：用戶點擊後按所配置圖片生成一張海報，可以下載保存以海報形式分享出去
@@ -91,7 +91,7 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 
 <img src="/assets/PuFhbBpJ6opZp9xW9vbc1BLKnOf.png" src-width="3812" src-height="1942" align="center"/>
 
-**按鈕組：**
+<b>按鈕組：</b>
 
 1. 按鈕點擊事件支持配置：
 
@@ -103,19 +103,19 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 
 <img src="/assets/GZGBbqBNGoPoIgxtOq7cym9wnEh.png" src-width="3792" src-height="1948" align="center"/>
 
-**間隔區：**調節不同組件間高度
+<b>間隔區：</b>調節不同組件間高度
 
 <img src="/assets/JbpRbGOvOoipkixUdnPcpnTFnQc.png" src-width="3810" src-height="1952" align="center"/>
 
-**我的戰績：**
+<b>我的戰績：</b>
 
 <img src="/assets/H4CcbACC1o8XGLxfBzCcTC4VnYg.png" src-width="3824" src-height="1918" align="center"/>
 
-**助力得獎：**
+<b>助力得獎：</b>
 
 <img src="/assets/FxJfbNUOLowS5jxGRKJcPtponWd.png" src-width="3786" src-height="1868" align="center"/>
 
-**組件快捷操作：**預覽區組件支持上下移動，複製和刪除。
+<b>組件快捷操作：</b>預覽區組件支持上下移動，複製和刪除。
 
 <img src="/assets/Tp0KbT1LBoj4nTx511ocArPUndg.png" src-width="2406" src-height="1832"/>
 
@@ -125,21 +125,21 @@ PageHub 是 Whale 提供的可視化頁面搭建作業工具，方便運營人�
 
 <img src="/assets/WKSTbprfqoHdqTx0qiJcYP16n5g.png" src-width="696" src-height="632"/>
 
-- **多語言設置：**可配置當前頁面需要支持的語种與頁面標題，也支持快捷切換。
+- <b>多語言設置：</b>可配置當前頁面需要支持的語种與頁面標題，也支持快捷切換。
     <img src="/assets/FZX3bHPF9oRR7bx0gqycC7X7n6d.png" src-width="800" src-height="356"/>
 
-- **適用區域設置：**可配置能打開當前頁面的 IP 區域有哪些。分為不限制、僅支持區域、不支持區域三種類型可選。
+- <b>適用區域設置：</b>可配置能打開當前頁面的 IP 區域有哪些。分為不限制、僅支持區域、不支持區域三種類型可選。
     - 不限制：則表示任何地區 IP 均可訪問該頁面
     - 僅支持區域：僅限制所配置的地區 IP 可訪問該頁面
     - 不支持區域：僅限制所配置的地區 IP 不可訪問該頁面
 
-- **活動配置：**可配置當前頁面是否需要登錄後才可訪問
+- <b>活動配置：</b>可配置當前頁面是否需要登錄後才可訪問
     - 不需要登錄：則用戶不需要登錄賬號即可訪問頁面
     - 通用登錄頁：則用戶需要在通用登錄頁面中進行登錄後才可訪問頁面
 
-- **UI 配置：**頁面的背景顏色配置
-- **鏈接參數配置：**鏈接渠道號配置，若為了統計數據需要區分渠道來源的話可以配置專屬渠道號。否則可以不填。
-- **分享配置：**頁面分享功能的配置
+- <b>UI 配置：</b>頁面的背景顏色配置
+- <b>鏈接參數配置：</b>鏈接渠道號配置，若為了統計數據需要區分渠道來源的話可以配置專屬渠道號。否則可以不填。
+- **分享配置**<b>：</b>頁面分享功能的配置
     - 鏈接分享模式：即點擊分享時直接複製鏈接或者當前鏈接形式直接分享，可配置分享鏈接時自帶的分享標題以及分享描述。分享鏈接可單獨配置，不配置則默認分享當前頁面的鏈接，若配置後則分享時將分享配置之後的頁面鏈接。分享縮略圖即當分享鏈接至微信或者其他需要縮略圖展示的平台時，可展示當前配置的縮略圖。
         <img src="/assets/UtvRbJycMo6QRgxJdyBckiKynDd.png" src-width="644" src-height="900"/>
     - 面對面分享模式：即點擊分享時直接彈出自帶二維碼的圖片，可截圖分享或者當面掃碼打開對應頁面。需配置二維碼彈窗背景圖片。

@@ -23,11 +23,11 @@ Whale 系統是支持系統工單的新建與審批，每個用戶在登入時�
 
 <img src="/assets/EC4NbflcroxHPWx5zqrcbtD8nBe.png" src-width="1250" src-height="328" align="center"/>
 
-**已辦 Tab:**
+<b>已辦 Tab:</b>
 
 可以查詢到自己崗位上的已辦（審批）工單歷史列表
 
-**已發起 Tab:**
+<b>已發起 Tab:</b>
 
 可以查詢到自己崗位上的所發起工單列表
 

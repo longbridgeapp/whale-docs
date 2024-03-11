@@ -83,7 +83,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 <img src="/assets/RY4wbECnPoz7pjxwye4cTLbvnAf.png" src-width="3238" src-height="1634" align="center"/>
 
-**清算操作流程：**
+<b>清算操作流程：</b>
 
 整個清算流程是按次順序進行操作：
 
@@ -223,7 +223,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 <img src="/assets/TwOSbAU1moQ36xxIL7GcBSsYnrf.png" src-width="3190" src-height="1632" align="center"/>
 
-**基本面：**
+<b>基本面：</b>
 
 <img src="/assets/TzmLbCEogoV1z2xw3pEcRuTynge.png" src-width="2754" src-height="1532" align="center"/>
 
@@ -231,7 +231,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置App端基金�
 
 <img src="/assets/XVPbbuE1Ko0DH1xCv0jc3mgTntf.png" src-width="2296" src-height="1518" align="center"/>
 
-**贖回規則：**
+<b>贖回規則：</b>
 
 <img src="/assets/EJ58bw0YsoRAHBxSAwzcADPnn6G.png" src-width="2252" src-height="1532" align="center"/>
 
@@ -306,7 +306,7 @@ A. **數據發送**
 
 設置後，就會影響私募基金在手機端展示排序效果
 
-**APP 端展示畫面如下：**
+<b>APP 端展示畫面如下：</b>
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[47%]" width-ratio="47">
@@ -351,7 +351,7 @@ A. **數據發送**
 
 基金主题的排序权重越大，主题的在前端的顺序越靠前；基金主题内的基金列表中的排序越小，基金在前端的顺序越靠前。
 
-**APP 端展示畫面如下：**
+<b>APP 端展示畫面如下：</b>
 
 <img src="/assets/GPhMblDP3oJfH5xnzLwcNUCpnOe.png" src-width="686" src-height="1482" align="center"/>
 
@@ -400,7 +400,7 @@ A. **數據發送**
 1. 下手 OB 劵商提交的基金訂單初期僅是基金申購請求，要經過上手劵商的的審批操作才能成為真正的基金訂單轉出，其中訂單狀況如下：
     **待生成：同步後的初始狀態 （**上游劵商 將下游 OB 劵商的 基金 同步過來的 初始狀態**）**
     **已駁回：   駁回訂單後的狀態**
-    **已生成：**
+    <b>已生成：</b>
     **下手已撤單**
 
 2. 生成上手劵商基金訂單前，需要對下手 OB 帳戶餘額進行檢測，檢測之後，才顯示租戶 OB 帳戶對應的【帳戶餘額】和【持倉份額】數據，提供上游劵商審批操作下手 OB 劵商申購贖回進行參考

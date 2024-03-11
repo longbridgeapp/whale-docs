@@ -54,7 +54,7 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 
 ### 页面组件
 
-**组件树/物料库：**组件树木展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置。物料库为所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览页面中。
+<b>组件树/物料库：</b>组件树木展示当前页面中已经配置的组件列表，点击对应组件名称可进行编辑配置。物料库为所有可配置的组件类型，点击/拖拽对应组件类型会自动添加至预览页面中。
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[50%]" width-ratio="50">
@@ -65,15 +65,15 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 </div>
 </div>
 
-**导航头：**可以设置导航背景色、Logo 点击跳转后的链接、导航右侧可操作的功能。
+<b>导航头：</b>可以设置导航背景色、Logo 点击跳转后的链接、导航右侧可操作的功能。
 
 <img src="/assets/LAEibgZUYoN7WMxtj6ccFxVkn3e.png" src-width="3828" src-height="1946" align="center"/>
 
-**图片：**支持上传图片和图片地址，没有大小限制。
+<b>图片：</b>支持上传图片和图片地址，没有大小限制。
 
 <img src="/assets/QOSVbage3okHOIxNxFucfyf0nxc.png" src-width="3822" src-height="1928" align="center"/>
 
-**热区：**
+<b>热区：</b>
 
 - 链接分享效果：用户点击后会复制分享链接到剪贴版中
 - 海报分享效果：用户点击后按所配置图片生成一张海报，可以下载保存以海报形式分享出去
@@ -91,7 +91,7 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 
 <img src="/assets/PuFhbBpJ6opZp9xW9vbc1BLKnOf.png" src-width="3812" src-height="1942" align="center"/>
 
-**按钮组：**
+<b>按钮组：</b>
 
 1. 按钮点击事件支持配置：
 
@@ -103,19 +103,19 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 
 <img src="/assets/GZGBbqBNGoPoIgxtOq7cym9wnEh.png" src-width="3792" src-height="1948" align="center"/>
 
-**间隔区：**调节不同组件间高度
+<b>间隔区：</b>调节不同组件间高度
 
 <img src="/assets/JbpRbGOvOoipkixUdnPcpnTFnQc.png" src-width="3810" src-height="1952" align="center"/>
 
-**我的战绩：**
+<b>我的战绩：</b>
 
 <img src="/assets/H4CcbACC1o8XGLxfBzCcTC4VnYg.png" src-width="3824" src-height="1918" align="center"/>
 
-**助力得奖：**
+<b>助力得奖：</b>
 
 <img src="/assets/FxJfbNUOLowS5jxGRKJcPtponWd.png" src-width="3786" src-height="1868" align="center"/>
 
-**组件快捷操作：**预览区组件支持上下移动，复制和删除。
+<b>组件快捷操作：</b>预览区组件支持上下移动，复制和删除。
 
 <img src="/assets/Tp0KbT1LBoj4nTx511ocArPUndg.png" src-width="2406" src-height="1832"/>
 
@@ -125,21 +125,21 @@ PageHub 是 Whale 提供的可视化页面搭建作业工具，方便运营人�
 
 <img src="/assets/WKSTbprfqoHdqTx0qiJcYP16n5g.png" src-width="696" src-height="632"/>
 
-- **多语言设置：**可配置当前页面需要支持的语种与页面标题，也支持快捷切换。
+- <b>多语言设置：</b>可配置当前页面需要支持的语种与页面标题，也支持快捷切换。
     <img src="/assets/FZX3bHPF9oRR7bx0gqycC7X7n6d.png" src-width="800" src-height="356"/>
 
-- **适用区域设置：**可配置能打开当前页面的 IP 区域有哪些。分为不限制、仅支持区域、不支持区域三种类型可选。
+- <b>适用区域设置：</b>可配置能打开当前页面的 IP 区域有哪些。分为不限制、仅支持区域、不支持区域三种类型可选。
     - 不限制：则表示任何地区 IP 均可访问该页面
     - 仅支持区域：仅限制所配置的地区 IP 可访问该页面
     - 不支持区域：仅限制所配置的地区 IP 不可访问该页面
 
-- **活动配置：**可配置当前页面是否需要登录后才可访问
+- <b>活动配置：</b>可配置当前页面是否需要登录后才可访问
     - 不需要登录：则用户不需要登录账号即可访问页面
     - 通用登录页：则用户需要在通用登录页面中进行登录后才可访问页面
 
-- **UI 配置：**页面的背景颜色配置
-- **链接参数配置：**链接渠道号配置，若为了统计数据需要区分渠道来源的话可以配置专属渠道号。否则可以不填。
-- **分享配置：**页面分享功能的配置
+- <b>UI 配置：</b>页面的背景颜色配置
+- <b>链接参数配置：</b>链接渠道号配置，若为了统计数据需要区分渠道来源的话可以配置专属渠道号。否则可以不填。
+- **分享配置**<b>：</b>页面分享功能的配置
     - 链接分享模式：即点击分享时直接复制链接或者当前链接形式直接分享，可配置分享链接时自带的分享标题以及分享描述。分享链接可单独配置，不配置则默认分享当前页面的链接，若配置后则分享时将分享配置之后的页面链接。分享缩略图即当分享链接至微信或者其他需要缩略图展示的平台时，可展示当前配置的缩略图。
         <img src="/assets/UtvRbJycMo6QRgxJdyBckiKynDd.png" src-width="644" src-height="900"/>
     - 面对面分享模式：即点击分享时直接弹出自带二维码的图片，可截图分享或者当面扫码打开对应页面。需配置二维码弹窗背景图片。

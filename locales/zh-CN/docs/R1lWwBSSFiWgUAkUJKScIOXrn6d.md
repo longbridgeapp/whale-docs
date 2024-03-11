@@ -83,7 +83,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/RY4wbECnPoz7pjxwye4cTLbvnAf.png" src-width="3238" src-height="1634" align="center"/>
 
-**清算操作流程：**
+<b>清算操作流程：</b>
 
 整个清算流程是按次顺序进行操作：
 
@@ -223,7 +223,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/TwOSbAU1moQ36xxIL7GcBSsYnrf.png" src-width="3190" src-height="1632" align="center"/>
 
-**基本面：**
+<b>基本面：</b>
 
 <img src="/assets/TzmLbCEogoV1z2xw3pEcRuTynge.png" src-width="2754" src-height="1532" align="center"/>
 
@@ -231,7 +231,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/XVPbbuE1Ko0DH1xCv0jc3mgTntf.png" src-width="2296" src-height="1518" align="center"/>
 
-**赎回规则：**
+<b>赎回规则：</b>
 
 <img src="/assets/EJ58bw0YsoRAHBxSAwzcADPnn6G.png" src-width="2252" src-height="1532" align="center"/>
 
@@ -306,7 +306,7 @@ A. **数据发送**
 
 设置后，就会影响私募基金在手机端展示排序效果
 
-**APP 端展示画面如下：**
+<b>APP 端展示画面如下：</b>
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[47%]" width-ratio="47">
@@ -351,7 +351,7 @@ A. **数据发送**
 
 基金主题的排序权重越大，主题的在前端的顺序越靠前；基金主题内的基金列表中的排序越小，基金在前端的顺序越靠前。
 
-**APP 端展示画面如下：**
+<b>APP 端展示画面如下：</b>
 
 <img src="/assets/GPhMblDP3oJfH5xnzLwcNUCpnOe.png" src-width="686" src-height="1482" align="center"/>
 
@@ -400,7 +400,7 @@ A. **数据发送**
 1. 下手 OB 劵商提交的基金订单初期仅是基金申购请求，要经过上手劵商的的审批操作才能成为真正的基金订单转出，其中订单状况如下：
     **待生成：同步后的初始状态（**上游劵商 将下游 OB 劵商的 基金 同步过来的 初始状态**）**
     **已驳回：驳回订单后的状态**
-    **已生成：**
+    <b>已生成：</b>
     **下手已撤单**
 
 2. 生成上手劵商基金订单前，需要对下手 OB 帐户余额进行检测，检测之后，才显示租户 OB 帐户对应的【帐户余额】和【持仓份额】数据，提供上游劵商审批操作下手 OB 劵商申购赎回进行参考
