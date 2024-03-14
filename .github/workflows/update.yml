@@ -44,7 +44,7 @@ jobs:
           git checkout -b $BRANCH_NAME
           git status
           git add locales/
-          git commit -a -m "Commit feishu updated pages to repo"
+          git commit -m "Commit feishu updated pages to repo"
           git push origin $BRANCH_NAME
 
           # Create Pull Request
@@ -56,4 +56,5 @@ jobs:
           git add feishu-pages/.cache
           git config --global user.name "Longbridge Whale docs bot"
           git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
-          git commit -a -m "Update feishu-pages/.cache" && git push origin main
+          git commit -m "Update feishu-pages/.cache" || echo "No changes to commit"
+          git push origin main
