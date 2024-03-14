@@ -33,16 +33,27 @@ jobs:
           bun install
           bun run setup
 
-      - name: Commit feishu pages to repo
+      - name: Setup Git
+        run: |
+          git config --global user.name "Longbridge Whale docs bot"
+          git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
+
+      - name: Create PR for locales/ updates
         run: |
           BRANCH_NAME=update-pages-$(date +'%Y%m%d%H%M%S')
           git checkout -b $BRANCH_NAME
           git status
-          git add .
-          git config --global user.name "Longbridge Whale docs bot"
-          git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
+          git add locales/
           git commit -a -m "Commit feishu updated pages to repo"
           git push origin $BRANCH_NAME
 
           # Create Pull Request
           curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -d '{"title":"Update feishu pages","head":"'$BRANCH_NAME'","base":"main"}' https://api.github.com/repos/${{ github.repository }}/pulls
+
+      - name: Push feishu-pages/.caches to main branch
+        run: |
+          git add feishu-pages/.caches
+          git config --global user.name "Longbridge Whale docs bot"
+          git config --global user.email "longbridge-whale-docs@users.noreply.github.com"
+          git commit -a -m "Update feishu-pages/.caches"
+          git push origin main
