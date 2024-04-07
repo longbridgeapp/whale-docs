@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # 常見問題
 
-# 多市場清算問題
+## 多市場清算問題
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -34,7 +34,7 @@ sidebar_position: 3
 
 則在 28 日清算中會處理 28 日的港股交易、27 日（美國時區）的美股交易
 
-# 費用配置問題
+## 費用配置問題
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -95,4 +95,47 @@ sidebar_position: 3
 可以，但是必須在行情文件、費率文件到位後進行。在操作前必須操作提前日切
 
 <img src="/assets/W6bxbB4cLofNx4xg9sec8tyrn4b.png" src-width="3578" src-height="1798" align="center"/>
+
+## 持倉對賬
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>持倉對賬任務是如何觸發的？</p>
+</div>
+
+文件類型標記為觸發持倉對賬的文件，在導入後可自動觸發持倉對賬
+
+注意如果是 OB 模式，當日就要觸發持倉對賬的，請在清算交收後再導入持倉文件
+
+<img src="/assets/Y5fSblZ1yoJWKQx1LTgcdWiun6d.png" src-width="3572" src-height="1662" align="center"/>
+
+未支持自動觸發持倉對賬，或者需要重新發起持倉對賬的，可在持倉對賬頁面點擊重新對賬
+
+<img src="/assets/PxNVbljWwoa5CIxevcLcxRUmnnc.png" src-width="3572" src-height="1662" align="center"/>
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>非交易日是否需要發起持倉對賬</p>
+</div>
+
+不需要，系統也不支持發起持倉對賬
+
+<img src="/assets/Z89sb2kk0o0SpIxN38NcnEeNnXf.png" src-width="3572" src-height="1662" align="center"/>
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>持倉對賬不平後，如果進行確認</p>
+</div>
+
+根據不平賬明細，查找是否有漏做的轉倉、公司行動等操作
+
+<img src="/assets/MGCFbS81Qo8jVMxwT0scnmR2nGf.png" src-width="3572" src-height="1662" align="center"/>
+
+逐項確認完畢後，在檢查結果頁面點擊通過
+
+<img src="/assets/BomSbi9Ico3y5uxXrSsc8vPJnye.png" src-width="3572" src-height="1662" align="center"/>
+
+<img src="/assets/LjYYbzjHUoZpmvxZ7KUceRBGnxd.png" src-width="3572" src-height="1662" align="center"/>
+
+<img src="/assets/MRmab9eGIoBJMcxGrobcbHtAnVc.png" src-width="3572" src-height="1662" align="center"/>
 
