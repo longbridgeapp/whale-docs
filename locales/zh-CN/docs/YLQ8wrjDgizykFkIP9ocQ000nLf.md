@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # 常见问题
 
-# 多市场清算问题
+## 多市场清算问题
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -34,7 +34,7 @@ sidebar_position: 3
 
 则在 28 日清算中会处理 28 日的港股交易、27 日（美国时区）的美股交易
 
-# 费用配置问题
+## 费用配置问题
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -95,4 +95,47 @@ sidebar_position: 3
 可以，但是必须在行情文件、费率文件到位后进行。在操作前必须操作提前日切
 
 <img src="/assets/W6bxbB4cLofNx4xg9sec8tyrn4b.png" src-width="3578" src-height="1798" align="center"/>
+
+## 持仓对账
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>持仓对账任务是如何触发的？</p>
+</div>
+
+文件类型标记为触发持仓对账的文件，在导入后可自动触发持仓对账
+
+注意如果是 OB 模式，当日就要触发持仓对账的，请在清算交收后再导入持仓文件
+
+<img src="/assets/Y5fSblZ1yoJWKQx1LTgcdWiun6d.png" src-width="3572" src-height="1662" align="center"/>
+
+未支持自动触发持仓对账，或者需要重新发起持仓对账的，可在持仓对账页面点击重新对账
+
+<img src="/assets/PxNVbljWwoa5CIxevcLcxRUmnnc.png" src-width="3572" src-height="1662" align="center"/>
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>非交易日是否需要发起持仓对账</p>
+</div>
+
+不需要，系统也不支持发起持仓对账
+
+<img src="/assets/Z89sb2kk0o0SpIxN38NcnEeNnXf.png" src-width="3572" src-height="1662" align="center"/>
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>持仓对账不平后，如果进行确认</p>
+</div>
+
+根据不平账明细，查找是否有漏做的转仓、公司行动等操作
+
+<img src="/assets/MGCFbS81Qo8jVMxwT0scnmR2nGf.png" src-width="3572" src-height="1662" align="center"/>
+
+逐项确认完毕后，在检查结果页面点击通过
+
+<img src="/assets/BomSbi9Ico3y5uxXrSsc8vPJnye.png" src-width="3572" src-height="1662" align="center"/>
+
+<img src="/assets/LjYYbzjHUoZpmvxZ7KUceRBGnxd.png" src-width="3572" src-height="1662" align="center"/>
+
+<img src="/assets/MRmab9eGIoBJMcxGrobcbHtAnVc.png" src-width="3572" src-height="1662" align="center"/>
 
