@@ -15,6 +15,8 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 **基金交易流程**
 
+<img src="/assets/OTlsbbuMgoD9ZNxhQ3Oc4qcInlc.png" src-width="1322" src-height="2244" align="center"/>
+
 **重要时间点参考： **（以下会根据不同基金代理商有所不同）
 
 <table>
