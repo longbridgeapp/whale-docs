@@ -437,6 +437,77 @@ IPO 系統提供多種中籤方式，券商可根據實際情況選擇不同的�
 </tbody>
 </table>
 
+### 港股國配
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>新股認購 &gt; 新股認購 &gt; 港股國配</p>
+</div>
+
+港股國配的主要流程為：創建國配新股 &gt; 客戶認購 &gt; 公佈中籤。
+
+#### 認購列表
+
+此頁面主要展示歷史創建好的港股配售股票
+
+<img src="/assets/V6uZb09J3oEWrMxDN6Cc9sRSnBe.png" src-width="3298" src-height="1018" align="center"/>
+
+點擊『新建』，可創建新的國配新股，這裡僅能選擇，未上市的股票。
+
+<img src="/assets/TweobuibwomTngxqCQ4c1wKGnQc.png" src-width="3304" src-height="1580" align="center"/>
+
+#### 認購信息
+
+創建國配新股後，需要填寫部分信息，並開啟認購。確認後，若已經到了認購開始時間，並符合可見客戶，則可在 APP 內進行申請。
+
+<img src="/assets/Xvkjb1Q1eohWClxVsg9cE7aDnQg.png" src-width="3276" src-height="1804" align="center"/>
+
+#### APP 展示信息
+
+頁面主要用於配置 APP 的展示『文案信息』。系统會有默認的展示文案，無需每次都進行填寫，若需要修改文案，則可以在此頁面進行修改與保存。
+
+<img src="/assets/GfBEbkIcxouilkxjfudcErdqnCg.png" src-width="3260" src-height="1776" align="center"/>
+
+#### 認購記錄
+
+國配訂單認購成功後，頁面會正常展示認購記錄。
+
+到中签階段，可操作中签，操作與普通港股中签一致。詳情見 **1.1.4.2**
+
+<img src="/assets/NSwrb0qw8oleCuxmeZpc46mYnbd.png" src-width="3290" src-height="1154" align="center"/>
+
+#### 文件生成
+
+若國配對接上手，需要提供給上手文件，那麼可在『文件生成』處，導出認購的基本訂單信息、客戶信息。
+
+<img src="/assets/NF0db7QRkoAzmGxzfdpcTShbnnh.png" src-width="2578" src-height="780" align="center"/>
+
+#### 字段說明
+
+<table header_column="1" header_row="1">
+<colgroup>
+<col width="132"/>
+<col width="121"/>
+<col width="375"/>
+</colgroup>
+<thead>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>是否必填</strong></p></th><th><p><strong>填寫說明</strong></p></th></tr>
+</thead>
+<tbody>
+<tr><td><p>是否可認購</p></td><td><p>是</p></td><td><p>默认关闭，开启后代表可认购</p></td></tr>
+<tr><td><p>是否可使用持倉購買力</p></td><td><p>是</p></td><td><p>默認否。<br/>為否：代表只能用可提現金認購<br/>為是：代表可以用現金 + 持倉抵押的購買力認購</p></td></tr>
+<tr><td><p>凍結比例（%）</p></td><td><p>是</p></td><td><p>此值代表申購時按照申購金額價凍結現金的比例</p></td></tr>
+<tr><td><p>渠道</p></td><td><p>是</p></td><td><p>國配認購的渠道只能選擇支持國配的渠道</p></td></tr>
+<tr><td><p>費率</p></td><td><p>是</p></td><td><blockquote>
+<p>代表客戶選擇此方式認購時，所匹配的費率套餐<br/>所選費率只能為<a href="https://longbridge.feishu.cn/wiki/NCxvwUuDfiJJ66kgmcrcCUVunYg">費率管理</a>預設好的費率</p>
+</blockquote></td></tr>
+<tr><td><p>認購開始時間</p></td><td><p>是</p></td><td><p>開始認購的時間</p></td></tr>
+<tr><td><p>結束時間</p></td><td><p>是</p></td><td><p>截止認購的時間</p></td></tr>
+<tr><td><p>可見客戶群體</p></td><td><p>是</p></td><td><p>系統默認對全部客戶開放，若券商有『Whale - 運營系統』，才會有用戶分群功能<br/>不在對應分群內的客戶，則在 IPO 申購時，看不到此認購方式</p></td></tr>
+<tr><td><p>可認購數量</p></td><td><p>是</p></td><td><p>可認購的上限、下限數量範圍</p></td></tr>
+</tbody>
+</table>
+
 ### 融資池審批
 
 <div class="callout callout-bg-6 callout-border-6">
@@ -576,7 +647,7 @@ IPO 系統提供多種中籤方式，券商可根據實際情況選擇不同的�
 
 **步驟三：下載模板，並填寫信息**
 
-模板信息如下圖。
+普通認購模板信息如下圖。
 
 <img src="/assets/W88tbnVdoomvlsxgr2rcX0aznxU.png" src-width="1232" src-height="96" align="center"/>
 
@@ -588,6 +659,16 @@ IPO 系統提供多種中籤方式，券商可根據實際情況選擇不同的�
     - 若為現金認購，則填 0。
     - 若為融資認購，則填寫融資池的比例即可，融資比例 + 渠道需要與認購信息配置的融資池匹配。
     - 若為 0 本金認購，則填 100。
+
+---
+
+港股國配認購模板信息如下圖。
+
+<img src="/assets/YNz2bBUMaoUKyfxWtgzcYnDmnNf.png" src-width="546" src-height="100"/>
+
+- Account No：代表認購的證券賬號。
+- Subscription Qty：代表認購的數量，這個必須與實際可認購數量相符合。
+- Channel：代表申購的渠道。這個必須為該股票認購信息配置時，配置的渠道。
 
 **步驟四：上傳批量認購文件**
 
