@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 // @ts-ignore
 import { siteMetadata } from "./site-meta";
 import siderbarConfig from "./../scripts/siderbar";
-
+import alias from "@rollup/plugin-alias";
 const editLinkPattern =
   "https://github.com/longbridgeapp/whale-docs/edit/main/locales/:path";
 
@@ -24,6 +24,13 @@ export default defineConfig({
       // Disable inline image, avoid image URL to base64
       assetsInlineLimit: 0,
     },
+    plugins: [
+      alias({
+        entries: [
+          { find: "/assets", replacement: "../../assets" },
+        ],
+      }),
+    ],
   },
   head: [
     [

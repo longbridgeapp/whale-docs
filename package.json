@@ -19,6 +19,7 @@
     "vitepress": "^1.0.0-rc.40"
   },
   "devDependencies": {
+    "@rollup/plugin-alias": "^5.1.0",
     "prettier": "^3.0.3"
   }
 }
