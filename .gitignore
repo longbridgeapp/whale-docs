@@ -5,3 +5,5 @@ locales/assets/
 .vitepress/cache/
 .vitepress/dist/
 feishu-pages/docs-zh-cn.json
+feishu-pages/.cache
+feishu-pages/docs*
