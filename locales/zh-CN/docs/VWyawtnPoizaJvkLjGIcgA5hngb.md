@@ -1112,3 +1112,143 @@ sidebar_position: 2
 
 Haircut 修改记录列表页面
 
+### 速动资金短欠
+
+#### 业务说明
+
+主要通过模拟 SFC 的要求，进行速动资金的压力测试，从而得出 Top 10 股票集中度是否符合监管要求。
+
+#### 名词解释
+
+<table>
+<colgroup>
+<col width="155"/>
+<col width="109"/>
+<col width="302"/>
+<col width="366"/>
+</colgroup>
+<tbody>
+<tr><td><p><strong>繁体名词</strong></p></td><td><p><strong>英文名词</strong></p></td><td><p><strong>说明</strong></p></td><td><p><strong>计算规则</strong></p></td></tr>
+<tr><td><p>速动资金</p></td><td><p>LC</p></td><td><p>速动资金是持牌法团根据该规则需维持的其中一种财政资源，为持牌法团的速动资产超出认可负债之数</p></td><td></td></tr>
+<tr><td><p>规定速冻资金</p></td><td><p>RLC</p></td><td><p>规定速动资金是持牌法团必须备有的，以便遵守该规则所指的财政资源规定的最低速动资金数额</p></td><td></td></tr>
+<tr><td><p>速冻资金盈余</p></td><td><p>ELC</p></td><td><p>LC-RLC</p></td><td><p>LC-RLC</p></td></tr>
+<tr><td><p>持仓市值</p></td><td><p>Market Value</p></td><td><p>抵押物 market value 等值 HKD</p></td><td><p>market value*港币汇率</p></td></tr>
+<tr><td><p>FRR ratio</p></td><td><p>FRR ratio</p></td><td><p>作为担保或抵押品的的百分比</p></td><td><p>= 1-haircut，<br/>根据 571N 准则，一般来讲人工导入；<br/><strong>空头持仓，选择权持仓，FRR ratio 依 0 计算</strong></p></td></tr>
+<tr><td><p>Liquid Asset</p></td><td><p>速动资产</p></td><td><p>持牌法团的速动资产是其在计算速动资金时需包含在内的资产金额。该等资产的价值需进行调整，以反映一些例如其非速动性质及信用风险等因素</p></td><td><p>FRR ratio*客户持仓市值等值 HKD</p></td></tr>
+<tr><td><p>客户欠款</p></td><td><p>Loan Amount</p></td><td><p>同一客户融资欠款的等值本币</p></td><td><p>取分币种客户余额，全部转换为本位币，在做汇总，取汇总后金额&lt;0 的数据，再取绝对值<br/>例如帐面余额 -200，那么客户欠款 200，帐面余额为 100，那么客户欠款为 0</p></td></tr>
+<tr><td><p>速动资金短欠</p></td><td><p>Shortfall</p></td><td><p>客户负债，且负债超出认可资产净值的那部分金额</p></td><td><p>max (abs(Loan Amount)-Liquid Asset), 0) </p></td></tr>
+<tr><td><p>30% 跌幅下速动资金短欠</p></td><td><p>Shortfall 30%</p></td><td><p>抵押物市值下降 30%，客户负债，且负债超出认可资产净值的那部分数据</p></td><td><p>max [Loan Amount -min(abs(Loan Amount),Liquid Asset*70%), 0]</p></td></tr>
+<tr><td><p>50% 跌幅下速动资金短欠</p></td><td><p>Shortfall 50%</p></td><td><p>抵押物市值下降 50%，客户负债，且负债超出认可资产净值的那部分数据</p></td><td><p>max [Loan Amount -min(abs(Loan Amount),Liquid Asset*50%), 0]</p></td></tr>
+<tr><td><p>TOP10</p></td><td><p>TOP10</p></td><td><p>股票不可抵押后对 shortfall 影响最大的 10 个股票</p></td><td></td></tr>
+</tbody>
+</table>
+
+#### 速动资金短欠
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>风控管理 &gt; 压力测试 &gt; 速动资金短欠 &gt; 速动资金短欠</p>
+</div>
+
+1. 列表展示历史创建的计算任务
+
+<img src="/assets/LJkxbuSovolFdAxtxZRcnh4AnT9.png" src-width="3328" src-height="1256" align="center"/>
+
+1. 点击『新建』，会创建一条新的计算任务，同时需要人工填写速动资金数据
+
+<img src="/assets/HjasbIxmyo0BTbx1YUHcOefRnkf.png" src-width="3296" src-height="1682" align="center"/>
+
+1. 创建完成后，可点击『详情』，查看本次计算任务
+
+<img src="/assets/ODFdbYUGJoaOyixyrbWcMX4InVc.png" src-width="3290" src-height="1020" align="center"/>
+
+#### 客户 shortfall 明细
+
+1. 计算任务约 1-5 分钟完成，完成后可查看本次计算结果，首先会展示客户的 shortfall 明细
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>❗</div>
+<p>此页面仅会统计欠款客户，以及模拟客户持有的抵押物下跌 30% 及 50% 后的 shortfall 结果</p>
+</div>
+
+<img src="/assets/CbfBb2WxPoDr9XxAorrcHz3Enzd.png" src-width="3264" src-height="1762" align="center"/>
+
+1. 点击详情可查看客户的持仓明细以及持仓中认可的资产值
+
+<img src="/assets/MS4YbWrAyo97D5xXhjUcfJqMnuh.png" src-width="3286" src-height="1818" align="center"/>
+
+#### Top 10 股票
+
+1. **第一部分:LC 数据。**
+
+首先系统会根据财务所填写的 LC，RLC 资料得到 ELC 相关数据（速动资金英盈余）
+
+<img src="/assets/UwUhbeVvZotqpFxC5Hrc2qlanTf.png" src-width="3286" src-height="1782" align="center"/>
+
+1. **第二部分：速动资金短欠**
+
+此处数据模拟抵押物跌幅为 x 时的 shortfall 结果，同时会对比是否还有 buffer（缓冲额）
+
+buffer（缓冲额）= 50% 速动资金盈余 - 速动资金短欠（shortfall）
+
+<img src="/assets/YD6NbbBOWouX63xb8IzcpMoRnif.png" src-width="3306" src-height="1800" align="center"/>
+
+<b>股票跌幅 x 为一个变量，需要根据保证金指引规则得到，明细如下：</b>
+
+依股票类别分别统计持股市值，比计算分类占比；根据抵押证券的组合成分，采用适当的假设性压力测试：可以每日所有市场闭市后计算 一次
+
+(a) 以市值计算，若等级 1 的抵押品占比超过 75%，则平均价格跌幅为参数 a 的值
+
+(b) 以市值计算，若等级 1 和等级 2 的抵押品总占比超过 75%，则平均价格跌幅为参数 b 的值
+
+(c) 以市值计算，如果等级 1 和等级 2 的抵押品总占比在 25% 到 75% 之间，则平均价格跌幅为参数 c 的值
+
+(d) 以市值计算，如果等级 1 和等级 2 的抵押品总占比在 25% 以下，则平均价格跌幅为参数 d 的值
+
+|   |   |
+|---|---|
+|**参数**|**数值**|
+|a drop|15%|
+|b drop|25%|
+|c drop|30%|
+|d drop|50%|
+
+1. **第三部分 : 速动资金短欠**
+
+该部分数据会逐个模拟所有抵押物不可抵押后，对 shortfall 的影响，并根据 shortfall 影响最大的 10 只个股进行排序。
+
+<img src="/assets/DdRSbH9XGoxAcbxSmJdcai6Bnrb.png" src-width="3288" src-height="1800" align="center"/>
+
+<table>
+<colgroup>
+<col width="142"/>
+<col width="177"/>
+<col width="508"/>
+</colgroup>
+<tbody>
+<tr><td><p><strong>名词中文</strong></p></td><td><p><strong>名词英文</strong></p></td><td><p><strong>规则</strong></p></td></tr>
+<tr><td><p>股票代码</p></td><td><p>Stock Code</p></td><td></td></tr>
+<tr><td><p>股票级别</p></td><td><p>Stock Level</p></td><td><p>股票级别，使用股票指数管理的级别数据<br/><a href="https://console.lbkrs.com/next/risk/index_management/stock_index">https://console.lbkrs.com/next/risk/index_management/stock_index</a></p></td></tr>
+<tr><td><p>持仓市值</p></td><td><p>Market Value    </p></td><td><p>所有欠款客户该股票的合计持股市值</p></td></tr>
+<tr><td><p>速动资金短欠</p></td><td><p>Shortfall</p></td><td><p>按照该股票或关联股票</p></td></tr>
+<tr><td><p>ELC 影响基准 (%)</p></td><td><p>maximum ELC Ratio</p></td><td><p>根据股票等级来：</p>
+<ul>
+<li>Tier 1: 50%</li>
+<li>Tier 2: 30%</li>
+<li>Other: 50%</li>
+</ul></td></tr>
+<tr><td><p>ELC 下跌百分比（%）</p></td><td><p>Shortfall/ELC（%）</p></td><td><p>对应股票的 Shortfall / ELC（人工填写的）</p></td></tr>
+<tr><td><p>集中度 (%)</p></td><td><p>Concentr Action（%）</p></td><td><p>ELC 下跌百分比（%）/ELC 影响基准 (%)</p></td></tr>
+<tr><td><p>结果</p></td><td><p>Result</p></td><td><ul>
+<li>Concentr Action=&lt;100%  &gt;&gt; Pass</li>
+<li>Concentr Action&gt;100%  &gt;&gt; Reject</li>
+</ul></td></tr>
+</tbody>
+</table>
+
+#### 持仓明细
+
+统计所有欠款客户持仓明细，作为计算 shortfall 的数据源
+
+<img src="/assets/K7lGbDdUBoHNv6xgqxocvAlwnag.png" src-width="3300" src-height="1226" align="center"/>
+
