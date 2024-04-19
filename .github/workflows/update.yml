@@ -44,6 +44,8 @@ jobs:
           git checkout -b $BRANCH_NAME
           git status
           git add locales/
+          git add feishu-pages/docs.json
+          git add feishu-pages/docs-zh-cn.json
           git commit -m "Commit feishu updated pages to repo"
           git push origin $BRANCH_NAME
 
