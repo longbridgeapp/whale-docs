@@ -7,15 +7,15 @@ sidebar_position: 2
 
 # 系統介紹
 
-# 一、系統介紹
+## 一、系統介紹
 
 清算系统主要通过日终任务串联功能。日終任務分成兩個模塊，一個是市場清算，一個是日終管理。市場清算處理交易數據為主，用於各市場的計費、交收流程。日終清算處理涵蓋交易、調帳、公司行動在內的全部數據，進行利息計算，最終輸出報表和結單
 
-# 二、系統設定
+## 二、系統設定
 
-## 市場管理配置
+### 市場管理配置
 
-### **服務商資料管理**
+#### **服務商資料管理**
 
 主要用於維護服務商的基礎信息。可新增、編輯，刪除
 
@@ -23,7 +23,7 @@ sidebar_position: 2
 
 <img src="/assets/OlHCbC5dmoF8iMxWPMQcf86qnwg.png" src-width="3548" src-height="1806" align="center"/>
 
-### **子倉資料**
+#### **子倉資料**
 
 主要用於維護託管商子倉的基礎信息。可新增、編輯、刪除
 
@@ -33,13 +33,13 @@ sidebar_position: 2
 
 <img src="/assets/Xu5IbVllGo8T9zx64JrciOUhnCf.png" src-width="3548" src-height="1806" align="center"/>
 
-### **結算渠道資料**
+#### **結算渠道資料**
 
 主要用於維護結算渠道基礎信息，可新增、編輯、刪除。新增、編輯時可選擇的服務商必須事先在服務商資料中配置，且服務商類型爲代理商。配置交收、倉位規則時需要用到該配置項
 
 <img src="/assets/R4yxbJdE8oIHHvxzX6Vcx37Tnsg.png" src-width="3548" src-height="1806" align="center"/>
 
-### **交收倉位規則管理**
+#### **交收倉位規則管理**
 
 **市場层规则**
 
@@ -57,17 +57,19 @@ sidebar_position: 2
 
 <img src="/assets/IZCjbBSiOoCmwaxdG0GcMSIhnwh.png" src-width="3548" src-height="1806" align="center"/>
 
-## 日終任務配置
+### 日終任務配置
 
-路径：清算管理&gt;市場清算&gt;日終任務&gt;日終任務配置
+路径：清算管理&gt;市場清算&gt;日終任務&gt;日終設置
 
-<img src="/assets/OhZQbA40KoFvGNxcbz8c2A5JnSF.png" src-width="2522" src-height="1207" align="center"/>
+<img src="/assets/GA3hb6ICYoiMPdxyDfzcogw0nJg.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/A73KbZ4SMoafvlxvz35cWPI3nHe.png" src-width="2462" src-height="502" align="center"/>
+**市場交收配置**
 
 點擊新建新增分組
 
 根據劵商交易市場帳務處理順序，配置市場執行的群組配置
+
+<img src="/assets/Sf2ObkeXUouFpIxcoELcABi2nsh.png" src-width="3574" src-height="1774" align="center"/>
 
 <img src="/assets/TP1ybFelmoRXmWx8G0kcMfIVnJo.png" src-width="2440" src-height="934" align="center"/>
 
@@ -75,9 +77,21 @@ sidebar_position: 2
 
 <img src="/assets/Bv9DbAUeOoPJC3xZxDwcf2l9nTb.png" src-width="2436" src-height="888" align="center"/>
 
-## 計費配置
+**清算前準備配置**
 
-### 收費場景
+**清算参数配置**
+
+可编辑时间段：操作日终任务之前
+
+编辑清算初始化配置时需要审批，工单标识：clearing.update_system_config.exec
+
+注意：需要聯繫技術人員後修改
+
+<img src="/assets/Nai0bUEJVoAqXKxW1QwcN5cCnih.png" src-width="3574" src-height="1774" align="center"/>
+
+### 計費配置
+
+#### 收費場景
 
 可在收費場景配置配置各個證券市場、融資、融券的基礎收費場景，爲套餐創建做準備。場景爲業務類型 + 收費類型的組合
 
@@ -99,7 +113,7 @@ sidebar_position: 2
 
 <img src="/assets/MhgcbTcFaolc12xafw8crlbUn6y.png" src-width="3548" src-height="1806" align="center"/>
 
-### 客戶組管理
+#### 客戶組管理
 
 在客戶組計費配置可維護客戶組。支持增、刪、改。全局客戶組（默認客戶組）不支持刪除
 
@@ -123,9 +137,9 @@ sidebar_position: 2
 
 不超過交易金額比例：收費的金額不大於交易金額*設置值/100。業務類型爲股票交易、期權交易的纔可選擇設置。
 
-## 结单配置
+### 结单配置
 
-### 結單模版設置
+#### 結單模版設置
 
 路径：清算管理&gt; 日終管理&gt;結單管理&gt;結單模板 
 
@@ -143,7 +157,7 @@ sidebar_position: 2
 
 <img src="/assets/PRTcbNWcJofdyTxliqBcz0Cjnic.png" src-width="2476" src-height="1420" align="center"/>
 
-### 結單配置
+#### 結單配置
 
 本作業用來配置管理：客戶結單是否線下發送/是否接受郵件和 APP 通知/未配置的按線下發送為否/提醒全部開啟處理 等配置項
 
@@ -161,7 +175,7 @@ sidebar_position: 2
 
 <img src="/assets/BC5DboP39oaRsWxSUMQc3E3Pn6d.png" src-width="3364" src-height="1410" align="center"/>
 
-### 客戶備註
+#### 客戶備註
 
 路径：清算管理&gt; 日終管理&gt;結單管理&gt;客戶備註
 
@@ -187,7 +201,7 @@ sidebar_position: 2
 
 <img src="/assets/XkDibU6pooVfjMxUf0Wc3Zb9nCg.png" src-width="3358" src-height="1240" align="center"/>
 
-### DA 結單配置
+#### DA 結單配置
 
 路径：清算管理&gt; 日終管理&gt;結單管理&gt;DA 結單配置
 
@@ -197,9 +211,9 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/YLlMbWxzqojCKjx5hxucHqJznnh.png" src-width="3346" src-height="1456" align="center"/>
 
-# 三、市場清算（交易清算）操作說明
+## 三、市場清算（交易清算）操作說明
 
-## 對手方文件轉入（Broker Trade）
+### 對手方文件轉入（Broker Trade）
 
 路径：清算管理&gt;文件處理&gt;文件導入 
 
@@ -217,7 +231,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/JQnUbsLgmoo5EmxADRwcD7DZnvg.png" src-width="2910" src-height="1548" align="center"/>
 
-## 清算前準備
+### 清算前準備
 
 該功能的目的是檢查執行日終任務前是否完成了相關配置和当天業務操作。市場清算和日終清算有不同的檢查項目
 
@@ -295,7 +309,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 </tbody>
 </table>
 
-## 市場清算**一鍵清算**
+### 市場清算**一鍵清算**
 
 當清算前準備執行完畢後，就可以點選有上方【開始一鍵清算】功能鍵，系統會自動從第一步開始執行，一直到清算交收作業（當沒有錯誤發生時，系統會自動續執行下個作業）
 
@@ -317,11 +331,11 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/PZbibMo0yozKWYx4DX1cNbC4nqg.png" src-width="2922" src-height="1556" align="center"/>
 
-### 數據同步（Client Trade）
+#### 數據同步（Client Trade）
 
 點擊執行後會同步系統數據（交易、日切點前的出入金、交易、開戶等數據）
 
-### 清算前檢查（Trade Match）
+#### 清算前檢查（Trade Match）
 
 在日終流程中點擊清算前檢查步驟會：自動觸發當日的交易對帳
 
@@ -353,13 +367,13 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/NoJ5bSM4vomhhax2lhUcieEMnae.png" src-width="2920" src-height="1552" align="center"/>
 
-### 清算計費
+#### 清算計費
 
 在清算計費步驟會生成前台合約，狀態為待計費
 
 該步驟暫停執行的，可以編輯前台訂單的收費
 
-### 清算入帳
+#### 清算入帳
 
 執行完畢後：
 
@@ -367,13 +381,13 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 注意 2：清算撤銷（資產處理選擇不處理的）後，此步驟已經完成的，清算計費和清算入帳為空跑，按原資料處理
 
-### 清算交收
+#### 清算交收
 
 執行後：
 
-# 四、日終清算（非交易清算）操作說明
+## 四、日終清算（非交易清算）操作說明
 
-## 清算前準備
+### 清算前準備
 
 在正式執行日終清算前，需要先執行清算前準備
 
@@ -381,7 +395,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/P69dbSKKvodCRhx3XzDc9UJPnaf.png" src-width="2434" src-height="1418" align="center"/>
 
-## 日終清算一鍵清算
+### 日終清算一鍵清算
 
 當清算前準備執行完畢後，就可以點選有上方【開始一鍵清算】功能鍵
 
@@ -391,7 +405,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/Hi7Lbn8ufoHjJAxccc6cPRV7nTc.png" src-width="2912" src-height="1522" align="center"/>
 
-### 數據匯總
+#### 數據匯總
 
 此操作前需要完成流水日期調整，證券組合費/融資利息的提前歸本、金額調整
 
@@ -399,7 +413,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 數據匯總後操作流水日期調整、收盤價，需要重新點擊數據匯總
 
-### 清算中檢查
+#### 清算中檢查
 
 內部流水對帳、業務操作檢查等（不斷擴充中）
 
@@ -409,11 +423,11 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/JH5ybYIFqo3GxzxN5oUc1GDwnic.png" src-width="2846" src-height="1418" align="center"/>
 
-### 資金清算
+#### 資金清算
 
 執行融資利息計算、證券組合費、融券計算等任務
 
-### 清算後檢查
+#### 清算後檢查
 
 內部流水對帳、業務操作檢查等
 
@@ -421,7 +435,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 清算中檢查手動通過的操作方式類似交易對帳
 
-### 結單生成
+#### 結單生成
 
 <img src="/assets/DMYWbK1ZmoSxlKxpimicH0EGnOe.png" src-width="3364" src-height="1452" align="center"/>
 
@@ -437,25 +451,25 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/NVv4bf0bvoH4Fmxwr4dcPg2fnsg.png" src-width="3362" src-height="1368" align="center"/>
 
-### 日切
+#### 日切
 
 執行完日切流程后，當前系統帳務日会切换到下一日。进行了融資利息等的結算操作，触发了經紀人分成計算的任务
 
-# 五、交收指令導出
+## 五、交收指令導出
 
-路径：清算管理  &gt; 市場清算  &gt;文件導出
+T+2 日的早上可導出 ATI 交收指令，上傳到 CCASS
 
-系統最早可在交易日的清算交收步驟後就可導出 T+N 的文件。在文件導出可下載 ATI 檔
+路径：清算管理 - 日终任务 - 交收指令导出
 
-買賣方向為空的，導出的為全部檔
+支持导出未来日期的文件
 
-買賣方向為 1 的，導出的是買入交易的記錄
+支持導出 HK、SZ、SH 多市場
 
-買賣方向為 2 的，導出的是賣出交易的檔
+<img src="/assets/I9Wgb8c5doirwUxzZ9Xc9yN8nle.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/Vv0WbJq8ZoRN3ExHtSZcKm4JnEg.png" src-width="2924" src-height="1560" align="center"/>
+<img src="/assets/AjoWbZWNho9sDdxQlsGcrWDGnKg.png" src-width="3574" src-height="1774" align="center"/>
 
-# 六、持倉對帳
+## 六、持倉對帳
 
 在文件導入界面可導入持倉文件，部分文件可直接系統觸發對帳處理
 
@@ -471,13 +485,13 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 <img src="/assets/XulibqZa0oMH4Hx5B96cB4PAnX3.png" src-width="2914" src-height="1526" align="center"/>
 
-# 七、非交易流水編輯日期
+## 七、非交易流水編輯日期
 
 本作業主要是市場清算後，若想要改變原本日終所計算的流水入帳日期，也就是進行資金/持倉的流水日期調整，新機制下通過修改前台帳戶日期實現
 
 路径：清算管理  &gt; 市場清算  &gt; 流水管理
 
-## 單筆流水日期編輯
+### 單筆流水日期編輯
 
 資金和持倉流水需要在不同頁面 Tab 上操作，找到流水紀錄點擊編輯
 
@@ -493,7 +507,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 在日終任務中重新點擊數據匯總
 
-## 批量流水日期編輯
+### 批量流水日期編輯
 
 先選中流水紀錄，然後點擊批量編輯帳務日期
 
@@ -501,19 +515,19 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 在日終任務中重新點擊數據匯總
 
-## 通過業務碼批量編輯日期
+### 通過業務碼批量編輯日期
 
 注意：批量調整日期的，需要事先確認該業務碼是否支持編輯，邊界後需要在頁面觀察最終結果
 
 <img src="/assets/Fsosb77I6onLl1xp9NmcJ44CnBe.png" src-width="3356" src-height="1344" align="center"/>
 
-## 更新數據
+### 更新數據
 
 流水同步為準實時。提交後，可刷新當前賬務日期的全部數據。
 
 <img src="/assets/Ba0bbLaHpoKMBcx6Ms5cc1T9nVb.png" src-width="3578" src-height="1798" align="center"/>
 
-# 八、後台客戶**合約補單和券商快捷補單**
+## 八、後台客戶**合約補單和券商快捷補單**
 
 提供新增客戶補單與劵商快捷補單的合約記錄功能，這個補單就是業務上所謂的 Client trade 與 Broker trade 補單
 
@@ -523,7 +537,7 @@ DA 帳戶開戶後會默認配置為按 3 月/6 月/9 月/12 月這四個月生�
 
 上手合約（代理商合約）需要在清算前檢查步驟前操作
 
-## 後台客戶合約補單
+### 後台客戶合約補單
 
 點擊新增客戶補單
 
@@ -565,7 +579,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/XnMzb87Uxof2FWxUlRwc6Wkfn1b.png" src-width="2900" src-height="1550" align="center"/>
 
-## **券商快捷補單**
+### **券商快捷補單**
 
 在完成所有客戶合約補單後，可以透過右上【劵商快捷補單】操作劵商補單
 
@@ -597,7 +611,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/D62fbJXLnoepe5xzdwTc2AxhnKg.png" src-width="2904" src-height="1542" align="center"/>
 
-# 九、**查詢和編輯前台合約**
+## 九、**查詢和編輯前台合約**
 
 在操作清算計費步驟後，系統會基於前台交易訂單、計費管理配置生成客戶合約
 
@@ -617,7 +631,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/AkfOblq8XodksmxzDrfcyrqGnJc.png" src-width="2486" src-height="1544" align="center"/>
 
-## 結算幣種編輯
+### 結算幣種編輯
 
 在基礎信息點擊編輯
 
@@ -631,19 +645,19 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/OHkQbgZEuoTUBTxOIkwcs1qxnef.png" src-width="2512" src-height="1558" align="center"/>
 
-## 成交紀錄查詢
+### 成交紀錄查詢
 
 點擊成交記錄可展示成交記錄
 
 <img src="/assets/VbLEbqRbZohpZZxzS5xcbRX9nSc.png" src-width="2480" src-height="1542" align="center"/>
 
-## IBOND 累計利息編輯
+### IBOND 累計利息編輯
 
 在成交記錄中，可以點擊編輯，修改累計利息
 
 <img src="/assets/F6mGbL86ZoVwK6xzQfPc2DJWn1b.png" src-width="2500" src-height="1556" align="center"/>
 
-## 费用查詢和編輯
+### 费用查詢和編輯
 
 點擊費用信息可展示收費明細
 
@@ -665,7 +679,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/U6FwbiEz7ocZUBxsYbzcJhgZn7b.png" src-width="2916" src-height="1538" align="center"/>
 
-## 倉位信息查詢和編輯
+### 倉位信息查詢和編輯
 
 點擊倉位信息可查詢倉位數據
 
@@ -675,7 +689,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/OE8ybBYSmoULvZxCd0kcTWLSnHl.png" src-width="2914" src-height="1544" align="center"/>
 
-# 十、提前交收
+## 十、提前交收
 
 若在 T+2（N）時有提早交收的入帳操作，方便客戶可以提早操作資金相關處理
 
@@ -689,11 +703,11 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/WMvIbJmkyoc8UaxskGWcVbAOnth.png" src-width="2516" src-height="740" align="center"/>
 
-# 十一、倉位調整
+## 十一、倉位調整
 
 路径：清算管理&gt; 日終管理&gt;倉位管理&gt;倉位查詢
 
-## 子倉位置调整
+### 子倉位置调整
 
 查詢出對應的客戶記錄後，在右側記錄區點擊【**編輯倉位**】
 
@@ -707,7 +721,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/F7ENbsM3XoGzdOxlqvjcMlOKnBd.png" src-width="2892" src-height="1022" align="center"/>
 
-## 内部轉倉
+### 内部轉倉
 
 查詢出對應的客戶記錄後，在右側記錄區點擊【**內部轉倉**】
 
@@ -717,7 +731,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/AJbFbAtMOobGysxC6ZbcPmQgnGg.png" src-width="2922" src-height="1236" align="center"/>
 
-## 批量調整
+### 批量調整
 
 可以根據事先下載模板，進行批量調倉
 
@@ -725,9 +739,9 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/S9e0bjFIRodLIBxwDujcB9y5nng.png" src-width="2926" src-height="1556" align="center"/>
 
-# 十二、融資利息調整
+## 十二、融資利息調整
 
-## 融資利息查詢
+### 融資利息查詢
 
 可在融資利息賬單頁面查詢每個客戶的融資利息收費詳情
 
@@ -739,7 +753,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/MDT5bXQoDoi5BUxSIGZc7Efrnwb.png" src-width="2898" src-height="1522" align="center"/>
 
-## 融資利息調整
+### 融資利息調整
 
 點擊調整可調整融資利息
 
@@ -765,13 +779,13 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/XsVxbnCE6oiYFNxD65tcxrT5noc.png" src-width="2912" src-height="1550" align="center"/>
 
-## 批量調整
+### 批量調整
 
 可按照發生額調整進行批量處理
 
 <img src="/assets/BRn7b5Qc6o4kOzxNTLucPioHnBb.png" src-width="3578" src-height="1798" align="center"/>
 
-## 提前結算
+### 提前結算
 
 注意：日切期間（第次擊數據匯總後 - 日終流暢點完日切）不能操作提前結算
 
@@ -779,7 +793,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/OE5BbyWPfoeiOGxzmVHcICF2nIf.png" src-width="2900" src-height="1546" align="center"/>
 
-# 十三、收盤價临时编辑
+## 十三、收盤價临时编辑
 
 有持倉的股票會展示在收盤價管理頁面
 
@@ -799,7 +813,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 如果是清算前準備報錯的，可先執行清算交收，然後重新執行清算前準備
 
-# 十四、清算撤銷
+## 十四、清算撤銷
 
 選擇需要撤銷的日期，點擊清算撤銷，根據實際需要，選擇撤銷項目，並提交
 
@@ -836,13 +850,13 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 </tbody>
 </table>
 
-# 十五、颱風天處理
+## 十五、颱風天處理
 
 颱風天 8 號風球處理
 
 路径：清算管理 &gt; 市場管理 - 颱風天處理
 
-## 颱風天全日市
+### 颱風天全日市
 
 場景：9 月 2 日為颱風天，港股交收整體延後
 
@@ -856,5 +870,5 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 <img src="/assets/CpoobZLiioXDRTxJv8qcx223nnb.png" src-width="3368" src-height="1172" align="center"/>
 
-## 颱風天半日市
+### 颱風天半日市
 
