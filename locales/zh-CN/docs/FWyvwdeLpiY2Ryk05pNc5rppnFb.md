@@ -252,15 +252,15 @@ sidebar_position: 1
 
 T+2 日的早上可导出 ATI 交收指令，上传到 CCASS
 
-路径：清算管理  &gt; 市场清算  &gt;文件导出
+路径：清算管理 - 日终任务 - 交收指令导出
 
-买卖方向为空的，导出的为全部档
+支持导出未来日期的文件
 
-买卖方向为 1 的，导出的是买入交易的记录
+支持导出 HK、SZ、SH 多市场
 
-买卖方向为 2 的，导出的是卖出交易的档
+<img src="/assets/ZDg6bY3GeoWGc2xH4RYcQNXInFh.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/ERpJbbG4coaKB0x7Pavcp0n4ndf.png" src-width="2924" src-height="1560" align="center"/>
+<img src="/assets/VxwybTsHIoRmYPxDEyZcitSunNf.png" src-width="3574" src-height="1774" align="center"/>
 
 ### 持仓对帐
 
