@@ -73,9 +73,9 @@ IP（利息支付）
 
 <table>
 <colgroup>
-<col width="124"/>
-<col width="132"/>
-<col width="355"/>
+<col width="258"/>
+<col width="138"/>
+<col width="324"/>
 </colgroup>
 <tbody>
 <tr><td><p>参数名</p></td><td><p>参数初始值</p></td><td><p>适用范围</p></td></tr>
@@ -475,4 +475,22 @@ BE 类各方案的数量之和必须等于可行权数量（持仓数量）
 <img src="/assets/LyItbZv5FoNJKHx6vYHc9hYgnOf.png" src-width="3548" src-height="1806" align="center"/>
 
 <img src="/assets/AN7Kbrg5Mox1m1xQBlyc1KDVn8d.png" src-width="3548" src-height="1806" align="center"/>
+
+## 公司行动邮件消息模板
+
+<table>
+<colgroup>
+<col width="100"/>
+<col width="414"/>
+</colgroup>
+<tbody>
+<tr><td><p>公司行动类型</p></td><td><p>模板</p></td></tr>
+<tr><td><p>供股类</p></td><td><img src="/assets/PjFkbrQH9oOPLGxZb90cVs33nLb.png" src-width="856" src-height="190" align="center"/></td></tr>
+<tr><td><p>要约类</p></td><td><img src="/assets/AsE2bzS7KokWq8xwXXgcSY16nmb.png" src-width="828" src-height="182" align="center"/></td></tr>
+<tr><td><p>拆合股、换股</p></td><td><img src="/assets/VXIKbF63hox7wTxMK55cRFcWn2d.png" src-width="1242" src-height="232" align="center"/></td></tr>
+<tr><td><p>ADR 执行</p></td><td><img src="/assets/NcBYbOwUDoe0cyxqkKxcDeIAnBe.png" src-width="1268" src-height="222" align="center"/></td></tr>
+<tr><td><p>红利、红股</p></td><td><img src="/assets/MunrbSleWoqnCoxWhDTcTy2in46.png" src-width="1210" src-height="274" align="center"/></td></tr>
+<tr><td><p>期权公司行动</p></td><td><img src="/assets/YkosbXVRsovl39xdOGOcEIamnBc.png" src-width="1182" src-height="334" align="center"/></td></tr>
+</tbody>
+</table>
 
