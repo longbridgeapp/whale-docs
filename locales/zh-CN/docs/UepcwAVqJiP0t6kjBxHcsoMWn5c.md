@@ -79,8 +79,6 @@ sidebar_position: 2
 
 <img src="/assets/YDUGbklSyo3HMwxHix2cMvepnQd.png" src-width="1274" src-height="1280" align="center"/>
 
-总产总览查询页面
-
 **页面说明**
 
 - 进入页面查看的即当前公司下所有客户的总资产
@@ -105,14 +103,10 @@ sidebar_position: 2
 
 <img src="/assets/A7HibUnVrolrjLxlU51cn7cjnue.png" src-width="2570" src-height="988" align="center"/>
 
-账户查询主页面
-
 1. 账户查询页面会展示「最近浏览」，支持快速点击查看结果
 2. 查询结果：侧边栏展示查询结果，默认展示资产总览页，可切换页面查看客户资料、银行卡信息、计费明细、出入金和砖仓流水。侧边栏信息同快捷查询结果
 
 <img src="/assets/WuXFbXkTXorIRCx8X83cEHknnsh.png" src-width="3304" src-height="1666" align="center"/>
-
-账户查询结果展示
 
 账户快捷查询入口：
 
@@ -122,15 +116,9 @@ sidebar_position: 2
 
 <img src="/assets/Qr77bdFsjousu6xwqzXcnf18ngh.png" src-width="3341" src-height="1720" align="center"/>
 
-修改成本和查看成本快照入口
-
 <img src="/assets/QVwLbBdgvomgTCxPVdFcYZ87n5f.png" src-width="3236" src-height="1652" align="center"/>
 
-成本详情页面
-
 <img src="/assets/WFgCbxW8yoSEvzxADlHcT6Rfnlc.png" src-width="3238" src-height="1570" align="center"/>
-
-修改成本弹窗
 
 **成本价说明**
 
@@ -271,15 +259,12 @@ sidebar_position: 2
 **操作说明**：
 
 1. 手工调账主页面：根据不同调账类型 (现金/股票/基金/债劵/OTC 其他/虚拟资产）分 Tab 页展示，如需调账需要根据调账的资产类型进入对应页面
+    <img src="/assets/PJVkbUzlyoV1T8xQdIncyM6HnFc.png" src-width="3342" src-height="1152" align="center"/>
 
-<img src="/assets/PJVkbUzlyoV1T8xQdIncyM6HnFc.png" src-width="3342" src-height="1152" align="center"/>
-
-手工调账主页面
-
-1. 新建手工调账：点击【新建】，即可打开新增调账页面
+2. 新建手工调账：点击【新建】，即可打开新增调账页面
     <img src="/assets/ZZ3Jb4yRyonh62xW0Gock16gnQg.png" src-width="3220" src-height="958" align="center"/>
 
-2. 填写调账信息：
+3. 填写调账信息：
     1. 业务分类：即业务码，选择调账流水需要添加的业务场景
     2. 公司银行卡&客户银行卡：非必填项，若调账为出入金场景可以根据实际业务情况选择对应银行卡信息，便于数据记录
     3. 调账标记：非必填项，第三方和支票仅根据实际调账场景做标记使用
@@ -307,8 +292,6 @@ sidebar_position: 2
     3. 成本&币种：非必填项，仅在限定成本时填写，否则系统将会默认以调账创建时的行情价格为准
 
 <img src="/assets/KgRSb0Rl0o3QlExWInfctQ2JnIc.png" src-width="3286" src-height="1658" align="center"/>
-
-新建股票调账
 
 1. 根据实际业务需求填写调账信息，如担心出错，可以先【保存】，如有误仍可以选择【修改】或【删除】，确认无误后再【提交】
 
