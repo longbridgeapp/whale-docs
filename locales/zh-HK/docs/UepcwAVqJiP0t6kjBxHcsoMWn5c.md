@@ -79,8 +79,6 @@ sidebar_position: 2
 
 <img src="/assets/YDUGbklSyo3HMwxHix2cMvepnQd.png" src-width="1274" src-height="1280" align="center"/>
 
-總產總覽查詢頁面
-
 **頁面說明**
 
 - 進入頁面查看的即當前公司下所有客戶的總資產
@@ -105,14 +103,10 @@ sidebar_position: 2
 
 <img src="/assets/A7HibUnVrolrjLxlU51cn7cjnue.png" src-width="2570" src-height="988" align="center"/>
 
-賬戶查詢主頁面
-
 1. 賬戶查詢頁面會展示「最近瀏覽」，支持快速點擊查看結果
 2. 查詢結果：側邊欄展示查詢結果，默認展示資產總覽頁，可切換頁面查看客戶資料、銀行卡信息、計費明細、出入金和磚倉流水。側邊欄信息同快捷查詢結果
 
 <img src="/assets/WuXFbXkTXorIRCx8X83cEHknnsh.png" src-width="3304" src-height="1666" align="center"/>
-
-賬戶查詢結果展示
 
 賬戶快捷查詢入口：
 
@@ -122,15 +116,9 @@ sidebar_position: 2
 
 <img src="/assets/Qr77bdFsjousu6xwqzXcnf18ngh.png" src-width="3341" src-height="1720" align="center"/>
 
-修改成本和查看成本快照入口
-
 <img src="/assets/QVwLbBdgvomgTCxPVdFcYZ87n5f.png" src-width="3236" src-height="1652" align="center"/>
 
-成本詳情頁面
-
 <img src="/assets/WFgCbxW8yoSEvzxADlHcT6Rfnlc.png" src-width="3238" src-height="1570" align="center"/>
-
-修改成本彈窗
 
 **成本價說明**
 
@@ -271,15 +259,12 @@ sidebar_position: 2
 **操作說明**：
 
 1. 手工調賬主頁面：根據不同調賬類型 (現金/股票/基金/債劵/OTC 其他/虛擬資產）分 Tab 頁展示，如需調賬需要根據調賬的資產類型進入對應頁面
+    <img src="/assets/PJVkbUzlyoV1T8xQdIncyM6HnFc.png" src-width="3342" src-height="1152" align="center"/>
 
-<img src="/assets/PJVkbUzlyoV1T8xQdIncyM6HnFc.png" src-width="3342" src-height="1152" align="center"/>
-
-手工調賬主頁面
-
-1. 新建手工調賬：點擊【新建】，即可打開新增調賬頁面
+2. 新建手工調賬：點擊【新建】，即可打開新增調賬頁面
     <img src="/assets/ZZ3Jb4yRyonh62xW0Gock16gnQg.png" src-width="3220" src-height="958" align="center"/>
 
-2. 填寫調賬信息：
+3. 填寫調賬信息：
     1. 業務分類：即業務碼，選擇調賬流水需要添加的業務場景
     2. 公司銀行卡&客戶銀行卡：非必填項，若調賬為出入金場景可以根據實際業務情況選擇對應銀行卡信息，便於數據記錄
     3. 調賬標記：非必填項，第三方和支票僅根據實際調賬場景做標記使用
@@ -307,8 +292,6 @@ sidebar_position: 2
     3. 成本&幣種：非必填項，僅在限定成本時填寫，否則系統將會默認以調賬創建時的行情價格為準
 
 <img src="/assets/KgRSb0Rl0o3QlExWInfctQ2JnIc.png" src-width="3286" src-height="1658" align="center"/>
-
-新建股票調賬
 
 1. 根據實際業務需求填寫調賬信息，如擔心出錯，可以先【保存】，如有誤仍可以選擇【修改】或【刪除】，確認無誤後再【提交】
 
