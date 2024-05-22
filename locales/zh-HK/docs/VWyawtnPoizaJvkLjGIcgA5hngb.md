@@ -375,18 +375,17 @@ sidebar_position: 2
 
 1. 點擊列表右上角的【換匯規則】配置借幣提醒規則
 
-<img src="/assets/CWYGb5PVro5XRUxJDIBcwmyxnph.png" src-width="3389" src-height="1286" align="center"/>
+<img src="/assets/QjFtb8q3dohY9qxQ2b9cQqFGnCe.png" src-width="3296" src-height="1076" align="center"/>
 
 1. 規則配置：單幣種規則為非必配項，其他為必配項；規則僅在開啓時運行
     1. 必配項的欠款金額和其他幣種可提金額默認為主幣種，所有幣種轉化為主幣種計算
     2. 單幣種規則和必配項規則只要有其一滿足規則，即會提醒
     3. 單幣種規則可以設置不同幣種規則，支持添加和刪除
+    <img src="/assets/GUJXbCmYGop6dfxrqOdcvao0nHe.png" src-width="3312" src-height="1716" align="center"/>
 
-<img src="/assets/DdqjbOJ3eovrKBxqkkSc9Jsxnf4.png" src-width="3356" src-height="1720" align="center"/>
+2. 規則配置後，選擇開啓並提交工單審核。審核通過後，系統則會運行規則，撈取符合規則的客戶，結果在「提醒查詢」列表展示。此外，交易日均會定期執行規則並給符合規則的客戶發送借幣提醒消息，通知客戶主動換匯。頁面操作【換匯用戶撈取】可刷新列表，過濾不再滿足規則的客戶
 
-1. 規則配置後，選擇開啓並保存規則。系統則會運行規則，撈取符合規則的客戶，結果在「提醒查詢」列表展示。此外，交易日均會定期執行規則並給符合規則的客戶發送借幣提醒消息，通知客戶主動換匯。頁面操作【換匯用戶撈取】可刷新列表，過濾不再滿足規則的客戶
-
-<img src="/assets/Spdybd0dnotrSixrMJbcmYWMnIg.png" src-width="3218" src-height="1070" align="center"/>
+<img src="/assets/HlKsbk6ruot71rxggRjcKx6infe.png" src-width="3286" src-height="970" align="center"/>
 
 1. 同時，開啓規則後，客戶在 App 上可以對應查看【自動還款】功能，可以自主選擇開啓該功能。若客戶打開自動還款，當命中規則時，系統將進行自動換匯或後台操作人工兌換
     1. App 端「自動還款」
@@ -398,7 +397,9 @@ sidebar_position: 2
     <img src="/assets/S4kJbnbZgoQyjAxUlbVcRPUpn69.png" src-width="3274" src-height="1640" align="center"/>
     <img src="/assets/Dxo0bPGLkoBbDRxAOlvcd48unih.png" src-width="3222" src-height="1220" align="center"/>
 
-3. 兌換結果查看：人工/自動兌換完成後，若剩餘資產仍命中規則，則仍會在提醒查詢列表；若不再命中規則則會進入歷史記錄，可在「[歷史記錄](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相關詳情
+3. 兌換結果查看：人工/自動兌換完成後，若剩餘資產仍命中規則，則仍會在提醒查詢列表；若不再命中規則則會進入歷史記錄，可在「[歷史記錄](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相關詳情；若命中換匯審核/換匯失敗，可在【換匯異常】頁面查看異常單（換匯審核中需在「款項管理」-「換匯」-「客戶匯兌」頁面進行人工審核）
+
+<img src="/assets/GS1dbmbnSooY1NxBRzWcakSSnme.png" src-width="3290" src-height="1072" align="center"/>
 
 #### 歷史記錄
 
@@ -591,8 +592,6 @@ sidebar_position: 2
 
 <img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
 
-多頭股票保證金列表頁
-
 1. 可以在【新建】按鈕，新增單個股票保證金比例（注：若該股票已存在，數據會覆蓋，以本次設置為準）
 
 <img src="/assets/ThhabRRdBoGlvBx2siFc2O5vnQ2.png" src-width="3252" src-height="560" align="center"/>
@@ -688,24 +687,43 @@ sidebar_position: 2
 
 ### 客戶保證金
 
+#### 多頭股票
+
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
-<p>風控管理 &gt; 保證金  &gt; 客戶保證金</p>
+<p>風控管理 &gt; 保證金  &gt; 客戶保證金 &gt; 多頭股票</p>
 </div>
 
-**菜單功能介紹**：該菜單可以設置客戶個性化股票保證金比例，在保證金計算時會優先取客戶保證金比例。
+**菜單功能介紹**：該菜單可以設置客戶個性化多頭股票保證金比例，在保證金計算時會優先取客戶保證金比例。
 
-1. 列表展示所有客戶保證金設置
+1. 列表展示所有客戶多頭股票保證金設置
 
-<img src="/assets/S5LjbBEXHoi0OvxSIRVck25GnRW.png" src-width="3256" src-height="846" align="center"/>
+<img src="/assets/TJ0ObmeAho1xstxzB4fcdgNKnPe.png" src-width="3222" src-height="1062" align="center"/>
 
-1. 可以通過【導入保證金數據】來新增客戶保證金；進入彈窗下載模版根據模版填寫後上傳
+1. 新建客戶保證金：點擊頁面的【新建】可以打開創建彈窗頁；客戶和股票選擇均支持選擇單個客戶/股票和客戶組/股票組（客戶組可在「風控管理」-「名單管理」-「客戶組」配置；股票組可在「業務參數設置」-「風控」-「股票組」配置）；頁面配置後提交即可完成創建
+
+<img src="/assets/AlpNbLX9coV5D9xe3rOchCKVnUF.png" src-width="3210" src-height="1068" align="center"/>
+
+<img src="/assets/MuggblAOJoxOmDxvKJccvr6DnEh.png" src-width="3226" src-height="1698" align="center"/>
+
+1. 同時，也可以通過【導入保證金數據】來新增客戶保證金；進入彈窗下載模版根據模版填寫後上傳
 
 <img src="/assets/TjQYbH0kboEjx9xrmu5c16uBnne.png" src-width="3168" src-height="1116" align="center"/>
 
 1. 文件上傳【確認】後，在客戶保證金列表中生成狀態為生效中的記錄；如需修改保證金比例，可以通過操作的【編輯】修改；也可以通過【置為失效】來失效客戶保證金比例設置
 
 <img src="/assets/FIEbbOOvmop6Nixv7kKcGuEvnpc.png" src-width="3244" src-height="1424" align="center"/>
+
+#### 空頭股票
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>風控管理 &gt; 保證金  &gt; 客戶保證金 &gt; 空頭股票</p>
+</div>
+
+客戶空頭股票保證金比例設置邏輯同「[多頭股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的信息為“股票賣空狀態”，該狀態與對應空頭股票的可賣空狀態（查看頁面：「風控管理」-「保證金」-「股票保證金」-「空頭股票保證金」）保持同步。
+
+<img src="/assets/EOwcbvEDSoT3Wxxg6QWcFRVYncd.png" src-width="3230" src-height="1078" align="center"/>
 
 ## 期權
 
@@ -942,6 +960,35 @@ sidebar_position: 2
 1. 若黑名單量較大，可選擇批量上傳，實現批量新增黑名單，填寫說明可參考模板說明提示
 
 <img src="/assets/O6b0bFHnaoOKdhx7bP4cdX4fnZf.png" src-width="2818" src-height="1190" align="center"/>
+
+### 客戶組
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>風控管理 &gt; 名單管理 &gt; 客戶組</p>
+</div>
+
+**菜單功能介紹**：該菜單可支持配置客戶組，可在其他業務場景調用客戶組，當前應用業務有保證金、報表（如需應用其他業務場景，可聯繫客戶反饋）。
+
+1. 新建客戶組：選擇客戶組應用的業務類型，自定義客戶組名稱後提交即可完成創建
+
+<img src="/assets/CkzgbeDMtovoX8xW0m3cnR32nYb.png" src-width="3302" src-height="748" align="center"/>
+
+<img src="/assets/XNlLbxd3yoTN0HxDZfCcjWFznlc.png" src-width="3284" src-height="1164" align="center"/>
+
+1. 添加組內賬戶：客戶組創建後，主列表頁會生成一條客戶組記錄，點擊【詳情】可以進入添加組內賬戶頁面；可在詳情頁面的【新建】或【批量導入】進行單個/批量增加組內賬戶
+
+<img src="/assets/T17BblV4toWv6txuhthcwpZrnEc.png" src-width="3302" src-height="862" align="center"/>
+
+<img src="/assets/DcSmbtDT4oPgNoxQgrrcBgUGnUf.png" src-width="3296" src-height="638" align="center"/>
+
+1. 管理組內賬戶：組內賬戶支持【刪除】
+
+<img src="/assets/M2xibgKd8ohXAIxLC8scemafnjh.png" src-width="3278" src-height="568" align="center"/>
+
+1. 管理客戶組：客戶組支持【編輯】組信息和【刪除】
+
+<img src="/assets/AqCkbUVesoJc0gxFkLnc76FDnIg.png" src-width="3288" src-height="824" align="center"/>
 
 ## 壓力測試
 

@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # 常见问题
 
-## 多市场清算问题
+## 日终配置问题
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -17,6 +17,8 @@ sidebar_position: 3
 配置两个市场清算，美股市场设置为隔夜市场
 
 每天早上执行上日的美股市场清算，下午执行港股市场清算以及日终清算
+
+<img src="/assets/CCuYbmmNpoKmLjxtInuciV7inYg.png" src-width="3574" src-height="1774" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -33,6 +35,20 @@ sidebar_position: 3
 在市场管理中将美股市场配置为隔夜市场
 
 则在 28 日清算中会处理 28 日的港股交易、27 日（美国时区）的美股交易
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>是否可以在一个流程里完成日终清算</p>
+</div>
+
+- 路径：业务参数设置 - 日终设置 - 清算参数配置
+- 可编辑时间段：操作日终任务之前
+- 编辑清算初始化配置时需要审批
+    - 工单标识：clearing.update_system_config.exec  
+
+<img src="/assets/Me38b9ODroR1NIxw0n1casMinlV.png" src-width="3574" src-height="1774" align="center"/>
+
+<img src="/assets/M4WcbtDdLoZFnUxtlLdcv2L5nsc.png" src-width="3574" src-height="1774" align="center"/>
 
 ## 费用配置问题
 
@@ -138,4 +154,29 @@ sidebar_position: 3
 <img src="/assets/LjYYbzjHUoZpmvxZ7KUceRBGnxd.png" src-width="3572" src-height="1662" align="center"/>
 
 <img src="/assets/MRmab9eGIoBJMcxGrobcbHtAnVc.png" src-width="3572" src-height="1662" align="center"/>
+
+## 交易的提前交收
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>港股市场如果让用户可以在早上提现</p>
+</div>
+
+方式一：可以打开“11 点的港股自动交收”任务
+
+路径：业务参数设置 - 日终设置 - 清算参数配置
+
+<img src="/assets/FgPqbAWVloir6ixmv41cpyxxnhD.png" src-width="3574" src-height="1774" align="center"/>
+
+方式二：手工操作提前交收
+
+路径：清算管理&gt; 市场清算&gt;交收系统&gt;交收批次 Tab 页签
+
+点选【提前交收】，输入欲提早交收的市场（可多选）
+
+<img src="/assets/KOQzbEUYGo2XqyxS1exccTpHnnd.png" src-width="3364" src-height="1450" align="center"/>
+
+操作后可观察交收批次是否处理完毕
+
+<img src="/assets/TNFubCMOyofC61xiJgQcFDcdnAc.png" src-width="2516" src-height="740" align="center"/>
 

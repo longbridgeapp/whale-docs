@@ -70,8 +70,17 @@ sidebar_position: 3
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
-<p>问：为什么在转账/转仓时选不到转入方？</p>
+<p>问：为什么在转账/转仓时选不到转入方</p>
 </div>
 
 答：账户间转账仅支持同一客户的主账户间及同一客户下的主子账户间进行资金划转；账户间转仓仅支持同一主子关系下的子账户间及同一客户的主子账户间双向转仓（其中 OB 企业客户仅支持同一主子关系下的子账户间转仓）
+
+## 业务码使用场景
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>问：结单的资金/持仓流水明细的类型名称不合适，是否可以修改</p>
+</div>
+
+答：如需修改结单对客户展示的流水类型名称，可在「资产账户」-「业务码」-「业务码查询」菜单下自主修改
 
