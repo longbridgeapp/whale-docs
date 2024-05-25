@@ -84,6 +84,8 @@ App 客户端展示位置如下
 
 <img src="/assets/Nl7vbeNcToj2BmxX3dBczdGenvb.png" src-width="1280" src-height="746" align="center"/>
 
+当系统时间到达配置的「基金渠道」的「获取订单时间」，则对应渠道的基金订单将会汇总成一个渠道单，进入到基金清算环节。
+
 ## 基金清算交收
 
 ### **步骤一：数据发送**
