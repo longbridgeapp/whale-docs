@@ -70,8 +70,17 @@ sidebar_position: 3
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
-<p>問：為什麼在轉賬/轉倉時選不到轉入方？</p>
+<p>問：為什麼在轉賬/轉倉時選不到轉入方</p>
 </div>
 
 答：賬戶間轉賬僅支持同一客戶的主賬户間及同一客戶下的主子賬户間進行資金劃轉；賬戶間轉倉僅支持同一主子關系下的子賬戶間及同一客戶的主子賬戶間雙向轉倉（其中 OB 企業客戶僅支持同一主子關系下的子賬戶間轉倉）
+
+## 業務碼使用場景
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>問：結單的資金/持倉流水明細的類型名稱不合適，是否可以修改</p>
+</div>
+
+答：如需修改結單對客戶展示的流水類型名稱，可在「資產賬戶」-「業務碼」-「業務碼查詢」菜單下自主修改
 
