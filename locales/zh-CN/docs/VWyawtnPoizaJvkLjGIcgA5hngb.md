@@ -375,18 +375,17 @@ sidebar_position: 2
 
 1. 点击列表右上角的【换汇规则】配置借币提醒规则
 
-<img src="/assets/CWYGb5PVro5XRUxJDIBcwmyxnph.png" src-width="3389" src-height="1286" align="center"/>
+<img src="/assets/QjFtb8q3dohY9qxQ2b9cQqFGnCe.png" src-width="3296" src-height="1076" align="center"/>
 
 1. 规则配置：单币种规则为非必配项，其他为必配项；规则仅在开启时运行
     1. 必配项的欠款金额和其他币种可提金额默认为主币种，所有币种转化为主币种计算
     2. 单币种规则和必配项规则只要有其一满足规则，即会提醒
     3. 单币种规则可以设置不同币种规则，支持添加和删除
+    <img src="/assets/GUJXbCmYGop6dfxrqOdcvao0nHe.png" src-width="3312" src-height="1716" align="center"/>
 
-<img src="/assets/DdqjbOJ3eovrKBxqkkSc9Jsxnf4.png" src-width="3356" src-height="1720" align="center"/>
+2. 规则配置后，选择开启并提交工单审核。审核通过后，系统则会运行规则，捞取符合规则的客户，结果在「提醒查询」列表展示。此外，交易日均会定期执行规则并给符合规则的客户发送借币提醒消息，通知客户主动换汇。页面操作【换汇用户捞取】可刷新列表，过滤不再满足规则的客户
 
-1. 规则配置后，选择开启并保存规则。系统则会运行规则，捞取符合规则的客户，结果在「提醒查询」列表展示。此外，交易日均会定期执行规则并给符合规则的客户发送借币提醒消息，通知客户主动换汇。页面操作【换汇用户捞取】可刷新列表，过滤不再满足规则的客户
-
-<img src="/assets/Spdybd0dnotrSixrMJbcmYWMnIg.png" src-width="3218" src-height="1070" align="center"/>
+<img src="/assets/HlKsbk6ruot71rxggRjcKx6infe.png" src-width="3286" src-height="970" align="center"/>
 
 1. 同时，开启规则后，客户在 App 上可以对应查看【自动还款】功能，可以自主选择开启该功能。若客户打开自动还款，当命中规则时，系统将进行自动换汇或后台操作人工兑换
     1. App 端「自动还款」
@@ -398,7 +397,9 @@ sidebar_position: 2
     <img src="/assets/S4kJbnbZgoQyjAxUlbVcRPUpn69.png" src-width="3274" src-height="1640" align="center"/>
     <img src="/assets/Dxo0bPGLkoBbDRxAOlvcd48unih.png" src-width="3222" src-height="1220" align="center"/>
 
-3. 兑换结果查看：人工/自动兑换完成后，若剩余资产仍命中规则，则仍会在提醒查询列表；若不再命中规则则会进入历史记录，可在「[历史记录](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相关详情
+3. 兑换结果查看：人工/自动兑换完成后，若剩余资产仍命中规则，则仍会在提醒查询列表；若不再命中规则则会进入历史记录，可在「[历史记录](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相关详情；若命中换汇审核/换汇失败，可在【换汇异常】页面查看异常单（换汇审核中需在「款项管理」-「换汇」-「客户汇兑」页面进行人工审核）
+
+<img src="/assets/GS1dbmbnSooY1NxBRzWcakSSnme.png" src-width="3290" src-height="1072" align="center"/>
 
 #### 历史记录
 
@@ -591,8 +592,6 @@ sidebar_position: 2
 
 <img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
 
-多头股票保证金列表页
-
 1. 可以在【新建】按钮，新增单个股票保证金比例（注：若该股票已存在，数据会覆盖，以本次设置为准）
 
 <img src="/assets/ThhabRRdBoGlvBx2siFc2O5vnQ2.png" src-width="3252" src-height="560" align="center"/>
@@ -688,24 +687,43 @@ sidebar_position: 2
 
 ### 客户保证金
 
+#### 多头股票
+
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
-<p>风控管理 &gt; 保证金  &gt; 客户保证金</p>
+<p>风控管理 &gt; 保证金  &gt; 客户保证金 &gt; 多头股票</p>
 </div>
 
-**菜单功能介绍**：该菜单可以设置客户个性化股票保证金比例，在保证金计算时会优先取客户保证金比例。
+**菜单功能介绍**：该菜单可以设置客户个性化多头股票保证金比例，在保证金计算时会优先取客户保证金比例。
 
-1. 列表展示所有客户保证金设置
+1. 列表展示所有客户多头股票保证金设置
 
-<img src="/assets/S5LjbBEXHoi0OvxSIRVck25GnRW.png" src-width="3256" src-height="846" align="center"/>
+<img src="/assets/TJ0ObmeAho1xstxzB4fcdgNKnPe.png" src-width="3222" src-height="1062" align="center"/>
 
-1. 可以通过【导入保证金数据】来新增客户保证金；进入弹窗下载模版根据模版填写后上传
+1. 新建客户保证金：点击页面的【新建】可以打开创建弹窗页；客户和股票选择均支持选择单个客户/股票和客户组/股票组（客户组可在「风控管理」-「名单管理」-「客户组」配置；股票组可在「业务参数设置」-「风控」-「股票组」配置）；页面配置后提交即可完成创建
+
+<img src="/assets/AlpNbLX9coV5D9xe3rOchCKVnUF.png" src-width="3210" src-height="1068" align="center"/>
+
+<img src="/assets/MuggblAOJoxOmDxvKJccvr6DnEh.png" src-width="3226" src-height="1698" align="center"/>
+
+1. 同时，也可以通过【导入保证金数据】来新增客户保证金；进入弹窗下载模版根据模版填写后上传
 
 <img src="/assets/TjQYbH0kboEjx9xrmu5c16uBnne.png" src-width="3168" src-height="1116" align="center"/>
 
 1. 文件上传【确认】后，在客户保证金列表中生成状态为生效中的记录；如需修改保证金比例，可以通过操作的【编辑】修改；也可以通过【置为失效】来失效客户保证金比例设置
 
 <img src="/assets/FIEbbOOvmop6Nixv7kKcGuEvnpc.png" src-width="3244" src-height="1424" align="center"/>
+
+#### 空头股票
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>风控管理 &gt; 保证金  &gt; 客户保证金 &gt; 空头股票</p>
+</div>
+
+客户空头股票保证金比例设置逻辑同「[多头股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的信息为“股票卖空状态”，该状态与对应空头股票的可卖空状态（查看页面：「风控管理」-「保证金」-「股票保证金」-「空头股票保证金」）保持同步。
+
+<img src="/assets/EOwcbvEDSoT3Wxxg6QWcFRVYncd.png" src-width="3230" src-height="1078" align="center"/>
 
 ## 期权
 
@@ -942,6 +960,35 @@ sidebar_position: 2
 1. 若黑名单量较大，可选择批量上传，实现批量新增黑名单，填写说明可参考模板说明提示
 
 <img src="/assets/O6b0bFHnaoOKdhx7bP4cdX4fnZf.png" src-width="2818" src-height="1190" align="center"/>
+
+### 客户组
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>风控管理 &gt; 名单管理 &gt; 客户组</p>
+</div>
+
+**菜单功能介绍**：该菜单可支持配置客户组，可在其他业务场景调用客户组，当前应用业务有保证金、报表（如需应用其他业务场景，可联系客户反馈）。
+
+1. 新建客户组：选择客户组应用的业务类型，自定义客户组名称后提交即可完成创建
+
+<img src="/assets/CkzgbeDMtovoX8xW0m3cnR32nYb.png" src-width="3302" src-height="748" align="center"/>
+
+<img src="/assets/XNlLbxd3yoTN0HxDZfCcjWFznlc.png" src-width="3284" src-height="1164" align="center"/>
+
+1. 添加组内账户：客户组创建后，主列表页会生成一条客户组记录，点击【详情】可以进入添加组内账户页面；可在详情页面的【新建】或【批量导入】进行单个/批量增加组内账户
+
+<img src="/assets/T17BblV4toWv6txuhthcwpZrnEc.png" src-width="3302" src-height="862" align="center"/>
+
+<img src="/assets/DcSmbtDT4oPgNoxQgrrcBgUGnUf.png" src-width="3296" src-height="638" align="center"/>
+
+1. 管理组内账户：组内账户支持【删除】
+
+<img src="/assets/M2xibgKd8ohXAIxLC8scemafnjh.png" src-width="3278" src-height="568" align="center"/>
+
+1. 管理客户组：客户组支持【编辑】组信息和【删除】
+
+<img src="/assets/AqCkbUVesoJc0gxFkLnc76FDnIg.png" src-width="3288" src-height="824" align="center"/>
 
 ## 压力测试
 
