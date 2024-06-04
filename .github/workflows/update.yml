@@ -13,7 +13,7 @@ on:
 jobs:
   export:
     name: Download feishu pages
-    timeout-minutes: 30
+    timeout-minutes: 180
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
