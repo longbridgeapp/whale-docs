@@ -19,8 +19,7 @@ sidebar_position: 3
 
 <img src="/assets/Mo0nbouPxoxfL0xBR5IcemPondf.png" src-width="2496" src-height="1084" align="center"/>
 
-## 
-1.4C 问：企业实体类型是什么？
+## 1.4C 问：企业实体类型是什么？
 
 <b>答：</b>Finanical Institution 金融机构 / Active NFE 主动金融财务实体/ Passive NFE 被动财务类型实体，视乎公司的类型选择。
 

@@ -19,8 +19,7 @@ sidebar_position: 3
 
 <img src="/assets/Mo0nbouPxoxfL0xBR5IcemPondf.png" src-width="2496" src-height="1084" align="center"/>
 
-## 
-1.4C 問：企業實體類型是什麼？
+## 1.4C 問：企業實體類型是什麼？
 
 <b>答：</b>Finanical Institution 金融機構 / Active NFE 主動金融財務實體/ Passive NFE 被動財務類型實體，視乎公司的類型選擇。
 

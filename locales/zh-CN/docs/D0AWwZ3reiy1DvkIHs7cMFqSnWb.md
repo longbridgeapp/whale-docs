@@ -28,14 +28,11 @@ sidebar_position: 1
 
 (iv). 在「新建」页面需添加按兑出及兑入币种
 
--默认
-
--服务策略：汇兑池换汇
+- 默认
+- 服务策略：汇兑池换汇
 -汇兑类型：无
-
--输入服务时段
-
--支持的币种对，点击「添加」
+- 输入服务时段
+- 支持的币种对，点击「添加」
 
 <img src="/assets/V65kbY9fGopMqjxAutEcLXzqnFb.png" src-width="2229" src-height="1372" align="center"/>
 
@@ -45,11 +42,9 @@ sidebar_position: 1
 
 (vi). 在「新建」页面
 
--币种：添加兑出兑入的币种
-
--警戒线金额：输入金额（如到达警戒线会作提醒）
-
--剩余额度调整：输入金额
+- 币种：添加兑出兑入的币种
+- 警戒线金额：输入金额（如到达警戒线会作提醒）
+- 剩余额度调整：输入金额
 
 <img src="/assets/E0nIbROIwo7vrexbezmc5adfnVf.png" src-width="2246" src-height="1370" align="center"/>
 
@@ -92,6 +87,10 @@ sidebar_position: 1
 <img src="/assets/TVtNbgv4toAidqx4W6HcBjAUnwO.png" src-width="2856" src-height="1555" align="center"/>
 
 (ii). 在编辑页面：
+
+- 币种：添加兑出兑入的币种
+- 警戒线金额：输入金额（如到达警戒线会作提醒）
+- 剩余额度调整：输入金额
 
 <img src="/assets/Bp6WbBfD0ovZybxIdUjcEVCqnCe.png" src-width="2096" src-height="1354" align="center"/>
 
