@@ -97,7 +97,9 @@ sidebar_position: 0
 </tbody>
 </table>
 
-点击新增奖励规则，不同奖励类型和活动属性填写字段不同：
+<b>奖励规则</b>
+
+点击新增奖励规则，不同奖励类型下奖励规则需填写的字段不同：
 
 - 固定奖励
 
@@ -105,12 +107,22 @@ sidebar_position: 0
 
 - 阶梯奖励
 
-<img src="/assets/PLaFb7JKmo5DwYx0QDYcKN5Bnse.png" src-width="1370" src-height="1502"/>
+<img src="/assets/CEA9b127yoXfrnxY6JXc6ruzndN.png" src-width="2340" src-height="1752" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>💡</div>
 <p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
 </div>
+
+<b>奖品设置</b>
+
+点击新建奖品设置，该区域出现配置项
+
+可在此处限定奖励规则中添加的奖品，每位用户最多可获得多少次
+
+<img src="/assets/NNttbSpVvom26qxaMDzcRKCinI0.png" src-width="1280" src-height="242" align="center"/>
+
+提交后，邀请活动即可创建完毕
 
 ### 如何创建一个基础活动？
 
