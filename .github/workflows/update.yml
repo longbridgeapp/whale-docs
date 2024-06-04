@@ -24,7 +24,7 @@ jobs:
       - name: Clear cache if cache is false
         if: ${{ inputs.cache == 'false' }}
         run: |
-          rm -rf ./feishu-pages/.cache
+          rm -rf ./feishu-pages/.cache/blocks
 
       - name: Start export feishu pages
         env:
