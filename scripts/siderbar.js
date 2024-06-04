@@ -38,8 +38,15 @@ function generateSidebarConfig(metaData, locale = "zh-HK") {
 
     if (doc.has_child) {
       sidebarItem.items = generateSidebarConfig(doc.children, locale);
-      // not collapsed if depth = 1
-      sidebarItem.collapsed = doc.depth !== 1;
+      // 特殊处理 “常见问题” 节点数据,默认折叠显示
+      if (
+        doc.parent_node_token === "JIl7wbv6ViOo7IkpuVrcH8GEnKe" ||
+        doc.node_token === "JIl7wbv6ViOo7IkpuVrcH8GEnKe"
+      ) {
+        sidebarItem.collapsed = true;
+      } else {
+        sidebarItem.collapsed = doc.depth > 2;
+      }
     }
 
     sidebarConfig.push(sidebarItem);

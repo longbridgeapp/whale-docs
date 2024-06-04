@@ -64,7 +64,9 @@ ol {
     @apply absolute;
   }
 
-  p, ul, ol {
+  p,
+  ul,
+  ol {
     margin-top: 0;
   }
 
@@ -160,6 +162,14 @@ ol {
     font-weight: normal;
     color: var(--vp-c-text-2) !important;
   }
+
+  .VPSidebarItem.level-1.is-active > .item .text,
+  .VPSidebarItem.level-2.is-active > .item .text,
+  .VPSidebarItem.level-3.is-active > .item .text,
+  .VPSidebarItem.level-4.is-active > .item .text,
+  .VPSidebarItem.level-5.is-active > .item .text {
+    color: var(--vp-c-brand-1) !important;
+  }
 }
 .VPSidebarItem.level-0 {
   .VPLink {
@@ -183,7 +193,8 @@ ol {
     @apply mt-5;
   }
 
-  ul, ol {
+  ul,
+  ol {
     li > p {
       margin: 0;
     }
@@ -200,7 +211,7 @@ ol {
     margin: 0;
     line-height: 1.7;
   }
-  
+
   table tr td {
     vertical-align: top;
   }
@@ -214,4 +225,8 @@ ol {
 
 .DocSearch-Button {
   border-color: var(--vp-c-divider);
+}
+
+.vp-doc a {
+  font-weight: normal;
 }
