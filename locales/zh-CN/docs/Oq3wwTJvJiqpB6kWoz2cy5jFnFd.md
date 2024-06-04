@@ -19,13 +19,13 @@ WHALE 的款项管理系统提供了多币种、多渠道、多策略的汇兑�
 
 ### 手工换汇
 
-**步骤一：选择客户，确认兑出币种与兑入币种**
+<b>步骤一：选择客户，确认兑出币种与兑入币种</b>
 
 点选【手工换汇】，在出现的弹出内选择客户&gt;输入币种对（系统将根据已选择的客户，自动展示每个币种可提现的余额）
 
 <img src="/assets/ZXp6ba0Vfog0SFxhz19ckaX5nEd.png" src-width="3830" src-height="1854" align="center"/>
 
-**步骤二：确认参考汇率**
+<b>步骤二：确认参考汇率</b>
 
 选择了客户与币种对之后，系统自动提供参考汇率，用户也可以切换成【自定义汇率】进行手动输入
 
@@ -38,7 +38,7 @@ WHALE 的款项管理系统提供了多币种、多渠道、多策略的汇兑�
 </div>
 </div>
 
-**步骤三：输入金额**
+<b>步骤三：输入金额</b>
 
 确定了客户、币种对、汇率之后，需要输入汇兑的金额，汇兑金额可以有以下两种方式：
 
@@ -89,7 +89,7 @@ WHALE 的款项管理系统提供了多币种、多渠道、多策略的汇兑�
 
 <img src="/assets/FgzibDYQKoOAkyxAKTgcP20BnGf.png" src-width="2366" src-height="1220" align="center"/>
 
-**步骤二：根据第一步的处理方式进行复核**
+<b>步骤二：根据第一步的处理方式进行复核</b>
 
 <img src="/assets/Q0Atb1q4FoM8kexa7YhcdfgWnCf.png" src-width="2370" src-height="1198" align="center"/>
 

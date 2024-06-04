@@ -7,7 +7,7 @@ sidebar_position: 7
 
 # 8. 债券处理问题
 
-##  8A 问：如何处理债券进出？
+## 8A 问：如何处理债券进出？
 
 <b>答：</b>债券买入或卖出需要使用手工调账方式处理，调账前请在私有标的库建立标的代码。
 
@@ -54,7 +54,7 @@ sidebar_position: 7
 
 <img src="/assets/MBd7bly46oTqDmxozu1cjzggnC0.png" src-width="2852" src-height="716" align="center"/>
 
-##  8B 问：为什么债券的价格没有在结单上更新？
+## 8B 问：为什么债券的价格没有在结单上更新？
 
 <b>答：</b> 需要在「证券管理 &gt; 标的管理 &gt; 行情维护」页面编辑行情才会在结上会反映（见 8B 图一、图二）。
 

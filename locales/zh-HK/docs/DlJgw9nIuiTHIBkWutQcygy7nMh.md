@@ -17,7 +17,7 @@ sidebar_position: 0
 
 <b>答：</b>可以按下面的步驟操作。
 
-(i).** **在「公司行動」頁面點擊「詳情」
+(i).<b> </b>在「公司行動」頁面點擊「詳情」
 
 <img src="/assets/LEGvbYp3OohIsEx7s1Mc2JPJnVg.png" src-width="2850" src-height="1450" align="center"/>
 

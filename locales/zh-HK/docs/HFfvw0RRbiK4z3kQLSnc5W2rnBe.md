@@ -19,7 +19,7 @@ sidebar_position: 0
 <col width="392"/>
 </colgroup>
 <tbody>
-<tr><td><p><strong>權限名稱</strong></p></td><td><p><strong>權限說明</strong></p></td></tr>
+<tr><td><p><b>權限名稱</b></p></td><td><p><b>權限說明</b></p></td></tr>
 <tr><td><p>管理 CRM 消息推送、模板的权限<br/>ClientMessageFull</p></td><td><p>創建，編輯 SMS、Email 模板的權限；新建，審批，推送 SMS、Email 消息的權限，其中審批權限僅管理員擁有</p></td></tr>
 </tbody>
 </table>

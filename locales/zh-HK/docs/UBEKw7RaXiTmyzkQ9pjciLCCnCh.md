@@ -9,9 +9,11 @@ sidebar_position: 0
 
 ## 1A 問：一個客户能有多個賬户？
 
-<b>答：</b>客户賬户開通後，可以在後台「KYC &gt; 開户列表 &gt; 詳情」頁面中的 "**關聯賬户信息**" 點擊「新增」添加主子賬户。
+<b>答：</b>客户賬户開通後，可以在後台「KYC &gt; 開户列表 &gt; 詳情」頁面中的 "<b>關聯賬户信息</b>" 點擊「新增」添加主子賬户。
 
 <img src="/assets/AGQ5bJOwwoEGkLxqTrZcRXkknXL.png" src-width="2506" src-height="888" align="center"/>
+
+<em>1A 圖一</em>
 
 ## 1B 問：客户如何設置 App 的登錄密碼？
 
@@ -23,9 +25,15 @@ sidebar_position: 0
 
 <img src="/assets/KaYObPgnpoGCA6xDKyWc2mjHnNc.png" src-width="651" src-height="1357" align="center"/>
 
+<em>1.B 圖一</em>
+
 <img src="/assets/SUOVbpwumodNTUxx950cQifAnE2.png" src-width="2504" src-height="1222" align="center"/>
 
+<em>1.B 圖二</em>
+
 <img src="/assets/Q7Mcbx59toSH5RxbXmJcGgYPn6g.png" src-width="2162" src-height="982" align="center"/>
+
+<em>1.B. 圖三</em>
 
 ## 1C 問：如何添加備註資料？
 
@@ -39,7 +47,11 @@ sidebar_position: 0
 
 <img src="/assets/U1vMb6p1UoVkSexVsSfceueynMh.png" src-width="2508" src-height="1326" align="center"/>
 
+<em>1.D 圖一</em>
+
 <img src="/assets/StiEbid5xoyLLmxAKt6cgI9on0f.png" src-width="2482" src-height="1416" align="center"/>
+
+<em>1.D 圖二</em>
 
 ## 1E 問：工單中心 - 凍結客户跟凍結賬户的分別是什麼？
 

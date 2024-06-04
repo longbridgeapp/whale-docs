@@ -88,8 +88,8 @@ sidebar_position: 1
 
 <b>答：</b>开通相关权限 key 后能操作，请见以下步骤。
 
-> **入金流水修改审批**`atm.deposit_jour_update_approval`；**入金流水修改**`atm.deposit_jour_update_ticket`
-**入金流水删除审批**`atm.deposit_jour_delete_approval`；**入金流水删除 **`atm.deposit_jour_delete_ticket`
+> <b>入金流水修改审批</b>`atm.deposit_jour_update_approval`；<b>入金流水修改</b>`atm.deposit_jour_update_ticket`
+<b>入金流水删除审批</b>`atm.deposit_jour_delete_approval`；<b>入金流水删除 </b>`atm.deposit_jour_delete_ticket`
 
 
 已完成的入金可在当天作修改／删除（见 2H 图一），操作修改／删除后需要作审批（见 2H 图二、图三），入金记录会显示到相关流水（见 2H 图四）。

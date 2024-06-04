@@ -18,7 +18,7 @@ sidebar_position: 2
 </colgroup>
 <tbody>
 <tr><td colspan="4"><h4>文档编辑历史</h4></td></tr>
-<tr><td><p><strong>版本</strong></p></td><td><p><strong>日期</strong></p></td><td><p><strong>編輯人</strong></p></td><td><p><strong>變更內容</strong></p></td></tr>
+<tr><td><p><b>版本</b></p></td><td><p><b>日期</b></p></td><td><p><b>編輯人</b></p></td><td><p><b>變更內容</b></p></td></tr>
 <tr><td><p>V1.0</p></td><td><p>2023 年 9 月 5 日</p></td><td></td><td><p>第一版產生</p></td></tr>
 </tbody>
 </table>
@@ -40,15 +40,15 @@ sidebar_position: 2
 
 整個 CSR 文件操作基本上 下列流程的順序
 
-### **計算收益**： 
+### <b>計算收益</b>： 
 
 <img src="/assets/DlE4bukIfossTwxpS0OcoQITnWh.png" src-width="2358" src-height="1346" align="center"/>
 
-此時產生一個的系統任務，當系統任務完成後（這會需要點時間產生全年資料），當完成後系統會給予這批 CRS 數據一個 相同的‘**消息編號**'
+此時產生一個的系統任務，當系統任務完成後（這會需要點時間產生全年資料），當完成後系統會給予這批 CRS 數據一個 相同的‘<b>消息編號</b>'
 
 <img src="/assets/FDDQbkabGoiWP4xSUWGcuDvlnjf.png" src-width="1046" src-height="249" align="center"/>
 
- 也可以在任務列表 Tab 頁籤上 點選 紀錄右側操作區的【詳情】，會自動切換** CRS 數據** Tab 頁籤，可以查詢數據資料或編輯修改
+ 也可以在任務列表 Tab 頁籤上 點選 紀錄右側操作區的【詳情】，會自動切換<b> CRS 數據</b> Tab 頁籤，可以查詢數據資料或編輯修改
 
 <img src="/assets/MFONb5V5gocnmfx9W9ac93NMnud.png" src-width="2442" src-height="135" align="center"/>
 
@@ -58,11 +58,11 @@ sidebar_position: 2
 
 <img src="/assets/O2SPbe0FxoNuysxmAOjcI0aSn8g.png" src-width="2489" src-height="1621" align="center"/>
 
-### **生成文件**： 
+### <b>生成文件</b>： 
 
 <img src="/assets/UYcTbGL5Lo2QikxjzJhcDrT1nOc.png" src-width="1047" src-height="309" align="center"/>
 
-1. **文件下載**
+1. <b>文件下載</b>
 
 當生成文件任務完成後，就可以點選下載檔案，去外部網站傳送了
 
@@ -74,7 +74,7 @@ sidebar_position: 2
 
 建議：此文件不要自行編輯，容易誤操作造成文檔規格不對，無法上傳
 
-### **生成文件上傳**： 
+### <b>生成文件上傳</b>： 
 
 將上傳到外部系統的一個 XML 文件。這文件在外部系統上傳以後，在外部系統它會返回一個文件序列號，可以在任務列表 Tab 頁籤，更新狀態把外部系統序列號輸入
 
@@ -86,7 +86,7 @@ sidebar_position: 2
 
 <img src="/assets/LVdtbT9Z7oD82zx9eDFcNwCVnG4.png" src-width="1039" src-height="334" align="center"/>
 
-### **更正資料再上傳**： 
+### <b>更正資料再上傳</b>： 
 
 正常情況下，已報送資料其狀態是‘文件已報送'
 
@@ -100,7 +100,7 @@ sidebar_position: 2
 
 > 系統會將刪除那筆資料 變成已鎖定狀態
 
-此時後面一樣操作方式輸入： **年度 /消息類型/編號/批次/消息編號  **查詢後。生成文件的功能鍵就可以操作了
+此時後面一樣操作方式輸入： <b>年度 /消息類型/編號/批次/消息編號  </b>查詢後。生成文件的功能鍵就可以操作了
 
 產生文件並上傳報送網站，同樣 也會取的最新的文件序列號，也一樣更新即可
 

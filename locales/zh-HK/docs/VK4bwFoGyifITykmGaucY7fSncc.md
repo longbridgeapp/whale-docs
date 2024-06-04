@@ -30,7 +30,7 @@ sidebar_position: 1
 
 ## 操作說明 
 
-### 预告和方案的自动**創建**
+### 预告和方案的自动<b>創建</b>
 
 結算人員在每天的早上，導入上日下午的 05 文件和 02 文件
 
@@ -44,11 +44,12 @@ sidebar_position: 1
 
 <img src="/assets/Kn9fb2UbwoBcclxC27XcBMu8nwf.png" src-width="3570" src-height="1780" align="center"/>
 
-### **登記**
+### <b>登記</b>
 
-在 CCASS 返還剩餘價值（CCASS 支付日期）**當天晚上或者下一天**可以開始操作公司行動
+在 CCASS 返還剩餘價值（CCASS 支付日期）<b>當天晚上或者下一天</b>可以開始操作公司行動
+例子：CCASS 支付日期=2024-02-05，可以在 5 號晚上，或者 6 號早上執行
 
-**點擊【登記】。**路径：公司行动 - 公司行动 - 详情
+<b>點擊【登記】。</b>路径：公司行动 - 公司行动 - 详情
 
 <img src="/assets/Jw5qbdGjEoTaqbxU7L9c9zMLnWj.png" src-width="3548" src-height="1806" align="center"/>
 
@@ -62,23 +63,23 @@ sidebar_position: 1
 
 <img src="/assets/QKTGbtf95ouub0xG8NMcCsSXn0c.png" src-width="3634" src-height="1886" align="center"/>
 
-### **尾差處理**
+### <b>尾差處理</b>
 
 如果券商支付的資金需要對齊 CCASS 的值，可進行尾差處理
 
-**點擊尾差調整**
+<b>點擊尾差調整</b>
 
 <img src="/assets/UqCbbHq2poTJv5xaOJQc7nVRnxb.png" src-width="3548" src-height="1806" align="center"/>
 
 <img src="/assets/E1d6bT1PNobsfhxoL93cImSenqg.png" src-width="3548" src-height="1806" align="center"/>
 
-### 4.**執行**
+### 4.<b>執行</b>
 
 登記成功（或尾差處理完畢後），點擊提交執行開始執行公司行動
 
 執行時分執行提交和執行審覈兩步，推薦雙人操作
 
-**點擊提交執行**
+<b>點擊提交執行</b>
 
 <img src="/assets/J7eIbgDZhov1OGx5vKVcH1pUnPf.png" src-width="3548" src-height="1806" align="center"/>
 
@@ -92,7 +93,7 @@ sidebar_position: 1
 </div>
 </div>
 
-**點擊執行復核**
+<b>點擊執行復核</b>
 
 <img src="/assets/EVYRboWe4o6HS8xlNxhcc5g4nTh.png" src-width="3548" src-height="1806" align="center"/>
 

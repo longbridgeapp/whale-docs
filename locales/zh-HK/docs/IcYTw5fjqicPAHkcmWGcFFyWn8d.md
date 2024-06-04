@@ -7,7 +7,7 @@ sidebar_position: 7
 
 # 8. 債券處理問題
 
-##  8A 問：如何處理債券進出？
+## 8A 問：如何處理債券進出？
 
 <b>答：</b>債券買入或賣出需要使用手工調賬方式處理，調賬前請在私有標的庫建立標的代碼。
 
@@ -54,7 +54,7 @@ sidebar_position: 7
 
 <img src="/assets/MBd7bly46oTqDmxozu1cjzggnC0.png" src-width="2852" src-height="716" align="center"/>
 
-##  8B 問：為什麼債券的價格沒有在結單上更新？
+## 8B 問：為什麼債券的價格沒有在結單上更新？
 
 <b>答：</b> 需要在「證券管理 &gt; 標的管理 &gt; 行情維護」頁面編輯行情才會在結上會反映（見 8B 圖一、圖二）。
 

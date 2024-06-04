@@ -63,6 +63,13 @@ Whale 经纪人管理模块提供了对经纪人与客户关系的管理，以�
 <img src="/assets/YQ4KbFSSkocqX7xlV9hcQIQfnCg.png" src-width="3362" src-height="1562" align="center"/>
 
 「编辑」在修改经纪人分佣套餐时，支持同步修改其下客户的分佣套餐配置（可选项）
+<img src="/assets/IWnCbSdmDo6GVoxiXNkcTYxmnWY.png" src-width="936" src-height="1662" align="center"/>
+「冻结」，冻结经纪人操作后，该经纪人将无法使用账号登录 WTT；
+「下级管理」，该功能已迁移至“身份管理&gt;人员管理”，查到对应的经纪人用户进行“数据权限”的编辑；
+<img src="/assets/WnQKb0PseoHfnKxkz3tciefGnxd.png" src-width="3422" src-height="1840" align="center"/>
+在经纪人管理上新增经纪人配置：开通帐户时，若未人工分配经纪人，系统预设分配给指定经纪人；
+<img src="/assets/Y0Zob1080oc15sxQIv9cvxRznmd.png" src-width="3370" src-height="1226" align="center"/>
+在查询组件上：支持按经纪人编号或经纪人名称查询
 
 ## 分成套餐设置
 
@@ -75,7 +82,7 @@ Whale 经纪人管理模块提供了对经纪人与客户关系的管理，以�
 
 <img src="/assets/HEHrb4HsDoUwbAxjTFhc9Th4nab.png" src-width="3584" src-height="1738" align="center"/>
 
-### **新增分成套餐**
+### <b>新增分成套餐</b>
 
 可以在右上角，点击【新增】，新增一笔分成佣金套餐
 
@@ -84,6 +91,8 @@ Whale 经纪人管理模块提供了对经纪人与客户关系的管理，以�
 先填写套餐主体信息
 
 特殊字段说明：
+- 分佣对象设置（劵商或经纪人）：决定配置的算法对哪个对象生效（先算哪一个）
+- 允许亏损字段（：决定在分佣金额&gt;佣金时的处理方案，允许亏损的，计算金额可大于佣金）
 
 <img src="/assets/YkLXbqGltoZtUixQAY3cyZYvnCh.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -98,6 +107,10 @@ Whale 经纪人管理模块提供了对经纪人与客户关系的管理，以�
 跨阶梯处理方式：决定将统计基准统一用一个费率计算 OR 拆分成多端计算
 
 注意：
+- 分佣币种和佣金币种不一致时，分佣的金额会根据汇率转换为分佣币种
+- 阶梯的范围为左开（不含）右闭（含）
+- 阶梯收费的最低、最高收费和主页面最低最高收费的关系
+    - 阶梯收费总体算出一个分佣金额后，再和主页面进行比较
 
 <img src="/assets/NC1KbKN7wompmpx0MJacwpjHnDh.png" src-width="3584" src-height="1738" align="center"/>
 

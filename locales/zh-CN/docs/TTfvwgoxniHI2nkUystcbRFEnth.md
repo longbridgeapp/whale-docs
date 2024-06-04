@@ -11,7 +11,7 @@ sidebar_position: 2
 
 <b>答：</b>在「证券管理 &gt; 证券取出 &gt; 取出明细」页面点击「修改转出费用」。
 
-> 提交手工出仓后，申请状态未点击提交审核处于**初始化状态**在**取出明细**能作修改，如已提交审核则不能修改。
+> 提交手工出仓后，申请状态未点击提交审核处于<b>初始化状态</b>在<b>取出明细</b>能作修改，如已提交审核则不能修改。
 
 <img src="/assets/YyrfbV0Rlo4or5xG1HgclQmanne.png" src-width="2496" src-height="574" align="center"/>
 

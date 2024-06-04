@@ -53,10 +53,11 @@ sidebar_position: 4
 
 <b>答：</b>彈出提醒信息檢查後沒問題，作「手動審核」通過。
 
-- 如「收盤價確認」：股票股權沒錄取到行情，收盤價會為 0。如需修改可點擊「收盤價管理」處理
-- 如「公司行動」：未完成的公司行動會有提醒，如不用處理可審批通過
+<img src="/assets/Fra8bsjWooTZKbxZK91cyGXonNf.png" src-width="2110" src-height="172" align="center"/>
 
-<img src="/assets/DnQBbr127oeNKHxpqdsc7InCnKf.png" src-width="2110" src-height="172" align="center"/>
+<img src="/assets/I2kmbzGhyonmbjxdaPRcDwtxnGd.png" src-width="2040" src-height="162" align="center"/>
+
+<img src="/assets/XHNgbw7Uzob2kfx6q8ucB6zEn8c.png" src-width="2752" src-height="1354" align="center"/>
 
 ## 5H 問：清算前準備出現「前台流水全部納入清算」的提醒，如何處理？
 

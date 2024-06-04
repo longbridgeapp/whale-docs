@@ -11,7 +11,7 @@ sidebar_position: 2
 
 <b>答：</b>在「證券管理 &gt; 證券取出 &gt; 取出明細」頁面點擊「修改轉出費用」。
 
-> 提交手工出倉後，申請狀態未點擊提交審核處於**初始化狀態**在**取出明細**能作修改，如已提交審核則不能修改。
+> 提交手工出倉後，申請狀態未點擊提交審核處於<b>初始化狀態</b>在<b>取出明細</b>能作修改，如已提交審核則不能修改。
 
 <img src="/assets/YyrfbV0Rlo4or5xG1HgclQmanne.png" src-width="2496" src-height="574" align="center"/>
 

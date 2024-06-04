@@ -38,7 +38,7 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 <col width="641"/>
 </colgroup>
 <tbody>
-<tr><td><p><strong>术语 / 缩略词</strong></p></td><td><p><strong>说明</strong></p></td></tr>
+<tr><td><p><b>术语 / 缩略词</b></p></td><td><p><b>说明</b></p></td></tr>
 <tr><td><p>我方券商資訊</p></td><td><p>指目前處理平台的券商帳戶訊息，依證券轉入和證券轉出說明如下：</p>
 <ol>
 <li>證券轉入：我方券商資訊指接受用戶轉入股票的券商平台的資訊；</li>
@@ -56,11 +56,11 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 
 後台操作人員依照客戶的指示，完成證券轉入申請提交工作。
 
-**步驟一：選擇客戶，確認客戶本次存入的證券所屬的市場、轉出券商、帳戶姓名、帳號等資訊。**
+<b>步驟一：選擇客戶，確認客戶本次存入的證券所屬的市場、轉出券商、帳戶姓名、帳號等資訊。</b>
 
 <img src="/assets/Z3AJbkZyIopjlyx63EEc9WLYn5H.png" src-width="3814" src-height="1758" align="center"/>
 
-**步驟二：輸入存入股票的代碼、確認是否為實體股票、託管商、轉入的股票數量信息，根據實際情況，輸入一些必要的備註**
+<b>步驟二：輸入存入股票的代碼、確認是否為實體股票、託管商、轉入的股票數量信息，根據實際情況，輸入一些必要的備註</b>
 
 <img src="/assets/OcapbiHJSoWS1ox06ZncCXS7nkf.png" src-width="3812" src-height="1852" align="center"/>
 
@@ -68,11 +68,11 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 
 如果客戶未與對方券商確認此轉倉的事宜，後台操作人員可以使用此功能將客戶本次轉出的細節通知對方券商，以進行正常的轉倉流程。
 
-**步驟一：選擇需要寄電子郵件的券商**
+<b>步驟一：選擇需要寄電子郵件的券商</b>
 
 <img src="/assets/Wn16bRSK7oMC7wxgGpbc7dwfnMU.png" src-width="3814" src-height="1852" align="center"/>
 
-**步驟二：選擇目標申請單編號**
+<b>步驟二：選擇目標申請單編號</b>
 
 <img src="/assets/USMjbblxRomX0TxgoEUcm8Ffn8d.png" src-width="3834" src-height="1858" align="center"/>
 

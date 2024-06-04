@@ -27,6 +27,7 @@ sidebar_position: 0
 - 端口： `22`
 
 登陆类型选择长桥提供的密钥文件
+<img src="/assets/IdKGbDUvXoPUwVxQq4xcvjWqnHe.png" src-width="1562" src-height="888" align="center"/>
 
 ## 2. 下载文件
 

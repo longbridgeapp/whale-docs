@@ -27,6 +27,7 @@ sidebar_position: 0
 - 端口： `22`
 
 登陸類型選擇長橋提供的密鑰文件
+<img src="/assets/IdKGbDUvXoPUwVxQq4xcvjWqnHe.png" src-width="1562" src-height="888" align="center"/>
 
 ## 2. 下載文件
 

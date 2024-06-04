@@ -53,10 +53,11 @@ sidebar_position: 4
 
 <b>答：</b>弹出提醒信息检查后没问题，作「手动审核」通过。
 
-- 如「收盘价确认」：股票股权没录取到行情，收盘价会为 0。如需修改可点击「收盘价管理」处理
-- 如「公司行动」：未完成的公司行动会有提醒，如不用处理可审批通过
+<img src="/assets/Fra8bsjWooTZKbxZK91cyGXonNf.png" src-width="2110" src-height="172" align="center"/>
 
-<img src="/assets/DnQBbr127oeNKHxpqdsc7InCnKf.png" src-width="2110" src-height="172" align="center"/>
+<img src="/assets/I2kmbzGhyonmbjxdaPRcDwtxnGd.png" src-width="2040" src-height="162" align="center"/>
+
+<img src="/assets/XHNgbw7Uzob2kfx6q8ucB6zEn8c.png" src-width="2752" src-height="1354" align="center"/>
 
 ## 5H 问：清算前准备出现「前台流水全部纳入清算」的提醒，如何处理？
 
