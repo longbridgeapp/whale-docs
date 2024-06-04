@@ -28,14 +28,11 @@ sidebar_position: 1
 
 (iv). 在「新建」頁面需添加按兌出及兌入幣種
 
--默認
-
--服務策略：滙兌池換滙
+- 默認
+- 服務策略：滙兌池換滙
 -滙兌類型：無
-
--輸入服務時段
-
--支持的幣種對，點擊「添加」
+- 輸入服務時段
+- 支持的幣種對，點擊「添加」
 
 <img src="/assets/V65kbY9fGopMqjxAutEcLXzqnFb.png" src-width="2229" src-height="1372" align="center"/>
 
@@ -45,11 +42,9 @@ sidebar_position: 1
 
 (vi). 在「新建」頁面
 
--幣種：添加兌出兌入的幣種
-
--警戒線金額：輸入金額（如到達警戒線會作提醒）
-
--剩餘額度調整：輸入金額
+- 幣種：添加兌出兌入的幣種
+- 警戒線金額：輸入金額（如到達警戒線會作提醒）
+- 剩餘額度調整：輸入金額
 
 <img src="/assets/E0nIbROIwo7vrexbezmc5adfnVf.png" src-width="2246" src-height="1370" align="center"/>
 
@@ -92,6 +87,10 @@ sidebar_position: 1
 <img src="/assets/TVtNbgv4toAidqx4W6HcBjAUnwO.png" src-width="2856" src-height="1555" align="center"/>
 
 (ii). 在編輯頁面：
+
+- 幣種：添加兌出兌入的幣種
+- 警戒線金額：輸入金額（如到達警戒線會作提醒）
+- 剩餘額度調整：輸入金額
 
 <img src="/assets/Bp6WbBfD0ovZybxIdUjcEVCqnCe.png" src-width="2096" src-height="1354" align="center"/>
 
