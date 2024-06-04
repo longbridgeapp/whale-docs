@@ -97,7 +97,9 @@ sidebar_position: 0
 </tbody>
 </table>
 
-點擊新增獎勵規則，不同獎勵類型和活動屬性填寫字段不同：
+<b>獎勵規則</b>
+
+點擊新增獎勵規則，不同獎勵類型下獎勵規則需填寫的字段不同：
 
 - 固定獎勵
 
@@ -105,12 +107,22 @@ sidebar_position: 0
 
 - 階梯獎勵
 
-<img src="/assets/PLaFb7JKmo5DwYx0QDYcKN5Bnse.png" src-width="1370" src-height="1502"/>
+<img src="/assets/CEA9b127yoXfrnxY6JXc6ruzndN.png" src-width="2340" src-height="1752" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>💡</div>
 <p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
 </div>
+
+<b>獎品設置</b>
+
+點擊新建獎品設置，該區域出現配置項
+
+可在此處限定獎勵規則中添加的獎品，每位用戶最多可獲得多少次
+
+<img src="/assets/NNttbSpVvom26qxaMDzcRKCinI0.png" src-width="1280" src-height="242" align="center"/>
+
+提交後，邀請活動即可創建完畢
 
 ### 如何創建一個基礎活動？
 
