@@ -1,0 +1,53 @@
+---
+title: 12. 报表问题
+slug: F1xuwsk0JipT5fkwAf6cOKL4nVN
+sidebar_position: 11
+---
+
+
+# 12. 报表问题
+
+## 常用报表类型：
+
+<table>
+<colgroup>
+<col width="208"/>
+<col width="612"/>
+</colgroup>
+<tbody>
+<tr><td><p>资金报表</p></td><td><p> FDR017 - Cash Movement In-Out Report By CCY（实时报表）</p></td></tr>
+<tr><td><p>股票报表</p></td><td><p>SDR008 - 1  Stock Movement In-Out Report</p></td></tr>
+<tr><td><p>待交收（T＋1／T＋1 以上）<br/>账面市值＆持仓报表</p></td><td><p>SDR004 - Client Stock Location Report (By Stock)</p></td></tr>
+<tr><td><p>收费详细报表</p></td><td><p>按市埸选 SDR018 - Bargain Detail Report-HK／SDR018-1 - Bargain Detail Report-US</p></td></tr>
+<tr><td><p>新股认购／费用明细</p></td><td><p>SDR028 - IPO Detail Report 需要搜寻新股代码</p></td></tr>
+<tr><td><p>交易报表</p></td><td><p>TDR001-1 查到订单拒绝的原因</p></td></tr>
+</tbody>
+</table>
+
+## 12A 问：当天报表的数据什么时间生成？
+
+<b>答：</b>需要完成当天的日终后报表会生成数据。
+一些实时的报表不用待日终完成，在「报表打印」页面会提示那些是实时报表。
+
+<img src="/assets/Owvpbv3UXofcY1xyc9ociMxvnXd.png" src-width="1790" src-height="780" align="center"/>
+
+## 12B 问：SDR070 - OTCR report 是用作什么申报？
+
+<b>答：</b>SDR070 - OTCR report 用作申报实物股票转出及转入。不收印花税的公司行动不会在报表上显示，现金要约的会作申报。可导出 excel 上传到交易所。
+
+## 12C 问：在场外证券交易汇报制度（OTCR）下，现金要约等企业行动是否须予汇报？
+
+<b>答：</b>如企业行动不涉及须征收印花税的交易（例如新股发行、公开招股、供股及私有化等）或为须向联交所汇报的交易（例如由交易所参与者进行的现有股份配售），则该等企业行动不属于场外证券交易。因此，在场外证券交易汇报制度下，与此等企业行动有关的股份转移无须予以汇报。 
+
+另一方面，若相关受规管中介人（不论是作为主事人或代理人）进行就现金要约（此乃场外证券交易）而作出的股份转移，该相关受规管中介人便须根据场外证券交易汇报制度就该股份转移予以汇报。在这情况下，该相关受规管中介人须在股份转移日（即相关受规管中介人知悉已接纳的要约获得结算当日，而该日亦为在场外证券交易汇报制度下须予汇报的股份交易日期）之后的三个香港交易日内，根据场外证券交易汇报制度向证监会汇报。
+
+## 12D 问：SDR025 - Stock Reconciliation Report 显示的任务结果 Successful Check／Manually Confirmed／ Manually Unrecognized 是什么意思？
+
+<b>答：</b>SDR025 的任务结果对应「清算管理 &gt; 清算检查 &gt; 检查结果」页面的任务结果栏位。
+
+<img src="/assets/Yuv6bFgCAos4RCxvmYjcU7MbnUn.png" src-width="2074" src-height="850" align="center"/>
+
+## 12E 问：为何交易报表 TDR001-1 的市价单价格跟股票现价相差那么多？
+
+<b>答：</b>市价单非交易所订单，会以对手方的价格档位下特别限价单（SLO）。因为成交价格不确定，防止穿仓，所以做了 20% （1.2 倍）冻结资金的保护。
+
