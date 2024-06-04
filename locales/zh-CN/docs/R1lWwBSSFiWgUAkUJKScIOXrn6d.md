@@ -13,11 +13,11 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 注意：目前 Whale 基金业务仅支持基金认购资金募集成立后，基金申购与赎回的业务操作，募集期间的认购目前暂不支持
 
-**基金交易流程**
+<b>基金交易流程</b>
 
 <img src="/assets/OTlsbbuMgoD9ZNxhQ3Oc4qcInlc.png" src-width="1322" src-height="2244" align="center"/>
 
-**重要时间点参考： **（以下会根据不同基金代理商有所不同）
+<b>重要时间点参考： </b>（以下会根据不同基金代理商有所不同）
 
 <table>
 <colgroup>
@@ -44,7 +44,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/ErYpbMF3GomuTOxqVVFcpX6Cneh.png" src-width="558" src-height="997"/>
 
-####  客户订单
+#### 客户订单
 
 执行菜单：基金管理&gt; 公募基金&gt;客户订单 Tab 页签
 
@@ -54,7 +54,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 注意：同时若租户劵商本身也接入下游劵商（OB 模式） ，下游劵商可以先透过【同步订单】操作下游劵商（OB）的基金订单同步至上游劵商
 
-####  外部份额
+#### 外部份额
 
 执行菜单：基金管理&gt; 公募基金&gt;外部份额 Tab 页签
 
@@ -93,7 +93,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/VJjEbvuHRoLSzexMdRBc1MI3nvb.png" src-width="3236" src-height="1524" align="center"/>
 
-数据发送之后，等后一段时间会收到基金公司申购/赎回确认档，这时在该基金记录操作区，选择数据【**回填**】
+数据发送之后，等后一段时间会收到基金公司申购/赎回确认档，这时在该基金记录操作区，选择数据【<b>回填</b>】
 
 <img src="/assets/H1ZWbz8fBokIdNxZZsRcqrFhnCb.png" src-width="3254" src-height="1438" align="center"/>
 
@@ -101,7 +101,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/IUXqbnTx7oOc43xucedcwVCWnkc.png" src-width="3256" src-height="1530" align="center"/>
 
-数据回填之后，接下操作**核对确认**，进行数据确认，确认提交
+数据回填之后，接下操作<b>核对确认</b>，进行数据确认，确认提交
 
 <img src="/assets/NWLzbuZkkogqE7x4Q4CcV1V3ngd.png" src-width="3192" src-height="1002" align="center"/>
 
@@ -134,6 +134,10 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 - 本作业维护一个公募基金的基金资料，配置基金主体和介绍，也可以管理基金的上架与显示展示。
 
 首先在基金纪录右侧操作区，可以操作【详情】或【详情】来查阅编辑基金资料，同时提供基金上架 与显示管理
+【上架】：是指将基金 纳入系统交易。并调整时需要标的是上架状态      
+【下架】：是指将基金 将无法在系统交易
+【显示】：是指基金可在 APP 端展示、搜索和交易 
+【隐藏】：是指基金在 APP 端不展示、不可搜索
 
 <img src="/assets/YsCmbcVQHogXjFx9iItcHFdinZb.png" src-width="3270" src-height="1578" align="center"/>
 
@@ -141,7 +145,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/WXGybiFD8oA8RixlSFbc9PHonXf.png" src-width="3294" src-height="1464" align="center"/>
 
-**APP 端展示效果**：  （如果一个 公募基金是 '上架' 且 '显示' 的 状况下）
+<b>APP 端展示效果</b>：  （如果一个 公募基金是 '上架' 且 '显示' 的 状况下）
 
 <img src="/assets/PaNSboCVRonRQGxtH9OcCiusnre.png" src-width="686" src-height="1482" align="center"/>
 
@@ -180,7 +184,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/WpjabgONio8tmpxMXQLc32exnmZ.png" src-width="3292" src-height="1634" align="center"/>
 
-**APP 端展示效果**： （当新建 基金公司后）
+<b>APP 端展示效果</b>： （当新建 基金公司后）
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[48%]" width-ratio="48">
@@ -217,7 +221,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/WSLKb9UCDoMevqxx7l6c92WEnff.png" src-width="3272" src-height="1570" align="center"/>
 
-首先可以点选【新建】，分别填入私募基金 ** 基本讯息/基本面/申购规则/赎回规则**
+首先可以点选【新建】，分别填入私募基金 <b> 基本讯息/基本面/申购规则/赎回规则</b>
 
 系统展示改成左侧树状 Tab 配置页面，提高数据展示优化
 
@@ -227,7 +231,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/TzmLbCEogoV1z2xw3pEcRuTynge.png" src-width="2754" src-height="1532" align="center"/>
 
-**申购规则**：
+<b>申购规则</b>：
 
 <img src="/assets/XVPbbuE1Ko0DH1xCv0jc3mgTntf.png" src-width="2296" src-height="1518" align="center"/>
 
@@ -272,13 +276,13 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 - 本作业可以进行私募基金后台的清算作业（包含数据确认/申购交收/赎回钱货交收）
 
-A. **数据发送** 
+A. <b>数据发送</b> 
 
 选中对应基金记录勾选，发送给基金公司，系统会判断基金订单状态'初始化'才会进行数据发送
 
 <img src="/assets/V17Rb0A1xodMOCxBW6Xc8S5dnve.png" src-width="3334" src-height="1707" align="center"/>
 
- B. **回填** 
+ B. <b>回填</b> 
 
  根据基金公司提供资料，更新基金对应净值以及每个帐户及总体申购份额、赎回金额及外部收费，进行回填
 
@@ -286,7 +290,7 @@ A. **数据发送**
 
 <img src="/assets/Qef2btbaPoWpS2xyHcFcyv2Bn5f.png" src-width="3272" src-height="1258" align="center"/>
 
- C.**私募交割** 
+ C.<b>私募交割</b> 
 
  选中对应基金管道单 ID 进行私募交割，完成货和钱交割的操作
 
@@ -333,7 +337,7 @@ A. **数据发送**
 
 热销基金模块是基金后台可配的运营型基金展示功能，热销基金页面进行配置后可以在 App 端展示，默认展示的收益周期是近 3 年收益率。
 
-**APP 端 参考画面**：
+<b>APP 端 参考画面</b>：
 
 <img src="/assets/Z3kNbSC3woTLFTxTF8UcDybjnUb.png" src-width="958" src-height="1722" align="center"/>
 
@@ -398,10 +402,10 @@ A. **数据发送**
 对上游劵商而言：
 
 1. 下手 OB 劵商提交的基金订单初期仅是基金申购请求，要经过上手劵商的的审批操作才能成为真正的基金订单转出，其中订单状况如下：
-    **待生成：同步后的初始状态（**上游劵商 将下游 OB 劵商的 基金 同步过来的 初始状态**）**
-    **已驳回：驳回订单后的状态**
+    <b>待生成：同步后的初始状态（</b>上游劵商 将下游 OB 劵商的 基金 同步过来的 初始状态<b>）</b>
+    <b>已驳回：驳回订单后的状态</b>
     <b>已生成：</b>
-    **下手已撤单**
+    <b>下手已撤单</b>
 
 2. 生成上手劵商基金订单前，需要对下手 OB 帐户余额进行检测，检测之后，才显示租户 OB 帐户对应的【帐户余额】和【持仓份额】数据，提供上游劵商审批操作下手 OB 劵商申购赎回进行参考
     在纪录右侧操作区点选【余额检测】，系统会计算目前该 OB 帐户的基金帐户余额与持仓份额
@@ -423,7 +427,7 @@ Whale 系统 提供 三种终端方式来交易基金，分别是 LongPort APP �
 <img src="/assets/Qe4ybdtltoJldrxBrUCcFdjvn9c.png" src-width="1578" src-height="651" align="center"/>
 
 - 接著输入 相对应的基金渠道的订单（申购），对应的基金渠道与基金产品，与申购金额，其中下单页面填入申购手续费用后，当核准后会从用户的对应币种现金里直接扣除
-    注：系统会判断 **申购手续费 + 申购金额 &gt;= 现金**
+    注：系统会判断 <b>申购手续费 + 申购金额 &gt;= 现金</b>
     <img src="/assets/NL2ybRVeWotjCAx1x8Kc0kPmnHf.png" src-width="3202" src-height="1716" align="center"/>
 
  或 相对应的基金渠道的订单（赎回），对应的基金渠道与基金产品，与赎回份数

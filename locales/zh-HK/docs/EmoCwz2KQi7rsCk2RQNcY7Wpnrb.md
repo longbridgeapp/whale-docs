@@ -1,11 +1,11 @@
 ---
-title: 快速上手
+title: 系統介紹
 slug: EmoCwz2KQi7rsCk2RQNcY7Wpnrb
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 
-# 快速上手
+# 系統介紹
 
 本使用手冊適用於 Longbridge Whale-權益平台，運營系統管理員和使用成員使用。閱讀此手冊，你將瞭解 Whale-權益平台作業功能操作
 
@@ -30,6 +30,11 @@ sidebar_position: 0
 ### 1.1 權益使用流程
 
 適用：運營人員，權益系統涉及到下列幾個主體：
+權益系統：運營人員負責配置管理權益項目 (卡劵福利/獎勵中心/權益中心)
+APP  端：客戶與各種權益做交互行為互動
+結算系統：當客戶與權益項目作交互時所產生的相關帳務處理
+數據服務系統：這部份是指一些權益項目與行情服務開通有關 (若有）
+交易系統：這部份是指一些權益項目與交易服務使用有關 (若有）
 
 ## 卡券福利
 
@@ -346,26 +351,26 @@ sidebar_position: 0
 
 <div class="flex gap-3 columns-4" column-size="4">
 <div class="w-[25%]" width-ratio="25">
-<p><strong>App 入口</strong></p>
+<p><b>App 入口</b></p>
 <img src="/assets/MscXb8U7KodWEIx6wRzcPdchnug.png" src-width="628" src-height="1352" align="center"/>
 
 <p>我的 - 我的卡券</p>
 </div>
 <div class="w-[25%]" width-ratio="25">
-<p><strong>我的卡券</strong></p>
+<p><b>我的卡券</b></p>
 <img src="/assets/EDeEbd2wdoZRuwxAD5oc2IYZnBd.png" src-width="624" src-height="1360" align="center"/>
 
 <p>用戶可自行查看當前已有卡券以及卡券狀態</p>
 </div>
 <div class="w-[25%]" width-ratio="25">
-<p><strong>交易使用卡券</strong></p>
+<p><b>交易使用卡券</b></p>
 <img src="/assets/OjY3b3jRSoyDDcxCf7scavNJnrf.png" src-width="674" src-height="1366" align="center"/>
 
 <img src="/assets/Nt8WbSAo0oOqf2xUtHZcWlUonSd.png" src-width="750" src-height="1624" align="center"/>
 
 </div>
 <div class="w-[25%]" width-ratio="25">
-<p><strong>打新使用卡券</strong></p>
+<p><b>打新使用卡券</b></p>
 <img src="/assets/J9z1byDzsoTwWyx2Qhzciofentd.jpeg" src-width="724" src-height="1610" align="center"/>
 
 </div>
@@ -375,7 +380,7 @@ sidebar_position: 0
 
 <div class="flex gap-3 columns-3" column-size="3">
 <div class="w-[33%]" width-ratio="33">
-<p><strong>App 入口</strong></p>
+<p><b>App 入口</b></p>
 <img src="/assets/UBDzbE9wno8h8IxE3tBcg1bbnLf.png" src-width="620" src-height="1366" align="center"/>
 
 <p>我的 - 獎勵記錄</p>
@@ -384,7 +389,7 @@ sidebar_position: 0
 <p>我的 - 活動中心 - 獎勵</p>
 </div>
 <div class="w-[33%]" width-ratio="33">
-<p><strong>獎勵記錄</strong></p>
+<p><b>獎勵記錄</b></p>
 <img src="/assets/HyG4b1X2aop949xSQR1cf9JhnH7.jpeg" src-width="1080" src-height="2374" align="center"/>
 
 <p>展示所有歷史記錄</p>
@@ -393,7 +398,7 @@ sidebar_position: 0
 <p>可篩選類別進行查看</p>
 </div>
 <div class="w-[33%]" width-ratio="33">
-<p><strong>實物獎勵領取</strong></p>
+<p><b>實物獎勵領取</b></p>
 <img src="/assets/QoVCbrFw5oUkeuxHErUchiB7nsg.png" src-width="750" src-height="1624" align="center"/>
 
 <p>輸入地址與電話</p>
@@ -410,7 +415,7 @@ sidebar_position: 0
 
 <div class="flex gap-3 columns-4" column-size="4">
 <div class="w-[25%]" width-ratio="25">
-<p><strong>商店入口</strong></p>
+<p><b>商店入口</b></p>
 <img src="/assets/O9QQbQtl7ojLErxqqzVc8YrVnz3.png" src-width="614" src-height="1366" align="center"/>
 
 <img src="/assets/Ave1bImSpoMlwextaaFc7K4tn3g.png" src-width="626" src-height="1374" align="center"/>
@@ -418,19 +423,19 @@ sidebar_position: 0
 <p>我的 - 我的行情 - 行情商店</p>
 </div>
 <div class="w-[25%]" width-ratio="25">
-<p><strong>行情商店</strong></p>
+<p><b>行情商店</b></p>
 <img src="/assets/LaYibIKfaou2tUxSmYIcOfpSn6g.jpeg" src-width="1080" src-height="2374" align="center"/>
 
 <p>展示所有產品，可分 tab 切換不同市場行情產品列表</p>
 </div>
 <div class="w-[25%]" width-ratio="25">
-<p><strong>購買產品</strong></p>
+<p><b>購買產品</b></p>
 <img src="/assets/LsPBbeU5sowKT1xw8zIcFXTqnMe.jpeg" src-width="1080" src-height="2374" align="center"/>
 
 <p>選擇對應產品、對應套餐支付購買</p>
 </div>
 <div class="w-[25%]" width-ratio="25">
-<p><strong>購買記錄查看</strong></p>
+<p><b>購買記錄查看</b></p>
 <img src="/assets/K18MbF2VVojVvZxWRJCc0QVanBd.png" src-width="628" src-height="1330" align="center"/>
 
 <img src="/assets/HUembGSCioUNOcxKOhecJIuXnjf.jpeg" src-width="1080" src-height="2338" align="center"/>

@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # HKIDR 操作文檔
 
-# **1.設置 HKIDR 參與者**
+# <b>1.設置 HKIDR 參與者</b>
 
 配置 HKIDR 的參與人信息
 
@@ -23,7 +23,7 @@ sidebar_position: 3
 <col width="365"/>
 </colgroup>
 <tbody>
-<tr><td><p><strong>港股 EP 模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
+<tr><td><p><b>港股 EP 模式</b></p></td><td><p><b>港股 Non-EP 模式</b></p></td></tr>
 <tr><td><p>新增一條參與者記錄：</p>
 <ul>
 <li>參與者名稱：選擇當前租戶選項；</li>
@@ -47,7 +47,7 @@ sidebar_position: 3
 </tbody>
 </table>
 
-# **2.設置 BCAN 區間**
+# <b>2.設置 BCAN 區間</b>
 
 <img src="/assets/HxltblUffocwObxkbzncFJNCnAd.png" src-width="425" src-height="149" align="center"/>
 
@@ -61,7 +61,7 @@ sidebar_position: 3
 <col width="365"/>
 </colgroup>
 <tbody>
-<tr><td><p><strong>港股 EP 模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
+<tr><td><p><b>港股 EP 模式</b></p></td><td><p><b>港股 Non-EP 模式</b></p></td></tr>
 <tr><td><ul>
 <li>CCEP：選擇當前租戶選項；</li>
 <li>使用者：選擇當前租戶選項；</li>
@@ -77,13 +77,13 @@ sidebar_position: 3
 </tbody>
 </table>
 
-# **3.分配 BCAN**
+# <b>3.分配 BCAN</b>
 
 ①客戶賬戶開通時，將自動給客戶分配 BCAN，並在客戶同意 HKIDR 授權協議下啓用申報流程；
 
 ②存量客戶：在配置完成 BCAN 區間後，請儘快聯絡長橋，我們將自動給存量客戶按區間分配 BCAN；
 
-# **4.申報 BCAN 到 HKEX**
+# <b>4.申報 BCAN 到 HKEX</b>
 
 申報邏輯：上報的數據是 已開通賬戶、有 BCAN 碼且同意授權協議 的全量客戶，申報給交易所後，獲取交易所返回的文件內容，將 BCAN 生效的狀態同步更新；
 
@@ -91,9 +91,9 @@ EP 模式支持 ECP SFTP 和 ECP Web 兩種方式；
 
 Non-EP 模式支持 ECP Web 方式；
 
-## **EP 模式申報**
+## <b>EP 模式申報</b>
 
-### **①方式 1：SFTP 系統申報**
+### <b>①方式 1：SFTP 系統申報</b>
 
 支持通過 ECP SFTP 方式自動申報
 
@@ -109,7 +109,7 @@ Non-EP 模式支持 ECP Web 方式；
 
 <img src="/assets/XE55bGVKcorS1Ex8Notc2zzHn6g.png" src-width="425" src-height="237" align="center"/>
 
-### **②方式 2：ECP Web 手動申報**
+### <b>②方式 2：ECP Web 手動申報</b>
 
 通過 Whale 後臺下載申報文件，去交易所官網上傳申報文件，將交易所返回的全景文件導入後臺；
 
@@ -143,7 +143,7 @@ Non-EP 模式支持 ECP Web 方式；
 
 <img src="/assets/Mr9Wbx4g6o9TY0xtxifcjqUQnQD.png" src-width="425" src-height="237" align="center"/>
 
-## **Non-EP 模式申報**
+## <b>Non-EP 模式申報</b>
 
 通過 Whale 後臺下載申報文件，去交易所官網上傳申報文件，將交易所返回的全景文件導入後臺；
 
@@ -177,7 +177,7 @@ Non-EP 模式支持 ECP Web 方式；
 
 <img src="/assets/J1QsbenWVo5fZvxntFfcutnfnke.png" src-width="425" src-height="237" align="center"/>
 
-# **5.其他報告文件**
+# <b>5.其他報告文件</b>
 
 <table>
 <colgroup>
@@ -198,7 +198,7 @@ Non-EP 模式支持 ECP Web 方式；
 
 **格式要求：所有包含要採用 CSV 格式
 
-## **①合併交易指令報告 (Aggregated Transaction Report)**
+## <b>①合併交易指令報告 (Aggregated Transaction Report)</b>
 
 合併交易指令或合併場外交易的相關受規管中介人，在 T+3 日內，在已執行的合併交易指令下的各項相關交易的資料需填入表格模板中，通過 ECP Web 提交給交易所。
 
@@ -225,7 +225,7 @@ Non-EP 模式支持 ECP Web 方式；
 </tbody>
 </table>
 
-## **②更改客戶券商編碼報告 (Change BCAN Report)**
+## <b>②更改客戶券商編碼報告 (Change BCAN Report)</b>
 
 修改已生效的券商客戶編碼，需要將客戶的信息填入表格模板中，通過 ECP Web 提交給交易所。
 
@@ -249,7 +249,7 @@ Non-EP 模式支持 ECP Web 方式；
 </tbody>
 </table>
 
-## **③券商客戶編碼錯誤報告**
+## <b>③券商客戶編碼錯誤報告</b>
 
 已部分/全部提交的交易指令發現不正確，在交易日6:00 PM 前，將需要變更的信息，通過 ECP Web 提交給交易所。
 
@@ -276,7 +276,7 @@ Non-EP 模式支持 ECP Web 方式；
 </tbody>
 </table>
 
-## **④場外交易 (買方) 券商客戶編碼報告**
+## <b>④場外交易 (買方) 券商客戶編碼報告</b>
 
 若買方的交易所參與者未能於收市前輸入券商客戶編碼，買方交易所參與者需通過 ECP Web 提交報告給交易所。
 
@@ -301,9 +301,9 @@ Non-EP 模式支持 ECP Web 方式；
 </tbody>
 </table>
 
-# **附錄**
+# <b>附錄</b>
 
-# **時間表**
+# <b>時間表</b>
 
 <table>
 <colgroup>
@@ -312,7 +312,7 @@ Non-EP 模式支持 ECP Web 方式；
 <col width="243"/>
 </colgroup>
 <tbody>
-<tr><td><p><strong>時間點</strong></p></td><td><p><strong>鯨魚</strong></p></td><td><p><strong>港交所</strong></p></td></tr>
+<tr><td><p><b>時間點</b></p></td><td><p><b>鯨魚</b></p></td><td><p><b>港交所</b></p></td></tr>
 <tr><td><p>T 日 8:00 am-03:00 pm<br/>(自動申報)</p></td><td><p>自動/手動 生成 BCAN-CID Mapping File，通過 SFTP 自動申報文件至交易所</p></td><td><p>返回 BCAN-CID Response File<br/>(提交申報文件 10 分鐘內)</p></td></tr>
 <tr><td><p>07:00 am-04:30 pm<br/>(手動申報)</p></td><td><p>Whale 後臺下載申報文件（HBCNMAPP）</p></td><td></td></tr>
 <tr><td></td><td></td><td><p>通過 ECP 網站，上傳申報文件</p></td></tr>

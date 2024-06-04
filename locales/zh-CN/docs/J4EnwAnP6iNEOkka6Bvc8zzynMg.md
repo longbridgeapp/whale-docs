@@ -26,10 +26,12 @@ sidebar_position: 2
 <img src="/assets/WIngb4ijJo553xxmlnUcvwoknCd.png" src-width="943" src-height="492" align="center"/>
 
 支持市场：
+- 公告类型为：通用公告、常规休市、临时休市、通道问题，支持设置；
 
 <img src="/assets/BfRQbKx98oIBfqxL47ocpiKxnie.png" src-width="1118" src-height="676" align="center"/>
 
 标的范围
+- 公告类型为：单股票，支持设置；
 
 <img src="/assets/JuAnbIrgLo0naGx6rnScgLbwnK7.png" src-width="1122" src-height="684" align="center"/>
 
@@ -42,6 +44,8 @@ sidebar_position: 2
 <img src="/assets/By8PbASm1oiy8oxw44ecP67xnUg.png" src-width="963" src-height="1380" align="center"/>
 
 当新增一个系统公告管理后：
+1. 新创建公告，提交工单审批，审批通过后才会生效；
+2. 可以在记录右侧操作区进行【编辑】或【禁用】
 
 <img src="/assets/YqX3bCObioOKxUxIeq2cSuEYnfg.png" src-width="3224" src-height="1506" align="center"/>
 

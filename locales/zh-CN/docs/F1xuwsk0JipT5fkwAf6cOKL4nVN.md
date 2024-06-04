@@ -44,6 +44,9 @@ sidebar_position: 11
 ## 12D 问：SDR025 - Stock Reconciliation Report 显示的任务结果 Successful Check／Manually Confirmed／ Manually Unrecognized 是什么意思？
 
 <b>答：</b>SDR025 的任务结果对应「清算管理 &gt; 清算检查 &gt; 检查结果」页面的任务结果栏位。
+- 检查通过，Successful Check；
+- 检查失败，点击了手动通过的 - Manually Confirmed；
+- 检查失败，未手动通过的 - Manually Unrecognized。
 
 <img src="/assets/Yuv6bFgCAos4RCxvmYjcU7MbnUn.png" src-width="2074" src-height="850" align="center"/>
 

@@ -30,9 +30,12 @@ TM 包含牛熊證回收（含剩餘價值）、私有化、債券回收前置�
 
 ## 操作說明 
 
-### 预告和方案的**創建**
+### 预告和方案的<b>創建</b>
 
 結算人員每天導入上日下午的 05 文件和 02 文件
+當天晚上執行公司行動的券商，在當日晚上導入文件
+第二天執行公司行動的券商，在第二日上午導入文件
+導入文件並解析成功後，系統將執行自動創建流程，10 左右可以完成創建
 
 系統將基於導入的 05 文件，在登記日生成有持倉的公司行動
 
@@ -42,9 +45,10 @@ TM 包含牛熊證回收（含剩餘價值）、私有化、債券回收前置�
 
 <img src="/assets/NJHtbch0Ioz9n3xUYI5cyi62nVw.png" src-width="3570" src-height="1780" align="center"/>
 
-### **登記**
+### <b>登記</b>
 
-在 CCASS 返還剩餘價值（CCASS 支付日期）**當天晚上或者下一天**可以開始操作公司行動
+在 CCASS 返還剩餘價值（CCASS 支付日期）<b>當天晚上或者下一天</b>可以開始操作公司行動
+例子：CCASS 支付日期=2024-02-05，可以在 5 號晚上，或者 6 號早上執行
 
 點擊【登記】。路径：公司行动 - 公司行动 - 详情
 
@@ -58,11 +62,11 @@ TM 包含牛熊證回收（含剩餘價值）、私有化、債券回收前置�
 
 <img src="/assets/QSS3bAsxaos0zUxeICgc7GOunxh.png" src-width="3548" src-height="1806" align="center"/>
 
-### **尾差處理**
+### <b>尾差處理</b>
 
 如果券商支付的資金需要對齊 CCASS 的值，可進行尾差處理
 
-**點擊尾差調整**
+<b>點擊尾差調整</b>
 
 <img src="/assets/SCUvbLVvdoIilkxef7bcxMDTnVh.png" src-width="3548" src-height="1806" align="center"/>
 
@@ -70,13 +74,13 @@ TM 包含牛熊證回收（含剩餘價值）、私有化、債券回收前置�
 
 <img src="/assets/GfWnbJ5Ksoxm1wxaqaIcKQ8xnad.png" src-width="3548" src-height="1806" align="center"/>
 
-### 4.**執行**
+### 4.<b>執行</b>
 
 登記成功（或尾差處理完畢後），點擊提交執行開始執行公司行動
 
 執行時分執行提交和執行審覈兩步，推薦雙人操作
 
-**點擊提交執行**
+<b>點擊提交執行</b>
 
 <img src="/assets/YJQdbo4x2o6WCRxyg9rcsQ3Rnrd.png" src-width="3548" src-height="1806" align="center"/>
 
@@ -93,7 +97,7 @@ TM 包含牛熊證回收（含剩餘價值）、私有化、債券回收前置�
 </div>
 </div>
 
-**點擊執行復核**
+<b>點擊執行復核</b>
 
 <img src="/assets/RGhEbfK0bo3lTbx6dzhcQdmunIe.png" src-width="3548" src-height="1806" align="center"/>
 

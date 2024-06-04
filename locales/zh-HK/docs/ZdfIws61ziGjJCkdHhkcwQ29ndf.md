@@ -88,8 +88,8 @@ sidebar_position: 1
 
 <b>答：</b>開通相關權限 key 後能操作，請見以下步驟。
 
-> **入金流水修改審批**`atm.deposit_jour_update_approval`；**入金流水修改**`atm.deposit_jour_update_ticket`
-**入金流水刪除審批**`atm.deposit_jour_delete_approval`；**入金流水刪除 **`atm.deposit_jour_delete_ticket`
+> <b>入金流水修改審批</b>`atm.deposit_jour_update_approval`；<b>入金流水修改</b>`atm.deposit_jour_update_ticket`
+<b>入金流水刪除審批</b>`atm.deposit_jour_delete_approval`；<b>入金流水刪除 </b>`atm.deposit_jour_delete_ticket`
 
 
 已完成的入金可在當天作修改／刪除（見 2H 圖一），操作修改／刪除後需要作審批（見 2H 圖二、圖三），入金記錄會顯示到相關流水（見 2H 圖四）。

@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## 2.2A 問：如何設置換滙操作？
 
-<b>答：</b>確認已配置幣種為可滙兌**、**幣種對、換滙策略、換滙池額度，前期設置請參考以下步驟。
+<b>答：</b>確認已配置幣種為可滙兌<b>、</b>幣種對、換滙策略、換滙池額度，前期設置請參考以下步驟。
 (i). 在「業務參數設置 &gt; 資金參數 &gt; 幣種」的頁面中，操作欄點擊「編輯」把滙兌功能設置為"yes"
 
 <img src="/assets/JUC4bkt5YohctzxrtPec0bpjnhh.png" src-width="2641" src-height="1274" align="center"/>

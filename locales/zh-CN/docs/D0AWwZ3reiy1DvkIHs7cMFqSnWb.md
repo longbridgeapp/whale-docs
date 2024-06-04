@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ## 2.2A 问：如何设置换汇操作？
 
-<b>答：</b>确认已配置币种为可汇兑**、**币种对、换汇策略、换汇池额度，前期设置请参考以下步骤。
+<b>答：</b>确认已配置币种为可汇兑<b>、</b>币种对、换汇策略、换汇池额度，前期设置请参考以下步骤。
 (i). 在「业务参数设置 &gt; 资金参数 &gt; 币种」的页面中，操作栏点击「编辑」把汇兑功能设置为"yes"
 
 <img src="/assets/JUC4bkt5YohctzxrtPec0bpjnhh.png" src-width="2641" src-height="1274" align="center"/>

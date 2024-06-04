@@ -1533,7 +1533,7 @@
                 "node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
                 "parent_node_token": "IEzzwtXSwiQRlfk5MxXcixFYn0f",
                 "obj_create_time": "1697191314",
-                "obj_edit_time": "1717384504",
+                "obj_edit_time": "1717505136",
                 "obj_token": "MrlAd80YxoNhf7xIT3XcZLZRn2e",
                 "children": [
                   {
@@ -1542,7 +1542,7 @@
                     "node_token": "Tn3iwKPmLi3Xgnk2IsScxDG8nCb",
                     "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
                     "obj_create_time": "1717384298",
-                    "obj_edit_time": "1717414512",
+                    "obj_edit_time": "1717508178",
                     "obj_token": "OTlOdlO2soAQdcxtGdWcbY0Knrf",
                     "children": [],
                     "has_child": false,
@@ -1556,7 +1556,7 @@
                     "node_token": "RetvwXjhyi4FLLkq9Qmc2n4wn9e",
                     "parent_node_token": "GhdWwm72LicoNykrY8KcJm2wnEc",
                     "obj_create_time": "1717412899",
-                    "obj_edit_time": "1717473020",
+                    "obj_edit_time": "1717507848",
                     "obj_token": "G3Z4dORm8oqnXixF1rMcXDjBn1f",
                     "children": [],
                     "has_child": false,
@@ -1582,15 +1582,29 @@
                   {
                     "depth": 4,
                     "title": "快速上手",
+                    "node_token": "La10wFdMFiOGotk3TSJc8DLynVf",
+                    "parent_node_token": "Nohgwdf4midxtCkmYPtcemFenog",
+                    "obj_create_time": "1717483031",
+                    "obj_edit_time": "1717483424",
+                    "obj_token": "SdIiderMxooCVvxbIytcQydvnLh",
+                    "children": [],
+                    "has_child": false,
+                    "slug": "La10wFdMFiOGotk3TSJc8DLynVf",
+                    "position": 0,
+                    "filename": "La10wFdMFiOGotk3TSJc8DLynVf.md"
+                  },
+                  {
+                    "depth": 4,
+                    "title": "系統介紹",
                     "node_token": "EmoCwz2KQi7rsCk2RQNcY7Wpnrb",
                     "parent_node_token": "Nohgwdf4midxtCkmYPtcemFenog",
                     "obj_create_time": "1717384313",
-                    "obj_edit_time": "1717384395",
+                    "obj_edit_time": "1717483417",
                     "obj_token": "JAzDdvVTVoVDsUxv7N2cjUTmnwf",
                     "children": [],
                     "has_child": false,
                     "slug": "EmoCwz2KQi7rsCk2RQNcY7Wpnrb",
-                    "position": 0,
+                    "position": 1,
                     "filename": "EmoCwz2KQi7rsCk2RQNcY7Wpnrb.md"
                   }
                 ],
@@ -1947,7 +1961,7 @@
             "node_token": "UBEKw7RaXiTmyzkQ9pjciLCCnCh",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1715221759",
-            "obj_edit_time": "1717051434",
+            "obj_edit_time": "1717497092",
             "obj_token": "OTyVdgUaFodm3axjPezcHWspnRb",
             "children": [
               {
@@ -2103,7 +2117,7 @@
             "node_token": "KgzbwrUGhiVyctkAgP8cJgbsnSd",
             "parent_node_token": "JIl7wbv6ViOo7IkpuVrcH8GEnKe",
             "obj_create_time": "1715221937",
-            "obj_edit_time": "1716862986",
+            "obj_edit_time": "1717483858",
             "obj_token": "BDC3d8yO0oMJMpxuogccSwADnXf",
             "children": [
               {
@@ -2112,7 +2126,7 @@
                 "node_token": "QDiWwbHIeiQj2nkQBBWcOlyunke",
                 "parent_node_token": "KgzbwrUGhiVyctkAgP8cJgbsnSd",
                 "obj_create_time": "1715931009",
-                "obj_edit_time": "1716863353",
+                "obj_edit_time": "1717496932",
                 "obj_token": "VbhSdFo2ooib9RxSY86c1OrAnaf",
                 "children": [],
                 "has_child": false,

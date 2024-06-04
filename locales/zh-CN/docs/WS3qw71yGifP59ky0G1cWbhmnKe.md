@@ -38,13 +38,13 @@ Whale 会计中台系统全面支持券商证券业务记账流程，包括记�
 
 在使用会计中台前，券商需要配置会计属性。
 
-**步骤一：查看科目属性**
+<b>步骤一：查看科目属性</b>
 
 每个券商公司可自定义科目属性
 
 <img src="/assets/KOKabzVdooQPyXxd88NceFxUnXl.png" src-width="2864" src-height="1078" align="center"/>
 
-**步骤二：科目属性配置**
+<b>步骤二：科目属性配置</b>
 
 点选『科目属性』右上角：‘新建’，设定对应科目属性信息。
 
@@ -54,11 +54,11 @@ Whale 会计中台系统全面支持券商证券业务记账流程，包括记�
 
 每个券商公司可自定义会计科目。
 
-**步骤一：查看会计科目**
+<b>步骤一：查看会计科目</b>
 
 <img src="/assets/RlfBbN78DoFeRlxwq7fcSQ8QnZe.png" src-width="2848" src-height="1022" align="center"/>
 
-**步骤二：会计科目配置**
+<b>步骤二：会计科目配置</b>
 
 会计科目可以根据数量多少选择选择「单笔新建」或者「批量导入」。
 
@@ -70,53 +70,53 @@ Whale 会计中台系统全面支持券商证券业务记账流程，包括记�
 
 <img src="/assets/Ry4cbJz1coXQIqx6WkycpxzUnvb.png" src-width="2872" src-height="1096" align="center"/>
 
-### **分录规则配置**
+### <b>分录规则配置</b>
 
 每个券商公司可自定义分录规则。
 
-**步骤一：查看分录规则**
+<b>步骤一：查看分录规则</b>
 
 <img src="/assets/COgUbDru0oLdIZxMBKccjaiDn5e.png" src-width="2854" src-height="1090" align="center"/>
 
-**步骤二：分录规则配置**
+<b>步骤二：分录规则配置</b>
 
 点选『分录规则』右上角：‘新增’，设定对应券商公司的分录规则。
 
 <img src="/assets/SF8Wbx51UoNRFdxIxBscAFMXnJd.png" src-width="3018" src-height="4624" align="center"/>
 
-### **资金类型配置**
+### <b>资金类型配置</b>
 
 每个券商公司可自定义资金类型。
 
-**步骤一：查看资金类型**
+<b>步骤一：查看资金类型</b>
 
 <img src="/assets/Pdtzbstg8ohnu7xoFPacVRVBnJe.png" src-width="3806" src-height="1504" align="center"/>
 
-**步骤二：资金类型配置**
+<b>步骤二：资金类型配置</b>
 
 点选『资金类型』右上角：‘新建’，设定对应券商公司的资金类型。
 
 <img src="/assets/YFUZbeKixoKNJcxc7QRcn5rcnhe.png" src-width="3826" src-height="1470" align="center"/>
 
-### **合并规则配置**
+### <b>合并规则配置</b>
 
-**每个券商公司可根据导出报表需求自定义合并规则。**
+<b>每个券商公司可根据导出报表需求自定义合并规则。</b>
 
-**步骤一：查看合并规则**
+<b>步骤一：查看合并规则</b>
 
 <img src="/assets/V39XbXqLDoGnzpxOThDcOfLXnjg.png" src-width="2866" src-height="1162" align="center"/>
 
-**步骤二：合并规则配置**
+<b>步骤二：合并规则配置</b>
 
 点选『合并规则』右上角：‘新建’，设定对应券商公司的合并规则。
 
 <img src="/assets/C0cfb4CyDoi4itxlHZkcFoi7nBe.png" src-width="952" src-height="1776"/>
 
-## **记账结果查询**
+## <b>记账结果查询</b>
 
-券商证券业务发生后，系统会根据记账参数生成记账结果供用户进行查询和导出**。**
+券商证券业务发生后，系统会根据记账参数生成记账结果供用户进行查询和导出<b>。</b>
 
-### **财务报表导出**
+### <b>财务报表导出</b>
 
 会计中台可根据券商公司使用的财务软件报表格式进行定制，系统直接导出财务报表。
 
