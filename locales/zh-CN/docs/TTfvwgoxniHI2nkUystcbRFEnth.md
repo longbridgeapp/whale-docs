@@ -23,7 +23,17 @@ sidebar_position: 2
 
 <img src="/assets/PDj8br9XVoOn3Fx1aECcRf90nyb.png" src-width="2490" src-height="1432" align="center"/>
 
+3B 图一
+
+在「证券管理 &gt; 证券取出」页面点击「手工出仓」
+
 <img src="/assets/SNw3b90UloaVJBxUiGWcfnFsnzl.png" src-width="2498" src-height="1432" align="center"/>
 
+3B 图二
+
+在「证券管理 &gt; 证券存入」页面点击「手工入仓」
+
 <img src="/assets/LYdCbsegXowknTxJaGfcPB0VnLb.png" src-width="2478" src-height="1428" align="center"/>
+
+3B 图三
 

@@ -23,7 +23,12 @@ sidebar_position: 0
 
 <img src="/assets/GHjHbWfbRompGoxi1VNc9NpEnGe.png" src-width="2392" src-height="1370" align="center"/>
 
+2.1C 图一
+
 <img src="/assets/VfvRbt4FBonc9hxdR4XcuAfknAc.png" src-width="2086" src-height="1608" align="center"/>
+
+2.1C 图二
+
 
 ## 2.1D 问：如何修改客户 App 中的入金公司银行资料？
 
@@ -33,5 +38,9 @@ sidebar_position: 0
 
 <img src="/assets/Vc2QbPGc7oknlaxnRYgcacyVnkb.png" src-width="2510" src-height="884" align="center"/>
 
+2.1D 图一
+
 <img src="/assets/ODMMbjxDOo4bgXxkT1uc7tCfnkf.png" src-width="1914" src-height="1384" align="center"/>
+
+2.1D 图二
 

@@ -13,7 +13,11 @@ sidebar_position: 1
 
 <img src="/assets/U6mgbVQJMoPq4hxt7PccOUQFnie.png" src-width="2150" src-height="1368" align="center"/>
 
+2A 圖一
+
 <img src="/assets/DaUNb7Wl0ogp4DxL0DFcLegPnhf.png" src-width="2606" src-height="404" align="center"/>
+
+2A 圖二
 
 ## 2B 問：完成日終後，需要補回入金／出金流水如何處理？
 
@@ -22,9 +26,19 @@ sidebar_position: 1
 
 <img src="/assets/X4rNbbODZoe8J2xZnyYcBQQhnEb.png" src-width="2858" src-height="1418" align="center"/>
 
+2B 圖一
+
 <img src="/assets/NmRob8vlcoKJAYxPXtZcEXBXniy.png" src-width="2390" src-height="1420" align="center"/>
 
+2B 圖二
+
+如不用重新計算利息／交收數據，資產類回撤可選不操作
+
 <img src="/assets/DSvWbZY21oVMelxWNRScazVsnFe.png" src-width="2392" src-height="972" align="center"/>
+
+2B 圖三
+
+選擇「持倉流水／資金流水」頁面，選擇相應流水點擊「編輯日期」
 
 ## 2C 問：出金申請已作審批，如何駁回客户的出入／入金申請？
 
@@ -59,7 +73,11 @@ sidebar_position: 1
 </div>
 </div>
 
+                           2E 圖一                                                         2E 圖二                                                   2E 圖三
+
 <img src="/assets/IjdsbtsZcoyJ0uxVT2jcwigJnNb.png" src-width="2602" src-height="804" align="center"/>
+
+2E 圖四
 
 ## 2F 問：出入金、換滙能有通知嗎？
 
@@ -67,9 +85,17 @@ sidebar_position: 1
 
 <img src="/assets/Rbu5b5MenoPc9MxctebcZbJYnxh.png" src-width="2386" src-height="374" align="center"/>
 
+2F 圖一
+
 <img src="/assets/KnysbQGiboT6LexJWY7cb4BLnqb.png" src-width="2371" src-height="1098" align="center"/>
 
+2F 圖二
+
 <img src="/assets/SmFtbTzmGo7XxjxEyFGcWzuKntd.png" src-width="2021" src-height="966" align="center"/>
+
+2F 圖三
+
+Webhook 為內部飛書通知沒對外開放
 
 ## 2G 問：為什麼出金申請沒作提交，會自動去到了"提現處理"？
 
@@ -78,11 +104,19 @@ sidebar_position: 1
 
 <img src="/assets/QQUGbVKIhoEl18xWWoSctnhAnKs.png" src-width="2760" src-height="750" align="center"/>
 
+2G 圖一
+
 <img src="/assets/UC21bq2uVorNlZxGmNVcMMOZntc.png" src-width="2760" src-height="1368" align="center"/>
+
+2G 圖二
 
 <img src="/assets/Bb89bPm9DoeC5IxJfBWcD8B6nj3.png" src-width="2386" src-height="1352" align="center"/>
 
+2G 圖三
+
 <img src="/assets/MpXUbQZBsoipcYxMfRmcULyen3d.png" src-width="2364" src-height="540" align="center"/>
+
+2G 圖四
 
 ## 2H 問：入金能做到入賬後修改／撤銷？
 
@@ -96,9 +130,17 @@ sidebar_position: 1
 
 <img src="/assets/NfrDbOevGoxGOHxcOLNcuXuinVe.png" src-width="2866" src-height="524" align="center"/>
 
+2H 圖一
+
 <img src="/assets/I8ZSb1EEvoeC1mxSZxcccRtNnYb.png" src-width="2518" src-height="418" align="center"/>
+
+2H 圖二
 
 <img src="/assets/Q7cjbJbJeoPTARxKk4ucMuQHn0b.png" src-width="2516" src-height="984" align="center"/>
 
+2H 圖三
+
 <img src="/assets/BFl7b77zxo9pzCx4CnIcFq0Snwe.png" src-width="2606" src-height="336" align="center"/>
+
+2H 圖四
 

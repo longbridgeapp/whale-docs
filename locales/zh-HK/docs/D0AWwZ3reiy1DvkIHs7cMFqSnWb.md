@@ -30,7 +30,7 @@ sidebar_position: 1
 
 - 默認
 - 服務策略：滙兌池換滙
--滙兌類型：無
+- 滙兌類型：無
 - 輸入服務時段
 - 支持的幣種對，點擊「添加」
 
@@ -72,9 +72,15 @@ sidebar_position: 1
 
 <img src="/assets/C1GabusCEojk4zx7ayVctC9knoe.png" src-width="1268" src-height="194" align="center"/>
 
+2.2B 圖一
+
 <img src="/assets/PLKybW3K0oF9ruxOQIncWNRcndc.png" src-width="2510" src-height="768" align="center"/>
 
+2.2B 圖二
+
 <img src="/assets/WQpSbYbOWoicPbxj8aJcjdnDnVd.png" src-width="2042" src-height="382" align="center"/>
+
+2.2B 圖三
 
 ## 2.2C 問：客户提交換滙申請為何不成功？
 
@@ -82,7 +88,7 @@ sidebar_position: 1
 
 設置換滙池的步驟見以下：
 
-(i). 在「業務參數設置 &gt; 滙兌 ＞ 換滙池額度配置」頁面點擊「新建」
+(i). 在「業務參數設置 &gt; 滙兌 &gt; 換滙池額度配置」頁面點擊「新建」
 
 <img src="/assets/TVtNbgv4toAidqx4W6HcBjAUnwO.png" src-width="2856" src-height="1555" align="center"/>
 

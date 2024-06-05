@@ -43,7 +43,11 @@ sidebar_position: 8
 
 <img src="/assets/IaX0bfJBNoFOpDx251mcLltcnDf.png" src-width="2512" src-height="734" align="center"/>
 
+9F 图一
+
 <img src="/assets/CiitbN2CNoRlFAxUM9XcHrltnab.png" src-width="756" src-height="1469" align="center"/>
+
+9F 图二
 
 ## 9G 问：如何更新基金的价格？
 
@@ -88,7 +92,11 @@ sidebar_position: 8
 
 <img src="/assets/CGLnby2T8opjzqxl6Fnck8EhnMh.png" src-width="2502" src-height="692" align="center"/>
 
+9J 图一
+
 <img src="/assets/MqZdbvUTJoP5iixFXubcMB87nNh.png" src-width="2170" src-height="1042" align="center"/>
+
+9J 图二
 
 ## 9K 问：补回之前的基金净值，结单上会更新吗？
 

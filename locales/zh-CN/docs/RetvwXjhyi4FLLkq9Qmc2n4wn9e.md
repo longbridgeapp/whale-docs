@@ -11,7 +11,7 @@ sidebar_position: 1
 - 标准活动类型：邀请活动/基础活动/组队活动等等
 - 非标准活动管理：提供自主的活动管理要素，方便满足安排个性化活动
 
-透过方便的营销活动模板，来管理各种营销活动。
+透过方便的营销活动模板，来管理各种营销活动，实现数字化营销。
 
 <img src="/assets/X73CbSkaIo7tLSxomLrcalD3ngc.png" src-width="1276" src-height="920"/>
 
@@ -128,11 +128,11 @@ sidebar_position: 1
 
 邀请活动通过绑定关系进行发奖。
 
-邀请活动支持固定奖励和阶梯奖励两种类型
+此外，邀请活动支持固定奖励和阶梯奖励两种奖励类型
 
-固定奖励：
+固定奖励：每邀请一个新用户完成任务，即会固定获得奖励
 
-阶梯奖励：
+阶梯奖励：划分被邀请人数量区间，邀请人数位于某一区间内，每邀请一个新用户即会获得该区间对应的奖励，到达下一区间时还可设置邀请人的额外奖励，通常邀请人数越多奖励越大。
 
 #### 邀请活动配置
 
@@ -140,7 +140,7 @@ sidebar_position: 1
 
 若要新增一个邀请活动，可以点击邀请活动模块下的新建按钮
 
-<img src="/assets/JmakbYX41oBZJHxwwhScg2DVnhd.png" src-width="2334" src-height="516" align="center"/>
+<img src="/assets/AER4bgL9IoaITpxZVxBcRb4qncb.png" src-width="1280" src-height="199" align="center"/>
 
 邀请活动新建页面如下
 
@@ -178,20 +178,24 @@ sidebar_position: 1
 </tbody>
 </table>
 
+<b>奖励规则</b>
+
 点击新增奖励规则，不同奖励类型和活动属性填写字段不同：
 
-- 固定奖励
+固定奖励
 
-<img src="/assets/T433bvYTgonf6yxtfWocGZkCnFc.png" src-width="2316" src-height="1498"/>
+<img src="/assets/U3aZb5mg5of06dx43ICcE8xqnKb.png" src-width="1280" src-height="980" align="center"/>
 
-- 阶梯奖励
+阶梯奖励
 
-<img src="/assets/BBYEbJf3mowD2zxPfSzcCLfWnXc.png" src-width="1370" src-height="1502"/>
+<img src="/assets/JDXobSrslo2J3WxPlPPcy2xxn5b.png" src-width="1280" src-height="958" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>💡</div>
 <p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
 </div>
+
+<b>奖品设置</b>
 
 点击新建奖品规则，该区域出现配置项：
 
@@ -258,7 +262,7 @@ sidebar_position: 1
 
 点击邀请活动模块下的新建按钮
 
-<img src="/assets/Qlnwb3EjroFk1IxAIO7czVbcnPe.png" src-width="3140" src-height="448" align="center"/>
+<img src="/assets/HN74b0O8hoeRyPxcxh9cg5rknXf.png" src-width="1280" src-height="203" align="center"/>
 
 打开如下页面：
 
@@ -292,9 +296,9 @@ sidebar_position: 1
 </tbody>
 </table>
 
-新建奖励规则
+<b>奖励规则</b>
 
-<img src="/assets/KSukbfhsrozD3hx4FUocremknnb.png" src-width="1238" src-height="1760"/>
+<img src="/assets/KUNcbA3NmofF3PxOJmycvDnLnUb.png" src-width="1280" src-height="989" align="center"/>
 
 - 不同奖励生成时间规则下，奖励的计算逻辑会有部分差别
 
@@ -316,7 +320,11 @@ sidebar_position: 1
 </tbody>
 </table>
 
-- 如交易或资产类达标任务想设置多档位，对应多个奖励，可添加多条奖励规则。
+- 如交易或资产类达标任务想设置多档位，对应多个奖励，可添加多条奖励规则
+
+例：以下为同一活动中设置 4 条奖励规则，净入金任务分为 3 个档位，选择「期间实时生成」，则用户每达标一个任务，生成一条奖励
+
+<img src="/assets/K1grbEvVzoM2RbxUnmFc1Tyxn8d.png" src-width="3144" src-height="548" align="center"/>
 
 #### 2.2.3 基础活动奖励数据查询
 
@@ -381,7 +389,7 @@ sidebar_position: 1
 
 点击组队活动模块下的新建按钮
 
-<img src="/assets/JAafbuL3dowXLzxcxqbcv7JMn2b.png" src-width="3258" src-height="416" align="center"/>
+<img src="/assets/V6KbbtB01oan48x5crCcIj4Fnph.png" src-width="1280" src-height="201" align="center"/>
 
 打开如下页面：
 
@@ -545,7 +553,7 @@ sidebar_position: 1
 
 点击页面上方新建按钮，打开如下页面
 
-<img src="/assets/LbkObHWSIoslAuxCnRbc1CbRnpf.png" src-width="2362" src-height="1976" align="center"/>
+<img src="/assets/WUbbbmKlpo8dfbxx04mcYZesned.png" src-width="1742" src-height="1612" align="center"/>
 
 如上述使用场景举例，因为非标准活动事实上没有明确的规则，创建非标准活动主要为了拿到活动 code（活动编码），后续通过奖励中心关联该活动 code 发放奖励，因此上方创建页面中的非必填字段可不必填写，忽略即可。
 
@@ -565,11 +573,12 @@ sidebar_position: 1
 </tbody>
 </table>
 
+## 
 ## 邀请关系管理
 
 如图：一个用户在一个 App 下会生成当前 App 唯一邀请码，用户将自己邀请码分享给好友，好友即可填写绑定。绑定后会更新在邀请关系清单中
 
-通过邀请活动绑定的邀请关系可再次查询，也可以在此进行人工绑定
+通过邀请活动绑定的邀请关系可在此查询，也可以在此进行人工绑定
 
 执行菜单：运营系统&gt; 活动系统&gt;邀请关系管理
 
@@ -591,7 +600,7 @@ sidebar_position: 1
 
 点击邀请关系管理页面的新建按钮，打开如下弹窗
 
-<img src="/assets/H2Azb8j9col4mDxrBi3cXIIanSg.png" src-width="2700" src-height="396" align="center"/>
+<img src="/assets/MlXGb9xbvoLBWixKIjOcxQtUncb.png" src-width="1280" src-height="183" align="center"/>
 
 <img src="/assets/Siw6buGRcoNmdXxok4UcTR9XnVb.png" src-width="936" src-height="708"/>
 
@@ -601,15 +610,13 @@ sidebar_position: 1
 
 首先通过筛选找到欲为其绑定邀请人的被邀请人用户，点击该用户详情，进入查看
 
-<img src="/assets/QSq5bfyybo4h6vx37pYcvJAhnRe.png" src-width="2716" src-height="600" align="center"/>
+<img src="/assets/N546br6XmosDyvxLYDbcsHl1nCe.png" src-width="2698" src-height="392" align="center"/>
 
 详情中，会显示该用户的注册邀请人，并可在此选择进一步绑定开户邀请人和入金邀请人
 
-<img src="/assets/V4MkbLIMPoU9iJxzchDcwlMVnAf.png" src-width="2706" src-height="1760"/>
+<img src="/assets/YoMVbBw4ZohoO4xcb3LcDktanng.png" src-width="2712" src-height="1710" align="center"/>
 
-<img src="/assets/RCPRb6OfloIPm2xqeGCcw5rjnqh.png" src-width="942" src-height="706"/>
-
-输入邀请人用户编号后，即可完成对此被邀请人绑定入金邀请人的操作。
+在随后出现的弹窗中输入邀请人用户编号后，即可完成对此被邀请人绑定开户/入金邀请人的操作
 
 # 运营活动常见问题查询
 
@@ -619,25 +626,25 @@ sidebar_position: 1
 
 先查活动配置是否正确，点击对应活动后方详情进入查看活动规则配置，确认配置的对应规则和奖励是否正确
 
-<img src="/assets/U7GBbBuBHoaEJRxMuydcDW8pn1f.png" src-width="3796" src-height="1848" align="center"/>
+<img src="/assets/Bm7XbapCGoQlujxdKk3cAiAxnUe.png" src-width="1280" src-height="595" align="center"/>
 
-<img src="/assets/EGO6bDqCfo4tquxulWjcKxkxn0J.png" src-width="3288" src-height="1574"/>
+<img src="/assets/WCrUbCPoWoJQUDxntc6clhYenQe.png" src-width="1280" src-height="636" align="center"/>
 
 若正确，则正确进入获奖名单查询是否生成以及奖励记录状态
 
-<img src="/assets/LoiAbpfnCoNufQxTQMTc8z58nMe.png" src-width="3316" src-height="1400" align="center"/>
+<img src="/assets/FybmbBlwMo7sbjxEK0GcK0LKnXf.png" src-width="1280" src-height="443" align="center"/>
 
-若 发放中则说明系统还在发放中，若待提交则需要运营同学点击提交进行发放
+若发放中则说明系统还在发放中，若待提交则需要运营同学点击提交进行发放
 
 ## 如何查询用户是否绑定成功邀请关系？
 
 执行菜单：运营系统&gt; 活动系统&gt;邀请关系管理
 
-<img src="/assets/KMBWbh2Y4oKUm6xcDx4c3XxNnrd.png" src-width="3778" src-height="1698" align="center"/>
+<img src="/assets/PSsKbHDAtoGVJLxlExUcQj5DnJd.png" src-width="1280" src-height="492" align="center"/>
 
 如图，搜索后列表会展示所有该用户绑定的邀请关系，点击后方详情可查看具体绑定的用户信息
 
-<img src="/assets/V1hDb0WQBoHYGvxpkZFcbVrYnbd.png" src-width="3240" src-height="1792" align="center"/>
+<img src="/assets/IPDTb6xbGoF216xgd5BcJWI6noe.png" src-width="1280" src-height="395" align="center"/>
 
-<img src="/assets/GBnYbNhRso2atSx3WFqc93BLnHg.png" src-width="3244" src-height="1866" align="center"/>
+<img src="/assets/Sz5IbVApfodSA1xuvETcfVsknLb.png" src-width="1280" src-height="632" align="center"/>
 

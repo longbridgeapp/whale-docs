@@ -48,11 +48,13 @@ sidebar_position: 0
 
 ## 標准活動管理
 
+邀請活動：通過用戶邀請好友完成任務，双方獲得獎品（常用的裂變活動模式）
+
+基礎活動：用戶本人完成對應活動獲得獎品，提升關鍵節點轉化率，實現獲客、入金、交易等增長目標
+
+組隊活動：多人一起參與活動，達到指定人數要求且隊員都完成對應任務即可獲得獎品
+
 ### 如何創建一個邀請活動？
-
-適用場景：老客戶邀請新客戶活動，雙方獲得獎勵，提升分享邀請轉化率
-
-#### 操作說明
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -61,7 +63,7 @@ sidebar_position: 0
 
 點擊邀請活動模塊下的新建按鈕
 
-<img src="/assets/P394bdohJonAcRx8qL8cVynOngf.png" src-width="1280" src-height="282" align="center"/>
+<img src="/assets/BsHabxNQGow09exZLzMciAXDnpg.png" src-width="2700" src-height="420" align="center"/>
 
 邀請活動新建頁面如下
 
@@ -101,18 +103,13 @@ sidebar_position: 0
 
 點擊新增獎勵規則，不同獎勵類型下獎勵規則需填寫的字段不同：
 
-- 固定獎勵
+固定獎勵
 
 <img src="/assets/Nq3rbDizBoD2YexjzCCcaT1xnCc.png" src-width="2274" src-height="1742" align="center"/>
 
-- 階梯獎勵
+階梯獎勵
 
 <img src="/assets/CEA9b127yoXfrnxY6JXc6ruzndN.png" src-width="2340" src-height="1752" align="center"/>
-
-<div class="callout callout-bg-2 callout-border-2">
-<div class='callout-emoji'>💡</div>
-<p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
-</div>
 
 <b>獎品設置</b>
 
@@ -126,126 +123,18 @@ sidebar_position: 0
 
 ### 如何創建一個基礎活動？
 
-適用場景：通過開戶入金活動，提升關鍵節點轉化率，實現獲客、入金、交易等增長目標
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：運營系統＞活動系統＞標準活動管理</p>
+</div>
 
-#### 操作說明
+點擊基礎活動模塊下的新建按鈕
 
-### 如何創建一個組隊活動？
+<img src="/assets/ZSo7bLnafoxPLExdBQ6cjDBIn2l.png" src-width="2718" src-height="432" align="center"/>
 
-適用場景：促進老客戶分享，達到裂變效果
+打開如下頁面：
 
-#### 操作說明
-
-## 非標准活動管理
-
-### 如何創建一個非標准活動？
-
-#### 操作說明
-
-## 邀請關係管理
-
-### 如何新增邀請關係？
-
-#### 操作說明
-
-# 
-### 
-活動管理列表字段說明
-
-<table>
-<colgroup>
-<col width="111"/>
-<col width="753"/>
-</colgroup>
-<tbody>
-<tr><td><p>字段名稱</p></td><td><p>配置說明</p></td></tr>
-<tr><td><p>序號</p></td><td><p>填寫的名稱將最終展示在用戶的獎勵資訊中，需要謹慎填寫。可配置多語言，支持中文簡體、中文繁體、英語三種語言標題配置，配置好後將更具用戶手機系統語言默認展示對應語言。若無需多語言展示則三個語言標題都配置統一語言標題即可。</p></td></tr>
-<tr><td><p>活動代碼</p></td><td><p>活動有效時間，即用戶必須在活動時間內完成對應任務才可獲得獎勵</p></td></tr>
-<tr><td><p>活動名稱</p></td><td><p>關聯對應的用戶分群，設置目標用戶後則僅該用戶範圍內的用戶才可參與活動。</p></td></tr>
-<tr><td><p>延時時間</p></td><td><p>活動發獎任務時效時間。由於活動任務需要用戶分群給出準確數據，因此會有些許延時。</p>
-<ul>
-<li>五分鐘：一般對於只是開戶註冊活動任務的活動設置 5 分鐘延時即可</li>
-<li>一天：對於有入資、轉倉等用戶任務列表的活動，設置一天延時</li>
-</ul></td></tr>
-<tr><td><p>活動類型</p></td><td><p>按照不同類型進行選擇</p>
-<ul>
-<li>常規活動：活動數據為累計相加的數據，計入最終給用戶的邀請獲得獎勵總數據中展示。同一時間段內一個用戶只可參加一個常規活動，獲得一個活動獎品</li>
-<li>營銷活動：不限制用戶參與次數且不計入用戶基礎邀請活動所得獎勵總數中，比如：用戶助力活動等等短期邀請活動</li>
-</ul></td></tr>
-<tr><td><p>屬性</p></td><td><ul>
-<li>新用戶：新用戶活動（僅基礎活動）</li>
-<li>老用戶：老用戶活動（僅基礎活動）</li>
-<li>固定獎勵：邀請一個新用戶完成任務即獲得獎勵（僅邀請活動）</li>
-<li>階梯獎勵：邀請多人完成任務解鎖不同階梯獎勵並進行疊加，依數量遞增（僅邀請活動）</li>
-</ul></td></tr>
-<tr><td><p>活動狀態</p></td><td><p>當前活動狀態：</p>
-<ul>
-<li>草稿（已創建活動但還未點擊發佈之前）：編輯、删除、發佈</li>
-<li>未開始（發佈後活動還未開始）：編輯、關閉</li>
-<li>運行中（已過活動開始時間未到結束時間）：編輯、關閉</li>
-<li>已結束（已過活動結束時間）：查看</li>
-</ul></td></tr>
-<tr><td><p>活動時間</p></td><td><p>顯示開始時間 - 結束時間；</p></td></tr>
-<tr><td><p>創建時間</p></td><td><p>活動創建時間</p></td></tr>
-</tbody>
-</table>
-
-### 
-活動獎勵數據查詢（只有當活動運行中進行發獎時才有數據顯示）
-
-點擊對應活動後方詳情按鈕，進入活動詳情頁面，點擊“獲獎數據”tab，進入以下頁面
-
-<img src="/assets/SK9Kbr7z1o4fDgxj2ovcfA85npc.png" src-width="3278" src-height="1208" align="center"/>
-
-數據統計
-
-待提交：未提交進行發放的獎勵記錄
-
-發放中：發放中的獎勵記錄
-
-已發放：已發放成功的獎勵記錄
-
-失敗：發放失敗的獎勵記錄數
-
-取消發放：點擊取消的獎勵記錄數
-
-全部：所有該活動獎勵記錄數
-
-<table>
-<colgroup>
-<col width="111"/>
-<col width="753"/>
-</colgroup>
-<tbody>
-<tr><td><p>列表字段</p></td><td><p>字段說明</p></td></tr>
-<tr><td><p>編號</p></td><td><p>獎勵記錄編號</p></td></tr>
-<tr><td><p>用戶編號</p></td><td><p>具體發放給的用戶編號</p></td></tr>
-<tr><td><p>邀請人/被邀請人編號</p></td><td><p>該獎勵用戶編號所對應的邀請或者被邀請人的用戶編號</p></td></tr>
-<tr><td><p>企業認證</p></td><td><p>用戶所對應認證了企業的企業名稱（若有）</p></td></tr>
-<tr><td><p>達標任務</p></td><td><p>用戶獲得該獎勵所完成的任務名稱</p></td></tr>
-<tr><td><p>達標時間</p></td><td><p>用戶任務完成時間（基本獎勵發放時間）</p></td></tr>
-<tr><td><p>獎品名稱</p></td><td><p>所獲得的獎勵的名稱</p></td></tr>
-<tr><td><p>發放形式</p></td><td><p>自動、手動</p></td></tr>
-<tr><td><p>發放狀態</p></td><td><p>待提交、發放中、已發放、失敗、取消發放</p></td></tr>
-<tr><td><p>發放時間</p></td><td><p>獎勵發放到用戶賬上的時間</p></td></tr>
-<tr><td><p>發放賬戶</p></td><td><p>發放到用戶的具體賬戶</p></td></tr>
-<tr><td><p>操作</p></td><td><p>只有當前活動的創建人本人可操作<br/>提交：提交獎勵進行發獎（當獎勵為手動發放時才有）<br/>取消：取消獎勵發放，獎勵記錄將不會提交發獎且獎勵狀態變更為取消發獎</p></td></tr>
-</tbody>
-</table>
-
-### 基礎活動
-
-運營系統＞活動系統＞標準活動
-
-點擊邀請活動模塊下的新建按鈕
-
-<img src="/assets/H3SGbXj1zooDQmxm9MScTZmZnsd.png" src-width="3140" src-height="448" align="center"/>
-
-打開如下頁面
-
-<img src="/assets/P8D3bnpDroaZRixLuwncmASDnhc.png" src-width="2208" src-height="1826" align="center"/>
-
-活動模版字段按如下規則進行配置：
+<img src="/assets/ExUgbpcwCohqEjxtHGIcw68Xnld.png" src-width="2058" src-height="1480" align="center"/>
 
 <table>
 <colgroup>
@@ -257,10 +146,10 @@ sidebar_position: 0
 <tr><td><p>活動名稱</p></td><td><p>填寫的名稱將最終展示在用戶的獎勵資訊中，需要謹慎填寫。可配置多語言，支持中文簡體、中文繁體、英語三種語言標題配置，配置好後將更具用戶手機系統語言默認展示對應語言。若無需多語言展示則三個語言標題都配置統一語言標題即可。</p></td></tr>
 <tr><td><p>活動時間</p></td><td><p>活動有效時間，即用戶必須在活動時間內完成對應任務才可獲得獎勵</p></td></tr>
 <tr><td><p>目標用戶</p></td><td><p>關聯對應的用戶分群，設置目標用戶後則僅該用戶範圍內的用戶才可參與活動。</p></td></tr>
-<tr><td><p>分群延時時間</p></td><td><p>活動發獎任務時效時間。由於活動任務需要用戶分群給出準確數據，因此會有些許延時。</p>
+<tr><td><p>分群延時時間</p></td><td><p>創建活動時支持選擇用戶分群，限定用戶參與活動。對於分群，我們提供兩種延時時間：</p>
 <ul>
-<li>五分鐘：一般對於只是開戶註冊活動任務的活動設置 5 分鐘延時即可</li>
-<li>一天：對於有入資、轉倉等用戶任務列表的活動，設置一天延時</li>
+<li>五分鐘：即每五分鐘重跑一次分群，一般對於只是開戶註冊活動任務的活動設置 5 分鐘延時即可</li>
+<li>一天：即每一天重跑一次分群，對於有入資、轉倉等用戶任務列表的活動，設置一天延時</li>
 </ul></td></tr>
 <tr><td><p>活動屬性</p></td><td><p>按照不同類型進行選擇</p>
 <ul>
@@ -269,36 +158,61 @@ sidebar_position: 0
 <li>老用戶：只有已獲得過新用戶獎勵的人才能參與獲得獎品</li>
 </ul></td></tr>
 <tr><td><p>獎勵規則</p></td><td><p>配置活動任務規則與對應的獎勵</p></td></tr>
+<tr><td><p>備註</p></td><td><p>非必填，用作運營人員個人備忘，不會展示給用戶</p></td></tr>
 </tbody>
 </table>
 
-新建獎勵規則
+<b>獎勵規則</b>
 
-<img src="/assets/TQpObphsto4uAMxybagcuEJgnFc.png" src-width="1350" src-height="1722"/>
+<img src="/assets/OEiAbqMA3oDEebxUTD1cErTGnef.png" src-width="2256" src-height="1744" align="center"/>
 
-不同奖励生成时间则奖励的计算逻辑会有部分差别
+- 不同獎勵生成時間規則下，獎勵的計算邏輯會有部分差別
 
-<table>
+<table header_column="1" header_row="1">
 <colgroup>
 <col width="117"/>
-<col width="265"/>
-<col width="240"/>
+<col width="328"/>
+<col width="372"/>
 </colgroup>
+<thead>
+<tr><th><p>達標任務類型</p></th><th><p>期間實時生成</p></th><th><p>結束統一生成</p></th></tr>
+</thead>
 <tbody>
-<tr><td><p>达标任务类型</p></td><td><p>实时生成</p></td><td><p>结束统一生成</p></td></tr>
-<tr><td><p>注册</p></td><td><p>完成注册时生成奖励发放请求</p></td><td><p>活动结束 T+1 日后生成奖励发放请求</p></td></tr>
-<tr><td><p>开户</p></td><td><p>完成开户任务时生成奖励发放请求</p></td><td><p>活动结束 T+1 日后生成奖励发放请求</p></td></tr>
-<tr><td><p>净转入</p></td><td><p>每天跑脚本计算前一天数据是否达标，并生成奖励发放请求，当存在不同档位金转入时，达到一档则生成一笔奖励记录，多档时会依据不同档生成多档奖励，奖励叠加发放</p></td><td><p>活动结束 T+1 日后按照活动时间内用户发生的所有净转入动作总和，判断处于哪一档净转入奖励，生成一笔最高对应档位的奖励</p></td></tr>
-<tr><td><p>净入金</p></td><td><p>同上</p></td><td><p>同上</p></td></tr>
-<tr><td><p>净转仓</p></td><td><p>同上</p></td><td><p>同上</p></td></tr>
-<tr><td><p>首次入金</p></td><td><p>判断活动期间内第一步整数当天累计是否达标，达标则生成奖励记录</p></td><td><p>判断活动期间内第一步整数当天累计是否达标，达标则活动结束 T+1 日后生成奖励发放请求</p></td></tr>
-<tr><td><p>首次转仓</p></td><td><p>同上</p></td><td><p>同上</p></td></tr>
+<tr><td><p>註冊</p></td><td><p>完成註冊時生成獎勵發放請求</p></td><td><p>活动结束 T+1 日后生成奖励发放请求</p></td></tr>
+<tr><td><p>開戶</p></td><td><p>完成開戶任務時生成獎勵發放請求</p></td><td><p>活动结束 T+1 日后生成奖励发放请求</p></td></tr>
+<tr><td><p>淨轉入</p></td><td><p>每天跑腳本計算前一天數據是否達標，並生成獎勵發放請求，當存在不同檔位金額轉入時，達到一檔則生成一筆獎勵記錄，多檔時會依據不同檔生成多檔獎勵，獎勵疊加發放</p></td><td><p>活動結束 T+1 日後按照活動時間內用戶發生的所有淨轉入動作總和，判斷處於哪一檔淨轉入獎勵，生成一筆最高對應檔位的獎勵</p></td></tr>
+<tr><td><p>淨入金</p></td><td><p>同上</p></td><td><p>同上</p></td></tr>
+<tr><td><p>淨轉倉</p></td><td><p>同上</p></td><td><p>同上</p></td></tr>
+<tr><td><p>首次入金</p></td><td><p>判斷活動期間內第一次入金當天累計是否達標，達標則生成獎勵發放請求</p></td><td><p>判斷活動期間內第一次入金當天累計是否達標，達標則活動結束 T+1 日後生成獎勵發放請求</p></td></tr>
+<tr><td><p>首次轉倉</p></td><td><p>判斷活動期間內第一次轉倉當天累計是否達標，達標則生成獎勵發放請求</p></td><td><p>判斷活動期間內第一次轉倉當天累計是否達標，達標則活動結束 T+1 日後生成獎勵發放請求</p></td></tr>
 </tbody>
 </table>
 
-獎勵記錄查看
+- 如交易或資產類達標任務想設置多檔位，對應多個獎勵，可添加多條獎勵規則
 
-<img src="/assets/LoXtbTaLco81iQxo1lWcM2UPnSc.png" src-width="3258" src-height="1242" align="center"/>
+例：以下為同一活動中設置 4 條獎勵規則，淨入金任務分為 3 個檔位，選擇「期間實時生成」，則用戶每達標一個任務，生成一條獎勵
+
+<img src="/assets/GdYObaTsBo8EaXxV0frc9S8pnHh.png" src-width="3144" src-height="548" align="center"/>
+
+### 如何創建一個組隊活動？
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：運營系統＞活動系統＞標準活動管理</p>
+</div>
+
+點擊組隊活動模塊下的新建按鈕
+
+<img src="/assets/KOLFbCSHkoc76SxJgIJcM4itnId.png" src-width="2700" src-height="426" align="center"/>
+
+打開如下頁面：
+
+<img src="/assets/N0PSbR6q0okex5xYXJZcgOusn4g.png" src-width="1886" src-height="1648" align="center"/>
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>💡</div>
+<p>目前「活動屬性」中僅“助力得獎”活動形式可用，“基礎組隊得獎”和“組隊瓜分”兩種活動形式暫未上線</p>
+</div>
 
 <table>
 <colgroup>
@@ -306,23 +220,87 @@ sidebar_position: 0
 <col width="753"/>
 </colgroup>
 <tbody>
-<tr><td><p>列表字段</p></td><td><p>字段說明</p></td></tr>
-<tr><td><p>編號</p></td><td><p>獎勵記錄編號</p></td></tr>
-<tr><td><p>用戶編號</p></td><td><p>具體發放給的用戶編號</p></td></tr>
-<tr><td><p>企業認證</p></td><td><p>用戶所對應認證了企業的企業名稱（若有）</p></td></tr>
-<tr><td><p>達標任務</p></td><td><p>用戶獲得該獎勵所完成的任務名稱</p></td></tr>
-<tr><td><p>達標時間</p></td><td><p>用戶任務完成時間（基本獎勵發放時間）</p></td></tr>
-<tr><td><p>獎品名稱</p></td><td><p>所獲得的獎勵的名稱</p></td></tr>
+<tr><td><p>字段名稱</p></td><td><p>配置說明</p></td></tr>
+<tr><td><p>活動名稱</p></td><td><p>填寫的名稱將最終展示在用戶的獎勵資訊中，需要謹慎填寫。可配置多語言，支持中文簡體、中文繁體、英語三種語言標題配置，配置好後將更具用戶手機系統語言默認展示對應語言。若無需多語言展示則三個語言標題都配置統一語言標題即可。</p></td></tr>
+<tr><td><p>活動時間</p></td><td><p>活動有效時間，即用戶必須在活動時間內完成對應任務才可獲得獎勵</p></td></tr>
+<tr><td><p>目標用戶</p></td><td><p>關聯對應的用戶分群，設置目標用戶後則僅該用戶範圍內的用戶才可作為發起人參與活動。</p></td></tr>
+<tr><td><p>活動屬性</p></td><td><p>目前可選擇“助力得獎”</p></td></tr>
+<tr><td><p>助力人數</p></td><td><p>可填寫 2-10 內整數，助力人數達到此值後，發起人可得規定獎勵</p></td></tr>
+<tr><td><p>發起次數</p></td><td><p>若不限製，則在活動時間內，當發起人獲得規定人數助力並獲得相應獎勵後，可繼續發起下一次助力活動；<br/>若此處限制次數，則在活動時間內，發起人僅可最多發起該限定次數的活動</p></td></tr>
+<tr><td><p>助力次數</p></td><td><p>若不限製，每個助力人可進行不限次數的助力；<br/>若此處限制次數，則助力人僅可最多進行該限定次數助力</p></td></tr>
+<tr><td><p>助力獎勵</p></td><td><p>此處規定助力人可獲得的獎勵<br/>可選擇用戶分群，助力用戶在該用戶范圍內則可獲得對應獎勵；<br/>通過此方式可設置不同類型的助力用戶獲得不同獎勵，若無此需求，分群選擇全部用戶即可</p></td></tr>
+<tr><td><p>發起人可得</p></td><td><p>當助力人數得到設定值時，發起人可獲得的獎勵</p></td></tr>
 <tr><td><p>發放形式</p></td><td><p>自動、手動</p></td></tr>
-<tr><td><p>發放狀態</p></td><td><p>待提交、發放中、已發放、失敗、取消發放</p></td></tr>
-<tr><td><p>發放時間</p></td><td><p>獎勵發放到用戶賬上的時間</p></td></tr>
-<tr><td><p>發放賬戶</p></td><td><p>發放到用戶的具體賬戶</p></td></tr>
-<tr><td><p>是否鎖倉</p></td><td><p>是否需要滿足鎖倉需求</p></td></tr>
-<tr><td><p>鎖倉金額</p></td><td><p>獲得該獎勵後需要鎖倉的金額</p></td></tr>
-<tr><td><p>鎖倉時間</p></td><td><p>獎勵到賬時間 + 鎖倉期限=鎖倉時間：獲得該獎勵後需要</p></td></tr>
-<tr><td><p>操作</p></td><td><p>只有當前活動的創建人本人可操作<br/>提交：提交獎勵進行發獎（當獎勵為手動發放時才有）<br/>取消：取消獎勵發放，獎勵記錄將不會提交發獎且獎勵狀態變更為取消發獎</p></td></tr>
 </tbody>
 </table>
 
-### 
-# 
+提交後，即可創建助力得獎型組隊活動。
+
+## 非標准活動管理
+
+適用場景：線下活動發獎，例如：大客戶回饋之類的無具體活動規則，只是為了單純給用戶發放獎勵的活動
+
+主要功能：可在此創建活動並獲得活動程式碼，之後在權益係統 - 獎勵中心關聯活動程式碼，發放獎勵。
+
+### 如何创建一个非标准活动？
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：運營系統＞活動系統＞非標準活動管理</p>
+</div>
+
+點擊頁面上方新建按鈕，打開如下頁面
+
+<img src="/assets/D0t7bMf3Lo8LdqxLBsTc8EPEnMc.png" src-width="1742" src-height="1612" align="center"/>
+
+其他字段忽略，關注以下字段即可
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>字段名稱</p></td><td><p>配置說明</p></td></tr>
+<tr><td><p>活動 code</p></td><td rowspan="2"><p>這兩項在創建活動後，系統會自動賦予，非必要無需人工填寫<br/>生成後不可編輯</p></td></tr>
+<tr><td><p>獎勵發放業務代碼</p></td></tr>
+<tr><td><p>活動名稱</p></td><td><p>填寫的名稱有可能展示在用戶的獎勵資訊中，需要謹慎填寫。可配置多語言，支持中文簡體、中文繁體、英語三種語言標題配置，配置好後將更具用戶手機系統語言默認展示對應語言。若無需多語言展示則三個語言標題都配置統一語言標題即可。</p></td></tr>
+<tr><td><p>費用類型</p></td><td></td></tr>
+</tbody>
+</table>
+
+## 邀請關係管理
+
+可在此查詢通過邀請活動綁定的邀請關係，也可以在此進行人工綁定
+
+### 如何新增邀請關係？
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>菜單入口：運營系統＞活動系統＞邀請關係管理</p>
+</div>
+
+<b>新增註冊邀請關係</b>
+
+在註冊邀請 tab，點擊邀請關係管理頁面的新建按鈕，打開如下彈窗
+
+<img src="/assets/KDxFbi2r1oiYM5xo8fdchgmhnUf.png" src-width="1280" src-height="183" align="center"/>
+
+<img src="/assets/CdbIb1u6konGhvxdZukc4L5jnMQ.png" src-width="936" src-height="708"/>
+
+填寫被邀請人和邀請人的客戶編號後即可完成綁定
+
+<b>新增開戶邀請關係/入金邀請關係</b>
+
+首先通過篩選找到欲為其綁定邀請人的被邀請人用戶，點擊該用戶詳情，進入查看
+
+<img src="/assets/Mnu9b66utobUjlxfZAMcdPefnQf.png" src-width="2698" src-height="392" align="center"/>
+
+詳情中，會顯示該用戶的註冊邀請人，並可在此選擇進一步綁定開戶邀請人和入金邀請人
+
+<img src="/assets/RQwzbAJMCobBJ2xaIGicnPhGnHc.png" src-width="2712" src-height="1710" align="center"/>
+
+在隨後出現的彈窗中輸入邀請人用戶編號後，即可完成對此被邀請人綁定開戶/入金邀請人的操作
+
+（對於已完成的動作則不可綁定對應節點的邀請人了，未完成動作節點邀請人可以綁定和變更）
+

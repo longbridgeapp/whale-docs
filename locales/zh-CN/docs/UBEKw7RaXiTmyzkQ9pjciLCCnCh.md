@@ -13,7 +13,7 @@ sidebar_position: 0
 
 <img src="/assets/AGQ5bJOwwoEGkLxqTrZcRXkknXL.png" src-width="2506" src-height="888" align="center"/>
 
-<em>1A 图一</em>
+1A 图一
 
 ## 1B 问：客户如何设置 App 的登录密码？
 
@@ -25,15 +25,15 @@ sidebar_position: 0
 
 <img src="/assets/KaYObPgnpoGCA6xDKyWc2mjHnNc.png" src-width="651" src-height="1357" align="center"/>
 
-<em>1.B 图一</em>
+1.B 图一
 
 <img src="/assets/SUOVbpwumodNTUxx950cQifAnE2.png" src-width="2504" src-height="1222" align="center"/>
 
-<em>1.B 图二</em>
+1.B 图二
 
 <img src="/assets/Q7Mcbx59toSH5RxbXmJcGgYPn6g.png" src-width="2162" src-height="982" align="center"/>
 
-<em>1.B. 图三</em>
+1.B. 图三
 
 ## 1C 问：如何添加备注资料？
 
@@ -47,11 +47,11 @@ sidebar_position: 0
 
 <img src="/assets/U1vMb6p1UoVkSexVsSfceueynMh.png" src-width="2508" src-height="1326" align="center"/>
 
-<em>1.D 图一</em>
+1.D 图一
 
 <img src="/assets/StiEbid5xoyLLmxAKt6cgI9on0f.png" src-width="2482" src-height="1416" align="center"/>
 
-<em>1.D 图二</em>
+1.D 图二
 
 ## 1E 问：工单中心 - 冻结客户跟冻结账户的分别是什么？
 
