@@ -9,17 +9,24 @@ sidebar_position: 6
 
 ## 7A 問：如何修改客户佣金？
 
-<b>答：</b>在「業務參數設置 &gt; 計費管理 &gt; 客户計費配置」新建一個獨立的佣金費率給客户（見 7 A 圖一）。
+<b>答：</b>在「業務參數設置 &gt; 計費管理 &gt; 客户計費配置」新建一個獨立的佣金費率給客户（見 7A 圖一）。
 
-如計費套餐已有相關收費，可以在「客户組計費配置」進入詳情頁後，點擊「管理組內客户」把客户添加進去（見 7 A 圖二、圖三）。
+如計費套餐已有相關收費，可以在「客户組計費配置」進入詳情頁後，點擊「管理組內客户」把客户添加進去（見 7A 圖二、圖三）。
 
 > 客戶計費設置取收費優先順序：針對某個客戶的設置 &gt; 普通客戶組 &gt; 全局客戶組。
 
 <img src="/assets/QOzzb81Qzo87TgxwWBscQD4vnqf.png" src-width="2752" src-height="1324" align="center"/>
 
+7A 圖一
+
 <img src="/assets/HZdYb8MEloj44GxAcHbcNS6WnCb.png" src-width="2504" src-height="1356" align="center"/>
 
+7A 圖二
+
 <img src="/assets/NOhRb7ZSfolbICx4dBic48QAnt7.png" src-width="2168" src-height="700" align="center"/>
+
+7A 圖三
+
 
 ## 7B 問：如何修改政府雜費或佣金費率？ （客户組計費修改）
 
@@ -86,19 +93,25 @@ sidebar_position: 6
 - 如：收取政府雜費，選 Trade done，會按訂單成交的次數計算
 - 則：客户下單 3 次 10000，每筆分了 3 次成交，會逐條成交計算稅花稅，總共計算 9 次費用
 
-> 選了 Contract 是依照合約進行計費。如果沒開啟合單功能，一個 Contract 對應的是一個 Order；如果已經開啟了合單功能，多個 Order 才會合併成一個 Contract 計算（見 7 D 圖一），這樣 Contract 和按 Order 才有差別
+> 選了 Contract 是依照合約進行計費。如果沒開啟合單功能，一個 Contract 對應的是一個 Order；如果已經開啟了合單功能，多個 Order 才會合併成一個 Contract 計算（見 7D 圖一），這樣 Contract 和按 Order 才有差別
 
 <img src="/assets/W70VbDunroTZCNxQPuXcQ9BunAK.png" src-width="2578" src-height="1229" align="center"/>
+
+7D 圖一
 
 ## 7E 問：分成套餐配置中的“新股”計算方式選「佣金總額」是對應那個費用？
 
 <img src="/assets/BVkobslnjovfj3xAArJc3XQbnJg.png" src-width="2594" src-height="1194" align="center"/>
 
-<b>答：</b>對應到新股的經紀佣金收費。可在「業務參數設置 &gt; 新股配置 &gt; 費率管理」頁面中編輯 "經紀佣金" （見 7 E 圖一），或 在「新股認購 &gt; 詳情」頁面中基本信息新建費率（見 7 E 圖二）可編輯。
+<b>答：</b>對應到新股的經紀佣金收費。可在「業務參數設置 &gt; 新股配置 &gt; 費率管理」頁面中編輯 "經紀佣金" （見 7E 圖一），或 在「新股認購 &gt; 詳情」頁面中基本信息新建費率（見 7E 圖二）可編輯。
 
 <img src="/assets/ClQPbbxnnoJWBBxLjLEcIoNBnIh.png" src-width="2819" src-height="1437" align="center"/>
 
+7E 圖一
+
 <img src="/assets/B2oybjJCBodLHtxuhaDcXB60n4b.png" src-width="2820" src-height="1417" align="center"/>
+
+7E 圖二
 
 ## 7F 問：如何查詢客戶佣金收費？
 

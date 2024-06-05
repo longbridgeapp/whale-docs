@@ -22,7 +22,13 @@ sidebar_position: 3
 
 <img src="/assets/KTODbXQ0torVsWx4uNMcLrUjnid.png" src-width="2494" src-height="1438" align="center"/>
 
+4B 图一
+
 <img src="/assets/T1BPb8p5SohAPXxO4BocLqy3nvb.png" src-width="2390" src-height="1420" align="center"/>
+
+4B 图二
+
+如不用重新计算利息／交收数据，资产类回撤可选不操作
 
 ## 4C 问：调账的总成本价可作修改？
 

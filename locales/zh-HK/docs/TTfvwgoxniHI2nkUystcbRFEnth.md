@@ -23,7 +23,17 @@ sidebar_position: 2
 
 <img src="/assets/PDj8br9XVoOn3Fx1aECcRf90nyb.png" src-width="2490" src-height="1432" align="center"/>
 
+3B 圖一
+
+在「證券管理 &gt; 證券取出」頁面點擊「手工出倉」
+
 <img src="/assets/SNw3b90UloaVJBxUiGWcfnFsnzl.png" src-width="2498" src-height="1432" align="center"/>
 
+3B 圖二
+
+在「證券管理 &gt; 證券存入」頁面點擊「手工入倉」
+
 <img src="/assets/LYdCbsegXowknTxJaGfcPB0VnLb.png" src-width="2478" src-height="1428" align="center"/>
+
+3B 圖三
 

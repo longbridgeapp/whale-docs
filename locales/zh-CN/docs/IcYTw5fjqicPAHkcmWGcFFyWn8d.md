@@ -25,6 +25,8 @@ sidebar_position: 7
 
 <img src="/assets/U8tkbrOhSoYWVrxIhH0cFgm0nVb.png" src-width="2535" src-height="1552" align="center"/>
 
+市埸、类型、证券代码不能作修改
+
 (iv). 在「行情维护」页面点击「新增行情」
 
 <img src="/assets/TFnmbqiFHoe1hGxUZU9cFqD5npd.png" src-width="2241" src-height="1231" align="center"/>
@@ -62,7 +64,29 @@ sidebar_position: 7
 
 <img src="/assets/KEtxbVL6EomA59xPTlicmysQntc.png" src-width="2506" src-height="776" align="center"/>
 
+8B 图一
+
+在「行情维护」页面点击「新增行情」
+
 <img src="/assets/GJkvbBmnzoPNTZxvjPNc9aO4nNK.png" src-width="2242" src-height="1302" align="center"/>
 
+8B 图二
+
+输入股票代码、选择交易日、收盘价，点击「确定」
+
 <img src="/assets/NOWxboPFJoPfhPxseJlc5Y87n5d.png" src-width="2249" src-height="600" align="center"/>
+
+8B 图三
+
+如行情价格有误可作「编辑」
+
+## 8C 问：结单上的成本、价格、持仓市值是什么计算？
+
+<b>答：</b>结单成本计算是用摊薄成本： （总买入金额 - 总卖出金额）/ 持有数量。债券行情维护的收盘价在结单上显示的是价格，成本是前面提供的摊薄成本。持仓市值是持仓股数 x 收盘价。
+
+基金的收盘价则是取净值表的价格。
+
+调帐进去的金额就是买卖金额 如果调帐有设定总成本价就以设定为准，否则会以收盘价计算 价格*数量。
+
+<img src="/assets/PO8pbGCcCoxyTsxIXKlcAdQxnrh.png" src-width="1368" src-height="260" align="center"/>
 

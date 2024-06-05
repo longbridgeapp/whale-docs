@@ -30,3 +30,5 @@ sidebar_position: 12
 
 <img src="/assets/G8UGbbRCtotnSTxIsFdcO9Nnndd.png" src-width="2506" src-height="1280" align="center"/>
 
+郵件主題、內容能自定義編輯
+

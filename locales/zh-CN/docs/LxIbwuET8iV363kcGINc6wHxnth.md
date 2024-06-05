@@ -9,17 +9,24 @@ sidebar_position: 6
 
 ## 7A 问：如何修改客户佣金？
 
-<b>答：</b>在「业务参数设置 &gt; 计费管理 &gt; 客户计费配置」新建一个独立的佣金费率给客户（见 7 A 图一）。
+<b>答：</b>在「业务参数设置 &gt; 计费管理 &gt; 客户计费配置」新建一个独立的佣金费率给客户（见 7A 图一）。
 
-如计费套餐已有相关收费，可以在「客户组计费配置」进入详情页后，点击「管理组内客户」把客户添加进去（见 7 A 图二、图三）。
+如计费套餐已有相关收费，可以在「客户组计费配置」进入详情页后，点击「管理组内客户」把客户添加进去（见 7A 图二、图三）。
 
 > 客户计费设置取收费优先顺序：针对某个客户的设置 &gt; 普通客户组 &gt; 全局客户组。
 
 <img src="/assets/QOzzb81Qzo87TgxwWBscQD4vnqf.png" src-width="2752" src-height="1324" align="center"/>
 
+7A 图一
+
 <img src="/assets/HZdYb8MEloj44GxAcHbcNS6WnCb.png" src-width="2504" src-height="1356" align="center"/>
 
+7A 图二
+
 <img src="/assets/NOhRb7ZSfolbICx4dBic48QAnt7.png" src-width="2168" src-height="700" align="center"/>
+
+7A 图三
+
 
 ## 7B 问：如何修改政府杂费或佣金费率？ （客户组计费修改）
 
@@ -86,19 +93,25 @@ sidebar_position: 6
 - 如：收取政府杂费，选 Trade done，会按订单成交的次数计算
 - 则：客户下单 3 次 10000，每笔分了 3 次成交，会逐条成交计算税花税，总共计算 9 次费用
 
-> 选了 Contract 是依照合约进行计费。如果没开启合单功能，一个 Contract 对应的是一个 Order；如果已经开启了合单功能，多个 Order 才会合并成一个 Contract 计算（见 7 D 图一），这样 Contract 和按 Order 才有差别
+> 选了 Contract 是依照合约进行计费。如果没开启合单功能，一个 Contract 对应的是一个 Order；如果已经开启了合单功能，多个 Order 才会合并成一个 Contract 计算（见 7D 图一），这样 Contract 和按 Order 才有差别
 
 <img src="/assets/W70VbDunroTZCNxQPuXcQ9BunAK.png" src-width="2578" src-height="1229" align="center"/>
+
+7D 图一
 
 ## 7E 问：分成套餐配置中的“新股”计算方式选「佣金总额」是对应那个费用？
 
 <img src="/assets/BVkobslnjovfj3xAArJc3XQbnJg.png" src-width="2594" src-height="1194" align="center"/>
 
-<b>答：</b>对应到新股的经纪佣金收费。可在「业务参数设置 &gt; 新股配置 &gt; 费率管理」页面中编辑 "经纪佣金" （见 7 E 图一），或 在「新股认购 &gt; 详情」页面中基本信息新建费率（见 7 E 图二）可编辑。
+<b>答：</b>对应到新股的经纪佣金收费。可在「业务参数设置 &gt; 新股配置 &gt; 费率管理」页面中编辑 "经纪佣金" （见 7E 图一），或 在「新股认购 &gt; 详情」页面中基本信息新建费率（见 7E 图二）可编辑。
 
 <img src="/assets/ClQPbbxnnoJWBBxLjLEcIoNBnIh.png" src-width="2819" src-height="1437" align="center"/>
 
+7E 图一
+
 <img src="/assets/B2oybjJCBodLHtxuhaDcXB60n4b.png" src-width="2820" src-height="1417" align="center"/>
+
+7E 图二
 
 ## 7F 问：如何查询客户佣金收费？
 

@@ -55,7 +55,11 @@ sidebar_position: 0
 
 <img src="/assets/O76IbrHopoqGvlxmMdfcapccn0f.png" src-width="2594" src-height="1048" align="center"/>
 
+开户列表中的 VC 审核规则栏位
+
 <img src="/assets/HDggboelHoBHJUxztuacglNcnXd.png" src-width="1298" src-height="291" align="center"/>
+
+开户审批流程顺序
 
 ## 1.1I 问：开户时会有 AML 检审吗？
 

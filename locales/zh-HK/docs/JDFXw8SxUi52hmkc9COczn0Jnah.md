@@ -43,7 +43,11 @@ sidebar_position: 8
 
 <img src="/assets/IaX0bfJBNoFOpDx251mcLltcnDf.png" src-width="2512" src-height="734" align="center"/>
 
+9F 圖一
+
 <img src="/assets/CiitbN2CNoRlFAxUM9XcHrltnab.png" src-width="756" src-height="1469" align="center"/>
+
+9F 圖二
 
 ## 9G 問：如何更新基金的價格？
 
@@ -88,7 +92,11 @@ sidebar_position: 8
 
 <img src="/assets/CGLnby2T8opjzqxl6Fnck8EhnMh.png" src-width="2502" src-height="692" align="center"/>
 
+9J 圖一
+
 <img src="/assets/MqZdbvUTJoP5iixFXubcMB87nNh.png" src-width="2170" src-height="1042" align="center"/>
+
+9J 圖二
 
 ## 9K 問：補回之前的基金淨值，結單上會更新嗎？
 

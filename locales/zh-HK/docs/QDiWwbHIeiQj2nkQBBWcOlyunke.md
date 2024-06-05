@@ -51,8 +51,11 @@ sidebar_position: 0
 
 <img src="/assets/IFKjbt4b1oLMgAxWG7JcG4KKnqf.png" src-width="2864" src-height="1288" align="center"/>
 
-> 5.1B 圖二
-> 如不用重新計算利息／交收數據，資產類回撤可選不操作
+5.1B 圖一
 
 <img src="/assets/IHDCb6AOvo2AKJx4pOtclh1Wny9.png" src-width="2390" src-height="1420" align="center"/>
+
+5.1B 圖二
+
+如不用重新計算利息／交收數據，資產類回撤可選不操作
 

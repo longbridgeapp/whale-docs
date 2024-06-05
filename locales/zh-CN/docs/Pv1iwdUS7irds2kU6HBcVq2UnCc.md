@@ -51,3 +51,5 @@ sidebar_position: 0
 
 <img src="/assets/GKUJbMpfVo3hC5x5AwTcdVKTn0f.png" src-width="2194" src-height="1387" align="center"/>
 
+SDR 持仓类型的报表可指定单一客户导出资料，文件类型可选 CSV/PDF/XLS
+

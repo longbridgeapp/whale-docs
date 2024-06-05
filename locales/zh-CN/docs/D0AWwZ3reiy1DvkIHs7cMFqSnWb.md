@@ -30,7 +30,7 @@ sidebar_position: 1
 
 - 默认
 - 服务策略：汇兑池换汇
--汇兑类型：无
+- 汇兑类型：无
 - 输入服务时段
 - 支持的币种对，点击「添加」
 
@@ -72,9 +72,15 @@ sidebar_position: 1
 
 <img src="/assets/C1GabusCEojk4zx7ayVctC9knoe.png" src-width="1268" src-height="194" align="center"/>
 
+2.2B 图一
+
 <img src="/assets/PLKybW3K0oF9ruxOQIncWNRcndc.png" src-width="2510" src-height="768" align="center"/>
 
+2.2B 图二
+
 <img src="/assets/WQpSbYbOWoicPbxj8aJcjdnDnVd.png" src-width="2042" src-height="382" align="center"/>
+
+2.2B 图三
 
 ## 2.2C 问：客户提交换汇申请为何不成功？
 
@@ -82,7 +88,7 @@ sidebar_position: 1
 
 设置换汇池的步骤见以下：
 
-(i). 在「业务参数设置 &gt; 汇兑 ＞ 换汇池额度配置」页面点击「新建」
+(i). 在「业务参数设置 &gt; 汇兑 &gt; 换汇池额度配置」页面点击「新建」
 
 <img src="/assets/TVtNbgv4toAidqx4W6HcBjAUnwO.png" src-width="2856" src-height="1555" align="center"/>
 

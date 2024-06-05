@@ -22,7 +22,13 @@ sidebar_position: 3
 
 <img src="/assets/KTODbXQ0torVsWx4uNMcLrUjnid.png" src-width="2494" src-height="1438" align="center"/>
 
+4B 圖一
+
 <img src="/assets/T1BPb8p5SohAPXxO4BocLqy3nvb.png" src-width="2390" src-height="1420" align="center"/>
+
+4B 圖二
+
+如不用重新計算利息／交收數據，資產類回撤可選不操作
 
 ## 4C 問：調賬的總成本價可作修改？
 

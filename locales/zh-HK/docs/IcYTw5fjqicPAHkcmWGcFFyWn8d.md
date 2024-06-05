@@ -25,6 +25,8 @@ sidebar_position: 7
 
 <img src="/assets/U8tkbrOhSoYWVrxIhH0cFgm0nVb.png" src-width="2535" src-height="1552" align="center"/>
 
+市埸、類型、證券代碼不能作修改
+
 (iv). 在「行情維護」頁面點擊「新增行情」
 
 <img src="/assets/TFnmbqiFHoe1hGxUZU9cFqD5npd.png" src-width="2241" src-height="1231" align="center"/>
@@ -62,7 +64,29 @@ sidebar_position: 7
 
 <img src="/assets/KEtxbVL6EomA59xPTlicmysQntc.png" src-width="2506" src-height="776" align="center"/>
 
+8B 圖一
+
+在「行情維護」頁面點擊「新增行情」
+
 <img src="/assets/GJkvbBmnzoPNTZxvjPNc9aO4nNK.png" src-width="2242" src-height="1302" align="center"/>
 
+8B 圖二
+
+輸入股票代碼、選擇交易日、收盤價，點擊「確定」
+
 <img src="/assets/NOWxboPFJoPfhPxseJlc5Y87n5d.png" src-width="2249" src-height="600" align="center"/>
+
+8B 圖三
+
+如行情價格有誤可作「編輯」
+
+## 8C 問：結單上的成本、價格、持倉市值是什麼計算？
+
+<b>答：</b>結單成本計算是用攤薄成本： （總買入金額 - 總賣出金額）/ 持有數量。債券行情維護的收盤價在結單上顯示的是價格，成本是前面提供的攤薄成本。持倉市值是持倉股數 x 收盤價。
+
+基金的收盤價則是取淨值表的價格。
+
+調帳進去的金額就是買賣金額 如果調帳有設定總成本價就以設定為準，否則會以收盤價計算 價格*數量。
+
+<img src="/assets/PO8pbGCcCoxyTsxIXKlcAdQxnrh.png" src-width="1368" src-height="260" align="center"/>
 

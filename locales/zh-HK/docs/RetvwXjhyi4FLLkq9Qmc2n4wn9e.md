@@ -11,7 +11,7 @@ sidebar_position: 1
 - 標準活動類型：邀請活動/基礎活動/組隊活動等等
 - 非標準活動管理：提供自主的活動管理要素，方便滿足安排個性化活動
 
-透過方便的營銷活動模板，來管理各種營銷活動。
+透過方便的營銷活動模板，來管理各種營銷活動，實現數字化營銷。
 
 <img src="/assets/X73CbSkaIo7tLSxomLrcalD3ngc.png" src-width="1276" src-height="920"/>
 
@@ -128,11 +128,11 @@ sidebar_position: 1
 
 邀請活動通過綁定關係進行發獎。
 
-邀請活動支持固定獎勵和階梯獎勵兩種類型
+此外，邀請活動支持固定獎勵和階梯獎勵兩種奖励類型
 
-固定獎勵：
+固定獎勵：每邀請一個新用戶完成任務，即会固定獲得獎勵
 
-階梯獎勵：
+階梯獎勵：劃分被邀請人數量區間，邀請人數位於某一區間內，每邀請一個新用戶即會獲得該區間對應的獎勵，到達下一區間時還可設置邀請人的額外獎勵，通常邀請人數越多獎勵越大。
 
 #### 邀請活動配置
 
@@ -140,7 +140,7 @@ sidebar_position: 1
 
 若要新增一個邀請活動，可以點擊邀請活動模塊下的新建按鈕
 
-<img src="/assets/JmakbYX41oBZJHxwwhScg2DVnhd.png" src-width="2334" src-height="516" align="center"/>
+<img src="/assets/AER4bgL9IoaITpxZVxBcRb4qncb.png" src-width="1280" src-height="199" align="center"/>
 
 邀請活動新建頁面如下
 
@@ -178,20 +178,24 @@ sidebar_position: 1
 </tbody>
 </table>
 
+<b>獎勵規則</b>
+
 點擊新增獎勵規則，不同獎勵類型和活動屬性填寫字段不同：
 
-- 固定獎勵
+固定獎勵
 
-<img src="/assets/T433bvYTgonf6yxtfWocGZkCnFc.png" src-width="2316" src-height="1498"/>
+<img src="/assets/U3aZb5mg5of06dx43ICcE8xqnKb.png" src-width="1280" src-height="980" align="center"/>
 
-- 階梯獎勵
+階梯獎勵
 
-<img src="/assets/BBYEbJf3mowD2zxPfSzcCLfWnXc.png" src-width="1370" src-height="1502"/>
+<img src="/assets/JDXobSrslo2J3WxPlPPcy2xxn5b.png" src-width="1280" src-height="958" align="center"/>
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>💡</div>
 <p>填写完成后不可随意切换活动类型和奖励类型，不然会导致列表清空</p>
 </div>
+
+<b>獎品設置</b>
 
 點擊新建獎品規則，該區域出現配置項：
 
@@ -258,7 +262,7 @@ sidebar_position: 1
 
 點擊邀請活動模塊下的新建按鈕
 
-<img src="/assets/Qlnwb3EjroFk1IxAIO7czVbcnPe.png" src-width="3140" src-height="448" align="center"/>
+<img src="/assets/HN74b0O8hoeRyPxcxh9cg5rknXf.png" src-width="1280" src-height="203" align="center"/>
 
 打開如下頁面：
 
@@ -292,9 +296,9 @@ sidebar_position: 1
 </tbody>
 </table>
 
-新建獎勵規則
+<b>獎勵規則</b>
 
-<img src="/assets/KSukbfhsrozD3hx4FUocremknnb.png" src-width="1238" src-height="1760"/>
+<img src="/assets/KUNcbA3NmofF3PxOJmycvDnLnUb.png" src-width="1280" src-height="989" align="center"/>
 
 - 不同獎勵生成時間規則下，獎勵的計算邏輯會有部分差別
 
@@ -316,7 +320,11 @@ sidebar_position: 1
 </tbody>
 </table>
 
-- 如交易或資產類達標任務想設置多檔位，對應多個獎勵，可添加多條獎勵規則。
+- 如交易或資產類達標任務想設置多檔位，對應多個獎勵，可添加多條獎勵規則
+
+例：以下為同一活動中設置 4 條獎勵規則，淨入金任務分為 3 個檔位，選擇「期間實時生成」，則用戶每達標一個任務，生成一條獎勵
+
+<img src="/assets/K1grbEvVzoM2RbxUnmFc1Tyxn8d.png" src-width="3144" src-height="548" align="center"/>
 
 #### 2.2.3 基础活动獎勵数据查询
 
@@ -381,7 +389,7 @@ sidebar_position: 1
 
 點擊組隊活動模塊下的新建按鈕
 
-<img src="/assets/JAafbuL3dowXLzxcxqbcv7JMn2b.png" src-width="3258" src-height="416" align="center"/>
+<img src="/assets/V6KbbtB01oan48x5crCcIj4Fnph.png" src-width="1280" src-height="201" align="center"/>
 
 打開如下頁面：
 
@@ -545,7 +553,7 @@ sidebar_position: 1
 
 點擊頁面上方新建按鈕，打開如下頁面
 
-<img src="/assets/LbkObHWSIoslAuxCnRbc1CbRnpf.png" src-width="2362" src-height="1976" align="center"/>
+<img src="/assets/WUbbbmKlpo8dfbxx04mcYZesned.png" src-width="1742" src-height="1612" align="center"/>
 
 如上述使用場景舉例，因為非標准活動事實上沒有明確的規則，創建非標准活動主要為了拿到活動 code（活動編碼），後續通過獎勵中心關聯該活動 code 發放獎勵，因此上方創建頁面中的非必填字段可不必填寫，忽略即可。
 
@@ -565,11 +573,12 @@ sidebar_position: 1
 </tbody>
 </table>
 
+## 
 ## 邀請關係管理
 
 如圖：一個用戶在一個 App 下會生成當前 App 唯一邀請碼，用戶將自己邀請碼分享給好友，好友即可填寫綁定。綁定後會更新在邀請關係清單中
 
-通過邀請活動綁定的邀請關係可再次查詢，也可以在此進行人工綁定
+通過邀請活動綁定的邀請關係可在此查詢，也可以在此進行人工綁定
 
 執行菜單：運營系統&gt; 活動系統&gt;邀請關係管理
 
@@ -591,7 +600,7 @@ sidebar_position: 1
 
 點擊邀請關係管理頁面的新建按鈕，打開如下彈窗
 
-<img src="/assets/H2Azb8j9col4mDxrBi3cXIIanSg.png" src-width="2700" src-height="396" align="center"/>
+<img src="/assets/MlXGb9xbvoLBWixKIjOcxQtUncb.png" src-width="1280" src-height="183" align="center"/>
 
 <img src="/assets/Siw6buGRcoNmdXxok4UcTR9XnVb.png" src-width="936" src-height="708"/>
 
@@ -601,15 +610,13 @@ sidebar_position: 1
 
 首先通過篩選找到欲為其綁定邀請人的被邀請人用戶，點擊該用戶詳情，進入查看
 
-<img src="/assets/QSq5bfyybo4h6vx37pYcvJAhnRe.png" src-width="2716" src-height="600" align="center"/>
+<img src="/assets/N546br6XmosDyvxLYDbcsHl1nCe.png" src-width="2698" src-height="392" align="center"/>
 
 詳情中，會顯示該用戶的註冊邀請人，並可在此選擇進一步綁定開戶邀請人和入金邀請人
 
-<img src="/assets/V4MkbLIMPoU9iJxzchDcwlMVnAf.png" src-width="2706" src-height="1760"/>
+<img src="/assets/YoMVbBw4ZohoO4xcb3LcDktanng.png" src-width="2712" src-height="1710" align="center"/>
 
-<img src="/assets/RCPRb6OfloIPm2xqeGCcw5rjnqh.png" src-width="942" src-height="706"/>
-
-輸入邀請人用戶編號後，即可完成對此被邀請人綁定入金邀請人的操作。
+在隨後出現的彈窗中輸入邀請人用戶編號後，即可完成對此被邀請人綁定開戶/入金邀請人的操作
 
 # 運營活動常見問題查詢
 
@@ -619,25 +626,25 @@ sidebar_position: 1
 
 先查活動配置是否正確，點擊對應活動後方詳情進入查看活動規則配置，確認配置的對應規則和獎勵是否正確
 
-<img src="/assets/U7GBbBuBHoaEJRxMuydcDW8pn1f.png" src-width="3796" src-height="1848" align="center"/>
+<img src="/assets/Bm7XbapCGoQlujxdKk3cAiAxnUe.png" src-width="1280" src-height="595" align="center"/>
 
-<img src="/assets/EGO6bDqCfo4tquxulWjcKxkxn0J.png" src-width="3288" src-height="1574"/>
+<img src="/assets/WCrUbCPoWoJQUDxntc6clhYenQe.png" src-width="1280" src-height="636" align="center"/>
 
 若正確，則正確進入獲獎名單查詢是否生成以及獎勵記錄狀態
 
-<img src="/assets/LoiAbpfnCoNufQxTQMTc8z58nMe.png" src-width="3316" src-height="1400" align="center"/>
+<img src="/assets/FybmbBlwMo7sbjxEK0GcK0LKnXf.png" src-width="1280" src-height="443" align="center"/>
 
-若 發放中則說明系統還在發放中，若待提交則需要運營同學點擊提交進行發放
+若發放中則說明系統還在發放中，若待提交則需要運營同學點擊提交進行發放
 
 ## 如何查詢用戶是否綁定成功邀請關係？
 
 執行菜單：運營系統&gt; 活動系統&gt;邀請關係管理
 
-<img src="/assets/KMBWbh2Y4oKUm6xcDx4c3XxNnrd.png" src-width="3778" src-height="1698" align="center"/>
+<img src="/assets/PSsKbHDAtoGVJLxlExUcQj5DnJd.png" src-width="1280" src-height="492" align="center"/>
 
 如圖，搜索後列表會展示所有該用戶綁定的邀請關係，點擊後方詳情可查看具體綁定的用戶信息
 
-<img src="/assets/V1hDb0WQBoHYGvxpkZFcbVrYnbd.png" src-width="3240" src-height="1792" align="center"/>
+<img src="/assets/IPDTb6xbGoF216xgd5BcJWI6noe.png" src-width="1280" src-height="395" align="center"/>
 
-<img src="/assets/GBnYbNhRso2atSx3WFqc93BLnHg.png" src-width="3244" src-height="1866" align="center"/>
+<img src="/assets/Sz5IbVApfodSA1xuvETcfVsknLb.png" src-width="1280" src-height="632" align="center"/>
 
