@@ -149,3 +149,7 @@ sidebar_position: 6
 
 <img src="/assets/IuTSb3vCHojaD4x1oKOckoKwn7H.png" src-width="2154" src-height="1360" align="center"/>
 
+## 7J 問：如何能調整到當天的利息？
+
+答：沒有調整到當天融資利息的功能，需要下一天執行到日終到 "資金清算" 後，才能調整到今天的利息。
+

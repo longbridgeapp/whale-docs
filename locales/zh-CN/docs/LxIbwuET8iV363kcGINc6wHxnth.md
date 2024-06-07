@@ -149,3 +149,7 @@ sidebar_position: 6
 
 <img src="/assets/IuTSb3vCHojaD4x1oKOckoKwn7H.png" src-width="2154" src-height="1360" align="center"/>
 
+## 7J 问：如何能调整到当天的利息？
+
+答：没有调整到当天融资利息的功能，需要下一天执行到日终到 "资金清算" 后，才能调整到今天的利息。
+
