@@ -64,21 +64,21 @@ sidebar_position: 7
 
 <img src="/assets/KEtxbVL6EomA59xPTlicmysQntc.png" src-width="2506" src-height="776" align="center"/>
 
-8B 图一
+<em>8B 图一</em>
 
-在「行情维护」页面点击「新增行情」
+<em>在「行情维护」页面点击「新增行情」</em>
 
 <img src="/assets/GJkvbBmnzoPNTZxvjPNc9aO4nNK.png" src-width="2242" src-height="1302" align="center"/>
 
-8B 图二
+<em>8B 图二</em>
 
-输入股票代码、选择交易日、收盘价，点击「确定」
+<em>输入股票代码、选择交易日、收盘价，点击「确定」</em>
 
 <img src="/assets/NOWxboPFJoPfhPxseJlc5Y87n5d.png" src-width="2249" src-height="600" align="center"/>
 
-8B 图三
+<em>8B 图三</em>
 
-如行情价格有误可作「编辑」
+<em>如行情价格有误可作「编辑」</em>
 
 ## 8C 问：结单上的成本、价格、持仓市值是什么计算？
 

@@ -51,11 +51,11 @@ sidebar_position: 0
 
 <img src="/assets/IFKjbt4b1oLMgAxWG7JcG4KKnqf.png" src-width="2864" src-height="1288" align="center"/>
 
-5.1B 图一
+<em>5.1B 图一</em>
 
 <img src="/assets/IHDCb6AOvo2AKJx4pOtclh1Wny9.png" src-width="2390" src-height="1420" align="center"/>
 
-5.1B 图二
+<em>5.1B 图二</em>
 
-如不用重新计算利息／交收数据，资产类回撤可选不操作
+<em>如不用重新计算利息／交收数据，资产类回撤可选不操作</em>
 

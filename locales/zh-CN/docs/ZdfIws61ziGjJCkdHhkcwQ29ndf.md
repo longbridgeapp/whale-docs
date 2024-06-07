@@ -13,11 +13,11 @@ sidebar_position: 1
 
 <img src="/assets/U6mgbVQJMoPq4hxt7PccOUQFnie.png" src-width="2150" src-height="1368" align="center"/>
 
-2A 图一
+<em>2A 图一</em>
 
 <img src="/assets/DaUNb7Wl0ogp4DxL0DFcLegPnhf.png" src-width="2606" src-height="404" align="center"/>
 
-2A 图二
+<em>2A 图二</em>
 
 ## 2B 问：完成日终后，需要补回入金／出金流水如何处理？
 
@@ -26,19 +26,19 @@ sidebar_position: 1
 
 <img src="/assets/X4rNbbODZoe8J2xZnyYcBQQhnEb.png" src-width="2858" src-height="1418" align="center"/>
 
-2B 图一
+<em>2B 图一</em>
 
 <img src="/assets/NmRob8vlcoKJAYxPXtZcEXBXniy.png" src-width="2390" src-height="1420" align="center"/>
 
-2B 图二
+<em>2B 图二</em>
 
-如不用重新计算利息／交收数据，资产类回撤可选不操作
+<em>如不用重新计算利息／交收数据，资产类回撤可选不操作</em>
 
 <img src="/assets/DSvWbZY21oVMelxWNRScazVsnFe.png" src-width="2392" src-height="972" align="center"/>
 
-2B 图三
+<em>2B 图三</em>
 
-选择「持仓流水／资金流水」页面，选择相应流水点击「编辑日期」
+<em>选择「持仓流水／资金流水」页面，选择相应流水点击「编辑日期」</em>
 
 ## 2C 问：出金申请已作审批，如何驳回客户的出入／入金申请？
 
@@ -73,11 +73,11 @@ sidebar_position: 1
 </div>
 </div>
 
-                           2E 图一                                                         2E 图二                                                   2E 图三
+<em> 2E 图一                                                         2E 图二                                                   2E 图三</em>
 
 <img src="/assets/IjdsbtsZcoyJ0uxVT2jcwigJnNb.png" src-width="2602" src-height="804" align="center"/>
 
-2E 图四
+<em>2E 图四</em>
 
 ## 2F 问：出入金、换汇能有通知吗？
 
@@ -85,17 +85,17 @@ sidebar_position: 1
 
 <img src="/assets/Rbu5b5MenoPc9MxctebcZbJYnxh.png" src-width="2386" src-height="374" align="center"/>
 
-2F 图一
+<em>2F 图一</em>
 
 <img src="/assets/KnysbQGiboT6LexJWY7cb4BLnqb.png" src-width="2371" src-height="1098" align="center"/>
 
-2F 图二
+<em>2F 图二</em>
 
 <img src="/assets/SmFtbTzmGo7XxjxEyFGcWzuKntd.png" src-width="2021" src-height="966" align="center"/>
 
-2F 图三
+<em>2F 图三</em>
 
-Webhook 为内部飞书通知没对外开放
+<em>Webhook 为内部飞书通知没对外开放</em>
 
 ## 2G 问：为什么出金申请没作提交，会自动去到了"提现处理"？
 
@@ -104,19 +104,19 @@ Webhook 为内部飞书通知没对外开放
 
 <img src="/assets/QQUGbVKIhoEl18xWWoSctnhAnKs.png" src-width="2760" src-height="750" align="center"/>
 
-2G 图一
+<em>2G 图一</em>
 
 <img src="/assets/UC21bq2uVorNlZxGmNVcMMOZntc.png" src-width="2760" src-height="1368" align="center"/>
 
-2G 图二
+<em>2G 图二</em>
 
 <img src="/assets/Bb89bPm9DoeC5IxJfBWcD8B6nj3.png" src-width="2386" src-height="1352" align="center"/>
 
-2G 图三
+<em>2G 图三</em>
 
 <img src="/assets/MpXUbQZBsoipcYxMfRmcULyen3d.png" src-width="2364" src-height="540" align="center"/>
 
-2G 图四
+<em>2G 图四</em>
 
 ## 2H 问：入金能做到入账后修改／撤销？
 
@@ -130,17 +130,17 @@ Webhook 为内部飞书通知没对外开放
 
 <img src="/assets/NfrDbOevGoxGOHxcOLNcuXuinVe.png" src-width="2866" src-height="524" align="center"/>
 
-2H 图一
+<em>2H 图一</em>
 
 <img src="/assets/I8ZSb1EEvoeC1mxSZxcccRtNnYb.png" src-width="2518" src-height="418" align="center"/>
 
-2H 图二
+<em>2H 图二</em>
 
 <img src="/assets/Q7cjbJbJeoPTARxKk4ucMuQHn0b.png" src-width="2516" src-height="984" align="center"/>
 
-2H 图三
+<em>2H 图三</em>
 
 <img src="/assets/BFl7b77zxo9pzCx4CnIcFq0Snwe.png" src-width="2606" src-height="336" align="center"/>
 
-2H 图四
+<em>2H 图四</em>
 

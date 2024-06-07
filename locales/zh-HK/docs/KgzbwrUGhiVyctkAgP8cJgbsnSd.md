@@ -47,9 +47,9 @@ sidebar_position: 4
 
 <img src="/assets/Ddk9bk6NtoQs2KxjD2BceB28nHT.png" src-width="2390" src-height="1420" align="center"/>
 
-5E 圖一
+<em>5E 圖一</em>
 
-如不用重新計算利息／交收數據，資產類回撤可選不操作
+<em>如不用重新計算利息／交收數據，資產類回撤可選不操作</em>
 
 ## 5G 問：日終 "清算前準備" 有報錯提醒如何處理？
 
@@ -63,7 +63,7 @@ sidebar_position: 4
 
 <img src="/assets/XHNgbw7Uzob2kfx6q8ucB6zEn8c.png" src-width="2752" src-height="1354" align="center"/>
 
-5G 圖一
+<em>5G 圖一</em>
 
 ## 5H 問：清算前準備出現「前台流水全部納入清算」的提醒，如何處理？
 
@@ -88,11 +88,11 @@ sidebar_position: 4
 
 <img src="/assets/ROHFb11cQoAZAoxzl5XcJKlGnBh.png" src-width="2512" src-height="814" align="center"/>
 
-5I 圖一
+<em>5I 圖一</em>
 
 <img src="/assets/RnJKbjNkRoBsiExr54DcEjHnn6f.png" src-width="2454" src-height="1109" align="center"/>
 
-5I 圖二
+<em>5I 圖二</em>
 
 ## 5J 問：持倉不對賬，倉位數量有差異，如何處理？
 
@@ -104,11 +104,11 @@ sidebar_position: 4
 
 <img src="/assets/SNDKbtLQcoDcJaxkExJc0NoHn2d.png" src-width="2500" src-height="1136" align="center"/>
 
-5J 圖一
+<em>5J 圖一</em>
 
 <img src="/assets/Me8ObHY4Uo29xJxLnRNcBJYZn4b.png" src-width="1188" src-height="805" align="center"/>
 
-5J 圖二
+<em>5J 圖二</em>
 
 ## 5K 問：颱風天操作如何處理？
 

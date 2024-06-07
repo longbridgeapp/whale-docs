@@ -20,9 +20,14 @@ sidebar_position: 0
 <tr><th><p><b>權限名稱</b></p></th><th><p><b>權限說明</b></p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>ActivityCenterFull<br/>管理活動、邀請關係配置的權限</p></td><td><p>增刪改查標準活動，非標准活動，邀請關係</p></td></tr>
+<tr><td><ul>
+<li>ActivityCenterFull<br/>管理活動、邀請關係配置的權限</li>
+</ul></td><td><p>增刪改查標準活動，非標准活動，邀請關係</p></td></tr>
 </tbody>
 </table>
+
+- 如需對活動設置實物、卡券獎勵，請先在[權益系统](./Nohgwdf4midxtCkmYPtcemFenog)中進行創建
+- 如需對活動參與用戶進行限制，請先取得創建用戶分羣權限，參見[投放系统](./HFS5wXhvXi0yh7kKbllc8Xp4n9c)
 
 ## 活動達標任務類型及說明
 
@@ -265,7 +270,7 @@ sidebar_position: 0
 <tr><td><p>活動 code</p></td><td rowspan="2"><p>這兩項在創建活動後，系統會自動賦予，非必要無需人工填寫<br/>生成後不可編輯</p></td></tr>
 <tr><td><p>獎勵發放業務代碼</p></td></tr>
 <tr><td><p>活動名稱</p></td><td><p>填寫的名稱有可能展示在用戶的獎勵資訊中，需要謹慎填寫。可配置多語言，支持中文簡體、中文繁體、英語三種語言標題配置，配置好後將更具用戶手機系統語言默認展示對應語言。若無需多語言展示則三個語言標題都配置統一語言標題即可。</p></td></tr>
-<tr><td><p>費用類型</p></td><td></td></tr>
+<tr><td><p>費用類型</p></td><td><p>營銷推廣、日常運營、返利，根據個單位自己的活動費用支出歸屬選擇即可</p></td></tr>
 </tbody>
 </table>
 

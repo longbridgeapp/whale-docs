@@ -30,5 +30,5 @@ sidebar_position: 12
 
 <img src="/assets/G8UGbbRCtotnSTxIsFdcO9Nnndd.png" src-width="2506" src-height="1280" align="center"/>
 
-邮件主题、内容能自定义编辑
+<em>邮件主题、内容能自定义编辑</em>
 

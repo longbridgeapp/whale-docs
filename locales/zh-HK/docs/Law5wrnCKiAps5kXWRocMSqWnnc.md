@@ -55,11 +55,11 @@ sidebar_position: 0
 
 <img src="/assets/O76IbrHopoqGvlxmMdfcapccn0f.png" src-width="2594" src-height="1048" align="center"/>
 
-開户列表中的 VC 審核規則欄位
+<em>開户列表中的 VC 審核規則欄位</em>
 
 <img src="/assets/HDggboelHoBHJUxztuacglNcnXd.png" src-width="1298" src-height="291" align="center"/>
 
-開户審批流程順序
+<em>開户審批流程順序</em>
 
 ## 1.1I 問：開户時會有 AML 檢審嗎？
 

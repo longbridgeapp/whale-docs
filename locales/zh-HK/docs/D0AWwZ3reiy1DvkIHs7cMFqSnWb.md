@@ -72,15 +72,15 @@ sidebar_position: 1
 
 <img src="/assets/C1GabusCEojk4zx7ayVctC9knoe.png" src-width="1268" src-height="194" align="center"/>
 
-2.2B 圖一
+<em>2.2B 圖一</em>
 
 <img src="/assets/PLKybW3K0oF9ruxOQIncWNRcndc.png" src-width="2510" src-height="768" align="center"/>
 
-2.2B 圖二
+<em>2.2B 圖二</em>
 
 <img src="/assets/WQpSbYbOWoicPbxj8aJcjdnDnVd.png" src-width="2042" src-height="382" align="center"/>
 
-2.2B 圖三
+<em>2.2B 圖三</em>
 
 ## 2.2C 問：客户提交換滙申請為何不成功？
 

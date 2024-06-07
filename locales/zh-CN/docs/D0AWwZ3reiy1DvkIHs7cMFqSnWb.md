@@ -72,15 +72,15 @@ sidebar_position: 1
 
 <img src="/assets/C1GabusCEojk4zx7ayVctC9knoe.png" src-width="1268" src-height="194" align="center"/>
 
-2.2B 图一
+<em>2.2B 图一</em>
 
 <img src="/assets/PLKybW3K0oF9ruxOQIncWNRcndc.png" src-width="2510" src-height="768" align="center"/>
 
-2.2B 图二
+<em>2.2B 图二</em>
 
 <img src="/assets/WQpSbYbOWoicPbxj8aJcjdnDnVd.png" src-width="2042" src-height="382" align="center"/>
 
-2.2B 图三
+<em>2.2B 图三</em>
 
 ## 2.2C 问：客户提交换汇申请为何不成功？
 

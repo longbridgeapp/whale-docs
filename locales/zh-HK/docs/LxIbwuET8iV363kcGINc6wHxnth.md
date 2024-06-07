@@ -17,15 +17,15 @@ sidebar_position: 6
 
 <img src="/assets/QOzzb81Qzo87TgxwWBscQD4vnqf.png" src-width="2752" src-height="1324" align="center"/>
 
-7A 圖一
+<em>7A 圖一</em>
 
 <img src="/assets/HZdYb8MEloj44GxAcHbcNS6WnCb.png" src-width="2504" src-height="1356" align="center"/>
 
-7A 圖二
+<em>7A 圖二</em>
 
 <img src="/assets/NOhRb7ZSfolbICx4dBic48QAnt7.png" src-width="2168" src-height="700" align="center"/>
 
-7A 圖三
+<em>7A 圖三</em>
 
 
 ## 7B 問：如何修改政府雜費或佣金費率？ （客户組計費修改）
@@ -97,7 +97,7 @@ sidebar_position: 6
 
 <img src="/assets/W70VbDunroTZCNxQPuXcQ9BunAK.png" src-width="2578" src-height="1229" align="center"/>
 
-7D 圖一
+<em>7D 圖一</em>
 
 ## 7E 問：分成套餐配置中的“新股”計算方式選「佣金總額」是對應那個費用？
 
@@ -107,11 +107,11 @@ sidebar_position: 6
 
 <img src="/assets/ClQPbbxnnoJWBBxLjLEcIoNBnIh.png" src-width="2819" src-height="1437" align="center"/>
 
-7E 圖一
+<em>7E 圖一</em>
 
 <img src="/assets/B2oybjJCBodLHtxuhaDcXB60n4b.png" src-width="2820" src-height="1417" align="center"/>
 
-7E 圖二
+<em>7E 圖二</em>
 
 ## 7F 問：如何查詢客戶佣金收費？
 

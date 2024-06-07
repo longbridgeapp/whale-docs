@@ -64,21 +64,21 @@ sidebar_position: 7
 
 <img src="/assets/KEtxbVL6EomA59xPTlicmysQntc.png" src-width="2506" src-height="776" align="center"/>
 
-8B 圖一
+<em>8B 圖一</em>
 
-在「行情維護」頁面點擊「新增行情」
+<em>在「行情維護」頁面點擊「新增行情」</em>
 
 <img src="/assets/GJkvbBmnzoPNTZxvjPNc9aO4nNK.png" src-width="2242" src-height="1302" align="center"/>
 
-8B 圖二
+<em>8B 圖二</em>
 
-輸入股票代碼、選擇交易日、收盤價，點擊「確定」
+<em>輸入股票代碼、選擇交易日、收盤價，點擊「確定」</em>
 
 <img src="/assets/NOWxboPFJoPfhPxseJlc5Y87n5d.png" src-width="2249" src-height="600" align="center"/>
 
-8B 圖三
+<em>8B 圖三</em>
 
-如行情價格有誤可作「編輯」
+<em>如行情價格有誤可作「編輯」</em>
 
 ## 8C 問：結單上的成本、價格、持倉市值是什麼計算？
 

@@ -26,7 +26,7 @@ sidebar_position: 4
 
 <img src="/assets/P33jbwfyVo66MXxOQC6cG7LunQc.png" src-width="2508" src-height="1292" align="center"/>
 
-1.5C 圖一
+<em>1.5C 圖一</em>
 
 ## 1.5D 問：客户 HKIDR 已同意，但未生效，能買賣港股嗎？
 
