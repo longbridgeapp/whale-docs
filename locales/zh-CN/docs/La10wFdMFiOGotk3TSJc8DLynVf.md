@@ -22,3 +22,27 @@ App 端：客户与各种权益做交互行为互动
 
 <img src="/assets/O656bk44loeEQ2xSCYnciK00ndf.jpeg" src-width="1734" src-height="2634" align="center"/>
 
+#### 给指定用户发奖
+
+菜单入口：运营系统&gt;权益系统&gt;奖励中心&gt;奖励纪录
+
+<img src="/assets/EPg3b9bBvoEA9Sx0YKocgUiin7g.png" src-width="2354" src-height="1322" align="center"/>
+
+<img src="/assets/V7dYbGAMLoYj0exhqmPc1pnbnbe.png" src-width="2852" src-height="1424" align="center"/>
+
+#### 给批量用户发奖
+
+菜单入口：运营系统&gt;权益系统&gt;奖励中心&gt;奖励纪录
+
+- 批量发放现金 - 点击批量发放现金奖励按钮
+
+<img src="/assets/K72nb9BJBoFmm2x1g8AcIfdEnud.png" src-width="2368" src-height="1414" align="center"/>
+
+- 批量发放实物 - 点击批量发放实物奖励按钮
+
+略。同上
+
+- 批量发放卡券 - 点击批量发放卡券奖励按钮
+
+略。同上
+

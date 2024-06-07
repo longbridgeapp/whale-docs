@@ -54,19 +54,19 @@ sidebar_position: 1
 
 <img src="/assets/MrhpbNuNhoMuILxnYZPcXPjwnrd.png" src-width="2654" src-height="1114" align="center"/>
 
-1.2D 图一
+<em>1.2D 图一</em>
 
 <img src="/assets/NjXjb06RhogvbyxcccqcPcx9ngd.png" src-width="2654" src-height="1368" align="center"/>
 
-1.2D 图二
+<em>1.2D 图二</em>
 
 <img src="/assets/OE6IbQklYoYlv0xThiGcAmwknRf.png" src-width="2656" src-height="1286" align="center"/>
 
-1.2D 图三
+<em>1.2D 图三</em>
 
 <img src="/assets/Ix3vbN2WOoBlquxScOecBTMWnrg.png" src-width="2660" src-height="1308" align="center"/>
 
-1.2D 图四
+<em>1.2D 图四</em>
 
 ## 1.2E 问：常设授权通知续期是什么时侯发出？
 

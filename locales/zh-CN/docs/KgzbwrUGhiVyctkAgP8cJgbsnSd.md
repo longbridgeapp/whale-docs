@@ -47,9 +47,9 @@ sidebar_position: 4
 
 <img src="/assets/Ddk9bk6NtoQs2KxjD2BceB28nHT.png" src-width="2390" src-height="1420" align="center"/>
 
-5E 图一
+<em>5E 图一</em>
 
-如不用重新计算利息／交收数据，资产类回撤可选不操作
+<em>如不用重新计算利息／交收数据，资产类回撤可选不操作</em>
 
 ## 5G 问：日终 "清算前准备" 有报错提醒如何处理？
 
@@ -63,7 +63,7 @@ sidebar_position: 4
 
 <img src="/assets/XHNgbw7Uzob2kfx6q8ucB6zEn8c.png" src-width="2752" src-height="1354" align="center"/>
 
-5G 图一
+<em>5G 图一</em>
 
 ## 5H 问：清算前准备出现「前台流水全部纳入清算」的提醒，如何处理？
 
@@ -88,11 +88,11 @@ sidebar_position: 4
 
 <img src="/assets/ROHFb11cQoAZAoxzl5XcJKlGnBh.png" src-width="2512" src-height="814" align="center"/>
 
-5I 图一
+<em>5I 图一</em>
 
 <img src="/assets/RnJKbjNkRoBsiExr54DcEjHnn6f.png" src-width="2454" src-height="1109" align="center"/>
 
-5I 图二
+<em>5I 图二</em>
 
 ## 5J 问：持仓不对账，仓位数量有差异，如何处理？
 
@@ -104,11 +104,11 @@ sidebar_position: 4
 
 <img src="/assets/SNDKbtLQcoDcJaxkExJc0NoHn2d.png" src-width="2500" src-height="1136" align="center"/>
 
-5J 图一
+<em>5J 图一</em>
 
 <img src="/assets/Me8ObHY4Uo29xJxLnRNcBJYZn4b.png" src-width="1188" src-height="805" align="center"/>
 
-5J 图二
+<em>5J 图二</em>
 
 ## 5K 问：台风天操作如何处理？
 

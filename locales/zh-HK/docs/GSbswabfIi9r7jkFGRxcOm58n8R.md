@@ -54,19 +54,19 @@ sidebar_position: 1
 
 <img src="/assets/MrhpbNuNhoMuILxnYZPcXPjwnrd.png" src-width="2654" src-height="1114" align="center"/>
 
-1.2D 圖一
+<em>1.2D 圖一</em>
 
 <img src="/assets/NjXjb06RhogvbyxcccqcPcx9ngd.png" src-width="2654" src-height="1368" align="center"/>
 
-1.2D 圖二
+<em>1.2D 圖二</em>
 
 <img src="/assets/OE6IbQklYoYlv0xThiGcAmwknRf.png" src-width="2656" src-height="1286" align="center"/>
 
-1.2D 圖三
+<em>1.2D 圖三</em>
 
 <img src="/assets/Ix3vbN2WOoBlquxScOecBTMWnrg.png" src-width="2660" src-height="1308" align="center"/>
 
-1.2D 圖四
+<em>1.2D 圖四</em>
 
 ## 1.2E 問：常設授權通知續期是什麼時侯發出？
 

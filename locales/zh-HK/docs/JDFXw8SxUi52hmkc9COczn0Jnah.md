@@ -43,11 +43,11 @@ sidebar_position: 8
 
 <img src="/assets/IaX0bfJBNoFOpDx251mcLltcnDf.png" src-width="2512" src-height="734" align="center"/>
 
-9F 圖一
+<em>9F 圖一</em>
 
 <img src="/assets/CiitbN2CNoRlFAxUM9XcHrltnab.png" src-width="756" src-height="1469" align="center"/>
 
-9F 圖二
+<em>9F 圖二</em>
 
 ## 9G 問：如何更新基金的價格？
 
@@ -92,15 +92,18 @@ sidebar_position: 8
 
 <img src="/assets/CGLnby2T8opjzqxl6Fnck8EhnMh.png" src-width="2502" src-height="692" align="center"/>
 
-9J 圖一
+<em>9J 圖一</em>
 
 <img src="/assets/MqZdbvUTJoP5iixFXubcMB87nNh.png" src-width="2170" src-height="1042" align="center"/>
 
-9J 圖二
+<em>9J 圖二</em>
 
 ## 9K 問：補回之前的基金淨值，結單上會更新嗎？
 
 <b>答：</b>結單的基金淨值生成是以自然日取值，即使修改歷史基金淨值也不會更新到。清算徹銷重新生成的結單對過往記錄不影響，仍然是取值該自然日前的基金淨值。
 
 > 例子說明：現在為 2 月 28 日，而基金淨值的記錄截取至 1 月 31 日。之後在 2 月 28 日更新之前的歷史基金淨值，重新生成的結單也是取值 1 月 31 日。修改歷史基金淨值重跑日終生成結單，也不會更新。
+
+
+
 

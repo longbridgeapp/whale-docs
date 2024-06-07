@@ -43,11 +43,11 @@ sidebar_position: 8
 
 <img src="/assets/IaX0bfJBNoFOpDx251mcLltcnDf.png" src-width="2512" src-height="734" align="center"/>
 
-9F 图一
+<em>9F 图一</em>
 
 <img src="/assets/CiitbN2CNoRlFAxUM9XcHrltnab.png" src-width="756" src-height="1469" align="center"/>
 
-9F 图二
+<em>9F 图二</em>
 
 ## 9G 问：如何更新基金的价格？
 
@@ -92,15 +92,18 @@ sidebar_position: 8
 
 <img src="/assets/CGLnby2T8opjzqxl6Fnck8EhnMh.png" src-width="2502" src-height="692" align="center"/>
 
-9J 图一
+<em>9J 图一</em>
 
 <img src="/assets/MqZdbvUTJoP5iixFXubcMB87nNh.png" src-width="2170" src-height="1042" align="center"/>
 
-9J 图二
+<em>9J 图二</em>
 
 ## 9K 问：补回之前的基金净值，结单上会更新吗？
 
 <b>答：</b>结单的基金净值生成是以自然日取值，即使修改历史基金净值也不会更新到。清算彻销重新生成的结单对过往记录不影响，仍然是取值该自然日前的基金净值。
 
 > 例子说明：现在为 2 月 28 日，而基金净值的记录截取至 1 月 31 日。之后在 2 月 28 日更新之前的历史基金净值，重新生成的结单也是取值 1 月 31 日。修改历史基金净值重跑日终生成结单，也不会更新。
+
+
+
 

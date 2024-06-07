@@ -20,9 +20,14 @@ sidebar_position: 0
 <tr><th><p><b>权限名称</b></p></th><th><p><b>权限说明</b></p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>ActivityCenterFull<br/>管理活动、邀请关系配置的权限</p></td><td><p>增删改查标准活动，非标准活动，邀请关系</p></td></tr>
+<tr><td><ul>
+<li>ActivityCenterFull<br/>管理活动、邀请关系配置的权限</li>
+</ul></td><td><p>增删改查标准活动，非标准活动，邀请关系</p></td></tr>
 </tbody>
 </table>
+
+- 如需对活动设置实物、卡券奖励，请先在[权益系统](./Nohgwdf4midxtCkmYPtcemFenog)中进行创建
+- 如需对活动参与用户进行限制，请先取得创建用户分群权限，参见[投放系统](./HFS5wXhvXi0yh7kKbllc8Xp4n9c)
 
 ## 活动达标任务类型及说明
 
@@ -265,7 +270,7 @@ sidebar_position: 0
 <tr><td><p>活动 code</p></td><td rowspan="2"><p>这两项在创建活动后，系统会自动赋予，非必要无需人工填写<br/>生成后不可编辑</p></td></tr>
 <tr><td><p>奖励发放业务代码</p></td></tr>
 <tr><td><p>活动名称</p></td><td><p>填写的名称有可能展示在用户的奖励资讯中，需要谨慎填写。可配置多语言，支持中文简体、中文繁体、英语三种语言标题配置，配置好后将更具用户手机系统语言默认展示对应语言。若无需多语言展示则三个语言标题都配置统一语言标题即可。</p></td></tr>
-<tr><td><p>费用类型</p></td><td></td></tr>
+<tr><td><p>费用类型</p></td><td><p>营销推广、日常运营、返利，根据个单位自己的活动费用支出归属选择即可</p></td></tr>
 </tbody>
 </table>
 
