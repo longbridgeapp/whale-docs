@@ -1,6 +1,6 @@
 ---
 title: 2024-06-15 更新日誌
-slug: 24-06-15
+slug: EAIFwcKR6i8VdUkSlrVcMxBCnpd
 sidebar_position: 0
 ---
 

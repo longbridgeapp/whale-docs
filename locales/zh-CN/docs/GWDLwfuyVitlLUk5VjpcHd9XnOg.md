@@ -1,6 +1,6 @@
 ---
 title: WTT
-slug: GWDLwfuyVitlLUk5VjpcHd9XnOg
+slug: wtt
 sidebar_position: 1
 ---
 

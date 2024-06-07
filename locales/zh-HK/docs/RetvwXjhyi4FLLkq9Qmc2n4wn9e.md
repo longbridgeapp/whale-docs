@@ -15,7 +15,7 @@ sidebar_position: 1
 
 <img src="/assets/X73CbSkaIo7tLSxomLrcalD3ngc.png" src-width="1276" src-height="920"/>
 
-## 功能介紹
+## 1.功能介紹
 
 <table header_column="1">
 <colgroup>
@@ -35,11 +35,11 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 活動系統架構
+### 1.1 活動系統架構
 
 <img src="/assets/YMfdb8VTfo2ahgxnDFKcaV4FnUf.png" src-width="806" src-height="492" align="center"/>
 
-### 活動達標任務類型及說明
+### 1.2 活動達標任務類型及說明
 
 <table>
 <colgroup>
@@ -61,13 +61,13 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 活動獎勵說明
+### 1.3 活動獎勵說明
 
 目前創建活動時可設置三種獎勵類型：實物、卡券、現金
 
 實物和卡券的創建參見[權益系统](./Nohgwdf4midxtCkmYPtcemFenog)介紹
 
-### 活動配置流程
+### 1.4 活動配置流程
 
 適用：運營人員，活動系統涉及到下列幾個主體：
 活動系統：運營人員負責配置管理在線活動
@@ -76,7 +76,7 @@ sidebar_position: 1
 <img src="/assets/MrnBbhmJro3K4bxzuyRcf8KJnXb.jpeg" src-width="2190" src-height="894" align="center"/>
 
 ## 
-## 標準活動管理
+## 2.標準活動管理
 
 執行菜單：運營系統&gt; 活動系統&gt;標準活動管理
 
@@ -126,13 +126,16 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 邀請活動
+### 
+### 2.1 邀請活動
 
-#### 邀請活動業務實現邏輯說明
+#### 2.1.1 邀請活動業務實現邏輯說明
 
 任意活動頁面只要配置了分享功能，則該頁面通過用戶分享傳播後完成新用戶註冊，均會進行邀請關係綁定。
 
 邀請活動通過綁定關係進行發獎。
+
+<img src="/assets/AEN0b9E4IomM6zx64CWcUWJ3nMf.jpeg" src-width="1474" src-height="494" align="center"/>
 
 此外，邀請活動支持固定獎勵和階梯獎勵兩種奖励類型
 
@@ -140,7 +143,7 @@ sidebar_position: 1
 
 階梯獎勵：劃分被邀請人數量區間，邀請人數位於某一區間內，每邀請一個新用戶即會獲得該區間對應的獎勵，到達下一區間時還可設置邀請人的額外獎勵，通常邀請人數越多獎勵越大。
 
-#### 邀請活動配置
+#### 2.1.2 邀請活動配置
 
 運營系統＞活動系統＞標準活動
 
@@ -188,11 +191,11 @@ sidebar_position: 1
 
 點擊新增獎勵規則，不同獎勵類型和活動屬性填寫字段不同：
 
-固定獎勵
+<u>固定獎勵</u>
 
 <img src="/assets/U3aZb5mg5of06dx43ICcE8xqnKb.png" src-width="1280" src-height="980" align="center"/>
 
-階梯獎勵
+<u>階梯獎勵</u>
 
 <img src="/assets/JDXobSrslo2J3WxPlPPcy2xxn5b.png" src-width="1280" src-height="958" align="center"/>
 
@@ -209,7 +212,7 @@ sidebar_position: 1
 
 <img src="/assets/TzYsbeR8noYcW8xL3HwcJzuHnSc.png" src-width="2040" src-height="386" align="center"/>
 
-#### 邀請活動奖励数据查询
+#### 2.1.3 邀請活動奖励数据查询
 
 只有當活動運行中進行發獎時才有數據顯示
 
@@ -255,14 +258,13 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 
-### 基礎活動
+### 2.2 基礎活動
 
-#### 基礎活動業務實現邏輯說明
+#### 2.2.1 基礎活動業務實現邏輯說明
 
 <img src="/assets/S2dCbbeR9oPAuYxOnM0c1miLnne.jpeg" src-width="1394" src-height="494" align="center"/>
 
-#### 基礎活動配置
+#### 2.2.2 基礎活動配置
 
 運營系統＞活動系統＞標準活動
 
@@ -332,7 +334,7 @@ sidebar_position: 1
 
 <img src="/assets/K1grbEvVzoM2RbxUnmFc1Tyxn8d.png" src-width="3144" src-height="548" align="center"/>
 
-#### 基础活动獎勵数据查询
+#### 2.2.3 基础活动獎勵数据查询
 
 活動獎勵數據查詢（只有當活動運行中進行發獎時才有數據顯示）
 
@@ -383,13 +385,13 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 組隊活動
+### 2.3 組隊活動
 
-#### 組隊活動業務流程
+#### 2.3.1 組隊活動業務流程
 
 <img src="/assets/AguQb4BkIoIIRCx93fvcSiZCnKd.jpeg" src-width="2274" src-height="434" align="center"/>
 
-#### 組隊活動配置
+#### 2.3.2 組隊活動配置
 
 運營系統＞活動系統＞標準活動
 
@@ -428,7 +430,7 @@ sidebar_position: 1
 </tbody>
 </table>
 
-#### 組隊活動獎勵數據查詢
+#### 2.3.3 組隊活動獎勵數據查詢
 
 只有當活動運行中進行發獎時才有數據顯示
 
@@ -479,7 +481,7 @@ sidebar_position: 1
 </tbody>
 </table>
 
-#### 組隊信息查看
+#### 2.3.4 組隊信息查看
 
 助力活動，視為發起人邀請助力人進行組隊，因此可查看其組隊信息
 
@@ -518,7 +520,7 @@ sidebar_position: 1
 </table>
 
 ## 
-## 非標準活動管理
+## 3.非標準活動管理
 
 使用人員：運營
 
@@ -554,7 +556,7 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 非標准活動配置
+### 3.1 非標准活動配置
 
 點擊頁面上方新建按鈕，打開如下頁面
 
@@ -579,7 +581,7 @@ sidebar_position: 1
 </table>
 
 ## 
-## 邀請關係管理
+## 4.邀請關係管理
 
 如圖：一個用戶在一個 App 下會生成當前 App 唯一邀請碼，用戶將自己邀請碼分享給好友，好友即可填寫綁定。綁定後會更新在邀請關係清單中
 
@@ -599,9 +601,9 @@ sidebar_position: 1
 
 （對於已完成的動作則不可綁定對應節點的邀請人了，未完成動作節點邀請人可以綁定和變更）
 
-### 新增邀請關係
+### 4.1 新增邀請關係
 
-#### 新增註冊邀請關係
+#### 4.1.1 新增註冊邀請關係
 
 點擊邀請關係管理頁面的新建按鈕，打開如下彈窗
 
@@ -611,7 +613,7 @@ sidebar_position: 1
 
 填寫被邀請人和邀請人的客戶編號後即可完成綁定
 
-#### 新增開戶邀請人/入金邀請人
+#### 4.1.2 新增開戶邀請人/入金邀請人
 
 首先通過篩選找到欲為其綁定邀請人的被邀請人用戶，點擊該用戶詳情，進入查看
 
@@ -625,7 +627,7 @@ sidebar_position: 1
 
 當用戶未完成某一節點時，可以變更用戶綁定的該節點的邀請人，變更流程同上，輸入新的邀請人用戶編號即可。
 
-# 運營活動常見問題查詢
+## 運營活動常見問題查詢
 
 ## 用戶咨詢未收到獎勵，運營如何查詢？
 

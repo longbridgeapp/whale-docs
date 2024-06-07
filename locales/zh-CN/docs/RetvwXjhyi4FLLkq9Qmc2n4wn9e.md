@@ -15,7 +15,7 @@ sidebar_position: 1
 
 <img src="/assets/X73CbSkaIo7tLSxomLrcalD3ngc.png" src-width="1276" src-height="920"/>
 
-## 功能介绍
+## 1.功能介绍
 
 <table header_column="1">
 <colgroup>
@@ -35,11 +35,11 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 活动系统架构
+### 1.1 活动系统架构
 
 <img src="/assets/YMfdb8VTfo2ahgxnDFKcaV4FnUf.png" src-width="806" src-height="492" align="center"/>
 
-### 活动达标任务类型及说明
+### 1.2 活动达标任务类型及说明
 
 <table>
 <colgroup>
@@ -61,13 +61,13 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 活动奖励说明
+### 1.3 活动奖励说明
 
 目前创建活动时可设置三种奖励类型：实物、卡券、现金
 
 实物和卡券的创建参见[权益系统](./Nohgwdf4midxtCkmYPtcemFenog)介绍
 
-### 活动配置流程
+### 1.4 活动配置流程
 
 适用：运营人员，活动系统涉及到下列几个主体：
 活动系统：运营人员负责配置管理在线活动
@@ -76,7 +76,7 @@ sidebar_position: 1
 <img src="/assets/MrnBbhmJro3K4bxzuyRcf8KJnXb.jpeg" src-width="2190" src-height="894" align="center"/>
 
 ## 
-## 标准活动管理
+## 2.标准活动管理
 
 执行菜单：运营系统&gt; 活动系统&gt;标准活动管理
 
@@ -126,13 +126,16 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 邀请活动
+### 
+### 2.1 邀请活动
 
-#### 邀请活动业务实现逻辑说明
+#### 2.1.1 邀请活动业务实现逻辑说明
 
 任意活动页面只要配置了分享功能，则该页面通过用户分享传播后完成新用户注册，均会进行邀请关系绑定。
 
 邀请活动通过绑定关系进行发奖。
+
+<img src="/assets/AEN0b9E4IomM6zx64CWcUWJ3nMf.jpeg" src-width="1474" src-height="494" align="center"/>
 
 此外，邀请活动支持固定奖励和阶梯奖励两种奖励类型
 
@@ -140,7 +143,7 @@ sidebar_position: 1
 
 阶梯奖励：划分被邀请人数量区间，邀请人数位于某一区间内，每邀请一个新用户即会获得该区间对应的奖励，到达下一区间时还可设置邀请人的额外奖励，通常邀请人数越多奖励越大。
 
-#### 邀请活动配置
+#### 2.1.2 邀请活动配置
 
 运营系统＞活动系统＞标准活动
 
@@ -188,11 +191,11 @@ sidebar_position: 1
 
 点击新增奖励规则，不同奖励类型和活动属性填写字段不同：
 
-固定奖励
+<u>固定奖励</u>
 
 <img src="/assets/U3aZb5mg5of06dx43ICcE8xqnKb.png" src-width="1280" src-height="980" align="center"/>
 
-阶梯奖励
+<u>阶梯奖励</u>
 
 <img src="/assets/JDXobSrslo2J3WxPlPPcy2xxn5b.png" src-width="1280" src-height="958" align="center"/>
 
@@ -209,7 +212,7 @@ sidebar_position: 1
 
 <img src="/assets/TzYsbeR8noYcW8xL3HwcJzuHnSc.png" src-width="2040" src-height="386" align="center"/>
 
-#### 邀请活动奖励数据查询
+#### 2.1.3 邀请活动奖励数据查询
 
 只有当活动运行中进行发奖时才有数据显示
 
@@ -255,14 +258,13 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 
-### 基础活动
+### 2.2 基础活动
 
-#### 基础活动业务实现逻辑说明
+#### 2.2.1 基础活动业务实现逻辑说明
 
 <img src="/assets/S2dCbbeR9oPAuYxOnM0c1miLnne.jpeg" src-width="1394" src-height="494" align="center"/>
 
-#### 基础活动配置
+#### 2.2.2 基础活动配置
 
 运营系统＞活动系统＞标准活动
 
@@ -332,7 +334,7 @@ sidebar_position: 1
 
 <img src="/assets/K1grbEvVzoM2RbxUnmFc1Tyxn8d.png" src-width="3144" src-height="548" align="center"/>
 
-#### 基础活动奖励数据查询
+#### 2.2.3 基础活动奖励数据查询
 
 活动奖励数据查询（只有当活动运行中进行发奖时才有数据显示）
 
@@ -383,13 +385,13 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 组队活动
+### 2.3 组队活动
 
-#### 组队活动业务流程
+#### 2.3.1 组队活动业务流程
 
 <img src="/assets/AguQb4BkIoIIRCx93fvcSiZCnKd.jpeg" src-width="2274" src-height="434" align="center"/>
 
-#### 组队活动配置
+#### 2.3.2 组队活动配置
 
 运营系统＞活动系统＞标准活动
 
@@ -428,7 +430,7 @@ sidebar_position: 1
 </tbody>
 </table>
 
-#### 组队活动奖励数据查询
+#### 2.3.3 组队活动奖励数据查询
 
 只有当活动运行中进行发奖时才有数据显示
 
@@ -479,7 +481,7 @@ sidebar_position: 1
 </tbody>
 </table>
 
-#### 组队信息查看
+#### 2.3.4 组队信息查看
 
 助力活动，视为发起人邀请助力人进行组队，因此可查看其组队信息
 
@@ -518,7 +520,7 @@ sidebar_position: 1
 </table>
 
 ## 
-## 非标准活动管理
+## 3.非标准活动管理
 
 使用人员：运营
 
@@ -554,7 +556,7 @@ sidebar_position: 1
 </tbody>
 </table>
 
-### 非标准活动配置
+### 3.1 非标准活动配置
 
 点击页面上方新建按钮，打开如下页面
 
@@ -579,7 +581,7 @@ sidebar_position: 1
 </table>
 
 ## 
-## 邀请关系管理
+## 4.邀请关系管理
 
 如图：一个用户在一个 App 下会生成当前 App 唯一邀请码，用户将自己邀请码分享给好友，好友即可填写绑定。绑定后会更新在邀请关系清单中
 
@@ -599,9 +601,9 @@ sidebar_position: 1
 
 （对于已完成的动作则不可绑定对应节点的邀请人了，未完成动作节点邀请人可以绑定和变更）
 
-### 新增邀请关系
+### 4.1 新增邀请关系
 
-#### 新增注册邀请关系
+#### 4.1.1 新增注册邀请关系
 
 点击邀请关系管理页面的新建按钮，打开如下弹窗
 
@@ -611,7 +613,7 @@ sidebar_position: 1
 
 填写被邀请人和邀请人的客户编号后即可完成绑定
 
-#### 新增开户邀请人/入金邀请人
+#### 4.1.2 新增开户邀请人/入金邀请人
 
 首先通过筛选找到欲为其绑定邀请人的被邀请人用户，点击该用户详情，进入查看
 
@@ -625,7 +627,7 @@ sidebar_position: 1
 
 当用户未完成某一节点时，可以变更用户绑定的该节点的邀请人，变更流程同上，输入新的邀请人用户编号即可。
 
-# 运营活动常见问题查询
+## 运营活动常见问题查询
 
 ## 用户咨询未收到奖励，运营如何查询？
 

@@ -65,6 +65,10 @@ sidebar_position: 4
 
 <em>5G 图一</em>
 
+<img src="/assets/TLEvbxnWgo95A3xUoV1cFZb9n2d.png" src-width="2656" src-height="294" align="center"/>
+
+<em>5G 图二</em>
+
 ## 5H 问：清算前准备出现「前台流水全部纳入清算」的提醒，如何处理？
 
 <img src="/assets/HlkebwYzvo6jBKx3jigcmlgmnue.png" src-width="1373" src-height="1124"/>
