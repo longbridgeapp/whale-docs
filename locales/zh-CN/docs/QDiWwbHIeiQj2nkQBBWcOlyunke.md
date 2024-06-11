@@ -11,7 +11,7 @@ sidebar_position: 0
 
 <b>答：</b> 在 WBO 的「业务参数设置」中「市场管理」设置
 
-(i). 先找寻该市场日历（例如：交易所网站）。
+(i). 先找寻该市场日历（例如：交易所网站）
 
 <img src="/assets/IvMZb9gL2oCVaqxh8BDcxSkRngo.png" src-width="1792" src-height="1612" align="center"/>
 
