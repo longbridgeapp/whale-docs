@@ -45,3 +45,19 @@ sidebar_position: 9
 
 <em>10D 图三</em>
 
+## 10E. 问：扣款订单中选择的财务日期，会有如何影响？
+
+<b>答：</b>这里的财务日期指这个扣款发生的行为记录。例如：5 月 10 日账户 A 扣了 100，财务日期选了 5 月 11 日，结单会在 5 月 11 日显示扣款。
+
+## 10F. 问：新股上市后撤回，重新招股的如何作认购设置？
+
+<b>答：</b>在「新股认购 &gt; 全部」搜索重新招股的新股代号（见 10F 图一），重新设置认购开始＆结束、费率、渠道等资料，选回「是」可认购。（见 10F 图二）
+
+<img src="/assets/J8NWb5c5GoULAdxs9WFcim2HnPc.png" src-width="2554" src-height="662" align="center"/>
+
+<em>10F 图一</em>
+
+<img src="/assets/V8klbbqj7oMVKQxtutac62Uqnqb.png" src-width="2528" src-height="1552" align="center"/>
+
+<em>10F 图二</em>
+

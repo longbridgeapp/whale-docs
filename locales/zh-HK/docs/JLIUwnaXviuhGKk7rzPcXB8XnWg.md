@@ -45,3 +45,19 @@ sidebar_position: 9
 
 <em>10D 圖三</em>
 
+## 10E. 問：扣款訂單中選擇的財務日期，會有如何影響？
+
+<b>答：</b>這裡的財務日期指這個扣款發生的行為記錄。例如：5 月 10 日賬户 A 扣了 100，財務日期選了 5 月 11 日，結單會在 5 月 11 日顯示扣款。
+
+## 10F. 問：新股上市後撤回，重新招股的如何作認購設置？
+
+<b>答：</b>在「新股認購 &gt; 全部」搜索重新招股的新股代號（見 10F 圖一），重新設置認購開始＆結束、費率、渠道等資料，選回「是」可認購。（見 10F 圖二）
+
+<img src="/assets/J8NWb5c5GoULAdxs9WFcim2HnPc.png" src-width="2554" src-height="662" align="center"/>
+
+<em>10F 圖一</em>
+
+<img src="/assets/V8klbbqj7oMVKQxtutac62Uqnqb.png" src-width="2528" src-height="1552" align="center"/>
+
+<em>10F 圖二</em>
+

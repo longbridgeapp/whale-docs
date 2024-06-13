@@ -14,6 +14,8 @@ sidebar_position: 5
 - 如 BE 類別可參考 [快速上手 - 普通紅股紅利（BE）](./VK4bwFoGyifITykmGaucY7fSncc)、[快速上手 - 自願類紅股紅利（BE） ](./NiQDwy0cziZ2b5kKIg5c0ExAn6f)
 - 如 TM 類別可參考 [快速上手 - 牛熊證、債券回收、私有化（TM）](./ODm8wYemyiS9WZkNGUmcbZ3Qnlc)
 
+> 公司行動完成後，一般需要約 5 分鐘時間更新成本價
+
 <table>
 <colgroup>
 <col width="415"/>
@@ -40,6 +42,9 @@ sidebar_position: 5
 <b>答：</b>需要依據上手通知操作美股的公司行動，
 
 - 如 BE 類別可參考 [快速上手 - 普通紅股紅利（BE）](./VK4bwFoGyifITykmGaucY7fSncc)、[快速上手 - 自願類紅股紅利（BE） ](./NiQDwy0cziZ2b5kKIg5c0ExAn6f)
+
+> 如美股發生 CA 類的公司行動需要完成美股日終的“清算交收”以拉取到最新新數據。
+例如：NVDA 在 2024 年 6 月 7 日收盤後進行 1 拆 10 股的公司行動。系統需要完成 6 月 10 日的美股“清算交收" 後，CA 類公司行動的股權記登記日為 6 月 10 日，支付日期為 6 月 11 日。
 
 ## 6C 問：為何按了「登記」沒有客户數據？
 
