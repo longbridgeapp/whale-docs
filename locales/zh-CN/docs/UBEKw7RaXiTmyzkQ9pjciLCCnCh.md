@@ -72,3 +72,9 @@ sidebar_position: 0
 <b>答：</b>客户类型（如：个人账户、企业账户、联名账户）选错了，需要注销账号重新再开。
 客户详细类别（Retail 是零售客户；House 是公司的自营账户，如：`testing acc`，`error acc`）选错了也是需要注销账号重新再开。
 
+## 1H 问：账户明细中分了 Business 及  Settlement 是什么意思？
+
+<b>答：</b>待交收的流水一开始会放在 Business 账户，等到交收当天将 Business 的账调整到去 Settlement。
+
+<img src="/assets/YHYSbKpFsoqicGx6wC3cy67ynoe.png" src-width="2852" src-height="500" align="center"/>
+

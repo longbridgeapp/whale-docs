@@ -27,7 +27,7 @@ sidebar_position: 3
 
 <b>答：</b>CRS 101、Passive Non-Financial Entity with – one or more controlling person that is a Reportable Person（Passive NFE 机构实体为一个或多于一个控权人适用）；
 
-CRS 102、Reportable Person（其它机构实体或个人户适用）；
+CRS 102、Reportable Person（个人户或其它机构实体适用）；
 
 CRS 103、Passive Non-Financial Entity that is a Reportable Person（Passive NFE 机构实体为申报对象适用）
 
