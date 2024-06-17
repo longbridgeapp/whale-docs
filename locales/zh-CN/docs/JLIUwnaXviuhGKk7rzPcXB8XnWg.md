@@ -51,7 +51,7 @@ sidebar_position: 9
 
 ## 10F. 问：新股上市后撤回，重新招股的如何作认购设置？
 
-<b>答：</b>在「新股认购 &gt; 全部」搜索重新招股的新股代号（见 10F 图一），重新设置认购开始＆结束、费率、渠道等资料，选回「是」可认购。（见 10F 图二）
+<b>答：</b>在「新股认购 &gt; 全部」搜索重新招股的新股代号（见 10F 图一）点击「详情」，重新设置认购开始＆结束时间、费率、渠道等资料，选回「是」可认购。（见 10F 图二）
 
 <img src="/assets/J8NWb5c5GoULAdxs9WFcim2HnPc.png" src-width="2554" src-height="662" align="center"/>
 
@@ -60,4 +60,8 @@ sidebar_position: 9
 <img src="/assets/V8klbbqj7oMVKQxtutac62Uqnqb.png" src-width="2528" src-height="1552" align="center"/>
 
 <em>10F 图二</em>
+
+## 10G. 问：为什么找不到债券 #4701 作新股认购 ?
+
+<b>答：</b>这个债券标的是有的，但是不支援认购，因不是指定证券经纪，所以新股认购没显示。
 

@@ -51,7 +51,7 @@ sidebar_position: 9
 
 ## 10F. 問：新股上市後撤回，重新招股的如何作認購設置？
 
-<b>答：</b>在「新股認購 &gt; 全部」搜索重新招股的新股代號（見 10F 圖一），重新設置認購開始＆結束、費率、渠道等資料，選回「是」可認購。（見 10F 圖二）
+<b>答：</b>在「新股認購 &gt; 全部」搜索重新招股的新股代號（見 10F 圖一）點擊「詳情」，重新設置認購開始＆結束時間、費率、渠道等資料，選回「是」可認購。（見 10F 圖二）
 
 <img src="/assets/J8NWb5c5GoULAdxs9WFcim2HnPc.png" src-width="2554" src-height="662" align="center"/>
 
@@ -60,4 +60,8 @@ sidebar_position: 9
 <img src="/assets/V8klbbqj7oMVKQxtutac62Uqnqb.png" src-width="2528" src-height="1552" align="center"/>
 
 <em>10F 圖二</em>
+
+## 10G. 問：為什麼找不到債券 #4701 作新股認購 ?
+
+<b>答：</b>這個債券標的是有的，但是不支援認購，因不是指定證券經紀，所以新股認購沒顯示。
 

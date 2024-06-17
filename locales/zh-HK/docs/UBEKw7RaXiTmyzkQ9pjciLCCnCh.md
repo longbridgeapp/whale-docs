@@ -72,3 +72,9 @@ sidebar_position: 0
 <b>答：</b>客户類型（如：個人賬户、企業賬户、聯名賬户）選錯了，需要註銷賬號重新再開。
 客户詳細類別（Retail 是零售客户；House 是公司的自營賬户，如：`testing acc`，`error acc`）選錯了也是需要註銷賬號重新再開。
 
+## 1H 問：賬户明細中分了 Business 及  Settlement 是什麼意思？
+
+<b>答：</b>待交收的流水一開始會放在 Business 賬户，等到交收當天將 Business 的賬調整到去 Settlement。
+
+<img src="/assets/YHYSbKpFsoqicGx6wC3cy67ynoe.png" src-width="2852" src-height="500" align="center"/>
+
