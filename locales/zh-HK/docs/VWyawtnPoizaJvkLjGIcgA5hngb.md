@@ -624,8 +624,6 @@ sidebar_position: 2
 
 <img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
 
-日內融股票保證金列表
-
 1. 頁面的【新增】和【批量上傳】可以單個新增或批量新增日內交易股票的保證金比例設置；操作流程同「股票保證金」
 
 <img src="/assets/Qsx5bEMDSoeyBSx3tp1cFnUpnbc.png" src-width="3298" src-height="954" align="center"/>
@@ -663,8 +661,6 @@ sidebar_position: 2
 1. 列表展示所有支持空頭股票保證金比例記錄
 
 <img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
-
-空頭保證金列表頁面
 
 1. 支持批量上傳：下載模板文件根據文件要求填寫後上傳
 

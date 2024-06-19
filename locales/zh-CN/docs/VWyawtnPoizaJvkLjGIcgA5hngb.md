@@ -624,8 +624,6 @@ sidebar_position: 2
 
 <img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
 
-日内融股票保证金列表
-
 1. 页面的【新增】和【批量上传】可以单个新增或批量新增日内交易股票的保证金比例设置；操作流程同「股票保证金」
 
 <img src="/assets/Qsx5bEMDSoeyBSx3tp1cFnUpnbc.png" src-width="3298" src-height="954" align="center"/>
@@ -663,8 +661,6 @@ sidebar_position: 2
 1. 列表展示所有支持空头股票保证金比例记录
 
 <img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
-
-空头保证金列表页面
 
 1. 支持批量上传：下载模板文件根据文件要求填写后上传
 
