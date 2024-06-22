@@ -11,6 +11,7 @@
     - [權限申請](VgcdwsM0FiTFjLkS5YqcHZdhn1f.md)
     - [全局搜索](TPsoww4Iyij5uNkrUBhcGiaqngd.md)
     - [工單](LAGyw1xzYiphIgkw0ICcX7len3f.md)
+    - [消息設置](KZZlw2sqFiy4knkZtvCcClPknHg.md)
   - [使用指南](DokowCMGEirZERkadBacb92EnAh.md)
     - [證券后台（WBO)](QQGNwf6t6i3nS9ko0ZTcwb8tnuh.md)
       - [資產賬戶](Xd2qwHVugivJ2fkmA0zc7939npb.md)
