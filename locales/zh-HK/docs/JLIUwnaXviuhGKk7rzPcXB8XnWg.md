@@ -65,3 +65,11 @@ sidebar_position: 9
 
 <b>答：</b>這個債券標的是有的，但是不支援認購，因不是指定證券經紀，所以新股認購沒顯示。
 
+## 10H. 問：API 接了 FINI，如何取消新股認購訂單？
+
+<b>答：</b>在「新股認購 &gt; 認購記錄」頁面可以操作撤單（見 10H 圖一）。如訂單狀態去到 "已扣款" 就不能作撤單或拒單，需要強制撤單要登錄到 FINI 平台處理，但已過截止時間，FINI 也不能作撤單了。
+
+<img src="/assets/B0DsbzhdooDmtrx8IkgcliJcnJg.png" src-width="2716" src-height="902" align="center"/>
+
+<em>10H 圖一</em>
+

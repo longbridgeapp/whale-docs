@@ -111,3 +111,10 @@ RS 類別處理的是已認購上報的，DS 類別處理的是未申請的股�
 
 <img src="/assets/RLolbt0tSoVrDWxcYsbcWEnonAc.png" src-width="2042" src-height="808" align="center"/>
 
+## 6J 問：公司行動操作「行權指令收集」出現報錯，需要如何處理？
+
+<img src="/assets/EjeEb1YdHoUQUDxeyLMcn2kznHe.png" src-width="2137" src-height="510" align="center"/>
+
+<b>答：</b>操作「行權指令收集」需要在選擇開始時間及結束時間之間。成功後，可以點擊「提前完成指令收集」提早完成公司行動。
+另外，時間段需逐步遞進：選擇開始時間＜選擇結束時間＜選擇結束時間（CCASS）。
+
