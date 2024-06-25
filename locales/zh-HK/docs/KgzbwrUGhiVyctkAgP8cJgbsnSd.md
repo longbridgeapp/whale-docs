@@ -42,12 +42,12 @@ sidebar_position: 4
 
 ## 5F 問：清算能重跑昨天的數據？
 
-<b>答：</b>在「清算管理 &gt; 清算撤銷」頁面點擊「新增」，不能跳過賬務日，需一天一天撤回。（見 5E 圖一）
+<b>答：</b>在「清算管理 &gt; 清算撤銷」頁面點擊「新增」，不能跳過賬務日，需一天一天撤回。（見 5F 圖一）
 
 
 <img src="/assets/Ddk9bk6NtoQs2KxjD2BceB28nHT.png" src-width="2390" src-height="1420" align="center"/>
 
-<em>5E 圖一</em>
+<em>5F 圖一</em>
 
 <em>如不用重新計算利息／交收數據，資產類回撤可選不操作</em>
 

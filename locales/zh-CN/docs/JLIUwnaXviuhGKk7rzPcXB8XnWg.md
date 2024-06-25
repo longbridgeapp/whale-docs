@@ -65,3 +65,11 @@ sidebar_position: 9
 
 <b>答：</b>这个债券标的是有的，但是不支援认购，因不是指定证券经纪，所以新股认购没显示。
 
+## 10H. 问：API 接了 FINI，如何取消新股认购订单？
+
+<b>答：</b>在「新股认购 &gt; 认购记录」页面可以操作撤单（见 10H 图一）。如订单状态去到 "已扣款" 就不能作撤单或拒单，需要强制撤单要登录到 FINI 平台处理，但已过截止时间，FINI 也不能作撤单了。
+
+<img src="/assets/B0DsbzhdooDmtrx8IkgcliJcnJg.png" src-width="2716" src-height="902" align="center"/>
+
+<em>10H 图一</em>
+

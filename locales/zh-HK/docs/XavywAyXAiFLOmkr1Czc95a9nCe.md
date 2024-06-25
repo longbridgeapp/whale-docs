@@ -25,3 +25,11 @@ sidebar_position: 16
 
 <img src="/assets/N5YDbyGdvoRn1nxA4aWcoIujntd.png" src-width="2242" src-height="1122" align="center"/>
 
+## 17C 問：前台如何看到聯名戶信息中主次持有人的名稱？
+
+<b>答：</b>在「客户信息」組件中點擊右上方「...」的設置，打開顯示聯名户信息的按鈕。
+
+<img src="/assets/TfO6btRGAo9TF9x9EeacQcumnrf.png" src-width="2610" src-height="611" align="center"/>
+
+<img src="/assets/WdH1bZSsgorcbMx3fwHcKKz7n7f.png" src-width="2116" src-height="800" align="center"/>
+
