@@ -59,3 +59,11 @@ sidebar_position: 0
 
 <em>如不用重新计算利息／交收数据，资产类回撤可选不操作</em>
 
+## 5.1C 问：为什么尊嘉持仓文件不用分市埸导入？
+
+<b>答：</b>尊嘉的持仓文件没有分香港、美国市埸，持仓都合到一份文件提供的，导入系统不用区分市埸。
+
+<img src="/assets/WFWPbJufUojHQixTQrMcqMu3nod.png" src-width="2690" src-height="1410" align="center"/>
+
+<img src="/assets/HyvfbF71koZJr0xszX2cMb0Snew.png" src-width="1398" src-height="202" align="center"/>
+

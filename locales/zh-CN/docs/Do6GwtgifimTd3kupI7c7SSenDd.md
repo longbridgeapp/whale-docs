@@ -56,3 +56,10 @@ sidebar_position: 14
 
 <img src="/assets/LrOgbHGghowuNXxtjXecggq9n5c.png" src-width="2516" src-height="1268" align="center"/>
 
+## 15C 问：“结算账户”跟“业务账户”如何影响到对账类型？
+
+<b>答：</b>上手代理／托管商设置的对账类型「结算账户」指以已结算数量（T+2 交收后）来显示持仓股数，「业务账户」指以账面股数（即时反映）来显示持仓股数。
+系统主要以「结算账户」已交收的股数作对账，如设置了「业务账户」以账面股数对账，会引致 SDR025 - Stock Reconciliation Report 不对账，可以统一以把对账类型选为结算账户。
+
+<img src="/assets/JEOybKwukolNKJx9d0UcpLfonXb.png" src-width="2672" src-height="1404" align="center"/>
+

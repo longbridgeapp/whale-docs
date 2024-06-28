@@ -29,3 +29,9 @@ sidebar_position: 0
 
 <img src="/assets/NVn3blEsAog4r9x9bKscgf7vn8f.png" src-width="848" src-height="948" align="center"/>
 
+## 15.1B 問：為什麼審批的工單都去到超級管理員賬户？
+
+<b>答：</b>因為審批流程未有設置審核人，會去到超級管理員賬户，可以在「身份管理 &gt; 審批流程配置」設置“默認審批流配置”把工單審核去到默認的人員／角色。
+
+<img src="/assets/Ld7eb2ApEoU4MqxRZsTck49NnBc.png" src-width="2554" src-height="670" align="center"/>
+

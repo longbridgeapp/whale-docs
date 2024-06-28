@@ -149,6 +149,7 @@
       - [1.3 注销客户／账户](Mg6CwkQVfiEuJkkdT0EcUyaSn8f.md)
       - [1.4 CRS 报送](HUbzwHx4LiuOtmkVI7scHABAnJd.md)
       - [1.5 BCAN 报送](BkapwOnc7iv94Hkh2Rtck4ainDd.md)
+      - [1.6 主子账户](IpYhwMNgJiRvvPk8AkzcqIBOnPh.md)
     - [2. 出入金问题](ZdfIws61ziGjJCkdHhkcwQ29ndf.md)
       - [2.1 银行账号／银行卡](UuwQwu0wdiWfqSkN1Yocw3H4n3d.md)
       - [2.2 换汇](D0AWwZ3reiy1DvkIHs7cMFqSnWb.md)

@@ -56,3 +56,10 @@ sidebar_position: 14
 
 <img src="/assets/LrOgbHGghowuNXxtjXecggq9n5c.png" src-width="2516" src-height="1268" align="center"/>
 
+## 15C 問：“結算賬户”跟“業務賬户”如何影響到對賬類型？
+
+<b>答：</b>上手代理／託管商設置的對賬類型「結算賬户」指以已結算數量（T+2 交收後）來顯示持倉股數，「業務賬户」指以賬面股數（即時反映）來顯示持倉股數。
+系統主要以「結算賬户」已交收的股數作對賬，如設置了「業務賬户」以賬面股數對賬，會引致 SDR025 - Stock Reconciliation Report 不對賬，可以統一以把對賬類型選為結算賬户。
+
+<img src="/assets/JEOybKwukolNKJx9d0UcpLfonXb.png" src-width="2672" src-height="1404" align="center"/>
+
