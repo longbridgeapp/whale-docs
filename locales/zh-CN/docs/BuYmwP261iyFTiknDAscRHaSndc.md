@@ -31,3 +31,39 @@ sidebar_position: 15
 浮动盈亏：（12.36 - 17.5）X 200（一手）= -1,028
 当日盈亏：（12.36 - 15.1）X 200（一手） = -548
 
+## 16D 问：客户主子账户在 App 如何操作？
+
+<b>答：</b>客户如有主子账户，使用同一个登记电话登入到 App，登录后可以操作到所有主子账户作买卖。
+资金调拨可以使用「资金划转」功能：「账户间资金划转」由主账户把资金调到第二个主账户或「主子账户资金划转」把资金调至其属下的子账户。
+股票调拨可以使用「股票划转」功能：由主账户把持仓调到其属下的子账户。
+
+
+> “主子帐户”和“股票划转”功能只有在客户帐户开了子帐户的情况下才会展示，否则是看不到的，因为这两个功能只是针对主子帐户之间的功能。 
+“资金划转”是可以看的，因为它支持主主帐户之间的划转。
+
+<div class="flex gap-3 columns-5" column-size="5">
+<div class="w-[20%]" width-ratio="20">
+<img src="/assets/Y6uQbkVuBotBlCxFa6Qc3Vy3njd.png" src-width="634" src-height="1334" align="center"/>
+</div>
+<div class="w-[20%]" width-ratio="20">
+<img src="/assets/HIlabLo25oqyVTxe5ESceSWYn0g.png" src-width="642" src-height="1344" align="center"/>
+</div>
+<div class="w-[20%]" width-ratio="20">
+<img src="/assets/Skj6bmdW4oClJnxOWJrcHqVJnaf.png" src-width="642" src-height="1338" align="center"/>
+</div>
+<div class="w-[18%]" width-ratio="18">
+<img src="/assets/Qnz0bRSQFoMA1ZxkEMPcStC9nXc.png" src-width="590" src-height="1324" align="center"/>
+</div>
+<div class="w-[20%]" width-ratio="20">
+<img src="/assets/RBPAbX4i4oI2aTxrXa2cEEzCnXg.png" src-width="638" src-height="1330" align="center"/>
+</div>
+</div>
+
+## 16E 问：BMP 行情是什么？
+
+答：港股基础报价 (BMP)：
+
+1. 自选仅支持显示 20 只股票的手动刷新实时行情，超过的部分会显示延时 15 分钟行情。（自选股栏最近选择的 20 只股票展示实时行情，行情页面显示的是延迟行情）
+
+2. 个股页支持手动刷新实时报价。
+
