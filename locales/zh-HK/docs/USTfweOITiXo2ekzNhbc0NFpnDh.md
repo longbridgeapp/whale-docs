@@ -53,3 +53,11 @@ sidebar_position: 1
 
 <img src="/assets/EjRFb3LTPohPwKxIvincZC5gnvb.png" src-width="1898" src-height="1430" align="center"/>
 
+## 5.2E 問：報表或結單會否顯示平倉交易
+
+答：TDR001-1-Daily Client Order Report By Client 報表的「訂單類型」會顯示為「強平單」；結單中的「股票交易明細」會顯示該訂單為「強制平倉 Forced Liquidation」。
+
+<img src="/assets/HaJbbxtEfoUomMxO3yocKEfEnJf.png" src-width="2832" src-height="1486" align="center"/>
+
+<img src="/assets/RLiIbKKZEoh6OsxWp7ecIrDvnVh.png" src-width="1602" src-height="810" align="center"/>
+

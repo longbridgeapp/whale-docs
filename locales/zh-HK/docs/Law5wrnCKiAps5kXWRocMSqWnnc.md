@@ -157,3 +157,15 @@ xxx 证券
 
 <b>答：</b>這個可以作配置，以客户的 IP address 區分，如命中中國內地 IP address 就不能使用 App 開户。
 
+## 1.1P 問：開戶待審核階段能否改賬戶類型
+
+答：在待審核階段下，可以先按「詳情」，進去後駁回申請，之後到開戶資料中編輯該開戶，最後修改賬戶類型。
+
+<img src="/assets/JxRDbGeg2ogeZ1xzp6jcaQhvn5f.png" src-width="2492" src-height="1094" align="center"/>
+
+<img src="/assets/YqhqbtIsxogQJNxdB4PcVAaAnoh.png" src-width="2092" src-height="1298" align="center"/>
+
+<img src="/assets/Ojv7bOxtqoySenxsbd5c0CZkngg.png" src-width="2514" src-height="980" align="center"/>
+
+<img src="/assets/DmWybTyJgoxeKfx6e7acTC0FnBF.png" src-width="1190" src-height="1238" align="center"/>
+

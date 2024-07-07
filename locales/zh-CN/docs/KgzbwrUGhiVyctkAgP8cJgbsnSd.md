@@ -127,3 +127,13 @@ sidebar_position: 4
 
 <img src="/assets/DHsUbiwpbogybHxtfuXcA6eAnve.png" src-width="2756" src-height="1478" align="center"/>
 
+## 5L 问：清算检查的「IBOND 交易检查」是否须要人手做
+
+答：可以不用人手检查，可以关闭检查配置
+
+「业务参数设置 ＞日终设置＞清算前准备＞IBOND 交易检查」
+
+<img src="/assets/YRuSbG4TyoZm58xfy5UcxNLYnKg.png" src-width="2788" src-height="1450" align="center"/>
+
+<img src="/assets/VHQwbgUqaoYjbjxAVaycoesXnig.png" src-width="2314" src-height="1342" align="center"/>
+

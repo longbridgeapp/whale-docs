@@ -53,3 +53,11 @@ sidebar_position: 1
 
 <img src="/assets/EjRFb3LTPohPwKxIvincZC5gnvb.png" src-width="1898" src-height="1430" align="center"/>
 
+## 5.2E 问：报表或结单会否显示平仓交易
+
+答：TDR001-1-Daily Client Order Report By Client 报表的「订单类型」会显示为「强平单」；结单中的「股票交易明细」会显示该订单为「强制平仓 Forced Liquidation」。
+
+<img src="/assets/HaJbbxtEfoUomMxO3yocKEfEnJf.png" src-width="2832" src-height="1486" align="center"/>
+
+<img src="/assets/RLiIbKKZEoh6OsxWp7ecIrDvnVh.png" src-width="1602" src-height="810" align="center"/>
+

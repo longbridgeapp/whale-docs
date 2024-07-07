@@ -157,3 +157,15 @@ xxx 证券
 
 <b>答：</b>这个可以作配置，以客户的 IP address 区分，如命中中国内地 IP address 就不能使用 App 开户。
 
+## 1.1P 问：开户待审核阶段能否改账户类型
+
+答：在待审核阶段下，可以先按「详情」，进去后驳回申请，之后到开户资料中编辑该开户，最后修改账户类型。
+
+<img src="/assets/JxRDbGeg2ogeZ1xzp6jcaQhvn5f.png" src-width="2492" src-height="1094" align="center"/>
+
+<img src="/assets/YqhqbtIsxogQJNxdB4PcVAaAnoh.png" src-width="2092" src-height="1298" align="center"/>
+
+<img src="/assets/Ojv7bOxtqoySenxsbd5c0CZkngg.png" src-width="2514" src-height="980" align="center"/>
+
+<img src="/assets/DmWybTyJgoxeKfx6e7acTC0FnBF.png" src-width="1190" src-height="1238" align="center"/>
+

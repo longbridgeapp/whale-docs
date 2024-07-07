@@ -77,3 +77,13 @@ sidebar_position: 16
 
 <em>（17F 图三)</em>
 
+## 17G. 问：系统什么时候将打靶的熊证进行清算和移除
+
+答：新建公司行动，根据有没有剩余价值选 TM 或者 DS，然后选「登记日」，并输入上手提供的登记日，上手移除时，系统便会同步操作。
+
+<img src="/assets/Hc6DbfNSOobPN3xT68zc3Fetnfe.png" src-width="1540" src-height="814" align="center"/>
+
+<img src="/assets/K4oCbl55gozMALxs4RMcL0L2ncb.png" src-width="904" src-height="1126" align="center"/>
+
+ 
+

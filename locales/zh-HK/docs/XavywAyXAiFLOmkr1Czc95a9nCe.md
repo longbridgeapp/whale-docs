@@ -77,3 +77,13 @@ sidebar_position: 16
 
 <em>（17F 圖三)</em>
 
+## 17G. 問：系統什麼時候將打靶的熊證進行清算和移除
+
+答：新建公司行動，根據有沒有剩餘價值選 TM 或者 DS，然後選「登記日」，並輸入上手提供的登記日，上手移除時，系統便會同步操作。
+
+<img src="/assets/Hc6DbfNSOobPN3xT68zc3Fetnfe.png" src-width="1540" src-height="814" align="center"/>
+
+<img src="/assets/K4oCbl55gozMALxs4RMcL0L2ncb.png" src-width="904" src-height="1126" align="center"/>
+
+ 
+
