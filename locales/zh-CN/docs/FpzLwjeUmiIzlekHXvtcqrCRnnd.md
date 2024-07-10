@@ -67,3 +67,15 @@ Own、以客户名义登记的股票
 
 <img src="/assets/OBlnbjBEBo5wMtxM0hWcRzaSnth.png" src-width="1404" src-height="1290" align="center"/>
 
+## 4G 问：客户间转换钱、货，可以使用手工调账？
+
+答：在手工调账可以处理，一个客户出账，另一个客户入账。
+
+<img src="/assets/E9GLbyg8yof3PuxKn6qcrvmZnLf.png" src-width="2830" src-height="1620" align="center"/>
+
+## 4H 问：客户间调账如何进行场外证券交易汇报？
+
+答：只有实股或牵涉印花税的公司行动才能汇出 OTCR 文件上传，客户间调账可以导出一份空白的 SDR070 excel，然后人手填该笔交易的资料，再进行汇报。
+
+<img src="/assets/RrnvbbvODoCuu1xDdWkcDURfnXg.png" src-width="2848" src-height="1152" align="center"/>
+

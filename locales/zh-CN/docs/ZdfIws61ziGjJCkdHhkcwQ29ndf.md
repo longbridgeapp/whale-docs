@@ -164,3 +164,9 @@ TN 是：
 
 <em>2I 图一</em>
 
+## 2J 问：账户有美元结欠，而有港币余额，能否提取港币？
+
+答：在「业务参数配置」的「风控」中，进入「出金参数」，将「系数 X 配置」改为 0，账户有美元结欠，且有购买力时﹐可以提取港币余额。
+
+<img src="/assets/K5VqbXPJ7o0rCrxP2ylc8aO7nbf.png" src-width="2826" src-height="1438" align="center"/>
+

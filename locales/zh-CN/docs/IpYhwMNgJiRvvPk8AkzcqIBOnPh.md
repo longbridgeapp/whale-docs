@@ -51,3 +51,7 @@ sidebar_position: 5
 
 <img src="/assets/Z6vObj51GovxJKxRDzYcBXPRnVg.png" src-width="2682" src-height="1004" align="center"/>
 
+## 1.6E 问：公司账户如何操作主子账户
+
+答：公司账户的主子账户登记的手机号只能为一个，不同人员需共同使用进行 2fa 操作；主账户可以区分现金、融资账户，子账户需要跟随主账户。
+

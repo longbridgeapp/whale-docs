@@ -141,6 +141,8 @@ xxx 证券
 
 <img src="/assets/IQIIbjcTboAkCJx2p6CcADJ8n4c.png" src-width="2586" src-height="810" align="center"/>
 
+*提醒：通過轉賬驗證開戶的賬戶，只能以香港的銀行進行資金轉賬
+
 ## 1.1M 問：公司開户申請中的“使用設備數”是什麼？
 
 <b>答：</b>“使用設備數”指客户登錄設備限制的數量，如：手機、平板、桌上電腦等設備。系統上限為 10 個設備數。
@@ -156,4 +158,44 @@ xxx 证券
 ## 1.1O 問：能否限制中國內地客户不能使用 App 開户？
 
 <b>答：</b>這個可以作配置，以客户的 IP address 區分，如命中中國內地 IP address 就不能使用 App 開户。
+
+## 1.1P 問：開戶待審核階段能否改賬戶類型（現金／融資賬户）？
+
+<b>答：</b>在待審核階段下，可以在開户列表先按「詳情」，進去後駁回申請。（見 1.1P 圖一、圖二）
+之後到開戶資料中點擊「編輯」修改賬戶類型。
+
+<img src="/assets/JxRDbGeg2ogeZ1xzp6jcaQhvn5f.png" src-width="2492" src-height="1094" align="center"/>
+
+<em>1.1P 圖一</em>
+
+<img src="/assets/YqhqbtIsxogQJNxdB4PcVAaAnoh.png" src-width="2092" src-height="1298" align="center"/>
+
+<em>1.1P 圖二</em>
+
+<img src="/assets/Ojv7bOxtqoySenxsbd5c0CZkngg.png" src-width="2514" src-height="980" align="center"/>
+
+<em>1.1P 圖三</em>
+
+<img src="/assets/DmWybTyJgoxeKfx6e7acTC0FnBF.png" src-width="1190" src-height="1238" align="center"/>
+
+<em>1.1P 圖四</em>
+
+## 1.1Q 問：CA 認證開戶的檢查要素是什麼？
+
+答：CA 認證開戶有兩個檢查要素：
+
+1. 銀聯卡認證：身份證號碼、姓名、銀行號卡號、銀聯預留手機號碼
+2. 人臉視頻：對比身份證上的人臉照片和活體視頻照片
+
+## 1.1R 問：開戶資料的「所在區域」能否不填？
+
+答：所在區域為必填項，如不想顯示任何信息，可以輸入一個空白鍵。
+
+<img src="/assets/RX06b8JF5oToAqxAT3Qc1qoYnag.png" src-width="2834" src-height="1604" align="center"/>
+
+## 1.1S 問：第三方認證開戶的流程是什麼？
+
+答：先在「開戶資料準備」頁面取得開戶文件和預備開戶所須資料，然後在「郵寄資料至」頁面中選擇第三方認證開戶的形式，最後在提交文件後，按「確認已寄出」。
+
+<img src="/assets/BWuab7QckoStL6xCGN7c4NS8nQz.png" src-width="610" src-height="1782" align="center"/>
 

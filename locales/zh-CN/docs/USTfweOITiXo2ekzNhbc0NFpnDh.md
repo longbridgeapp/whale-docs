@@ -53,3 +53,19 @@ sidebar_position: 1
 
 <img src="/assets/EjRFb3LTPohPwKxIvincZC5gnvb.png" src-width="1898" src-height="1430" align="center"/>
 
+## 5.2E 问：报表或结单会否显示平仓交易
+
+答：TDR001-1-Daily Client Order Report By Client 报表的「订单类型」会显示为「强平单」；结单中的「股票交易明细」会显示该订单为「强制平仓 Forced Liquidation」。
+
+<img src="/assets/HaJbbxtEfoUomMxO3yocKEfEnJf.png" src-width="2832" src-height="1486" align="center"/>
+
+<img src="/assets/RLiIbKKZEoh6OsxWp7ecIrDvnVh.png" src-width="1602" src-height="810" align="center"/>
+
+## 5.2F 问：手工调账的交易为什么不能显示「成本价」及「浮动盈亏」？
+
+答：日切时间点后进行手工调账交易，「成本价」和「浮动盈亏」须要在下一个交易日更新和显示。
+
+## 5.2G 问：结单显示的债券「价格」和「成本」分别代表什么？
+
+答：「价格」显示的是债券行情维护的收盘价；「成本」显示的是摊薄成本＝{(总买入金额 - 总卖出金额）/持有数量}，手工调账以设置的总成本价为准，如没有设置则以收盘价计算，公式为收盘价 x 持有数量。
+

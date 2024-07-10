@@ -51,3 +51,7 @@ sidebar_position: 5
 
 <img src="/assets/Z6vObj51GovxJKxRDzYcBXPRnVg.png" src-width="2682" src-height="1004" align="center"/>
 
+## 1.6E 問：公司賬戶如何操作主子賬戶
+
+答：公司賬戶的主子賬戶登記的手機號只能為一個，不同人員需共同使用進行 2fa 操作；主賬户可以區分現金、融資賬户，子賬户需要跟隨主賬户。
+

@@ -53,3 +53,19 @@ sidebar_position: 1
 
 <img src="/assets/EjRFb3LTPohPwKxIvincZC5gnvb.png" src-width="1898" src-height="1430" align="center"/>
 
+## 5.2E 問：報表或結單會否顯示平倉交易
+
+答：TDR001-1-Daily Client Order Report By Client 報表的「訂單類型」會顯示為「強平單」；結單中的「股票交易明細」會顯示該訂單為「強制平倉 Forced Liquidation」。
+
+<img src="/assets/HaJbbxtEfoUomMxO3yocKEfEnJf.png" src-width="2832" src-height="1486" align="center"/>
+
+<img src="/assets/RLiIbKKZEoh6OsxWp7ecIrDvnVh.png" src-width="1602" src-height="810" align="center"/>
+
+## 5.2F 問：手工調賬的交易為什麼不能顯示「成本價」及「浮動盈虧」？
+
+答：日切時間點後進行手工調賬交易，「成本價」和「浮動盈虧」須要在下一個交易日更新和顯示。
+
+## 5.2G 問：結單顯示的債券「價格」和「成本」分別代表什麼？
+
+答：「價格」顯示的是債券行情維護的收盤價；「成本」顯示的是攤薄成本＝{(總買入金額 - 總賣出金額）/持有數量}，手工調賬以設置的總成本價為准，如沒有設置則以收盤價計算，公式為收盤價 x 持有數量。
+

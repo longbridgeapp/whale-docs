@@ -67,3 +67,9 @@ sidebar_position: 15
 
 2. 個股頁支持手動刷新實時報價。
 
+## 16F 問：客戶有兩個賬戶，APP 為什麼看不見「股票劃轉」功能？
+
+答：只有主子賬戶才有「股票劃轉」功能；主主賬戶沒有「股票劃轉」功能。
+
+<img src="/assets/WJsibqUIoo8EPox4skwcXKVqnSd.png" src-width="716" src-height="1382" align="center"/>
+
