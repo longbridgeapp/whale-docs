@@ -127,3 +127,11 @@ sidebar_position: 4
 
 <img src="/assets/DHsUbiwpbogybHxtfuXcA6eAnve.png" src-width="2756" src-height="1478" align="center"/>
 
+## 5L 問：清算檢查的「IBOND 交易檢查」是否須作處理？
+
+<b>答：</b>可以人手檢查通過提醒，關閉檢查的配置在「業務參數設置 ＞日終設置＞清算前準備＞IBOND 交易檢查」處理。
+
+<img src="/assets/HnqFbzfbUoQYImxEUoZc078Jn3d.png" src-width="2858" src-height="1610" align="center"/>
+
+<img src="/assets/VHQwbgUqaoYjbjxAVaycoesXnig.png" src-width="2314" src-height="1342" align="center"/>
+

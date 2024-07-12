@@ -61,3 +61,11 @@ sidebar_position: 0
 
 <img src="/assets/WBQzbR3QvoYhX4x8zl8cEgQencY.png" src-width="1736" src-height="1524" align="center"/>
 
+## 6.1E. 问：系统什么时候将打靶的熊证进行清算和移除
+
+答：新建公司行动，根据有没有剩余价值选 TM 或者 DS，然后选「登记日」，并输入上手提供的登记日。上手移除时，再完成公司行动收回标的。
+
+<img src="/assets/DW3TbCM7Gom5Ouxg8KvcWHzjn4f.png" src-width="1938" src-height="986" align="center"/>
+
+<img src="/assets/Vt7KbqB8JolZvIxAdSJcVl9gnfe.png" src-width="904" src-height="1126" align="center"/>
+

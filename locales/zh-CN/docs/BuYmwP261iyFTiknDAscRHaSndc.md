@@ -67,3 +67,9 @@ sidebar_position: 15
 
 2. 个股页支持手动刷新实时报价。
 
+## 16F 问：客户有两个账户，APP 为什么看不见「股票划转」功能？
+
+答：只有主子账户才有「股票划转」功能；主主账户没有「股票划转」功能。
+
+<img src="/assets/WJsibqUIoo8EPox4skwcXKVqnSd.png" src-width="716" src-height="1382" align="center"/>
+

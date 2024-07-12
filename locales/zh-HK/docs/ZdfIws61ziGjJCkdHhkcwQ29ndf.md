@@ -164,3 +164,9 @@ TN 是：
 
 <em>2I 圖一</em>
 
+## 2J 問：賬戶有美元結欠，而有港幣餘額，能否提取港幣？
+
+答：在「業務參數配置」的「風控」中，進入「出金參數」，將「係數 X 配置」改為 0，賬戶有美元結欠，且有購買力時﹐可以提取港幣餘額。
+
+<img src="/assets/K5VqbXPJ7o0rCrxP2ylc8aO7nbf.png" src-width="2826" src-height="1438" align="center"/>
+

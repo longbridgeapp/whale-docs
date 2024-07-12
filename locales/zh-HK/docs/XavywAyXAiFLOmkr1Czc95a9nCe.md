@@ -38,6 +38,7 @@ sidebar_position: 16
 <b>答：</b>前台在「交易查詢 &gt; 證券限制」點擊右上方「新增」，把股票添加至黑名單禁止客户交易，能批量“股票導入”作限制。如黑名單沒有添加客户，默認為全部客户不能交易。
 
 > 如個別客户能作交易可以再新建白名單，添加關聯客户。
+以批量導入模版的股票代碼，需輸入：3099.hk
 
 <img src="/assets/Wwqxb3g1Uo2XCBx6GsIc9Z7Yn2c.png" src-width="2606" src-height="1526" align="center"/>
 
@@ -62,7 +63,7 @@ sidebar_position: 16
 ## 17F. 問：強制平倉後，會有什麼方式通知到客户？
 
 <b>答：</b>App 會有推送通知（見 17F 圖一）<b>，</b>在結單上也有強制平倉標示（見 17F 圖二）。
-追收保證金（margin call）時會有電郵及 App 推送通知（見 17F 圖三）。
+追收保證金（margin call）也有電郵及 App 推送通知（見 17F 圖三）。
 
 
 <img src="/assets/CTpjbvcxoooJzyxuvbccsz5Snqd.png" src-width="686" src-height="654" align="center"/>
@@ -76,4 +77,13 @@ sidebar_position: 16
 <img src="/assets/H8ETb7QFBoE8HxxJMWkck5Qunxf.png" src-width="770" src-height="1290" align="center"/>
 
 <em>（17F 圖三)</em>
+
+## 
+## 17G. 問：什麼是「重置當前佈局」功能？
+
+答：「重置當前佈局」能將佈局回復到初始狀態，只有系統頁面有此功能，自定義頁面沒有。
+
+<img src="/assets/VeZnbsHRhoFTYCxssKgcaVxLnEe.png" src-width="2866" src-height="1788" align="center"/>
+
+<img src="/assets/CW7VbO3zbot2ZBxa3KPcivATn8e.png" src-width="2864" src-height="1790" align="center"/>
 

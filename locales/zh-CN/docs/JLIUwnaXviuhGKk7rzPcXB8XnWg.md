@@ -73,3 +73,9 @@ sidebar_position: 9
 
 <em>10H 图一</em>
 
+## 10I. 问：IPO 扣款订单的账务日期会否影响计息？
+
+答：IPO 扣款订单的账务日期用以记录扣款的发生，跟计息天数没有关系。
+
+<img src="/assets/XHmEbQ6ZloCeaOx9HTGc1ORTnXf.png" src-width="1510" src-height="854" align="center"/>
+

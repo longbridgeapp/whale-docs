@@ -141,6 +141,8 @@ xxx 证券
 
 <img src="/assets/IQIIbjcTboAkCJx2p6CcADJ8n4c.png" src-width="2586" src-height="810" align="center"/>
 
+*提醒：通过转账验证开户的账户，只能以香港的银行进行资金转账
+
 ## 1.1M 问：公司开户申请中的“使用设备数”是什么？
 
 <b>答：</b>“使用设备数”指客户登录设备限制的数量，如：手机、平板、桌上电脑等设备。系统上限为 10 个设备数。
@@ -156,4 +158,44 @@ xxx 证券
 ## 1.1O 问：能否限制中国内地客户不能使用 App 开户？
 
 <b>答：</b>这个可以作配置，以客户的 IP address 区分，如命中中国内地 IP address 就不能使用 App 开户。
+
+## 1.1P 问：开户待审核阶段能否改账户类型（现金／融资账户）？
+
+<b>答：</b>在待审核阶段下，可以在开户列表先按「详情」，进去后驳回申请。（见 1.1P 图一、图二）
+之后到开户资料中点击「编辑」修改账户类型。
+
+<img src="/assets/JxRDbGeg2ogeZ1xzp6jcaQhvn5f.png" src-width="2492" src-height="1094" align="center"/>
+
+<em>1.1P 图一</em>
+
+<img src="/assets/YqhqbtIsxogQJNxdB4PcVAaAnoh.png" src-width="2092" src-height="1298" align="center"/>
+
+<em>1.1P 图二</em>
+
+<img src="/assets/Ojv7bOxtqoySenxsbd5c0CZkngg.png" src-width="2514" src-height="980" align="center"/>
+
+<em>1.1P 图三</em>
+
+<img src="/assets/DmWybTyJgoxeKfx6e7acTC0FnBF.png" src-width="1190" src-height="1238" align="center"/>
+
+<em>1.1P 图四</em>
+
+## 1.1Q 问：CA 认证开户的检查要素是什么？
+
+答：CA 认证开户有两个检查要素：
+
+1. 银联卡认证：身份证号码、姓名、银行号卡号、银联预留手机号码
+2. 人脸视频：对比身份证上的人脸照片和活体视频照片
+
+## 1.1R 问：开户资料的「所在区域」能否不填？
+
+答：所在区域为必填项，如不想显示任何信息，可以输入一个空白键。
+
+<img src="/assets/RX06b8JF5oToAqxAT3Qc1qoYnag.png" src-width="2834" src-height="1604" align="center"/>
+
+## 1.1S 问：第三方认证开户的流程是什么？
+
+答：先在「开户资料准备」页面取得开户文件和预备开户所须资料，然后在「邮寄资料至」页面中选择第三方认证开户的形式，最后在提交文件后，按「确认已寄出」。
+
+<img src="/assets/BWuab7QckoStL6xCGN7c4NS8nQz.png" src-width="610" src-height="1782" align="center"/>
 

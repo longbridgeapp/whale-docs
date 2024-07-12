@@ -104,6 +104,9 @@ sidebar_position: 8
 
 > 例子說明：現在為 2 月 28 日，而基金淨值的記錄截取至 1 月 31 日。之後在 2 月 28 日更新之前的歷史基金淨值，重新生成的結單也是取值 1 月 31 日。修改歷史基金淨值重跑日終生成結單，也不會更新。
 
+## 9L 問：如何不讓私募基金在 APP 上展示？
 
+答：不要把該私募基金新增到「APP 端列表」
 
+<img src="/assets/LzEWbkeHUogLYyxDeapcMXVCnoh.png" src-width="2838" src-height="1594" align="center"/>
 

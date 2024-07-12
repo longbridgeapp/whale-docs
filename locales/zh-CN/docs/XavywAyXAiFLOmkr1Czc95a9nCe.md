@@ -38,6 +38,7 @@ sidebar_position: 16
 <b>答：</b>前台在「交易查询 &gt; 证券限制」点击右上方「新增」，把股票添加至黑名单禁止客户交易，能批量“股票导入”作限制。如黑名单没有添加客户，默认为全部客户不能交易。
 
 > 如个别客户能作交易可以再新建白名单，添加关联客户。
+以批量导入模版的股票代码，需输入：3099.hk
 
 <img src="/assets/Wwqxb3g1Uo2XCBx6GsIc9Z7Yn2c.png" src-width="2606" src-height="1526" align="center"/>
 
@@ -62,7 +63,7 @@ sidebar_position: 16
 ## 17F. 问：强制平仓后，会有什么方式通知到客户？
 
 <b>答：</b>App 会有推送通知（见 17F 图一）<b>，</b>在结单上也有强制平仓标示（见 17F 图二）。
-追收保证金（margin call）时会有电邮及 App 推送通知（见 17F 图三）。
+追收保证金（margin call）也有电邮及 App 推送通知（见 17F 图三）。
 
 
 <img src="/assets/CTpjbvcxoooJzyxuvbccsz5Snqd.png" src-width="686" src-height="654" align="center"/>
@@ -76,4 +77,13 @@ sidebar_position: 16
 <img src="/assets/H8ETb7QFBoE8HxxJMWkck5Qunxf.png" src-width="770" src-height="1290" align="center"/>
 
 <em>（17F 图三)</em>
+
+## 
+## 17G. 问：什么是「重置当前布局」功能？
+
+答：「重置当前布局」能将布局回复到初始状态，只有系统页面有此功能，自定义页面没有。
+
+<img src="/assets/VeZnbsHRhoFTYCxssKgcaVxLnEe.png" src-width="2866" src-height="1788" align="center"/>
+
+<img src="/assets/CW7VbO3zbot2ZBxa3KPcivATn8e.png" src-width="2864" src-height="1790" align="center"/>
 

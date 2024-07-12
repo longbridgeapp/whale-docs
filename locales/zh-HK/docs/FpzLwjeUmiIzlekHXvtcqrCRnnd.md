@@ -67,3 +67,15 @@ Own、以客戶名義登記的股票
 
 <img src="/assets/OBlnbjBEBo5wMtxM0hWcRzaSnth.png" src-width="1404" src-height="1290" align="center"/>
 
+## 4G 問：客戶間轉換錢、貨，可以使用手工調賬？
+
+答：在手工調賬可以處理，一個客戶出賬，另一個客戶入賬。
+
+<img src="/assets/E9GLbyg8yof3PuxKn6qcrvmZnLf.png" src-width="2830" src-height="1620" align="center"/>
+
+## 4H 問：客戶間調賬如何進行場外證券交易匯報？
+
+答：只有實股或牽涉印花稅的公司行動才能匯出 OTCR 文件上傳，客戶間調賬可以導出一份空白的 SDR070 excel，然後人手填該筆交易的資料，再進行匯報。
+
+<img src="/assets/RrnvbbvODoCuu1xDdWkcDURfnXg.png" src-width="2848" src-height="1152" align="center"/>
+
