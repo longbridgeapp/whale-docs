@@ -135,3 +135,36 @@ sidebar_position: 4
 
 <img src="/assets/VHQwbgUqaoYjbjxAVaycoesXnig.png" src-width="2314" src-height="1342" align="center"/>
 
+## 5M 问：日终时数据同步出现「执行失败！市埸表配置错误」如何处理？
+
+<b>答：</b>报错会提醒缺失那个市埸，
+(i). 添加市埸：「业务参数设置&gt;市埸管理&gt;市埸规则」新增相关市场配置。（见 5M 图一、图二）
+
+(ii). 添加币种：「款项管理&gt;汇率&gt;参考汇率」的新增该市场的货币。（见 5M 图三、图四）
+
+(iii). 日终设置加回市埸：「业务参数设置&gt;日终设置&gt;市埸交收」点击「编辑」加上市埸。（见 5M 图五、图六）
+
+<img src="/assets/NRfDbUGOpojqOZxhq3Kc9CRenHh.png" src-width="2852" src-height="1606" align="center"/>
+
+<em>5M 图一</em>
+
+<img src="/assets/X6E8bVJ1noyVr7xwGK4ceWGnnIb.png" src-width="2448" src-height="1276" align="center"/>
+
+<em>5M 图二</em>
+
+<img src="/assets/DXZsbLSnZoc2bbxgmKacWsfpn5c.png" src-width="2334" src-height="1078" align="center"/>
+
+<em>5M 图三</em>
+
+<img src="/assets/HqWGbeiohoXUrixrzkmcJ6ganFc.png" src-width="1926" src-height="1298" align="center"/>
+
+<em>5M 图四</em>
+
+<img src="/assets/IWvLb01NKoLqoPxsTxRcKinbnoc.png" src-width="2740" src-height="910" align="center"/>
+
+<em>5M 图五</em>
+
+<img src="/assets/TqDXbjSHVogAWnxXukScAijEnwe.png" src-width="2476" src-height="866" align="center"/>
+
+<em>5M 图六</em>
+

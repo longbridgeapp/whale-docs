@@ -17,9 +17,7 @@ sidebar_position: 8
 
 ## 9B 问：手工调账操作基金进出，会有什么限制？
 
-<b>答：</b>公募基金手工调账，客户可在 APP 作赎回；
-
-私募基金调账后，不能在 APP 赎回，需在后台／前台 wtt 落赎回订单。
+<b>答：</b>基金手工调账，客户可在 APP 作赎回；在后台也可以操作认购／赎回订单。
 
 ## 9C 问：什么是 获取订单时间 和 自动回填时间？
 
@@ -65,9 +63,9 @@ sidebar_position: 8
 
       App 的未作 PI 认购不能认购。          
 
-## 9I 问：如何在 app 操作基金撤单？
+## 9I 问：如何在 App 操作基金撤单？
 
-<b>答：</b>在 APP 的「资产 - 基金 - 交易纪录 - 选择订单 - 撤单」（见下图）
+<b>答：</b>在 App 的「资产 - 基金 - 交易纪录 - 选择订单 - 撤单」（见下图）
 
 <div class="flex gap-3 columns-3" column-size="3">
 <div class="w-[34%]" width-ratio="34">
@@ -104,9 +102,9 @@ sidebar_position: 8
 
 > 例子说明：现在为 2 月 28 日，而基金净值的记录截取至 1 月 31 日。之后在 2 月 28 日更新之前的历史基金净值，重新生成的结单也是取值 1 月 31 日。修改历史基金净值重跑日终生成结单，也不会更新。
 
-## 9L 问：如何不让私募基金在 APP 上展示？
+## 9L 问：私募基金如何在 App 上展示？
 
-答：不要把该私募基金新增到「APP 端列表」
+<b>答：</b>在「基金管理&gt;私募基金&gt;App 端列表」点击「新建」把需要的私募基金加上。
 
-<img src="/assets/LzEWbkeHUogLYyxDeapcMXVCnoh.png" src-width="2838" src-height="1594" align="center"/>
+<img src="/assets/NOesbvXQkoNcMQx3XvFc4Zq7n4d.png" src-width="2682" src-height="724" align="center"/>
 

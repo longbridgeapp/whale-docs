@@ -67,9 +67,26 @@ sidebar_position: 15
 
 2. 個股頁支持手動刷新實時報價。
 
-## 16F 問：客戶有兩個賬戶，APP 為什麼看不見「股票劃轉」功能？
+## 16F 問：客戶有兩個賬戶，App 為什麼看不見「股票劃轉」功能？
 
-答：只有主子賬戶才有「股票劃轉」功能；主主賬戶沒有「股票劃轉」功能。
+答：“主子帳戶”和“股票劃轉”功能只有在客户帳戶開了子帳戶的情況下才會展示，否則是看不到的。
+“資金劃轉”支持到主主帳戶之間的劃轉，在 App 可以查看到。
 
 <img src="/assets/WJsibqUIoo8EPox4skwcXKVqnSd.png" src-width="716" src-height="1382" align="center"/>
+
+## 16G 問：APP「盈虧分析」的「盈虧明細」在什麼時間更新前一天的數據？
+
+<b>答：</b>在大約早上 10:30 更新前一天的數據。
+
+<img src="/assets/MfKubNAyRosAPIxDwBIcnKyvnVg.png" src-width="734" src-height="1464" align="center"/>
+
+## 16H 問：如何更新 APP 內的幫助中心？
+
+答：在後台「幫助中心」的「文章」按「新建文章」。新增文章分類可以在後台「幫助中心」的「文章分類」按「創建分類」，「slug」則用以快速識別該分類，可設置英文字和符號。
+
+<img src="/assets/EoMSbYNRvoLiz3x4u26cNyTun3d.png" src-width="2820" src-height="1144" align="center"/>
+
+<img src="/assets/Ltd1bZa1xoDPLZxbNeccVT2Un0i.png" src-width="2816" src-height="1160" align="center"/>
+
+<img src="/assets/D1JZbllmHo65qXxkLSxcAmu1nWf.png" src-width="2860" src-height="1184" align="center"/>
 

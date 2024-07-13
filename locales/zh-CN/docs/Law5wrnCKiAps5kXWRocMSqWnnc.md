@@ -107,6 +107,8 @@ xxx 证券
 
 <b>答：</b>开户入金选用 "直接入账" 方式开户，见以下步骤（认证类型 - 网银转账）
 
+> 通过转账验证开户的账户，只能以香港的银行进行资金转账。
+
 (i). 在「KYC &gt; 开户列表」页面中搜寻申请开户的客户，在操作栏点击「详情」，确认客户填写资料无误后点击「通过初审」。
 
 <img src="/assets/LXxbbb71NopJaax8KyicuyrCneb.png" src-width="2638" src-height="683" align="center"/>
@@ -139,9 +141,9 @@ xxx 证券
 
 (vii). 开户状态会更新为「已开通」，客户 APP 上收到账户开通信息能正式操作使用。
 
-<img src="/assets/IQIIbjcTboAkCJx2p6CcADJ8n4c.png" src-width="2586" src-height="810" align="center"/>
+> 通过转账验证开户的账户，只能以香港的银行进行资金转账。
 
-*提醒：通过转账验证开户的账户，只能以香港的银行进行资金转账
+<img src="/assets/IQIIbjcTboAkCJx2p6CcADJ8n4c.png" src-width="2586" src-height="810" align="center"/>
 
 ## 1.1M 问：公司开户申请中的“使用设备数”是什么？
 
@@ -164,38 +166,45 @@ xxx 证券
 <b>答：</b>在待审核阶段下，可以在开户列表先按「详情」，进去后驳回申请。（见 1.1P 图一、图二）
 之后到开户资料中点击「编辑」修改账户类型。
 
-<img src="/assets/JxRDbGeg2ogeZ1xzp6jcaQhvn5f.png" src-width="2492" src-height="1094" align="center"/>
+<img src="/assets/MpAybCIuOooFLyx8VKocnzHYnah.png" src-width="2670" src-height="720" align="center"/>
 
 <em>1.1P 图一</em>
 
-<img src="/assets/YqhqbtIsxogQJNxdB4PcVAaAnoh.png" src-width="2092" src-height="1298" align="center"/>
+<img src="/assets/UNL3bH63boeHPDxAgtWccchcnOb.png" src-width="1398" src-height="1406" align="center"/>
 
 <em>1.1P 图二</em>
 
-<img src="/assets/Ojv7bOxtqoySenxsbd5c0CZkngg.png" src-width="2514" src-height="980" align="center"/>
+<img src="/assets/NY5UbpYjVo4oo5xne80clLrGnRd.png" src-width="2676" src-height="726" align="center"/>
 
 <em>1.1P 图三</em>
 
-<img src="/assets/DmWybTyJgoxeKfx6e7acTC0FnBF.png" src-width="1190" src-height="1238" align="center"/>
+<img src="/assets/MCQibMffvok8KKxpNoRcy11gnQg.png" src-width="2332" src-height="1414" align="center"/>
 
 <em>1.1P 图四</em>
 
 ## 1.1Q 问：CA 认证开户的检查要素是什么？
 
-答：CA 认证开户有两个检查要素：
+<b>答：</b>CA 认证开户有两个检查要素：
 
 1. 银联卡认证：身份证号码、姓名、银行号卡号、银联预留手机号码
-2. 人脸视频：对比身份证上的人脸照片和活体视频照片
+2. 人脸视频：对比身份证上的人脸照片和活体视频
 
 ## 1.1R 问：开户资料的「所在区域」能否不填？
 
-答：所在区域为必填项，如不想显示任何信息，可以输入一个空白键。
+<b>答：</b>所在区域为必填项，如不想显示任何信息，可以输入一个空白键。
 
 <img src="/assets/RX06b8JF5oToAqxAT3Qc1qoYnag.png" src-width="2834" src-height="1604" align="center"/>
 
-## 1.1S 问：第三方认证开户的流程是什么？
+## 1.1S 问：第三方见证的开户流程是什么？
 
-答：先在「开户资料准备」页面取得开户文件和预备开户所须资料，然后在「邮寄资料至」页面中选择第三方认证开户的形式，最后在提交文件后，按「确认已寄出」。
+<b>答：</b>App 选了「第三方见证」在 "开户资料准备" 页面，提示客户需准备好开户文件和相关资料，然后点击「下一步，邮寄资料」。在“邮寄资料至”页面提醒需邮寄文件，提供文件后点击「确认已寄出」。
 
-<img src="/assets/BWuab7QckoStL6xCGN7c4NS8nQz.png" src-width="610" src-height="1782" align="center"/>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[45%]" width-ratio="45">
+<img src="/assets/IfyDbzu2AoXGGdxWodVcWy3dnIe.png" src-width="448" src-height="1432" align="center"/>
+</div>
+<div class="w-[54%]" width-ratio="54">
+<img src="/assets/AQKcbrHP9oFJQaxMTzCcasxCnOf.png" src-width="532" src-height="1416" align="center"/>
+</div>
+</div>
 

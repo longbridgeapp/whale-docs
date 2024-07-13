@@ -54,3 +54,17 @@ sidebar_position: 2
 
 <img src="/assets/YX3XbIy7CoZomexdCVRcEPUQnPb.png" src-width="2688" src-height="1306" align="center"/>
 
+## 5.3D 问：后台补单多于一个成交记录如何填写「后台订单号」和「后台成交流水号」？
+
+答：「后台订单号」输入同一个合约号；「后台成交流水号」输入不同的流水号。
+
+<img src="/assets/HoBtbgq4moOertxsTWEcLKHXnSf.png" src-width="2850" src-height="1598" align="center"/>
+
+## 5.3E 问：场外衍生产品能否以「后台补单」形式导入？
+
+在「私有标的库」新增该产品及在新建补单中完整输入证券代码便可以进行「后台补单」。
+
+<img src="/assets/CSQEby7VRoFV4Vxc6rAc2R8fnmb.png" src-width="2810" src-height="1286" align="center"/>
+
+<img src="/assets/XPvFb3QUKof9eFxjCapcgznynXe.png" src-width="2828" src-height="1608" align="center"/>
+

@@ -67,9 +67,26 @@ sidebar_position: 15
 
 2. 个股页支持手动刷新实时报价。
 
-## 16F 问：客户有两个账户，APP 为什么看不见「股票划转」功能？
+## 16F 问：客户有两个账户，App 为什么看不见「股票划转」功能？
 
-答：只有主子账户才有「股票划转」功能；主主账户没有「股票划转」功能。
+答：“主子帐户”和“股票划转”功能只有在客户帐户开了子帐户的情况下才会展示，否则是看不到的。
+“资金划转”支持到主主帐户之间的划转，在 App 可以查看到。
 
 <img src="/assets/WJsibqUIoo8EPox4skwcXKVqnSd.png" src-width="716" src-height="1382" align="center"/>
+
+## 16G 问：APP「盈亏分析」的「盈亏明细」在什么时间更新前一天的数据？
+
+<b>答：</b>在大约早上 10:30 更新前一天的数据。
+
+<img src="/assets/MfKubNAyRosAPIxDwBIcnKyvnVg.png" src-width="734" src-height="1464" align="center"/>
+
+## 16H 问：如何更新 APP 内的帮助中心？
+
+答：在后台「帮助中心」的「文章」按「新建文章」。新增文章分类可以在后台「帮助中心」的「文章分类」按「创建分类」，「slug」则用以快速识别该分类，可设置英文字和符号。
+
+<img src="/assets/EoMSbYNRvoLiz3x4u26cNyTun3d.png" src-width="2820" src-height="1144" align="center"/>
+
+<img src="/assets/Ltd1bZa1xoDPLZxbNeccVT2Un0i.png" src-width="2816" src-height="1160" align="center"/>
+
+<img src="/assets/D1JZbllmHo65qXxkLSxcAmu1nWf.png" src-width="2860" src-height="1184" align="center"/>
 

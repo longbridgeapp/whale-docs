@@ -50,11 +50,31 @@ sidebar_position: 11
 
 <img src="/assets/Yuv6bFgCAos4RCxvmYjcU7MbnUn.png" src-width="2074" src-height="850" align="center"/>
 
-## 12E 問：為何交易報表 TDR001-1 的市價單價格跟股票現價相差那麼多？
+## 12E 問：為何交易報表 TDR001-1 Daily Client Order Report By Client 的市價單價格跟股票現價相差那麼多？
 
 <b>答：</b>市價單非交易所訂單，會以對手方的價格檔位下特別限價單（SLO）。因為成交價格不確定，防止穿倉，所以做了 20% （1.2 倍）凍結資金的保護。
 
-## 12F 問：合規報表 IDR020 顯示什麼數據？
+## 12F 問：合規報表 IDR020 Re-activation Of Dormant Account 顯示什麼客户數據？
 
-答：報表顯示上次成交記錄超過 180 日的客戶，新客戶以開戶日期計算。報表不會判斷客戶的激活狀態。
+<b>答：</b>報表顯示上次成交記錄超過 180 日的客戶，新客戶以開戶日期計算。報表不會判斷客戶的激活狀態。
+
+## 12G 問：SDR018 - Bargain Detail Report 類別的報表什麼時間能看到當天的交易數據？
+
+<b>答：</b>最快在日終任務完成「清算入賬」，可以在 SDR018 報表查看當天的交易佣金資料。
+
+> 美股的可以查看 SDR018-1 - Bargain Detail Report-US。
+
+<img src="/assets/RxQzbH5oqoULV1xI0RwcbNTvnDe.png" src-width="2246" src-height="1486" align="center"/>
+
+## 12H 問：系統對虛擬交易、操控價格、內幕交易會有監察警報嗎？
+
+答：可使用以下報表來人工判斷有沒有可疑交易。
+
+IDR018 - Matched Trades Wash Trades
+
+IDR026 - The Proportion Of Customer Transaction Volume
+
+IDR027 - Deliberately Push Up Or Down The Closing Price
+
+IDR019 - Suspected Order Activities Report
 

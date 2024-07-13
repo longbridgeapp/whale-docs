@@ -22,3 +22,11 @@ sidebar_position: 17
 >            用户 A 配置了【客户买入拒绝限额】为 &gt; 400,000 HKD 拒绝。
 > 用户 A 下买单 410,000，命中了设置限额，会直接拒绝；用户 B 下买单 410,000，则会判断全局配置的限额，未命中，则会通过。
 
+## 18C. 问：客户的现金账户户口余额为正数，没有向券商借款，为什么会占用融资额度？
+
+答：「风控管理&gt;客户融资」的“已占用融资额度”包括已冻结不可用的现金。
+
+<img src="/assets/GEBcbfofqo9LtYxmTRlcRsUZn7d.png" src-width="2828" src-height="1346" align="center"/>
+
+<img src="/assets/EkMQbDjSZoN6zLxUb3Rc3XVLnNc.png" src-width="2856" src-height="1602" align="center"/>
+

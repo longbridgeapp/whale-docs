@@ -51,7 +51,13 @@ sidebar_position: 5
 
 <img src="/assets/Z6vObj51GovxJKxRDzYcBXPRnVg.png" src-width="2682" src-height="1004" align="center"/>
 
-## 1.6E 问：公司账户如何操作主子账户
+## 1.6E 问：公司账户如何操作主子账户？
 
-答：公司账户的主子账户登记的手机号只能为一个，不同人员需共同使用进行 2fa 操作；主账户可以区分现金、融资账户，子账户需要跟随主账户。
+<b>答：</b>公司账户的主子账户登记的手机号只能为一个，不同人员需共同使用，进行 2FA（双重要素验证）操作；主账户类型可以区分现金、融资账户，子账户的类型需要跟随主账户。
+
+## 1.6F 问：如何查阅子账户的资料？
+
+<b>答：</b>在「账户列表&gt;客户详情」中点击「切换关联账户」可以转换账号查看主子账户资料。
+
+<img src="/assets/JKyLbSbWVofhdLxHvuBcAFDlnlg.png" src-width="2826" src-height="1518" align="center"/>
 

@@ -81,9 +81,19 @@ sidebar_position: 16
 ## 
 ## 17G. 問：什麼是「重置當前佈局」功能？
 
-答：「重置當前佈局」能將佈局回復到初始狀態，只有系統頁面有此功能，自定義頁面沒有。
+<b>答：</b>「重置當前佈局」能將佈局回復到初始狀態，只有系統基礎頁面（如：個股、行情、交易頁面）有此功能，自定義頁面沒有。
 
-<img src="/assets/VeZnbsHRhoFTYCxssKgcaVxLnEe.png" src-width="2866" src-height="1788" align="center"/>
+<img src="/assets/JOlyb9tXGoSdUSxILIRcK3gknNF.png" src-width="2042" src-height="1240" align="center"/>
 
 <img src="/assets/CW7VbO3zbot2ZBxa3KPcivATn8e.png" src-width="2864" src-height="1790" align="center"/>
+
+## 17H. 問：WTT 的“證券限制”中，「關聯地區」是根據什麼區分客戶？
+
+<b>答：</b>會以客戶填寫的居住國家作區分；如沒有，以證件簽發地區分；如果也沒有，會以國籍區分。
+
+<img src="/assets/SY0wbZDlropmGkxO9IjcUyAqnnb.png" src-width="2866" src-height="1332" align="center"/>
+
+## 17I 問：交易訂單被拒絕原因為「Order Price Far Away From Reference Price」是什麼？
+
+答：下單被拒原因為下單價格距離現價太遠，買盤輸入價格不能高於最佳沽出價 10 個價位；賣盤輸入價格不能低於最佳買入價 10 個價位。
 
