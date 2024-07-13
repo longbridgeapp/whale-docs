@@ -49,6 +49,8 @@ sidebar_position: 9
 
 <b>答：</b>这里的财务日期指这个扣款发生的行为记录。例如：5 月 10 日账户 A 扣了 100，财务日期选了 5 月 11 日，结单会在 5 月 11 日显示扣款。
 
+<img src="/assets/P1V7bp5AlopBimxOnakcsM8zn3e.png" src-width="2680" src-height="902" align="center"/>
+
 ## 10F. 问：新股上市后撤回，重新招股的如何作认购设置？
 
 <b>答：</b>在「新股认购 &gt; 全部」搜索重新招股的新股代号（见 10F 图一）点击「详情」，重新设置认购开始＆结束时间、费率、渠道等资料，选回「是」可认购。（见 10F 图二）
@@ -75,7 +77,11 @@ sidebar_position: 9
 
 ## 10I. 问：IPO 扣款订单的账务日期会否影响计息？
 
-答：IPO 扣款订单的账务日期用以记录扣款的发生，跟计息天数没有关系。
+<b>答：</b>IPO 扣款订单的账务日期用以记录扣款发生，跟计息天数没有关系。选了相关财务日会在结单上显示扣款记录。
 
-<img src="/assets/XHmEbQ6ZloCeaOx9HTGc1ORTnXf.png" src-width="1510" src-height="854" align="center"/>
+<img src="/assets/JuPUbtOT3o8hUxxsiJRch6aGngc.png" src-width="2680" src-height="902" align="center"/>
+
+## 10J 问：客户户口结余为 0，为什么申请 0 成本认购新股失败？
+
+<b>答：</b>0 成本认购新股时有手续费要扣除，户口结余不能是 0。客户要存入足够手续费的资金或将 0 成本认购的手续费设为 0 才可以申请。
 

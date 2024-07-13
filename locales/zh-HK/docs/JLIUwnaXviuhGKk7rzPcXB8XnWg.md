@@ -49,6 +49,8 @@ sidebar_position: 9
 
 <b>答：</b>這裡的財務日期指這個扣款發生的行為記錄。例如：5 月 10 日賬户 A 扣了 100，財務日期選了 5 月 11 日，結單會在 5 月 11 日顯示扣款。
 
+<img src="/assets/P1V7bp5AlopBimxOnakcsM8zn3e.png" src-width="2680" src-height="902" align="center"/>
+
 ## 10F. 問：新股上市後撤回，重新招股的如何作認購設置？
 
 <b>答：</b>在「新股認購 &gt; 全部」搜索重新招股的新股代號（見 10F 圖一）點擊「詳情」，重新設置認購開始＆結束時間、費率、渠道等資料，選回「是」可認購。（見 10F 圖二）
@@ -75,7 +77,11 @@ sidebar_position: 9
 
 ## 10I. 問：IPO 扣款訂單的賬務日期會否影響計息？
 
-答：IPO 扣款訂單的賬務日期用以記錄扣款的發生，跟計息天數沒有關係。
+<b>答：</b>IPO 扣款訂單的賬務日期用以記錄扣款發生，跟計息天數沒有關係。選了相關財務日會在結單上顯示扣款記錄。
 
-<img src="/assets/XHmEbQ6ZloCeaOx9HTGc1ORTnXf.png" src-width="1510" src-height="854" align="center"/>
+<img src="/assets/JuPUbtOT3o8hUxxsiJRch6aGngc.png" src-width="2680" src-height="902" align="center"/>
+
+## 10J 問：客戶戶口結餘為 0，為什麼申請 0 成本認購新股失敗？
+
+<b>答：</b>0 成本認購新股時有手續費要扣除，戶口結餘不能是 0。客戶要存入足夠手續費的資金或將 0 成本認購的手續費設為 0 才可以申請。
 

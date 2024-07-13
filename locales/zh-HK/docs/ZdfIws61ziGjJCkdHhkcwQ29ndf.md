@@ -164,9 +164,17 @@ TN 是：
 
 <em>2I 圖一</em>
 
-## 2J 問：賬戶有美元結欠，而有港幣餘額，能否提取港幣？
+## 2J 問：賬戶有美元結欠，但港幣有餘額，能否提取港幣？
 
-答：在「業務參數配置」的「風控」中，進入「出金參數」，將「係數 X 配置」改為 0，賬戶有美元結欠，且有購買力時﹐可以提取港幣餘額。
+<b>答：</b>在「業務參數配置&gt;風控&gt;出金參數」中“係數 X 配置”點擊「編輯」。把係數修改為 1，賬户有美元結欠，且有購買力時﹐可以提取港幣餘額。
 
 <img src="/assets/K5VqbXPJ7o0rCrxP2ylc8aO7nbf.png" src-width="2826" src-height="1438" align="center"/>
+
+<img src="/assets/Z1yxbmDsDo3meqxPpmAcWTAnnFc.png" src-width="2206" src-height="1160" align="center"/>
+
+## 2K 問：如何提早發放利息給客戶？
+
+<b>答：</b>「清算管理&gt;融資管理」選「存款利息 / 融資利息」，點擊「提前結算」可以提早發放利息 / 收取融資利息結欠。
+
+<img src="/assets/TfAwb55EdoSzjaxQikucRvT6nOe.png" src-width="2682" src-height="1412" align="center"/>
 

@@ -164,9 +164,17 @@ TN 是：
 
 <em>2I 图一</em>
 
-## 2J 问：账户有美元结欠，而有港币余额，能否提取港币？
+## 2J 问：账户有美元结欠，但港币有余额，能否提取港币？
 
-答：在「业务参数配置」的「风控」中，进入「出金参数」，将「系数 X 配置」改为 0，账户有美元结欠，且有购买力时﹐可以提取港币余额。
+<b>答：</b>在「业务参数配置&gt;风控&gt;出金参数」中“系数 X 配置”点击「编辑」。把系数修改为 1，账户有美元结欠，且有购买力时﹐可以提取港币余额。
 
 <img src="/assets/K5VqbXPJ7o0rCrxP2ylc8aO7nbf.png" src-width="2826" src-height="1438" align="center"/>
+
+<img src="/assets/Z1yxbmDsDo3meqxPpmAcWTAnnFc.png" src-width="2206" src-height="1160" align="center"/>
+
+## 2K 问：如何提早发放利息给客户？
+
+<b>答：</b>「清算管理&gt;融资管理」选「存款利息 / 融资利息」，点击「提前结算」可以提早发放利息 / 收取融资利息结欠。
+
+<img src="/assets/TfAwb55EdoSzjaxQikucRvT6nOe.png" src-width="2682" src-height="1412" align="center"/>
 

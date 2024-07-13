@@ -54,3 +54,17 @@ sidebar_position: 2
 
 <img src="/assets/YX3XbIy7CoZomexdCVRcEPUQnPb.png" src-width="2688" src-height="1306" align="center"/>
 
+## 5.3D 問：後台補單多於一個成交記錄如何填寫「後台訂單號」和「後台成交流水號」？
+
+答：「後台訂單號」輸入同一個合約號；「後台成交流水號」輸入不同的流水號。
+
+<img src="/assets/HoBtbgq4moOertxsTWEcLKHXnSf.png" src-width="2850" src-height="1598" align="center"/>
+
+## 5.3E 問：場外衍生產品能否以「後台補單」形式導入？
+
+在「私有標的庫」新增該產品及在新建補單中完整輸入證券代碼便可以進行「後台補單」。
+
+<img src="/assets/CSQEby7VRoFV4Vxc6rAc2R8fnmb.png" src-width="2810" src-height="1286" align="center"/>
+
+<img src="/assets/XPvFb3QUKof9eFxjCapcgznynXe.png" src-width="2828" src-height="1608" align="center"/>
+

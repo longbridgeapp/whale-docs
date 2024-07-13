@@ -135,3 +135,36 @@ sidebar_position: 4
 
 <img src="/assets/VHQwbgUqaoYjbjxAVaycoesXnig.png" src-width="2314" src-height="1342" align="center"/>
 
+## 5M 問：日終時數據同步出現「執行失敗！市埸表配置錯誤」如何處理？
+
+<b>答：</b>報錯會提醒缺失那個市埸，
+(i). 添加市埸：「業務參數設置&gt;市埸管理&gt;市埸規則」新增相關市場配置。（見 5M 圖一、圖二）
+
+(ii). 添加幣種：「款項管理&gt;滙率&gt;參考滙率」的新增該市場的貨幣。（見 5M 圖三、圖四）
+
+(iii). 日終設置加回市埸：「業務參數設置&gt;日終設置&gt;市埸交收」點擊「編輯」加上市埸。（見 5M 圖五、圖六）
+
+<img src="/assets/NRfDbUGOpojqOZxhq3Kc9CRenHh.png" src-width="2852" src-height="1606" align="center"/>
+
+<em>5M 圖一</em>
+
+<img src="/assets/X6E8bVJ1noyVr7xwGK4ceWGnnIb.png" src-width="2448" src-height="1276" align="center"/>
+
+<em>5M 圖二</em>
+
+<img src="/assets/DXZsbLSnZoc2bbxgmKacWsfpn5c.png" src-width="2334" src-height="1078" align="center"/>
+
+<em>5M 圖三</em>
+
+<img src="/assets/HqWGbeiohoXUrixrzkmcJ6ganFc.png" src-width="1926" src-height="1298" align="center"/>
+
+<em>5M 圖四</em>
+
+<img src="/assets/IWvLb01NKoLqoPxsTxRcKinbnoc.png" src-width="2740" src-height="910" align="center"/>
+
+<em>5M 圖五</em>
+
+<img src="/assets/TqDXbjSHVogAWnxXukScAijEnwe.png" src-width="2476" src-height="866" align="center"/>
+
+<em>5M 圖六</em>
+

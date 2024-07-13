@@ -107,6 +107,8 @@ xxx 证券
 
 <b>答：</b>開户入金選用 "直接入賬" 方式開户，見以下步驟（認證類型 - 網銀轉賬）
 
+> 通過轉賬驗證開戶的賬戶，只能以香港的銀行進行資金轉賬。
+
 (i). 在「KYC &gt; 開户列表」頁面中搜尋申請開户的客户，在操作欄點擊「詳情」，確認客户填寫資料無誤後點擊「通過初審」。
 
 <img src="/assets/LXxbbb71NopJaax8KyicuyrCneb.png" src-width="2638" src-height="683" align="center"/>
@@ -139,9 +141,9 @@ xxx 证券
 
 (vii). 開户狀態會更新為「已開通」，客戶 APP 上收到賬户開通信息能正式操作使用。
 
-<img src="/assets/IQIIbjcTboAkCJx2p6CcADJ8n4c.png" src-width="2586" src-height="810" align="center"/>
+> 通過轉賬驗證開戶的賬戶，只能以香港的銀行進行資金轉賬。
 
-*提醒：通過轉賬驗證開戶的賬戶，只能以香港的銀行進行資金轉賬
+<img src="/assets/IQIIbjcTboAkCJx2p6CcADJ8n4c.png" src-width="2586" src-height="810" align="center"/>
 
 ## 1.1M 問：公司開户申請中的“使用設備數”是什麼？
 
@@ -164,38 +166,45 @@ xxx 证券
 <b>答：</b>在待審核階段下，可以在開户列表先按「詳情」，進去後駁回申請。（見 1.1P 圖一、圖二）
 之後到開戶資料中點擊「編輯」修改賬戶類型。
 
-<img src="/assets/JxRDbGeg2ogeZ1xzp6jcaQhvn5f.png" src-width="2492" src-height="1094" align="center"/>
+<img src="/assets/MpAybCIuOooFLyx8VKocnzHYnah.png" src-width="2670" src-height="720" align="center"/>
 
 <em>1.1P 圖一</em>
 
-<img src="/assets/YqhqbtIsxogQJNxdB4PcVAaAnoh.png" src-width="2092" src-height="1298" align="center"/>
+<img src="/assets/UNL3bH63boeHPDxAgtWccchcnOb.png" src-width="1398" src-height="1406" align="center"/>
 
 <em>1.1P 圖二</em>
 
-<img src="/assets/Ojv7bOxtqoySenxsbd5c0CZkngg.png" src-width="2514" src-height="980" align="center"/>
+<img src="/assets/NY5UbpYjVo4oo5xne80clLrGnRd.png" src-width="2676" src-height="726" align="center"/>
 
 <em>1.1P 圖三</em>
 
-<img src="/assets/DmWybTyJgoxeKfx6e7acTC0FnBF.png" src-width="1190" src-height="1238" align="center"/>
+<img src="/assets/MCQibMffvok8KKxpNoRcy11gnQg.png" src-width="2332" src-height="1414" align="center"/>
 
 <em>1.1P 圖四</em>
 
 ## 1.1Q 問：CA 認證開戶的檢查要素是什麼？
 
-答：CA 認證開戶有兩個檢查要素：
+<b>答：</b>CA 認證開戶有兩個檢查要素：
 
 1. 銀聯卡認證：身份證號碼、姓名、銀行號卡號、銀聯預留手機號碼
-2. 人臉視頻：對比身份證上的人臉照片和活體視頻照片
+2. 人臉視頻：對比身份證上的人臉照片和活體視頻
 
 ## 1.1R 問：開戶資料的「所在區域」能否不填？
 
-答：所在區域為必填項，如不想顯示任何信息，可以輸入一個空白鍵。
+<b>答：</b>所在區域為必填項，如不想顯示任何信息，可以輸入一個空白鍵。
 
 <img src="/assets/RX06b8JF5oToAqxAT3Qc1qoYnag.png" src-width="2834" src-height="1604" align="center"/>
 
-## 1.1S 問：第三方認證開戶的流程是什麼？
+## 1.1S 問：第三方見證的開戶流程是什麼？
 
-答：先在「開戶資料準備」頁面取得開戶文件和預備開戶所須資料，然後在「郵寄資料至」頁面中選擇第三方認證開戶的形式，最後在提交文件後，按「確認已寄出」。
+<b>答：</b>App 選了「第三方見證」在 "開戶資料準備" 頁面，提示客户需準備好開戶文件和相關資料，然後點擊「下一步，郵寄資料」。在“郵寄資料至”頁面提醒需郵寄文件，提供文件後點擊「確認已寄出」。
 
-<img src="/assets/BWuab7QckoStL6xCGN7c4NS8nQz.png" src-width="610" src-height="1782" align="center"/>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[45%]" width-ratio="45">
+<img src="/assets/IfyDbzu2AoXGGdxWodVcWy3dnIe.png" src-width="448" src-height="1432" align="center"/>
+</div>
+<div class="w-[54%]" width-ratio="54">
+<img src="/assets/AQKcbrHP9oFJQaxMTzCcasxCnOf.png" src-width="532" src-height="1416" align="center"/>
+</div>
+</div>
 

@@ -81,9 +81,19 @@ sidebar_position: 16
 ## 
 ## 17G. 问：什么是「重置当前布局」功能？
 
-答：「重置当前布局」能将布局回复到初始状态，只有系统页面有此功能，自定义页面没有。
+<b>答：</b>「重置当前布局」能将布局回复到初始状态，只有系统基础页面（如：个股、行情、交易页面）有此功能，自定义页面没有。
 
-<img src="/assets/VeZnbsHRhoFTYCxssKgcaVxLnEe.png" src-width="2866" src-height="1788" align="center"/>
+<img src="/assets/JOlyb9tXGoSdUSxILIRcK3gknNF.png" src-width="2042" src-height="1240" align="center"/>
 
 <img src="/assets/CW7VbO3zbot2ZBxa3KPcivATn8e.png" src-width="2864" src-height="1790" align="center"/>
+
+## 17H. 问：WTT 的“证券限制”中，「关联地区」是根据什么区分客户？
+
+<b>答：</b>会以客户填写的居住国家作区分；如没有，以证件签发地区分；如果也没有，会以国籍区分。
+
+<img src="/assets/SY0wbZDlropmGkxO9IjcUyAqnnb.png" src-width="2866" src-height="1332" align="center"/>
+
+## 17I 问：交易订单被拒绝原因为「Order Price Far Away From Reference Price」是什么？
+
+答：下单被拒原因为下单价格距离现价太远，买盘输入价格不能高于最佳沽出价 10 个价位；卖盘输入价格不能低于最佳买入价 10 个价位。
 

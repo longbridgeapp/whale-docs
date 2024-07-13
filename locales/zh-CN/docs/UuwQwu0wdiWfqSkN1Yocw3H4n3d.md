@@ -44,3 +44,11 @@ sidebar_position: 0
 
 <em>2.1D 图二</em>
 
+## 2.1E 问：EDDA 认证中，客户姓名错误可以如何修改？
+
+<b>答：</b>EDDA 是绑定客户的银行卡，如果该<b>银行卡未做认证</b>，可以在 App「资产&gt;全部功能&gt;银行卡」，选择该银行卡点击「编辑」修改姓名。
+
+<img src="/assets/IVE0bXapMoQk5RxRxQ4cSD2Wnkh.png" src-width="722" src-height="1486" align="center"/>
+
+<img src="/assets/CF1sbfINfogKvixqm2lcnJBjnWg.png" src-width="722" src-height="1528" align="center"/>
+
