@@ -123,3 +123,15 @@ RS 類別處理的是已認購上報的，DS 類別處理的是未申請的股�
 <b>答：</b> 可以查看 SDR040 類別的報表。執行方式為“強制執行”的派息派股公司行動在 SDR040-09  Corporate Action Detail Report(BE/IP/SO) 報表顯示；
 “可選擇”的選股選息公司行動在 SDR040-10 Corporate Action Detail Report(BE With Selection) 報表顯示。
 
+## 6L 問：公司行動在修改「方案信息」後，要如何繼續操作？
+
+答：修改「方案信息」後，檢查「客戶明細」有沒有問題，然後按「重新登記」，最後按「提交執行」。
+
+<img src="/assets/QDnpbElwjo5AaOxGHoxcqJuunsd.png" src-width="2836" src-height="1374" align="center"/>
+
+<img src="/assets/XphPbXAwFoJSsExuMXTchx8qnCf.png" src-width="2828" src-height="1598" align="center"/>
+
+## 6M 問：上手為長橋證券，登記公司行動的供股後，出現不對賬的原因是什麼？
+
+答：長橋證券正式向 CCASS 申請供股後便會平帳。
+
