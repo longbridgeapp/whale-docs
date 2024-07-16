@@ -90,3 +90,7 @@ sidebar_position: 15
 
 <img src="/assets/D1JZbllmHo65qXxkLSxcAmu1nWf.png" src-width="2860" src-height="1184" align="center"/>
 
+## 16I 问：为什么内地客户不能连接下载 LongPortApp 的网址（https://longportapp.cn/en/download）
+
+答：根据中国区合规要求已下架。
+
