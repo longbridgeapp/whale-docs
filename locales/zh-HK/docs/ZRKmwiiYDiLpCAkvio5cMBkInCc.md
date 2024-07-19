@@ -30,3 +30,13 @@ sidebar_position: 17
 
 <img src="/assets/EkMQbDjSZoN6zLxUb3Rc3XVLnNc.png" src-width="2856" src-height="1602" align="center"/>
 
+## 18D. 問：子賬戶總資產沒有負數，為什麼「風控狀態」是「危險」？
+
+答：如果主賬戶的「風控狀態」是「危險」，子賬戶也會跟從主賬戶，「風控狀態」為「危險」。
+
+## 18E. 問：「指數 Haircut 管理」中的指數會否自動更新股票列表？
+
+答：「指數 Haircut 管理」內的指數會自動更新股票列表。
+
+<img src="/assets/SUzUbaMKEoQuvcxZ1WYc5A1TnFe.png" src-width="2858" src-height="1298" align="center"/>
+

@@ -75,3 +75,9 @@ sidebar_position: 1
 
 <img src="/assets/IbgNbI3pVoKa5SxMJwYc7hLenoc.png" src-width="1368" src-height="260" align="center"/>
 
+## 5.2H 問：結單「發送方式配置」的「線下發送」是什麼？
+
+答：「線下發送」是指人工通過郵箱或信件發送，系統結單不會發送到選了“線下發送”的客户。
+
+<img src="/assets/W1kVbqMxGo8j4YxcaOBcwgHjnod.png" src-width="2830" src-height="1410" align="center"/>
+

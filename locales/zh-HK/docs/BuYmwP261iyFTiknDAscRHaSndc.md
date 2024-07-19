@@ -80,17 +80,39 @@ sidebar_position: 15
 
 <img src="/assets/MfKubNAyRosAPIxDwBIcnKyvnVg.png" src-width="734" src-height="1464" align="center"/>
 
-## 16H 問：如何更新 APP 內的幫助中心？
+## 16H 問：如何更新 APP 內的 "幫助中心"的分類查找的內容？
 
-答：在後台「幫助中心」的「文章」按「新建文章」。新增文章分類可以在後台「幫助中心」的「文章分類」按「創建分類」，「slug」則用以快速識別該分類，可設置英文字和符號。
+<img src="/assets/XU6ZbZ7kDo4nydx7SZEcA5Hhnvb.png" src-width="618" src-height="1366" align="center"/>
 
-<img src="/assets/EoMSbYNRvoLiz3x4u26cNyTun3d.png" src-width="2820" src-height="1144" align="center"/>
+<b>答：</b>在「幫助中心＞文章」點擊「新建文章」添加場景問題，在文章底部勾選 "作為常見問題"。(見 16H 圖一、圖二)
+之後在「文章分類」點擊「創建分類」。（見 16H 圖三) 
+"slug" 可以自定義一個英文，如：港股交易規則值可以是【hk_trade_rule】之類（見 16H 圖四)
 
-<img src="/assets/Ltd1bZa1xoDPLZxbNeccVT2Un0i.png" src-width="2816" src-height="1160" align="center"/>
+> 「slug」用以快速識別該分類，可設置英文字和符號。
 
-<img src="/assets/D1JZbllmHo65qXxkLSxcAmu1nWf.png" src-width="2860" src-height="1184" align="center"/>
+<img src="/assets/HAZbb50yMoqsGExIXamcpBkwnAc.png" src-width="2710" src-height="740" align="center"/>
 
-## 16I 問：為什麼內地客戶不能連接下載 LongPortApp 的網址（https://longportapp.cn/en/download）
+<em>16H 圖一</em>
 
-答：根據中國區合規要求已下架。
+<img src="/assets/OzHbbdIiXoNpAJxGpNWcROAhnpe.png" src-width="2416" src-height="1408" align="center"/>
+
+<em>16H 圖二</em>
+
+<img src="/assets/QCB7bTiwpoHieqx1GfWcQwsEn4f.png" src-width="2708" src-height="662" align="center"/>
+
+<em>16H 圖三</em>
+
+<img src="/assets/Lsb0bGYm2oWND6x278lcKUCynZc.png" src-width="2700" src-height="786" align="center"/>
+
+<em>16H 圖四</em>
+
+## 16I 問：為什麼內地客戶使用 ios 不能用以下連結下載 LongPortApp？（https://longportapp.cn/en/download）
+
+答：根據中國內地合規要求已下架。安卓客戶可以到官網的連結下載安裝包。IOS 客戶需要把 App Store 切換成香港區，就可以下載。
+
+## 16J 問：客戶如何在 App 自行完成基金資產風險評估？
+
+答：在 App 的「市場&gt;基金」頁面點擊「您的風險水平」可完成基金資產風險評估。
+
+<img src="/assets/PbQZbawv7oR886xkR9QcO2wunBg.png" src-width="714" src-height="1426" align="center"/>
 

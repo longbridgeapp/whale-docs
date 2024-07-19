@@ -208,3 +208,25 @@ xxx 证券
 </div>
 </div>
 
+## 1.1T 問：線下開通個人戶口如何錄入銀行賬戶資料？
+
+答：在「款項管理&gt;客戶銀行卡」點擊「新增銀行卡」以添加客户銀行賬戶資料并作審核通過。
+
+<img src="/assets/Ys39b0eBfoIIasxUheQc3e8in82.png" src-width="2698" src-height="642" align="center"/>
+
+## 1.1U 問：開戶能否輸入兩個電話號碼？
+
+答：線下創建開户時可以分別輸入「登錄手機號」(見 1.1U 圖一) 用登錄 App 收取認證碼；在“錄入開户資料”輸入「聯繫手機號」(1.1U 圖二) 多個客戶可使用相同的聯繫手機號。
+
+<img src="/assets/UsRnbUQzxo3be7xvMMAcZrj2njc.png" src-width="2696" src-height="1398" align="center"/>
+
+<em>1.1U 圖一</em>
+
+<img src="/assets/UBE7bHSNPoBClqxzz5rcmd7hn6b.png" src-width="2702" src-height="1408" align="center"/>
+
+<em>1.1U 圖二</em>
+
+## 1.1V 問：CA 驗證開戶後，系統會否向客戶發出入金提醒？
+
+答：不會發出，CA 驗證開戶後，客戶可自行選擇何時入金。
+

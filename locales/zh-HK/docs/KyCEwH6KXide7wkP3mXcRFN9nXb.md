@@ -32,3 +32,9 @@ sidebar_position: 12
 
 <em>郵件主題、內容能自定義編輯</em>
 
+## 13E 問：系統在發推廣訊息時，能否自動識別到不訂閱推廣訊息的客戶？
+
+答：如客戶選擇不訂閱推廣訊息，系統便不會發推廣訊息給他們。
+
+<img src="/assets/LF1ObaAwboShXXxobn5cWrwln3f.png" src-width="2296" src-height="1134" align="center"/>
+

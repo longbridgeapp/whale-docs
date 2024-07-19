@@ -32,3 +32,9 @@ sidebar_position: 12
 
 <em>邮件主题、内容能自定义编辑</em>
 
+## 13E 问：系统在发推广讯息时，能否自动识别到不订阅推广讯息的客户？
+
+答：如客户选择不订阅推广讯息，系统便不会发推广讯息给他们。
+
+<img src="/assets/LF1ObaAwboShXXxobn5cWrwln3f.png" src-width="2296" src-height="1134" align="center"/>
+

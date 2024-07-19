@@ -75,3 +75,9 @@ sidebar_position: 1
 
 <img src="/assets/IbgNbI3pVoKa5SxMJwYc7hLenoc.png" src-width="1368" src-height="260" align="center"/>
 
+## 5.2H 问：结单「发送方式配置」的「线下发送」是什么？
+
+答：「线下发送」是指人工通过邮箱或信件发送，系统结单不会发送到选了“线下发送”的客户。
+
+<img src="/assets/W1kVbqMxGo8j4YxcaOBcwgHjnod.png" src-width="2830" src-height="1410" align="center"/>
+

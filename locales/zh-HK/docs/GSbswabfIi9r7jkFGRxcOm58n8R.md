@@ -84,3 +84,19 @@ sidebar_position: 1
 
 <img src="/assets/KOu7bkwNsopj0extGS2cJ1XBndh.png" src-width="2408" src-height="1340" align="center"/>
 
+## 1.2G 問：客戶反對常設授權續簽，系統上如何作限制操作？
+
+答：在「賬户管理&gt;賬戶列表」點擊「交易權限」以限制客戶的交易權限。
+
+<img src="/assets/FFJsbtpkQoLWrFxHVolchM61nNb.png" src-width="2798" src-height="1096" align="center"/>
+
+## 1.2H 問：數據遷移時，舊客戶的「授權人」資料在那個地方查看？
+
+答：舊客戶的「授權人」資料在「賬戶列表」的「客戶詳情」的「代理人」查看；而新公司帳戶開戶時填寫的「授權人」資料、舊帳戶新增的「授權人」資料則在「開戶列表」的「授權人信息」中查看。
+
+如果想統一代理人資料，須要將新開公司帳戶、舊帳戶新增的授權人設置為代理人。
+
+<img src="/assets/Qnicb5f4SoFOaLxZC10cgkOPnKf.png" src-width="2856" src-height="1258" align="right"/>
+
+<img src="/assets/L3mBbBuBDoF4gExeiDhcem2dnDf.png" src-width="2854" src-height="1474" align="center"/>
+

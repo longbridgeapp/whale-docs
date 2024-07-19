@@ -62,9 +62,16 @@ sidebar_position: 2
 
 ## 5.3E 問：場外衍生產品能否以「後台補單」形式導入？
 
-在「私有標的庫」新增該產品及在新建補單中完整輸入證券代碼便可以進行「後台補單」。
+答：在「證券管理&gt;標的管理&gt;私有標的庫」點擊「新增標的」。（見 5.3E 圖一）
+在清「清算管理&gt;合約管理」新建補單中完整輸入證券代碼（見 5.3 圖二) 便可以進行補單。
 
-<img src="/assets/CSQEby7VRoFV4Vxc6rAc2R8fnmb.png" src-width="2810" src-height="1286" align="center"/>
+如：TN/HK/TN/HK/XS2703791762
+
+<img src="/assets/AwXUbqkD8oXzuuxRj3rcBsUSnTh.png" src-width="2714" src-height="662" align="center"/>
+
+<em>5.3 圖一</em>
 
 <img src="/assets/XPvFb3QUKof9eFxjCapcgznynXe.png" src-width="2828" src-height="1608" align="center"/>
+
+<em>5.3 圖二</em>
 

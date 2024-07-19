@@ -84,3 +84,19 @@ sidebar_position: 1
 
 <img src="/assets/KOu7bkwNsopj0extGS2cJ1XBndh.png" src-width="2408" src-height="1340" align="center"/>
 
+## 1.2G 问：客户反对常设授权续签，系统上如何作限制操作？
+
+答：在「账户管理&gt;账户列表」点击「交易权限」以限制客户的交易权限。
+
+<img src="/assets/FFJsbtpkQoLWrFxHVolchM61nNb.png" src-width="2798" src-height="1096" align="center"/>
+
+## 1.2H 问：数据迁移时，旧客户的「授权人」资料在那个地方查看？
+
+答：旧客户的「授权人」资料在「账户列表」的「客户详情」的「代理人」查看；而新公司帐户开户时填写的「授权人」资料、旧帐户新增的「授权人」资料则在「开户列表」的「授权人信息」中查看。
+
+如果想统一代理人资料，须要将新开公司帐户、旧帐户新增的授权人设置为代理人。
+
+<img src="/assets/Qnicb5f4SoFOaLxZC10cgkOPnKf.png" src-width="2856" src-height="1258" align="right"/>
+
+<img src="/assets/L3mBbBuBDoF4gExeiDhcem2dnDf.png" src-width="2854" src-height="1474" align="center"/>
+
