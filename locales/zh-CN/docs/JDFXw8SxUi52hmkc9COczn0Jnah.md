@@ -108,3 +108,28 @@ sidebar_position: 8
 
 <img src="/assets/NOesbvXQkoNcMQx3XvFc4Zq7n4d.png" src-width="2682" src-height="724" align="center"/>
 
+## 9M 问：「App 展示管理」中基金主题的「排序权重」和「权重排序」是什么？
+
+答：「排序权重」是管理基金主题的排序，数值越大，排在越前面；「权重排序」同一个基金主题下基金的排序，数值越小，排在越前面。
+
+<img src="/assets/TPc0bfTdkoXKr4xe6slc8EmcnWh.png" src-width="2718" src-height="1496" align="center"/>
+
+## 9N 问：如何重新提交风险测评问卷？
+
+答：可在后台或 App 修改。
+
+1.后台在「KYC ＞风险测评管理」点击「更新评分」和「更新文件」来修改风险测评等级。
+
+<img src="/assets/QKEdbcSmCoNNDgxn0i7c9oB2nkH.png" src-width="2692" src-height="1118" align="center"/>
+
+2.App 在「市场＞基金」点击「您的风险水平」，然后点击「重测」来修改风险测评。
+
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[48%]" width-ratio="48">
+<img src="/assets/NTAdb8QqgoQ0V0xEKGzczeljnbb.png" src-width="752" src-height="1530" align="center"/>
+</div>
+<div class="w-[51%]" width-ratio="51">
+<img src="/assets/DymnblcAJoZkW0x04X5cX1i2nYe.png" src-width="784" src-height="1500" align="center"/>
+</div>
+</div>
+

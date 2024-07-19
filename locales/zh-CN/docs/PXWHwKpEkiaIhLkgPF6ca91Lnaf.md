@@ -62,9 +62,16 @@ sidebar_position: 2
 
 ## 5.3E 问：场外衍生产品能否以「后台补单」形式导入？
 
-在「私有标的库」新增该产品及在新建补单中完整输入证券代码便可以进行「后台补单」。
+答：在「证券管理&gt;标的管理&gt;私有标的库」点击「新增标的」。（见 5.3E 图一）
+在清「清算管理&gt;合约管理」新建补单中完整输入证券代码（见 5.3 图二) 便可以进行补单。
 
-<img src="/assets/CSQEby7VRoFV4Vxc6rAc2R8fnmb.png" src-width="2810" src-height="1286" align="center"/>
+如：TN/HK/TN/HK/XS2703791762
+
+<img src="/assets/AwXUbqkD8oXzuuxRj3rcBsUSnTh.png" src-width="2714" src-height="662" align="center"/>
+
+<em>5.3 图一</em>
 
 <img src="/assets/XPvFb3QUKof9eFxjCapcgznynXe.png" src-width="2828" src-height="1608" align="center"/>
+
+<em>5.3 图二</em>
 

@@ -178,3 +178,11 @@ TN 是：
 
 <img src="/assets/TfAwb55EdoSzjaxQikucRvT6nOe.png" src-width="2682" src-height="1412" align="center"/>
 
+## 2L 问：如何修改结单上「其他资金出入明细」类型的名称？
+
+答：在「资产账户&gt;业务码查询」选择相关业务类型点击「编辑」修改业务名称。
+
+<img src="/assets/U6NybOIPQoVHjix7D90cMG15nef.png" src-width="1412" src-height="504" align="center"/>
+
+<img src="/assets/YAwwbxqhKowyg4x4DN3cp72QnHc.png" src-width="2696" src-height="1156" align="center"/>
+

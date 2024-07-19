@@ -178,3 +178,11 @@ TN 是：
 
 <img src="/assets/TfAwb55EdoSzjaxQikucRvT6nOe.png" src-width="2682" src-height="1412" align="center"/>
 
+## 2L 問：如何修改結單上「其他資金出入明細」類型的名稱？
+
+答：在「資產賬户&gt;業務碼查詢」選擇相關業務類型點擊「編輯」修改業務名稱。
+
+<img src="/assets/U6NybOIPQoVHjix7D90cMG15nef.png" src-width="1412" src-height="504" align="center"/>
+
+<img src="/assets/YAwwbxqhKowyg4x4DN3cp72QnHc.png" src-width="2696" src-height="1156" align="center"/>
+

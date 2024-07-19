@@ -208,3 +208,25 @@ xxx 证券
 </div>
 </div>
 
+## 1.1T 问：线下开通个人户口如何录入银行账户资料？
+
+答：在「款项管理&gt;客户银行卡」点击「新增银行卡」以添加客户银行账户资料并作审核通过。
+
+<img src="/assets/Ys39b0eBfoIIasxUheQc3e8in82.png" src-width="2698" src-height="642" align="center"/>
+
+## 1.1U 问：开户能否输入两个电话号码？
+
+答：线下创建开户时可以分别输入「登录手机号」(见 1.1U 图一) 用登录 App 收取认证码；在“录入开户资料”输入「联系手机号」(1.1U 图二) 多个客户可使用相同的联系手机号。
+
+<img src="/assets/UsRnbUQzxo3be7xvMMAcZrj2njc.png" src-width="2696" src-height="1398" align="center"/>
+
+<em>1.1U 图一</em>
+
+<img src="/assets/UBE7bHSNPoBClqxzz5rcmd7hn6b.png" src-width="2702" src-height="1408" align="center"/>
+
+<em>1.1U 图二</em>
+
+## 1.1V 问：CA 验证开户后，系统会否向客户发出入金提醒？
+
+答：不会发出，CA 验证开户后，客户可自行选择何时入金。
+

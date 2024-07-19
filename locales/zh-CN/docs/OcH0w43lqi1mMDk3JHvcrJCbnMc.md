@@ -123,15 +123,12 @@ RS 类别处理的是已认购上报的，DS 类别处理的是未申请的股�
 <b>答：</b> 可以查看 SDR040 类别的报表。执行方式为“强制执行”的派息派股公司行动在 SDR040-09  Corporate Action Detail Report(BE/IP/SO) 报表显示；
 “可选择”的选股选息公司行动在 SDR040-10 Corporate Action Detail Report(BE With Selection) 报表显示。
 
-## 6L 问：公司行动在修改「方案信息」后，要如何继续操作？
+## 6L 问：公司行动修改“方案信息”后，要如何继续操作？
 
-答：修改「方案信息」后，检查「客户明细」有没有问题，然后按「重新登记」，最后按「提交执行」。
+答：修改“方案信息”后，检查「客户明细」资料无误点击「重新登记」，再点击「提交执行」继续完成公司行动。
 
 <img src="/assets/QDnpbElwjo5AaOxGHoxcqJuunsd.png" src-width="2836" src-height="1374" align="center"/>
 
 <img src="/assets/XphPbXAwFoJSsExuMXTchx8qnCf.png" src-width="2828" src-height="1598" align="center"/>
 
-## 6M 问：上手为长桥证券，登记公司行动的供股后，出现不对账的原因是什么？
-
-答：长桥证券正式向 CCASS 申请供股后便会平帐。
-
+## 

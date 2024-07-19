@@ -95,5 +95,11 @@ sidebar_position: 16
 
 ## 17I 问：交易订单被拒绝原因为「Order Price Far Away From Reference Price」是什么？
 
-答：下单被拒原因为下单价格距离现价太远，买盘输入价格不能高于最佳沽出价 10 个价位；卖盘输入价格不能低于最佳买入价 10 个价位。
+<b>答：</b> 下单被拒原因为下单价格距离现价太远，买盘输入价格不能高于最佳沽出价 10 个价位；卖盘输入价格不能低于最佳买入价 10 个价位。
+
+## 17J 问：WTT「保存所有布局」功能是否须要逐个版面保存？
+
+答：「保存所有布局」功能可以将整个 WTT 布局保存，不用逐个版面保存。
+
+<img src="/assets/N4AzbcB0UoVgYzx0p9zcCcMKnDg.png" src-width="1316" src-height="896" align="center"/>
 

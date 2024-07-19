@@ -30,3 +30,13 @@ sidebar_position: 17
 
 <img src="/assets/EkMQbDjSZoN6zLxUb3Rc3XVLnNc.png" src-width="2856" src-height="1602" align="center"/>
 
+## 18D. 问：子账户总资产没有负数，为什么「风控状态」是「危险」？
+
+答：如果主账户的「风控状态」是「危险」，子账户也会跟从主账户，「风控状态」为「危险」。
+
+## 18E. 问：「指数 Haircut 管理」中的指数会否自动更新股票列表？
+
+答：「指数 Haircut 管理」内的指数会自动更新股票列表。
+
+<img src="/assets/SUzUbaMKEoQuvcxZ1WYc5A1TnFe.png" src-width="2858" src-height="1298" align="center"/>
+
