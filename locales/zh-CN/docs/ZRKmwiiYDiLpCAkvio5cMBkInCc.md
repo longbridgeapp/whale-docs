@@ -34,9 +34,15 @@ sidebar_position: 17
 
 答：如果主账户的「风控状态」是「危险」，子账户也会跟从主账户，「风控状态」为「危险」。
 
-## 18E. 问：「指数 Haircut 管理」中的指数会否自动更新股票列表？
+## 18E. 问：Haircut 管理中「指数 Haircut 管理」的指数会否自动更新成份股列表内的资讯？
 
-答：「指数 Haircut 管理」内的指数会自动更新股票列表。
+答：「指数 Haircut 管理」会自动更新股票成份股比重、股份等资讯。
 
 <img src="/assets/SUzUbaMKEoQuvcxZ1WYc5A1TnFe.png" src-width="2858" src-height="1298" align="center"/>
+
+## 18F. 问：「Haircut 管理」中，现金户口和融资户口可不可以独立用不同的 haircut%去计算？
+
+答：现金户口和融资户口不可以独立用不同的 haircut%去计算。
+
+<img src="/assets/Il5qbFVIro8BDixGBnmcR6aynff.png" src-width="2808" src-height="1330" align="center"/>
 

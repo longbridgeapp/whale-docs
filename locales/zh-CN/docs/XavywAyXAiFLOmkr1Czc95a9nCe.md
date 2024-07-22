@@ -99,7 +99,7 @@ sidebar_position: 16
 
 ## 17J 问：WTT「保存所有布局」功能是否须要逐个版面保存？
 
-答：「保存所有布局」功能可以将整个 WTT 布局保存，不用逐个版面保存。
+答：右上方组件工具箱「布局管理&gt;保存所有布局」可以将整个 WTT 布局保存，不用逐个版面保存。
 
 <img src="/assets/N4AzbcB0UoVgYzx0p9zcCcMKnDg.png" src-width="1316" src-height="896" align="center"/>
 
