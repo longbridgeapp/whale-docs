@@ -78,3 +78,21 @@ IDR027 - Deliberately Push Up Or Down The Closing Price
 
 IDR019 - Suspected Order Activities Report
 
+## 12I 问：如何导出高风险客户的报告？
+
+答：在 CDR001 - Client Master Listing 报表中的「自定义列表」选择「风险承受能力」，并按「保存」。导出 CDR001 - Client Master Listing 后，在「风险承受能力」上筛选「high」。
+
+<img src="/assets/TkITbLn4NohreAxZEzqc2ZcVnoc.png" src-width="2826" src-height="1600" align="center"/>
+
+<img src="/assets/XDVibeH3JoKYWGxUfCXcrKwqn7b.png" src-width="2844" src-height="1618" align="center"/>
+
+<img src="/assets/YOMzbY3RKoOwsSxJ7Kbcxwainhb.png" src-width="2846" src-height="1468" align="center"/>
+
+## 12J 问：那份报表可以筛选出持有香港身份证和内地身份证的客户？
+
+答：可以导出 CDR001 - Client Master Listing Report 或 CDR001-1 - BCAN Information Report，然后筛选「证件类型」。
+
+<img src="/assets/CvdHbd9SnoFd0nxnUpEcLVINnKd.png" src-width="2848" src-height="1534" align="center"/>
+
+<img src="/assets/NKbsbRnlcoAUKUxSitRccYWHnbg.png" src-width="2854" src-height="1356" align="center"/>
+

@@ -99,7 +99,7 @@ sidebar_position: 16
 
 ## 17J 問：WTT「保存所有佈局」功能是否須要逐個版面保存？
 
-答：「保存所有佈局」功能可以將整個 WTT 佈局保存，不用逐個版面保存。
+答：右上方組件工具箱「布局管理&gt;保存所有佈局」可以將整個 WTT 佈局保存，不用逐個版面保存。
 
 <img src="/assets/N4AzbcB0UoVgYzx0p9zcCcMKnDg.png" src-width="1316" src-height="896" align="center"/>
 

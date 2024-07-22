@@ -34,9 +34,15 @@ sidebar_position: 17
 
 答：如果主賬戶的「風控狀態」是「危險」，子賬戶也會跟從主賬戶，「風控狀態」為「危險」。
 
-## 18E. 問：「指數 Haircut 管理」中的指數會否自動更新股票列表？
+## 18E. 問：Haircut 管理中「指數 Haircut 管理」的指數會否自動更新成份股列表內的資訊？
 
-答：「指數 Haircut 管理」內的指數會自動更新股票列表。
+答：「指數 Haircut 管理」會自動更新股票成份股比重、股份等資訊。
 
 <img src="/assets/SUzUbaMKEoQuvcxZ1WYc5A1TnFe.png" src-width="2858" src-height="1298" align="center"/>
+
+## 18F. 問：「Haircut 管理」中，現金戶口和融資戶口可不可以獨立用不同的 haircut%去計算？
+
+答：現金戶口和融資戶口不可以獨立用不同的 haircut%去計算。
+
+<img src="/assets/Il5qbFVIro8BDixGBnmcR6aynff.png" src-width="2808" src-height="1330" align="center"/>
 

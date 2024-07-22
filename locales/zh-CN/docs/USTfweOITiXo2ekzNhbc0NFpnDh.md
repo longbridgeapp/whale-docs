@@ -81,3 +81,9 @@ sidebar_position: 1
 
 <img src="/assets/W1kVbqMxGo8j4YxcaOBcwgHjnod.png" src-width="2830" src-height="1410" align="center"/>
 
+## 5.2I 问：结单中的「待交收金额」和「资金余额」有什么分别？
+
+答：港股是 T＋2 交收，在 T＋1、T＋2 或以外的时间的资金，都会拨入「待交收金额」内，前天和当天的交易净交收金额（净买入金额 - 净买出金额）便等于「待交收金额」。
+
+<img src="/assets/ScS9bAMOYoKz0vxMfYrckQEVn6c.png" src-width="1706" src-height="696" align="center"/>
+
