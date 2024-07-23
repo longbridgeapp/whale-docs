@@ -163,8 +163,8 @@ xxx 证券
 
 ## 1.1P 问：开户待审核阶段能否改账户类型（现金／融资账户）？
 
-<b>答：</b>在待审核阶段下，可以在开户列表先按「详情」，进去后驳回申请。（见 1.1P 图一、图二）
-之后到开户资料中点击「编辑」修改账户类型。（见 1.1P 图三、图四）
+<b>答：</b>“待审核”阶段下，在「KYC＞开户列表」点击「详情」，进入页面后点击「驳回」。（见 1.1P 图一、图二）
+之后在「KYC&gt;开户资料」中点击「编辑」修改账户类型。（见 1.1P 图三、图四）
 
 <img src="/assets/MpAybCIuOooFLyx8VKocnzHYnah.png" src-width="2670" src-height="720" align="center"/>
 
@@ -225,8 +225,4 @@ xxx 证券
 <img src="/assets/UBE7bHSNPoBClqxzz5rcmd7hn6b.png" src-width="2702" src-height="1408" align="center"/>
 
 <em>1.1U 图二</em>
-
-## 1.1V 问：CA 验证开户后，系统会否向客户发出入金提醒？
-
-答：不会发出，CA 验证开户后，客户可自行选择何时入金。
 

@@ -19,3 +19,15 @@ sidebar_position: 18
 
 <img src="/assets/X2JzbfNgioWE4Hxp97Ocp8fnnCe.png" src-width="2852" src-height="1374" align="center"/>
 
+## 19B 问：结单「资金余额」与后台资产总览的「可提现金」及「手工换汇余额」为什么不一样？
+
+答：「可提现金」和「手工换汇余额」取的数值都是一样，而「可提现金」和「资金余额」差别在于后者包括已结算资金。
+
+举例来说，23/4 的已结算现金是 $10,000，但「可提现金」要扣除 22/4 的未结算的买货金额，如：$2,000，「可提现金」和「手工换汇余额」便会是 $8,000。
+
+<img src="/assets/SHksbApFdos7P5xfYEIc3sFnn1b.png" src-width="1840" src-height="918" align="center"/>
+
+<img src="/assets/T5HdbB7HHoaR9MxOK5jcOFlonsb.png" src-width="2872" src-height="1226" align="center"/>
+
+<img src="/assets/FX1lb84IwoaE8qxD9yZcIYRInCg.png" src-width="2574" src-height="1220" align="center"/>
+

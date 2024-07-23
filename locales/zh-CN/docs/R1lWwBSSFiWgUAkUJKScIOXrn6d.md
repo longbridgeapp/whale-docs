@@ -66,14 +66,38 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 执行菜单：基金管理&gt; 公募基金&gt;净值表 Tab 页签
 
-- 本作业可以查询基金的净值数据
+- 本作业可以查询、添加、编辑基金的净值数据
 
-<img src="/assets/YekNbg6a1osjDTx2jCLcDxzDnrq.png" src-width="3250" src-height="1406" align="center"/>
+<img src="/assets/Er76bqu2OomiSCxWTvhccFw3nsm.png" src-width="3322" src-height="1662" align="center"/>
 
-<div class="callout callout-bg-2 callout-border-2">
-<div class='callout-emoji'>💡</div>
-<p>注意：系统已改成透过行情数据源自动获取公募基金的净值表（租户无法自行新增，避免数据更新错误）</p>
-</div>
+- 添加基金净值
+    - 点击「新增」按钮
+        <img src="/assets/LSE6bB8GcoQHoAx1vIfc1EEange.png" src-width="3284" src-height="1656" align="center"/>
+    - 输入需要添加净值的基金，输入净值后，选择净值对应的日期
+        <img src="/assets/VfVsb2AJjonWFlxpRbXcZNzAnWf.png" src-width="3320" src-height="1652" align="center"/>
+        <div class="callout callout-bg-2 callout-border-2">
+        <div class='callout-emoji'>💡</div>
+        <p>注意：系统已改成透过行情数据源自动获取公募基金的净值表，如果行情数据源获取到的数据延迟，则支持手动添加净值的方式来确保基金清算交收。</p>
+        </div>
+
+- 编辑基金净值
+    <div class="callout callout-bg-2 callout-border-2">
+    <div class='callout-emoji'>💡</div>
+    <ol>
+    <li><p>更新完成后盈亏将重新计算，注意，只有修改最新的 30 条净值数据才会重新计算盈亏；</p>
+    </li>
+    <li><p>更新完成后，货币基金的七日年化、万元收益、基金表现（今年以来）自动更新；</p>
+    </li>
+    <li><p>更新完成后，基金清算的渠道单在完成核对确认后的不更新；</p>
+    </li>
+    </ol>
+    </div>
+    - 找到需要编辑净值的基金，点击编辑按钮
+        <img src="/assets/H39ZbOp5XowTJpxSvOFc4vRxnbd.png" src-width="3332" src-height="1660" align="center"/>
+    - 输入对应的基金净值，并点击「确定」
+        <img src="/assets/PBQkbPgzmoQ6H7xpIikcQfzLnjg.png" src-width="3332" src-height="1756" align="center"/>
+    - 完成净值修改后，如果开启编辑净值审批，则新的净值将在审批工单通过后生效；未开启编辑审批则编辑后立即生效；
+        <img src="/assets/K7MkbbfZRoNkMBx9eabco5FtnGg.png" src-width="3314" src-height="1658" align="center"/>
 
 #### 基金清算
 
@@ -97,9 +121,19 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/H1ZWbz8fBokIdNxZZsRcqrFhnCb.png" src-width="3254" src-height="1438" align="center"/>
 
-回填视窗弹出，需要填写 基金净值 /申购份额：申购金额/基金净值 /赎回金额：赎回份额*基金净值 
+回填视窗弹出，需要选择净值日期，选择后自动查询到 基金净值；根据上手返回的信息填写「确认申购份额」和「确认赎回金额」；
 
-<img src="/assets/IUXqbnTx7oOc43xucedcwVCWnkc.png" src-width="3256" src-height="1530" align="center"/>
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>💡</div>
+<p>如果所选「净值日期」无净值数据，需要前往净值表添加净值。</p>
+</div>
+
+<img src="/assets/BSgbbNL8jow5a1xTm07c9pfsnwb.png" src-width="3296" src-height="1764" align="center"/>
+
+<div class="callout callout-bg-3 callout-border-3">
+<div class='callout-emoji'>💡</div>
+<p>申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在 0.5 时，点击『 确定 』将提示错误，需要重新填写。</p>
+</div>
 
 数据回填之后，接下操作<b>核对确认</b>，进行数据确认，确认提交
 
@@ -250,6 +284,23 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 首先在右方左侧【新增】操作，可以新增一笔 私募基金净值纪录
 
 <img src="/assets/WEzcbmxP5ofKI3xNo3cc27KJnZf.png" src-width="3278" src-height="1406" align="center"/>
+
+支持【编辑】基金净值
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>💡</div>
+<ol>
+<li><p>更新完成后盈亏将重新计算，注意，只有修改最新的 30 条净值数据才会重新计算盈亏；</p>
+</li>
+<li><p>更新完成后，基金清算的渠道单在完成核对确认后的不更新；</p>
+</li>
+</ol>
+</div>
+- 找到需要编辑净值的基金，点击编辑按钮
+    <img src="/assets/WcKZbhReAoNhCqxZSIkcEY4AnmQ.png" src-width="3334" src-height="1656" align="center"/>
+- 输入对应的基金净值，并点击「确定」
+    <img src="/assets/JtOBbZduVolqsOxeXKxcVIEwnDg.png" src-width="3320" src-height="1656" align="center"/>
+- 完成净值修改后，如果开启编辑净值审批，则新的净值将在审批工单通过后生效；未开启编辑审批则编辑后立即生效
+    <img src="/assets/PGJmbIAQZoGIooxZ8N1cesXBnne.png" src-width="3314" src-height="1758" align="center"/>
 
 #### 客户订单
 

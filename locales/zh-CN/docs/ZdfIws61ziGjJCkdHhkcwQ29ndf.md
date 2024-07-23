@@ -50,7 +50,7 @@ sidebar_position: 1
 
 ## 2D 问：实际到账的入金金额跟客户输入的金额不同，如何处理？
 
-<b>答：</b>在入金申请可以点击「直接入账」修正 "实收金额"。
+<b>答：</b>在「款项管理&gt;入金&gt;入金申请」点击「直接入账」修正 "实收金额"。
 
 <img src="/assets/Fo3xbY2TXo5M9BxLF1Tchr5OnVd.png" src-width="2380" src-height="696" align="center"/>
 
@@ -81,7 +81,9 @@ sidebar_position: 1
 
 ## 2F 问：出入金、换汇能有通知吗？
 
-<b>答：</b>在「消息设置 &gt; 订阅管理」页面（见 2F 图一、图二）点击「新建」，可选换汇、出入金需审核电邮通知（见 2F 图二）。剔选邮件方式通知并添加需要通知的人员／角色（见 2F 图三）。如客户透过 App 提交换汇的没有电邮提醒。
+<b>答：</b>在右上方齿轮的「消息设置 &gt; 订阅管理」页面（见 2F 图一、图二）点击「新建」。
+
+可选“换汇、出入金需要审核”电邮通知（见 2F 图二）。剔选邮件方式通知并添加需要通知的人员／角色（见 2F 图三）。如客户透过 App 提交换汇的没有电邮提醒。
 
 <img src="/assets/Rbu5b5MenoPc9MxctebcZbJYnxh.png" src-width="2386" src-height="374" align="center"/>
 
@@ -99,7 +101,7 @@ sidebar_position: 1
 
 ## 2G 问：为什么出金申请没作提交，会自动去到了"提现处理"？
 
-<b>答：</b>客户透过 App 申请出金，而同一个银行卡有成功出金的记录，会去到 "提现处理" 的"待处理" 页面可直接操作直接出账（见 2G 图一）。
+<b>答：</b>客户透过 App 申请出金，而同一个银行卡有成功出金的记录，会去到"提现处理"的"待处理" 页面可直接操作直接出账（见 2G 图一）。
 如 App 需要出金审批在「业务参数设置 &gt; 风控 &gt; 出金额规则」页面点击「新增」设置。（见 2G 图二至四）
 
 <img src="/assets/QQUGbVKIhoEl18xWWoSctnhAnKs.png" src-width="2760" src-height="750" align="center"/>
@@ -185,4 +187,12 @@ TN 是：
 <img src="/assets/U6NybOIPQoVHjix7D90cMG15nef.png" src-width="1412" src-height="504" align="center"/>
 
 <img src="/assets/YAwwbxqhKowyg4x4DN3cp72QnHc.png" src-width="2696" src-height="1156" align="center"/>
+
+## 2M 问：存入资金以「手工调账」方式处理，而非「款项管理＞入金」操作，会有什么影响？
+
+答：有以下三项影响
+
+1. 会计分类账不同（视公司的设置而定）
+2. 结单上显示不同
+3. 查看记录位置不同
 

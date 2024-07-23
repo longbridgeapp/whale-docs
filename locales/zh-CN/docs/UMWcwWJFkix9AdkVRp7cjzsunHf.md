@@ -125,9 +125,9 @@ App 客户端展示位置如下
 
 <img src="/assets/EIKUbY85Vojlpyx64Axcc6wznuf.png" src-width="1280" src-height="681" align="center"/>
 
-回填视窗弹出，需要填写 基金净值；申购份额=申购金额/基金净值；赎回金额=赎回份额*基金净值
+回填视窗弹出，需要选择净值日期，选择后自动查询到 基金净值；根据上手返回的信息填写「确认申购份额」和「确认赎回金额」；
 
-<img src="/assets/JL00bmM6zoAXPAxkFGRckiwpn2b.png" src-width="1280" src-height="734" align="center"/>
+<img src="/assets/QNkabby56oZAC7xXqE4cbCw2nUf.png" src-width="3296" src-height="1764" align="center"/>
 
 <div class="callout callout-bg-3 callout-border-3">
 <div class='callout-emoji'>💡</div>
