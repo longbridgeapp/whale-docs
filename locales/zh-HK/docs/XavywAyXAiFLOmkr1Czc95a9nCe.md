@@ -103,3 +103,13 @@ sidebar_position: 16
 
 <img src="/assets/N4AzbcB0UoVgYzx0p9zcCcMKnDg.png" src-width="1316" src-height="896" align="center"/>
 
+## 17K 問：WTT 如何進行碎股交易？
+
+答：可以在「交易頁面」和「碎股撮合」進行碎股交易。
+
+<img src="/assets/KmYbbtHxnoRdN6xc9X7cOmEZnxb.png" src-width="2872" src-height="1792" align="center"/>
+
+<img src="/assets/IKyFbV4vUolE8exNCQ9czBp8nFb.png" src-width="2878" src-height="1740" align="center"/>
+
+<img src="/assets/F50abR5v9oOb6FxZR75caGt6nAC.png" src-width="2862" src-height="1790" align="center"/>
+

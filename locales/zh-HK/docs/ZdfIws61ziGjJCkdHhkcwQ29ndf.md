@@ -50,7 +50,7 @@ sidebar_position: 1
 
 ## 2D 問：實際到賬的入金金額跟客户輸入的金額不同，如何處理？
 
-<b>答：</b>在入金申請可以點擊「直接入賬」修正 "實收金額"。
+<b>答：</b>在「款項管理&gt;入金&gt;入金申請」點擊「直接入賬」修正 "實收金額"。
 
 <img src="/assets/Fo3xbY2TXo5M9BxLF1Tchr5OnVd.png" src-width="2380" src-height="696" align="center"/>
 
@@ -81,7 +81,9 @@ sidebar_position: 1
 
 ## 2F 問：出入金、換滙能有通知嗎？
 
-<b>答：</b>在「消息設置 &gt; 訂閱管理」頁面（見 2F 圖一、圖二）點擊「新建」，可選換滙、出入金需審核電郵通知（見 2F 圖二）。剔選郵件方式通知并添加需要通知的人員／角色（見 2F 圖三）。如客户透過 App 提交換滙的沒有電郵提醒。
+<b>答：</b>在右上方齒輪的「消息設置 &gt; 訂閱管理」頁面（見 2F 圖一、圖二）點擊「新建」。
+
+可選“換滙、出入金需要審核”電郵通知（見 2F 圖二）。剔選郵件方式通知并添加需要通知的人員／角色（見 2F 圖三）。如客户透過 App 提交換滙的沒有電郵提醒。
 
 <img src="/assets/Rbu5b5MenoPc9MxctebcZbJYnxh.png" src-width="2386" src-height="374" align="center"/>
 
@@ -99,7 +101,7 @@ sidebar_position: 1
 
 ## 2G 問：為什麼出金申請沒作提交，會自動去到了"提現處理"？
 
-<b>答：</b>客户透過 App 申請出金，而同一個銀行卡有成功出金的記錄，會去到 "提現處理" 的"待處理" 頁面可直接操作直接出賬（見 2G 圖一）。
+<b>答：</b>客户透過 App 申請出金，而同一個銀行卡有成功出金的記錄，會去到"提現處理"的"待處理" 頁面可直接操作直接出賬（見 2G 圖一）。
 如 App 需要出金審批在「業務參數設置 &gt; 風控 &gt; 出金額規則」頁面點擊「新增」設置。（見 2G 圖二至四）
 
 <img src="/assets/QQUGbVKIhoEl18xWWoSctnhAnKs.png" src-width="2760" src-height="750" align="center"/>
@@ -185,4 +187,12 @@ TN 是：
 <img src="/assets/U6NybOIPQoVHjix7D90cMG15nef.png" src-width="1412" src-height="504" align="center"/>
 
 <img src="/assets/YAwwbxqhKowyg4x4DN3cp72QnHc.png" src-width="2696" src-height="1156" align="center"/>
+
+## 2M 問：存入資金以「手工調賬」方式處理，而非「款項管理＞入金」操作，會有什麼影響？
+
+答：有以下三項影響
+
+1. 會計分類賬不同（視公司的設置而定）
+2. 結單上顯示不同
+3. 查看記錄位置不同
 

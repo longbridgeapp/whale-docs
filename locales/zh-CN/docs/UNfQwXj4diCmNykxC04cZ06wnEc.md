@@ -31,7 +31,18 @@ sidebar_position: 0
 
 ## 15.1B 问：为什么审批的工单都去到超级管理员账户？
 
-<b>答：</b>因为审批流程未有设置审核人，会去到超级管理员账户，可以在「身份管理 &gt; 审批流程配置」设置“默认审批流配置”把工单审核去到默认的人员／角色。
+答：需要先设置工单审核人。在系统右上方齿轮点击「身份管理&gt;审批流程配置&gt;默认审批流配置」添加审核人员，之后工单就会去到指定人员（见 15.1B 图一、图二)。<b>
+</b>审核人员可按“角色”或“人员”账号添加（见 15.1B 图三）。配置完成后，可再发起工单由新的审核人处理。
 
-<img src="/assets/Ld7eb2ApEoU4MqxRZsTck49NnBc.png" src-width="2554" src-height="670" align="center"/>
+<img src="/assets/Uh3Wb6lcwoV1aFxZ3kFc2NRQn3f.png" src-width="2792" src-height="418" align="center"/>
+
+<em>15.1B 图一</em>
+
+<img src="/assets/JAISbZNoaobr01xVXWfciYIwnFb.png" src-width="2784" src-height="738" align="center"/>
+
+<em>15.1B 图二</em>
+
+<img src="/assets/DUF0be5BqokwTqxrQq2ceCaun3c.png" src-width="2798" src-height="1078" align="center"/>
+
+<em>15.1B 图三</em>
 

@@ -19,3 +19,15 @@ sidebar_position: 18
 
 <img src="/assets/X2JzbfNgioWE4Hxp97Ocp8fnnCe.png" src-width="2852" src-height="1374" align="center"/>
 
+## 19B 問：結單「資金餘額」與後台資產總覽的「可提現金」及「手工換匯餘額」為什麼不一樣？
+
+答：「可提現金」和「手工換匯餘額」取的數值都是一樣，而「可提現金」和「資金餘額」差別在於後者包括已結算資金。
+
+舉例來說，23/4 的已結算現金是 $10,000，但「可提現金」要扣除 22/4 的未結算的買貨金額，如：$2,000，「可提現金」和「手工換匯餘額」便會是 $8,000。
+
+<img src="/assets/SHksbApFdos7P5xfYEIc3sFnn1b.png" src-width="1840" src-height="918" align="center"/>
+
+<img src="/assets/T5HdbB7HHoaR9MxOK5jcOFlonsb.png" src-width="2872" src-height="1226" align="center"/>
+
+<img src="/assets/FX1lb84IwoaE8qxD9yZcIYRInCg.png" src-width="2574" src-height="1220" align="center"/>
+

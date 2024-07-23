@@ -163,8 +163,8 @@ xxx 证券
 
 ## 1.1P 問：開戶待審核階段能否改賬戶類型（現金／融資賬户）？
 
-<b>答：</b>在待審核階段下，可以在開户列表先按「詳情」，進去後駁回申請。（見 1.1P 圖一、圖二）
-之後到開戶資料中點擊「編輯」修改賬戶類型。（見 1.1P 圖三、圖四）
+<b>答：</b>“待審核”階段下，在「KYC＞開户列表」點擊「詳情」，進入頁面後點擊「駁回」。（見 1.1P 圖一、圖二）
+之後在「KYC&gt;開戶資料」中點擊「編輯」修改賬戶類型。（見 1.1P 圖三、圖四）
 
 <img src="/assets/MpAybCIuOooFLyx8VKocnzHYnah.png" src-width="2670" src-height="720" align="center"/>
 
@@ -225,8 +225,4 @@ xxx 证券
 <img src="/assets/UBE7bHSNPoBClqxzz5rcmd7hn6b.png" src-width="2702" src-height="1408" align="center"/>
 
 <em>1.1U 圖二</em>
-
-## 1.1V 問：CA 驗證開戶後，系統會否向客戶發出入金提醒？
-
-答：不會發出，CA 驗證開戶後，客戶可自行選擇何時入金。
 

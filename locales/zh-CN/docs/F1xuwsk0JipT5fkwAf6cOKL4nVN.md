@@ -80,7 +80,8 @@ IDR019 - Suspected Order Activities Report
 
 ## 12I 问：如何导出高风险客户的报告？
 
-答：在 CDR001 - Client Master Listing 报表中的「自定义列表」选择「风险承受能力」，并按「保存」。导出 CDR001 - Client Master Listing 后，在「风险承受能力」上筛选「high」。
+答：在 CDR001 - Client Master Listing Report 的「自定义列表」选择「风险承受能力」点击「保存」。
+导出 Excel 后，在「风险承受能力」栏位作筛选。
 
 <img src="/assets/TkITbLn4NohreAxZEzqc2ZcVnoc.png" src-width="2826" src-height="1600" align="center"/>
 
@@ -88,11 +89,9 @@ IDR019 - Suspected Order Activities Report
 
 <img src="/assets/YOMzbY3RKoOwsSxJ7Kbcxwainhb.png" src-width="2846" src-height="1468" align="center"/>
 
-## 12J 问：那份报表可以筛选出持有香港身份证和内地身份证的客户？
+## 12J 问：如何导出客户股票集中度（Stock Concentration）的历史数据？
 
-答：可以导出 CDR001 - Client Master Listing Report 或 CDR001-1 - BCAN Information Report，然后筛选「证件类型」。
+答：报表 RDR010 - Concentration Risk 包含到一周的数据。如需要先前的历史数据可从 SDR003 Client Stock Holding Report(By Stock) 取得客户每天的持仓数值，再按港交所的股票发行市值，手工计算股票集中度。
 
-<img src="/assets/CvdHbd9SnoFd0nxnUpEcLVINnKd.png" src-width="2848" src-height="1534" align="center"/>
-
-<img src="/assets/NKbsbRnlcoAUKUxSitRccYWHnbg.png" src-width="2854" src-height="1356" align="center"/>
+<img src="/assets/DIunbYmVZoH8Zpx5tGJcCCTNnAh.png" src-width="2850" src-height="1346" align="center"/>
 

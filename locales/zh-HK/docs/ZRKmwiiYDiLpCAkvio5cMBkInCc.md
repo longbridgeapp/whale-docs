@@ -40,7 +40,7 @@ sidebar_position: 17
 
 <img src="/assets/SUzUbaMKEoQuvcxZ1WYc5A1TnFe.png" src-width="2858" src-height="1298" align="center"/>
 
-## 18F. 問：「Haircut 管理」中，現金戶口和融資戶口可不可以獨立用不同的 haircut%去計算？
+## 18F. 問：「Haircut 管理」中，現金或融資戶口可否獨立使用不同的 haircut%去計算？
 
 答：現金戶口和融資戶口不可以獨立用不同的 haircut%去計算。
 

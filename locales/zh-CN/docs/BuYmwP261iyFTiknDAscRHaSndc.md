@@ -116,3 +116,21 @@ sidebar_position: 15
 
 <img src="/assets/PbQZbawv7oR886xkR9QcO2wunBg.png" src-width="714" src-height="1426" align="center"/>
 
+## 16K 问：Web Trade 和 APP 能否同时使用？
+
+答：Web Trade 和 APP 可以同时使用。
+
+## 16L 问：如何禁止客户在 APP 自动换汇？
+
+答：有以下两个方法：
+
+1. 在「业务参数设置」下「汇兑」的「换汇策略」停用「汇兑策略」。
+
+<img src="/assets/SpJQbAGaBo0QX5xm6upcErsGndc.png" src-width="2842" src-height="1376" align="center"/>
+
+1. 在「业务参数设置」下「汇兑」的「换汇策略」按「审批起点」，将「起始金额」设置为$0.01，所有换汇都需要审批。
+
+<img src="/assets/SdfrbSvGaoVGSwxHS3Ycw2lhnye.png" src-width="2850" src-height="1388" align="center"/>
+
+<img src="/assets/KZzqb4kMLoznqCxfTsWcogCHnth.png" src-width="2824" src-height="1364" align="center"/>
+

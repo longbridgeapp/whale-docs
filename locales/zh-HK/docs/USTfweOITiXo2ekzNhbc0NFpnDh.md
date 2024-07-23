@@ -83,7 +83,23 @@ sidebar_position: 1
 
 ## 5.2I 問：結單中的「待交收金額」和「資金餘額」有什麼分別？
 
-答：港股是 T＋2 交收，在 T＋1、T＋2 或以外的時間的資金，都會撥入「待交收金額」內，前天和當天的交易淨交收金額（淨買入金額 - 淨買出金額）便等於「待交收金額」。
+答：港股是 T＋2 交收，在 T＋1、T＋2 或以外的交收資金，都會撥入「待交收金額」。前天和當天的交易淨交收金額（淨買入金額 - 淨賣出金額）等於「待交收金額」。
+
+"資金餘額" 是賬面金額。
 
 <img src="/assets/ScS9bAMOYoKz0vxMfYrckQEVn6c.png" src-width="1706" src-height="696" align="center"/>
+
+## 5.2J 問：日、月結單的「責任說明條款」如何修改？
+
+答：在「清算管理」下「結單管理」的「結單模版」按「編輯」可以修改。
+
+<img src="/assets/AhH1bc4eSo71BRxBGhMcN918nMe.png" src-width="2498" src-height="1338" align="center"/>
+
+## 5.2K 問：為什麼結單重複顯示客戶的地址？
+
+答：「開戶列表」中，客戶的「所在區域」和「詳細地址」重複。
+
+<img src="/assets/U5jQbHflaoXPi7xKQNjcdSIen9c.png" src-width="1690" src-height="878" align="center"/>
+
+<img src="/assets/LACQbwgOnovN5ixRmxNcil1bnOe.png" src-width="2566" src-height="1202" align="center"/>
 

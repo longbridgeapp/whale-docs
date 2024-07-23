@@ -116,3 +116,21 @@ sidebar_position: 15
 
 <img src="/assets/PbQZbawv7oR886xkR9QcO2wunBg.png" src-width="714" src-height="1426" align="center"/>
 
+## 16K 問：Web Trade 和 APP 能否同時使用？
+
+答：Web Trade 和 APP 可以同時使用。
+
+## 16L 問：如何禁止客戶在 APP 自動換匯？
+
+答：有以下兩個方法：
+
+1. 在「業務參數設置」下「匯兌」的「換匯策略」停用「匯兌策略」。
+
+<img src="/assets/SpJQbAGaBo0QX5xm6upcErsGndc.png" src-width="2842" src-height="1376" align="center"/>
+
+1. 在「業務參數設置」下「匯兌」的「換匯策略」按「審批起點」，將「起始金額」設置為$0.01，所有換匯都需要審批。
+
+<img src="/assets/SdfrbSvGaoVGSwxHS3Ycw2lhnye.png" src-width="2850" src-height="1388" align="center"/>
+
+<img src="/assets/KZzqb4kMLoznqCxfTsWcogCHnth.png" src-width="2824" src-height="1364" align="center"/>
+

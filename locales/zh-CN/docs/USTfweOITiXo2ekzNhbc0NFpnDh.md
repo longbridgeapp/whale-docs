@@ -83,7 +83,23 @@ sidebar_position: 1
 
 ## 5.2I 问：结单中的「待交收金额」和「资金余额」有什么分别？
 
-答：港股是 T＋2 交收，在 T＋1、T＋2 或以外的时间的资金，都会拨入「待交收金额」内，前天和当天的交易净交收金额（净买入金额 - 净买出金额）便等于「待交收金额」。
+答：港股是 T＋2 交收，在 T＋1、T＋2 或以外的交收资金，都会拨入「待交收金额」。前天和当天的交易净交收金额（净买入金额 - 净卖出金额）等于「待交收金额」。
+
+"资金余额" 是账面金额。
 
 <img src="/assets/ScS9bAMOYoKz0vxMfYrckQEVn6c.png" src-width="1706" src-height="696" align="center"/>
+
+## 5.2J 问：日、月结单的「责任说明条款」如何修改？
+
+答：在「清算管理」下「结单管理」的「结单模版」按「编辑」可以修改。
+
+<img src="/assets/AhH1bc4eSo71BRxBGhMcN918nMe.png" src-width="2498" src-height="1338" align="center"/>
+
+## 5.2K 问：为什么结单重复显示客户的地址？
+
+答：「开户列表」中，客户的「所在区域」和「详细地址」重复。
+
+<img src="/assets/U5jQbHflaoXPi7xKQNjcdSIen9c.png" src-width="1690" src-height="878" align="center"/>
+
+<img src="/assets/LACQbwgOnovN5ixRmxNcil1bnOe.png" src-width="2566" src-height="1202" align="center"/>
 
