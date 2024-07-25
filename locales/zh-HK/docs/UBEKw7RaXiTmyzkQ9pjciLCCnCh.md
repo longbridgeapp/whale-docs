@@ -41,6 +41,8 @@ sidebar_position: 0
 
 <img src="/assets/WWQibU6w8o4OEoxn4cHc9chKnOg.png" src-width="2490" src-height="1435" align="center"/>
 
+<img src="/assets/BGyibRGYcocJZrxIKYVckSC1nHg.png" src-width="2650" src-height="1386" align="center"/>
+
 ## 1D 問：主子賬户添加了開户備註，如何查看？
 
 <b>答：</b>在主子賬户添加了備註，需要在主的申請賬户查看添加記錄（見 1.D 圖一 黃色標記的賬户）。詳情頁面中“操作記錄”中能查到相關記錄（見 1.D 圖二）。

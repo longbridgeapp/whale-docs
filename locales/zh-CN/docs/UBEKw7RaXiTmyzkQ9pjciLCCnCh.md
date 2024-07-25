@@ -41,6 +41,8 @@ sidebar_position: 0
 
 <img src="/assets/WWQibU6w8o4OEoxn4cHc9chKnOg.png" src-width="2490" src-height="1435" align="center"/>
 
+<img src="/assets/BGyibRGYcocJZrxIKYVckSC1nHg.png" src-width="2650" src-height="1386" align="center"/>
+
 ## 1D 问：主子账户添加了开户备注，如何查看？
 
 <b>答：</b>在主子账户添加了备注，需要在主的申请账户查看添加记录（见 1.D 图一 黄色标记的账户）。详情页面中“操作记录”中能查到相关记录（见 1.D 图二）。

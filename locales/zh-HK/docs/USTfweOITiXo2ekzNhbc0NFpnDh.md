@@ -95,3 +95,9 @@ sidebar_position: 1
 
 <img src="/assets/XAV6bbC6joDNhzx2szFcVC6OnsI.png" src-width="1980" src-height="1410" align="center"/>
 
+## 5.2K 問：結單顯示的參考匯率是那種匯率？
+
+答：結單顯示的參考匯率是依照「款項管理＞換滙＞參考滙率」的即期匯率。
+
+<img src="/assets/Wi7hbQ2BgoxjCixXHeBcCJH4ndh.png" src-width="1682" src-height="634" align="center"/>
+

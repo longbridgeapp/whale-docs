@@ -193,6 +193,9 @@ Whale 报表管理系统通常具有以下功能和特点：
 <tr><td><p>CDR009</p></td><td><p>Stock Information Excel Export</p></td><td><p>显示股票重要栏位讯息</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>CDR008</p></td><td><p> Allow Trading Status Report</p></td><td><p>证券可买卖标志信息</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>CDR010</p></td><td><p>AE Listing</p></td><td><p>查询 AE 经纪人 基本资料</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>CDR013</p></td><td><p>Member Agent Person</p></td><td><p>客户在券商记录的代理人信息，以客户为维度</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>CDR014</p></td><td><p>Member Related Person</p></td><td><p>客户在券商记录的关系人信息，以客户为维度</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>CDR015</p></td><td><p>Client Related Group Report</p></td><td><p>FRR 关联组客户信息查询</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 </tbody>
 </table>
 
@@ -238,6 +241,7 @@ Whale 报表管理系统通常具有以下功能和特点：
 </colgroup>
 <tbody>
 <tr><td><p><b>报表编号</b></p></td><td><p><b>报表名称</b></p></td><td><p><b>报表说明</b></p></td><td><p><b>支持格式</b></p></td></tr>
+<tr><td><p>RDR001</p></td><td><p>Client Portfolio Details</p></td><td><p>统计在发生日起以及 2 个帐务日，客户的总资金、总市值、总抵押值、追保金额，以及持仓明细等信息</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>RDR003</p></td><td><p>Margin Call Summary Report</p></td><td><p>分析统计客户历史按本位币汇总的追保资讯</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>RDR003-1</p></td><td><p>Margin Call Summary(Margin Client) Report</p></td><td><p>融资账户的日终后追保金额</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>RDR005</p></td><td><p>Client Asset Summary Report By Client Type</p></td><td><p>分析统计客户历史的资产资讯</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
@@ -270,6 +274,8 @@ Whale 报表管理系统通常具有以下功能和特点：
 <tr><td><p>RDR036</p></td><td><p>Stock Group Monitoring</p></td><td><p>股票组监控</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>RDR037</p></td><td><p>Client Financing Monitoring</p></td><td><p>客户融资监控</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>RDR038</p></td><td><p>Daily Margin Call Report</p></td><td><p>margin call report</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>RDR039</p></td><td><p>Stress Test</p></td><td><p>日常风控报表</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>RDR040</p></td><td><p>Option Composed Margin</p></td><td><p>期权组合保证金报表</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 </tbody>
 </table>
 
@@ -287,7 +293,7 @@ Whale 报表管理系统通常具有以下功能和特点：
 <tr><td><p>IDR001</p></td><td><p>S181 Trade Report</p></td><td><p>按照 SFC 的要求模版提交客户交易</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR002</p></td><td><p>S181 Holding Report</p></td><td><p>按照 SFC 的要求模版提交客户持仓</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR008</p></td><td><p>SPAC Post Trade Report</p></td><td><p>指定时间段内特定股票交易的成交清单</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
-<tr><td><p>IDR003</p></td><td><p>Client Trade With IP(SFC)</p></td><td><p>指定时间段内某个客户或某只股票的交易清单，带 IP 和 Mac 地址</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>IDR003</p></td><td><p>Client Trade With IP(SFC)</p></td><td><p>指定时间段内某个客户或某只股票的交易清单，带 IP </p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR011</p></td><td><p>Top N Client Turnover </p></td><td><p>10 大客户交易总额</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR012</p></td><td><p>Top N Order Turnover </p></td><td><p>最高 10 大订单成交量</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR013</p></td><td><p>Top N Client No. of Transactions</p></td><td><p>10 大客户交易次数</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
@@ -303,6 +309,8 @@ Whale 报表管理系统通常具有以下功能和特点：
 <tr><td><p>IDR028</p></td><td><p>Transactions done at At-auction period </p></td><td><p>竞价时段成交</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR029</p></td><td><p>IPO share trades on first listed date </p></td><td><p>新股首日上市交易</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>IDR038</p></td><td><p>Suspicious Trading Report</p></td><td><p>根据成交明细的维度来筛选，同一客户，成交时间相同（秒级），成交数量相等，成交价格相同，买卖方向相反的数据</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>IDR040</p></td><td><p>Transaction Monitoring - cash in and out (including stock in and out)-normal client</p></td><td><p>出入金的交易监察（包括股票转入和转出）- 一般用户</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>IDR041</p></td><td><p>Transaction Monitoring - cash in and out (including stock in and out)-watchlist</p></td><td><p>出入金的交易监察（包括股票转入和转出）-watchlist</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 </tbody>
 </table>
 
@@ -327,6 +335,13 @@ Whale 报表管理系统通常具有以下功能和特点：
 <tr><td><p>TDR007</p></td><td><p>Cross Trade Report</p></td><td><p>显示指定条件下所有交叉盘交易的订单的信息</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>TDR013</p></td><td><p>User Daily Turnover Report</p></td><td><p>根据操作员及币种显示当天成交及未成交金额</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 <tr><td><p>TDR020</p></td><td><p>Third Party Operated Account Trade Listing</p></td><td><p>显示第三方授权帐户成交记录报表</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR022</p></td><td><p>IP address and Transaction Report</p></td><td><p>带客户 IP 地址的交易记录报表</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR023-1</p></td><td><p>Trades for Clients with the Same Stock</p></td><td><p>统计交易订单维度，相同下单日期，相同标的，订单状态成交、部分成交，统计数量大于等于 2 的资料</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR023-2</p></td><td><p>Trades for Clients with the Same Address (SG Clients)</p></td><td><p>统计交易订单维度，相同下单日期，相同标的，相同邮编的用户，订单状态成交、部分成交，统计数量大于等于 2 的资料</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR024</p></td><td><p>Clients Tagged to Same Licensed Representative</p></td><td><p>同一代码，不同客户的订单创建时间差小于 5 分钟的数据</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR025</p></td><td><p>Clients acting in concert</p></td><td><p>统计提交开户时间相同（日）的用户，订单用创建为同一天，交易同一只股票的数据</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR026</p></td><td><p>Ramping/Price Driver</p></td><td><p>统计成交价格大于等于当日开盘价的 120% 或小于等于当日开盘价 80% 的订单</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
+<tr><td><p>TDR027</p></td><td><p>Wash Trades (No Change in Beneficial Ownership)</p></td><td><p>统计某个交易日，同一个客户，同一只股票的汇总成交额（包含买卖）/ 市场成交额 ≥ 1% 的成交明细</p></td><td><p>CSV、PDF、EXCEL</p></td></tr>
 </tbody>
 </table>
 

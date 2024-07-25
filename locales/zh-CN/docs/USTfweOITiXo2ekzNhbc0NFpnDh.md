@@ -95,3 +95,9 @@ sidebar_position: 1
 
 <img src="/assets/XAV6bbC6joDNhzx2szFcVC6OnsI.png" src-width="1980" src-height="1410" align="center"/>
 
+## 5.2K 问：结单显示的参考汇率是那种汇率？
+
+答：结单显示的参考汇率是依照「款项管理＞换汇＞参考汇率」的即期汇率。
+
+<img src="/assets/Wi7hbQ2BgoxjCixXHeBcCJH4ndh.png" src-width="1682" src-height="634" align="center"/>
+
