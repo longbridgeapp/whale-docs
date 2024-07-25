@@ -124,13 +124,35 @@ sidebar_position: 15
 
 答：有以下兩個方法：
 
-1. 在「業務參數設置」下「匯兌」的「換匯策略」停用「匯兌策略」。
+方法一、在「業務參數設置&gt;匯兌&gt;換匯策略」點擊停用換匯策略。
 
-<img src="/assets/SpJQbAGaBo0QX5xm6upcErsGndc.png" src-width="2842" src-height="1376" align="center"/>
+<img src="/assets/Q4GsbSj7dolAYvxeNCmchn4NnEh.png" src-width="2866" src-height="1616" align="center"/>
 
-1. 在「業務參數設置」下「匯兌」的「換匯策略」按「審批起點」，將「起始金額」設置為$0.01，所有換匯都需要審批。
+方法二、在「業務參數設置＞匯兌＞換匯策略」點擊「審批起點」，將「起始金額」設置為$0.01，所有換匯都需要審批。在審批時拒絕客户換滙
 
 <img src="/assets/SdfrbSvGaoVGSwxHS3Ycw2lhnye.png" src-width="2850" src-height="1388" align="center"/>
 
 <img src="/assets/KZzqb4kMLoznqCxfTsWcogCHnth.png" src-width="2824" src-height="1364" align="center"/>
+
+## 16M 問：客戶如何在 APP 修改登錄電郵？
+
+答：修改登錄電郵步驟如下：
+
+在 App「我的」-「設置」-「帳號與安全」-「郵箱」-「修改郵箱」，按「下一步」收取驗證碼以修改電郵。
+
+> 收取驗證碼可選用手機號／原電郵收取確認
+
+<div class="flex gap-3 columns-3" column-size="3">
+<div class="w-[31%]" width-ratio="31">
+<img src="/assets/S8OAbmcSzoxP5kxHLg6cgfFYnFh.png" src-width="534" src-height="1146" align="center"/>
+</div>
+<div class="w-[33%]" width-ratio="33">
+<img src="/assets/FRYQbj4rjosSQMxQmIOc9fn0njd.png" src-width="760" src-height="1528" align="center"/>
+</div>
+<div class="w-[34%]" width-ratio="34">
+<img src="/assets/XyfObmInLoI5lAxkpiScBli8nEs.png" src-width="768" src-height="1528" align="center"/>
+</div>
+</div>
+
+ 
 

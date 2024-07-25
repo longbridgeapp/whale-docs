@@ -95,3 +95,9 @@ IDR019 - Suspected Order Activities Report
 
 <img src="/assets/DIunbYmVZoH8Zpx5tGJcCCTNnAh.png" src-width="2850" src-height="1346" align="center"/>
 
+## 12K 問：為什麼 TDR005 - Trade Summary Report 美股「成交時間」跟「交易日期」的篩選時間不匹配？
+
+答：這個是時差問題，美股為隔晚市埸。報表顯示的成交時間是香港時間，當中是顯示到美股市場交易記錄。
+
+<img src="/assets/F0oRb7XZToqpe0xKIJpcmuaGnIb.png" src-width="2850" src-height="1444" align="center"/>
+

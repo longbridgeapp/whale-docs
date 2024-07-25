@@ -131,4 +131,9 @@ RS 類別處理的是已認購上報的，DS 類別處理的是未申請的股�
 
 <img src="/assets/XphPbXAwFoJSsExuMXTchx8qnCf.png" src-width="2828" src-height="1598" align="center"/>
 
-## 
+## 6M 問：公司行動派發股息可以選擇以不同貨幣收取？如何修改方案信息？
+
+答：在「方案信息」點擊「編輯」，添加“BE-CASH DIVIDEND”的方案輸入「匯率」及「派息率」（每股派發多少股息息），再點擊「重新登記」拉取到最新數據。
+
+<img src="/assets/Ikp2b7ftUofQj4xe9vScieUgnbe.png" src-width="2236" src-height="1490" align="center"/>
+

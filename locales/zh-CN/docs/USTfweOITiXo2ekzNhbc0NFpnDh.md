@@ -89,17 +89,9 @@ sidebar_position: 1
 
 <img src="/assets/ScS9bAMOYoKz0vxMfYrckQEVn6c.png" src-width="1706" src-height="696" align="center"/>
 
-## 5.2J 问：日、月结单的「责任说明条款」如何修改？
+## 5.2J 问：结单的「责任说明条款」如何修改？
 
-答：在「清算管理」下「结单管理」的「结单模版」按「编辑」可以修改。
+答：在「清算管理＞结单管理＞结单模版」点击「编辑」可以修改到结单上的公司信息、联系方式、责任说明。
 
-<img src="/assets/AhH1bc4eSo71BRxBGhMcN918nMe.png" src-width="2498" src-height="1338" align="center"/>
-
-## 5.2K 问：为什么结单重复显示客户的地址？
-
-答：「开户列表」中，客户的「所在区域」和「详细地址」重复。
-
-<img src="/assets/U5jQbHflaoXPi7xKQNjcdSIen9c.png" src-width="1690" src-height="878" align="center"/>
-
-<img src="/assets/LACQbwgOnovN5ixRmxNcil1bnOe.png" src-width="2566" src-height="1202" align="center"/>
+<img src="/assets/XAV6bbC6joDNhzx2szFcVC6OnsI.png" src-width="1980" src-height="1410" align="center"/>
 
