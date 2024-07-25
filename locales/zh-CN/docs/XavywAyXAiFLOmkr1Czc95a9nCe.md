@@ -105,11 +105,19 @@ sidebar_position: 16
 
 ## 17K 问：WTT 如何进行碎股交易？
 
-答：可以在「交易页面」和「碎股撮合」进行碎股交易。
+答：可以在「交易页面」下碎股单（见 17K 图一）和「碎股撮合」（见 17K 图二、图三）进行碎股交易。
+
+> 碎股成交量比正股低，有机会需要挂单数天才有成交。
 
 <img src="/assets/KmYbbtHxnoRdN6xc9X7cOmEZnxb.png" src-width="2872" src-height="1792" align="center"/>
 
+<em>17K 图一</em>
+
 <img src="/assets/IKyFbV4vUolE8exNCQ9czBp8nFb.png" src-width="2878" src-height="1740" align="center"/>
 
+<em>17K 图二</em>
+
 <img src="/assets/F50abR5v9oOb6FxZR75caGt6nAC.png" src-width="2862" src-height="1790" align="center"/>
+
+<em>17K 图三</em>
 

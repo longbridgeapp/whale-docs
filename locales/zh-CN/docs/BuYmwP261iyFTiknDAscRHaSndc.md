@@ -124,13 +124,35 @@ sidebar_position: 15
 
 答：有以下两个方法：
 
-1. 在「业务参数设置」下「汇兑」的「换汇策略」停用「汇兑策略」。
+方法一、在「业务参数设置&gt;汇兑&gt;换汇策略」点击停用换汇策略。
 
-<img src="/assets/SpJQbAGaBo0QX5xm6upcErsGndc.png" src-width="2842" src-height="1376" align="center"/>
+<img src="/assets/Q4GsbSj7dolAYvxeNCmchn4NnEh.png" src-width="2866" src-height="1616" align="center"/>
 
-1. 在「业务参数设置」下「汇兑」的「换汇策略」按「审批起点」，将「起始金额」设置为$0.01，所有换汇都需要审批。
+方法二、在「业务参数设置＞汇兑＞换汇策略」点击「审批起点」，将「起始金额」设置为$0.01，所有换汇都需要审批。在审批时拒绝客户换汇
 
 <img src="/assets/SdfrbSvGaoVGSwxHS3Ycw2lhnye.png" src-width="2850" src-height="1388" align="center"/>
 
 <img src="/assets/KZzqb4kMLoznqCxfTsWcogCHnth.png" src-width="2824" src-height="1364" align="center"/>
+
+## 16M 问：客户如何在 APP 修改登录电邮？
+
+答：修改登录电邮步骤如下：
+
+在 App「我的」-「设置」-「帐号与安全」-「邮箱」-「修改邮箱」，按「下一步」收取验证码以修改电邮。
+
+> 收取验证码可选用手机号／原电邮收取确认
+
+<div class="flex gap-3 columns-3" column-size="3">
+<div class="w-[31%]" width-ratio="31">
+<img src="/assets/S8OAbmcSzoxP5kxHLg6cgfFYnFh.png" src-width="534" src-height="1146" align="center"/>
+</div>
+<div class="w-[33%]" width-ratio="33">
+<img src="/assets/FRYQbj4rjosSQMxQmIOc9fn0njd.png" src-width="760" src-height="1528" align="center"/>
+</div>
+<div class="w-[34%]" width-ratio="34">
+<img src="/assets/XyfObmInLoI5lAxkpiScBli8nEs.png" src-width="768" src-height="1528" align="center"/>
+</div>
+</div>
+
+ 
 
