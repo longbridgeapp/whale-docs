@@ -75,3 +75,15 @@ sidebar_position: 0
 
 <img src="/assets/PMQLbfBDpoSatAx8FujcXgk7nVd.png" src-width="2038" src-height="996" align="center"/>
 
+## 6.1G 问：登记公司行动后，明细汇总会显示 ADR 费总额，回填不相同的金额有什么影响？
+
+答：要先确保行权数量没有错误，回填不相同的金额后，系统会根据新的 ADR Fee 总额重新进行分配，同时会做尾差处理。
+
+<img src="/assets/YbZRbJBUNocOxnx0HRHcBG0Hnqg.png" src-width="2862" src-height="1592" align="center"/>
+
+## 6.1H 问：如何导出公司行动向客户收取费用的报表？
+
+答：在公司行动的「客户明细」中可以导出。
+
+<img src="/assets/XsZ5bEIU7owOYYxZPgTc6cKQnIh.png" src-width="2874" src-height="1386" align="center"/>
+
