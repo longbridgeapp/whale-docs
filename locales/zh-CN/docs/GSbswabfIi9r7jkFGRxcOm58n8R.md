@@ -105,20 +105,3 @@ sidebar_position: 1
 
 <em>1.2H 图二</em>
 
-## 1.2I 问：已审批通过的账户如何上传客户提交的附件？
-
-答：在后台「KYC＞开户列表」点击「详情」。在“开户详情”页面点击「添加开户备注」上传资料。
-之后可以在「操作记录」查看上传的资料。
-
-<img src="/assets/ULsab92juo7RLLxRFi2cJImGnFc.png" src-width="2842" src-height="1606" align="center"/>
-
-1.2I 图一
-
-<img src="/assets/T27LbWa2VoEqHoxNoblctVfKnUd.png" src-width="2856" src-height="1588" align="center"/>
-
-1.2I 图二
-
-<img src="/assets/UNPhbUuNxoaDqIxxwgOcDMEvn7g.png" src-width="2650" src-height="1386" align="center"/>
-
-1.2I 图三
-

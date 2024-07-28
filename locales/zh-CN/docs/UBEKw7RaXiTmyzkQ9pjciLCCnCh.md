@@ -37,7 +37,9 @@ sidebar_position: 0
 
 ## 1C 问：如何添加备注资料？
 
-<b>答：</b>在「KYC &gt; 开户列表 ＞ 详情」页面可以点击「添加开户备注」输入资料／上传附件。在开户详情页面的 "操作记录" 能查到相关记录。
+<b>答：</b>在「KYC &gt; 开户列表 ＞ 详情」页面可以点击「添加开户备注」输入资料／上传附件。
+
+在开户详情页面的 "操作记录" 能查到相关记录。
 
 <img src="/assets/WWQibU6w8o4OEoxn4cHc9chKnOg.png" src-width="2490" src-height="1435" align="center"/>
 
