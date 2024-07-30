@@ -141,7 +141,7 @@ Whale 经纪人管理模块提供了对经纪人与客户关系的管理，以�
 
 <img src="/assets/I5lab7D3WoObS0xZWZzcQxTjn5f.png" src-width="3584" src-height="1738" align="center"/>
 
-查询经纪人名下客户的分佣套餐佣金，是以帐务日期与交易币种作查询条件，支持日/月/年的周期报表查询（报表管理-佣金报表），点击【导出】可将查询的资料导出
+查询经纪人名下客户的分佣套餐佣金，是以帐务日期与交易币种作查询条件，支持日/月/年的周期报表查询（报表管理 - 佣金报表），点击【导出】可将查询的资料导出
 
 <img src="/assets/Qa4CbIPBboPV3RxSKDtcbICKnMf.png" src-width="3584" src-height="1738" align="center"/>
 
