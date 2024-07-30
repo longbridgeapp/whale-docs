@@ -17,7 +17,7 @@ sidebar_position: 0
 <col width="392"/>
 </colgroup>
 <thead>
-<tr><th><p><b>權限名稱</b></p></th><th><p><b>權限說明</b></p></th></tr>
+<tr><th><p><strong>權限名稱</strong></p></th><th><p><strong>權限說明</strong></p></th></tr>
 </thead>
 <tbody>
 <tr><td><p>使用运营计划、人群画像、触达通道的权限<br/>DeliverySystemReadOnly</p></td><td><ul>
@@ -44,7 +44,7 @@ sidebar_position: 0
 
 #### 使用說明
 
-<b>第一步：选择創建計劃</b>
+**第一步：选择創建計劃**
 
 菜單入口：投放系統&gt;運營計畫
 
@@ -52,25 +52,25 @@ sidebar_position: 0
 
 <img src="/assets/WlipbOyLbopoJSxsy7Tcfafonbh.png" src-width="3174" src-height="1576" align="center"/>
 
-<b>第二步：设置觸發條件</b>
+**第二步：设置觸發條件**
 
 配置條件參考如下：選擇計劃類型爲定時型-單次，2022-12-29 的 14:00 觸發計劃， 對受衆用戶進行觸達
 
 <img src="/assets/XH9ybjeYMoWEhPx3NU1cBHQnndv.png" src-width="2534" src-height="964" align="center"/>
 
-<b>第三步：选择受衆用戶</b>
+**第三步：选择受衆用戶**
 
 賬戶總資產小於200美金 且 累計交易次數大於5次
 
 <img src="/assets/AJmabdJeRoLyPtxnuJ8cwzJdnsg.png" src-width="2830" src-height="1576" align="center"/>
 
-<b>第四步：配置觸達規則</b>
+**第四步：配置觸達規則**
 
 以郵件的方式給用戶發送 App 新版本升級介紹
 
 <img src="/assets/UNS2bHMKWo6kV6x1huVcUMg7n2g.png" src-width="2218" src-height="1220" align="center"/>
 
-<b>第五步：設置觸達目標</b>
+**第五步：設置觸達目標**
 
 用戶收到郵件後，1 天內完成 App 啓動
 
@@ -90,7 +90,7 @@ sidebar_position: 0
 
 #### 使用說明
 
-<b>第一步：選擇創建計劃</b>
+**第一步：選擇創建計劃**
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -101,25 +101,25 @@ sidebar_position: 0
 
 <img src="/assets/T9IFbXJjYoMCiXx78V5cYZWCnnh.png" src-width="3174" src-height="1576" align="center"/>
 
-<b>第二步：設置觸發條件</b>
+**第二步：設置觸發條件**
 
 配置條件參考如下：選擇計劃類型爲定時型-重複，設置起止時間爲2023-01-01 至 202-01-31，設置觸達時間爲每週一和每週五的12:30 ，設置觸達次數限制爲同一個用戶5天內最多收到1次邀請活動
 
 <img src="/assets/LfCcbrjWgoy39NxV86vcsnWMnOh.png" src-width="2638" src-height="1170" align="center"/>
 
-<b>第三步：選擇受衆用戶</b>
+**第三步：選擇受衆用戶**
 
 配置條件如下：已開戶用戶 且 最近 App 啓動時間在2022-12-01 至 2023-01-31
 
 <img src="/assets/W4KZbOJxrod5XWxgd6fcyvmKnqc.png" src-width="2836" src-height="1588" align="center"/>
 
-<b>第四步：配置觸達規則</b>
+**第四步：配置觸達規則**
 
 以短信的方式給用戶發送邀請活動
 
 <img src="/assets/P0N5bPAEzokuz5xi0EycL2ijnKh.png" src-width="1814" src-height="1024" align="center"/>
 
-<b>第五步：設置觸達目標</b>
+**第五步：設置觸達目標**
 
 用戶收到郵件後，4小時內完成邀請活動頁面的瀏覽
 
@@ -136,7 +136,7 @@ sidebar_position: 0
 
 #### 使用說明
 
-<b>第一步：选择創建計劃</b>
+**第一步：选择創建計劃**
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -147,19 +147,19 @@ sidebar_position: 0
 
 <img src="/assets/ILE3brmO7o5rvLx9XQaclKpandy.png" src-width="3174" src-height="1576" align="center"/>
 
-<b>第二步：设置觸發條件</b>
+**第二步：设置觸發條件**
 
 配置條件參考如下：選擇計劃類型爲獲取型-API
 
 <img src="/assets/WDyGbHaKQoAogPx74Acc0YGdnof.png" src-width="2470" src-height="790" align="center"/>
 
-<b>第三步：选择受衆用戶</b>
+**第三步：选择受衆用戶**
 
 配置條件如下：全部用戶
 
 <img src="/assets/F8iYbssD4oufnuxd9AWcL8L6nEe.png" src-width="2824" src-height="1586" align="center"/>
 
-<b>第四步：配置觸達規則</b>
+**第四步：配置觸達規則**
 
 通過彈窗觸達用戶
 
@@ -167,7 +167,7 @@ sidebar_position: 0
 
 <img src="/assets/AMoFbvUwtoupBZxk4nGc2kEvnDc.jpeg" src-width="1080" src-height="2234" align="center"/>
 
-<b>第五步：設置觸達目標</b>
+**第五步：設置觸達目標**
 
 用戶收到彈窗後，5分鐘內，打開彈窗且彈窗名稱爲南方東英越南30
 
@@ -190,7 +190,7 @@ sidebar_position: 0
 
 以註冊4天關注股票引導爲例進行說明
 
-<b>第一步：选择創建計劃</b>
+**第一步：选择創建計劃**
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -201,19 +201,19 @@ sidebar_position: 0
 
 <img src="/assets/XH76bOl8hoQq9rxPzV2cZMzpnfc.png" src-width="3174" src-height="1576" align="center"/>
 
-<b>第二步：设置觸發條件</b>
+**第二步：设置觸發條件**
 
 配置條件參考如下：選擇計劃類型爲 觸發型-完成 A ，設置觸發事件爲註冊成功，設置延遲4天后對用戶觸達，設置起止時間爲2023-01-01 至 2023-06-30，設置參與次數爲1次
 
 <img src="/assets/BQuQb6hvDo6x27xc0zscs562noh.png" src-width="2854" src-height="1478" align="center"/>
 
-<b>第三步：选择受衆用戶</b>
+**第三步：选择受衆用戶**
 
 2023-01-01 至 2023-06-30期間新註冊的用戶
 
 <img src="/assets/HOD9blfPMoDhbcxvg6MckaYJnlh.png" src-width="2858" src-height="1582" align="center"/>
 
-<b>第四步：配置觸達規則</b>
+**第四步：配置觸達規則**
 
 通過Push觸達用戶
 
@@ -221,7 +221,7 @@ sidebar_position: 0
 
 <img src="/assets/KYT6bfw9NovAD8xdb8tctdVTnXd.png" src-width="1284" src-height="771" align="center"/>
 
-<b>第五步：設置觸達目標</b>
+**第五步：設置觸達目標**
 
 用戶收到Push後，5分鐘內，完成Push點擊，點擊Push的標題爲：順藤摸瓜，選到更多好股票
 

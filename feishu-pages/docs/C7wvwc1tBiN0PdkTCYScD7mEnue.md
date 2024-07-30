@@ -29,7 +29,7 @@ sidebar_position: 2
 
 <img src="/assets/Qzpkb0MZAo9vQ0xGtNGc3MGnnse.png" src-width="3584" src-height="1738" align="center"/>
 
-### <b>新增分成套餐</b>
+### **新增分成套餐**
 
 可以在右上角， 點擊【新增】，新增一筆分成佣金套餐
 
@@ -38,8 +38,6 @@ sidebar_position: 2
 先填寫套餐主體信息
 
 特殊字段說明：
-- 分傭對象設置（ 劵商或經紀人）：決定配置的算法對哪個對象生效（先算哪一個）
-- 允許虧損字段（：決定在分傭金額&gt;佣金时的處理方案，允许虧损的，計算金額可大于佣金）
 
 <img src="/assets/Kk5EbBXjQoHHhfxKt8Ic8h3FnJg.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -54,10 +52,6 @@ sidebar_position: 2
 跨階梯處理方式：決定將統計基準統一用一個費率計算 OR 拆分成多端計算
 
 注意：
-- 分傭幣種和佣金幣種不一致時，分傭的金額會根據匯率轉換為分傭幣種
-- 階梯的範圍為左開（不含）右閉（含）
-- 階梯收費的最低、最高收費和主頁面最低最高收費的關係
-    - 階梯收費總體算出一個分傭金額後，再和主頁面進行比較
 
 <img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png" src-width="3584" src-height="1738" align="center"/>
 

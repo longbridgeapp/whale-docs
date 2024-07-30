@@ -226,9 +226,3 @@ xxx 证券
 
 <em>1.1U 圖二</em>
 
-## 1.1V 問：為什麼開戶審核完成初審後，未能到「RO 審核」階段。
-
-答：請留意「風險規則」內容，如：納稅地區與居住地區國籍不一致，須要在「操作」填寫風險資料。
-
-<img src="/assets/PPj7bnuacozisZxNivacTmEpnLe.png" src-width="2314" src-height="1146" align="center"/>
-

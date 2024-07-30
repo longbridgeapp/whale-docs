@@ -29,7 +29,7 @@ sidebar_position: 2
 
 ## 操作說明 
 
-### 预告和方案的自动<b>創建</b>
+### 预告和方案的自动**創建**
 
 結算人員在每天的早上，導入上日下午的05文件和02文件
 
@@ -43,12 +43,11 @@ sidebar_position: 2
 
 <img src="/assets/CEVGb5sLTohw2XxrRE1cmwYhnKc.png" src-width="3570" src-height="1780" align="center"/>
 
-### <b>登記</b>
+### **登記**
 
 在選擇開始日期可以操作公司行動
 
-<b>點擊【登記】。</b>路径：公司行动-公司行动-详情
-注意：選股選息中選擇多方案的會合並收費，哪個行權多的，會按哪個收費。在配置收費時BE-CASH DIVIDEND和BE-SCRIP DIVIDEND的務必保持一致
+**點擊【登記】。**路径：公司行动-公司行动-详情
 
 <img src="/assets/WFfKbbs8WodsL8xIadOcTRFZnBe.png" src-width="3548" src-height="1806" align="center"/>
 
@@ -62,7 +61,7 @@ sidebar_position: 2
 
 ### 通知客戶
 
-在選擇開始時間到選擇結束時間之間，<b>點擊【行權指令收集】</b>
+在選擇開始時間到選擇結束時間之間，**點擊【行權指令收集】**
 
 路徑：公司行動-公司行動-詳情-行權指令收集
 
@@ -103,23 +102,23 @@ sidebar_position: 2
 
 <img src="/assets/AnsQbGQ5lo25c2x4N6ncR1dXnZb.png" src-width="3548" src-height="1806" align="center"/>
 
-### <b>尾差處理</b>
+### **尾差處理**
 
 如果券商支付的資金需要對齊CCASS的值，可進行尾差處理
 
-<b>點擊尾差調整</b>
+**點擊尾差調整**
 
 <img src="/assets/ES6Abuzy2o4SGZxC21kci0ADnCR.png" src-width="3548" src-height="1806" align="center"/>
 
 <img src="/assets/NlZ6b6c9Iolb9jxPJcMcVTxYnWg.png" src-width="3548" src-height="1806" align="center"/>
 
-### 4.<b>執行</b>
+### 4.**執行**
 
 登記成功（或尾差處理完畢後），點擊提交執行開始執行公司行動
 
 執行時分執行提交和執行審覈兩步，推薦雙人操作
 
-<b>點擊提交執行（Maker）</b>
+**點擊提交執行（Maker）**
 
 <img src="/assets/TExJbl4bEoGD6dxXCV1c7suonLb.png" src-width="3548" src-height="1806" align="center"/>
 
@@ -133,7 +132,7 @@ sidebar_position: 2
 </div>
 </div>
 
-<b>點擊執行復核（Checker）</b>
+**點擊執行復核（Checker）**
 
 <img src="/assets/FOzcbkIZcofuDfxwrfLcsfRDnUb.png" src-width="3548" src-height="1806" align="center"/>
 

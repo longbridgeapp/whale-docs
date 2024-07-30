@@ -226,9 +226,3 @@ xxx 证券
 
 <em>1.1U 图二</em>
 
-## 1.1V 问：为什么开户审核完成初审后，未能到「RO 审核」阶段。
-
-答：请留意「风险规则」内容，如：纳税地区与居住地区国籍不一致，须要在「操作」填写风险资料。
-
-<img src="/assets/PPj7bnuacozisZxNivacTmEpnLe.png" src-width="2314" src-height="1146" align="center"/>
-

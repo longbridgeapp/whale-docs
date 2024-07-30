@@ -75,7 +75,13 @@ sidebar_position: 0
 
 <img src="/assets/PMQLbfBDpoSatAx8FujcXgk7nVd.png" src-width="2038" src-height="996" align="center"/>
 
-## 6.1G 問：如何導出公司行動向客戶收取費用的報表？
+## 6.1G 問：登記公司行動後，明細彙總會顯示 ADR 費總額，回填不相同的金額有什麼影響？
+
+答：要先確保行權數量沒有錯誤，回填不相同的金額後，系統會根據新的 ADR Fee 總額重新進行分配，同時會做尾差處理。
+
+<img src="/assets/YbZRbJBUNocOxnx0HRHcBG0Hnqg.png" src-width="2862" src-height="1592" align="center"/>
+
+## 6.1H 問：如何導出公司行動向客戶收取費用的報表？
 
 答：在公司行動的「客戶明細」中可以導出。
 

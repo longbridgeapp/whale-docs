@@ -63,13 +63,6 @@ Whale 經紀人管理模塊提供了對經紀人與客戶關系的管理，以�
 <img src="/assets/YQ4KbFSSkocqX7xlV9hcQIQfnCg.png" src-width="3362" src-height="1562" align="center"/>
 
 「編輯」在修改經紀人分傭套餐時，支持同步修改其下客戶的分傭套餐配置（可選項）
-<img src="/assets/IWnCbSdmDo6GVoxiXNkcTYxmnWY.png" src-width="936" src-height="1662" align="center"/>
-「凍結」，凍結經紀人操作後，該經紀人將無法使用賬號登錄WTT；
-「下級管理」，該功能已遷移至“身份管理&gt;人員管理”，查到對應的經紀人用戶進行“數據權限”的編輯；
-<img src="/assets/WnQKb0PseoHfnKxkz3tciefGnxd.png" src-width="3422" src-height="1840" align="center"/>
-在經紀人管理上新增經紀人配置：開通帳戶時，若未人工分配經紀人，系統預設分配給指定經紀人；
-<img src="/assets/Y0Zob1080oc15sxQIv9cvxRznmd.png" src-width="3370" src-height="1226" align="center"/>
-在查詢組件上：支持按經紀人編號或經紀人名稱查詢
 
 ## 分成套餐設置
 
@@ -82,7 +75,7 @@ Whale 經紀人管理模塊提供了對經紀人與客戶關系的管理，以�
 
 <img src="/assets/HEHrb4HsDoUwbAxjTFhc9Th4nab.png" src-width="3584" src-height="1738" align="center"/>
 
-### <b>新增分成套餐</b>
+### **新增分成套餐**
 
 可以在右上角， 點擊【新增】，新增一筆分成佣金套餐
 
@@ -91,8 +84,6 @@ Whale 經紀人管理模塊提供了對經紀人與客戶關系的管理，以�
 先填寫套餐主體信息
 
 特殊字段說明：
-- 分傭對象設置（ 劵商或經紀人）：決定配置的算法對哪個對象生效（先算哪一個）
-- 允許虧損字段（：決定在分傭金額&gt;佣金时的處理方案，允许虧损的，計算金額可大于佣金）
 
 <img src="/assets/YkLXbqGltoZtUixQAY3cyZYvnCh.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -107,10 +98,6 @@ Whale 經紀人管理模塊提供了對經紀人與客戶關系的管理，以�
 跨階梯處理方式：決定將統計基準統一用一個費率計算 OR 拆分成多端計算
 
 注意：
-- 分傭幣種和佣金幣種不一致時，分傭的金額會根據匯率轉換為分傭幣種
-- 階梯的範圍為左開（不含）右閉（含）
-- 階梯收費的最低、最高收費和主頁面最低最高收費的關係
-    - 階梯收費總體算出一個分傭金額後，再和主頁面進行比較
 
 <img src="/assets/NC1KbKN7wompmpx0MJacwpjHnDh.png" src-width="3584" src-height="1738" align="center"/>
 

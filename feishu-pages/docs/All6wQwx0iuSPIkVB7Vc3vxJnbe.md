@@ -26,11 +26,6 @@ sidebar_position: 3
 也可以根據系統生成的科目明細，在此功能可以點選【報表導出】選擇使用對應財務軟體格式導出 
 
 目前系統支持以下GL 軟體匯入格式：
-- FlexSystem 
-- GeneralLedgerSystem
-- SunSystem
-- Yonyou 用友
-- FlexAccount V11
 
 <img src="/assets/Teq3bbDICoX7HxxS7zzcBSMynhd.png" src-width="3256" src-height="1622" align="center"/>
 

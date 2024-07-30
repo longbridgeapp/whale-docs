@@ -44,11 +44,15 @@ Whale風控系統全面支持券商處理風控業務相關流程，包括額度
 
 <img src="/assets/L5m1bb3piop3thxbL97c6AjdnNb.png" src-width="3726" src-height="1568" align="center"/>
 
+授信客戶參數配置修改頁面
+
 ### 客戶額度查詢
 
 所有已授信客戶可在「客戶額度」頁面進行查看其授予額度及額度使用情況
 
 <img src="/assets/LzzObsHuKoKuTzxb13EclU2TnHc.png" src-width="3696" src-height="1412" align="center"/>
+
+客戶額度查詢列表頁
 
 ### 額度調整及審批
 
@@ -91,4 +95,6 @@ Whale風控系統全面支持券商處理風控業務相關流程，包括額度
 支持設置股票或客戶級別保證金，保證金計算會按“客戶保證金&gt;股票保證金”的優先級邏輯處理。
 
 <img src="/assets/KiZzbuMbbobwDixGIMVceRVxnab.png" src-width="3688" src-height="1558" align="center"/>
+
+保證金設置頁面
 
