@@ -37,7 +37,9 @@ sidebar_position: 0
 
 ## 1C 問：如何添加備註資料？
 
-<b>答：</b>在「KYC &gt; 開户列表 ＞ 詳情」頁面可以點擊「添加開户備註」輸入資料／上傳附件。在開户詳情頁面的 "操作記錄" 能查到相關記錄。
+<b>答：</b>在「KYC &gt; 開户列表 ＞ 詳情」頁面可以點擊「添加開户備註」輸入資料／上傳附件。
+
+在開户詳情頁面的 "操作記錄" 能查到相關記錄。
 
 <img src="/assets/WWQibU6w8o4OEoxn4cHc9chKnOg.png" src-width="2490" src-height="1435" align="center"/>
 

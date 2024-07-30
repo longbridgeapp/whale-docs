@@ -58,13 +58,13 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
 
 <img src="/assets/JvoUb9maJow7UNxI1sFcOFesnsf.png" src-width="2362" src-height="884" align="center"/>
 
-<b>指标卡说明</b>
+**指标卡说明**
 
 指标卡支持自定义配置，包括展示的个数及顺序
 
 <img src="/assets/YDZobjsKioMT0LxyeV5cp5Zsnog.png" src-width="2056" src-height="1081" align="center"/>
 
-<b>开户列表</b>
+**开户列表**
 
 - 支持各类字段筛选开户申请的数据
 - 列表页支持点击提交时间、最近更新时间、开户成功时间等字段升序/降序排列
@@ -128,7 +128,7 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
 
 <img src="/assets/SpTQbxzVRoV9jYxyGGDcVzEknwe.png" src-width="2318" src-height="834" align="center"/>
 
-<b>开户资料列表</b>
+**开户资料列表**
 
 - 支持各类状态筛选列表数据
 - 点击「导入用户」按钮，按导入模板，可批量导入开户申请
@@ -147,13 +147,13 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
 
 <img src="/assets/XmXLbtbTco84WAxyZ8KcyJDknYd.png" src-width="2334" src-height="978" align="center"/>
 
-<b>提交批量修改操作</b>
+**提交批量修改操作**
 
 点击「批量导入」按钮，下载导入模板。按照导入要求，上传修改信息的文件。
 
 <img src="/assets/ATeNbiEd0oxAPbxIsGlcHaR8nAg.png" src-width="1960" src-height="1018" align="center"/>
 
-<b>工单审核</b>
+**工单审核**
 
 - 批量修改列表页展示上传成功的数据
 - 点击「详情」按钮，或在列表左侧批量勾选多条数据，可单次或批量审核修改的工单申请
@@ -181,23 +181,12 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
 开户类型分为 3 个步骤：选择客户/新建客户、选择客户类型、选择客户国籍
 
 选择客户/新建客户 
-选择客户：选择已注册客户（APP 用户），可通过客户编号、电话、email、真实姓名、身份证进行搜索
-<img src="/assets/H5awbuCWwo1aJhxHdF5cAB7VnZc.png" src-width="3274" src-height="1178" align="center"/>
-新建客户：未在系统注册的客户，可通过本作业创建。当前系统提供了多元的登录方式供选择：
-<b>系统预设产生 APP 帐号登录</b>
-<b>手机号码验证码登录</b>
-<b>邮箱验证登入</b>
-<img src="/assets/QYDjbAejMoz7DPxpqyZcI8FTn6f.png" src-width="3278" src-height="1196" align="center"/>
 
 选择客户类型，可选择：个人客户 /联名客户 /企业客户
-<img src="/assets/IcOhbYRTwoSVY7xZaRscfwggnAc.png" src-width="3262" src-height="990" align="center"/>
- 注意：若是企业帐户，可以修改预设的公司户的 CRS 企业实体类型
-<img src="/assets/WB3gbweu2oHcFlxskGucAKXfnvb.png" src-width="3250" src-height="1550" align="center"/>
 
 选择客户国籍，系统支持 200 + 国籍
-<img src="/assets/DbBbbZFxio9OljxNxbscRIx8nEc.png" src-width="3278" src-height="1184" align="center"/>
 
-##### <b>第二步</b>：上传身份证件
+##### **第二步**：上传身份证件
 
 分为 3 种类型客户：
 
@@ -214,7 +203,7 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
     3. 如用户选择否，需上传其他身份证
     <img src="/assets/USGxbv0LGoDII9xqZShcpN2Wn5N.png" src-width="3252" src-height="1822" align="center"/>
 
-##### <b>第三步</b>：上传地址证明
+##### **第三步**：上传地址证明
 
 分为 2 种类型客户：
 
@@ -227,27 +216,25 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
     1. 需上传居住地址证明
     <img src="/assets/E60Zb1Kf9omNqdxV2NIcIhYbn7g.png" src-width="3252" src-height="1604" align="center"/>
 
-##### <b>第四步</b>：填写各类基础信息
+##### **第四步**：填写各类基础信息
 
 主要是包含 职业资讯、纳税资讯、电子邮箱等信息。其中，
 
 纳税资讯，需填写用户纳税的国家/地区及纳税编号，最多支持填写 10 个。包含以下字段：纳税国家/地区  与 纳税人编号
-<img src="/assets/IUn9bWB8Bo2rA3xgxPScUEjnnwd.png" src-width="3270" src-height="1438" align="center"/>
 
 电子邮箱：用户用于接收结单、通知等通知。一个 App 的用户邮箱唯一
 
 填写联系手机号，多个客户可使用相同的联系手机号
-<img src="/assets/N8sAbwRqMo28h5xg00ccwYRBnXy.png" src-width="3266" src-height="1430" align="center"/>
 
-##### <b>第五步</b>：填写资产投资信息
+##### **第五步**：填写资产投资信息
 
 <img src="/assets/Hv2mbZRgfovpUexgD60c9igRnLe.png" src-width="3258" src-height="1804" align="center"/>
 
-##### <b>第六步</b>：合规资讯确认
+##### **第六步**：合规资讯确认
 
 <img src="/assets/IKtMbo4BOoTGj1xQQ6Bcs2u4nwg.png" src-width="3254" src-height="1806" align="center"/>
 
-##### <b>第七步</b>：确认资讯
+##### **第七步**：确认资讯
 
 系统会按：身份证件/个人基础信息/职业信息/资产投资信息/合规信息确认/关联账户信息 等区块排列，将客户资料展示出来，方便按确认填写讯息
 
@@ -257,14 +244,7 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
 
 <img src="/assets/EH4tbDobcoezA0xZPFicIpXNnce.png" src-width="3162" src-height="1142" align="center"/>
 
-##### <b>第八步</b>：选择帐户类型、上传开户文件
+##### **第八步**：选择帐户类型、上传开户文件
 
 上传开户文件及自定义文件： 
-1. 基础文件为系统生成的开户相关文件，后台填写的资讯自动填写；
-2. 业务人员可列印文件让客户签字 
-<img src="/assets/OhtibaFRio6NoQxW07KcX1hWnPb.png" src-width="3258" src-height="1818" align="center"/>
-帐户类型：可选择开通融资帐户、现金帐户，系统支持同时多开帐户
-<img src="/assets/UC8GbD6zeoPOP1xqlskcenB9n9g.png" src-width="3300" src-height="1678" align="center"/>
-其他配置资讯，包括：是否接收线下结单 /经纪人 /见证员工姓名 /牌照号码 /证券号码（可自定义输入客户帐号） /客户声明资讯确认
-<img src="/assets/Y7NPbdPp0oHjFVxowSAcSQSonYb.png" src-width="3262" src-height="1636"/>
 

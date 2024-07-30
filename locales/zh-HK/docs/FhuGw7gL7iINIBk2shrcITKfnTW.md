@@ -1,7 +1,7 @@
 ---
 title: 客户管理系统（CRM)
 slug: FhuGw7gL7iINIBk2shrcITKfnTW
-sidebar_position: 2
+sidebar_position: 0
 ---
 
 
@@ -11,7 +11,7 @@ sidebar_position: 2
 
 Whale CRM 客戶管理系統是以全新整合角度，方便劵商客務團隊來管理服務劵商客戶，包括：
 
-<b>客戶生命週期管理</b>、<b>客戶 </b><b>KYC</b><b> 資料審核</b>及<b>帳戶風險管理</b><b> </b>等。
+**客戶生命週期管理**、**客戶 KYC 資料審核**及**帳戶風險管理 **等。
 
 Whale CRM 系統能夠解決以下問題： 
 

@@ -52,7 +52,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 <img src="/assets/Ps7TbaliYouroyxhlZGce9JGnkh.png" src-width="3286" src-height="998" align="center"/>
 
-<b>操作按钮说明</b>
+**操作按钮说明**
 
 - 新建：可根据券商公司自行增加对应公司银行账户信息。
 - 编辑：对已经添加的公司银行账户信息可以进行人工编辑。
@@ -63,7 +63,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 <img src="/assets/GWgZbkb8uoWN3fx0rXTc1G85nrg.png" src-width="3282" src-height="988" align="center"/>
 
-<b>操作按钮说明</b>
+**操作按钮说明**
 
 - 新建：可根据券商公司自行增加币种。
 - 编辑：对已经添加的币种可以进行人工编辑。
@@ -79,7 +79,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 <img src="/assets/D9fsb2NTvo6FYsxoYOgc6zR4nSf.png" src-width="3349" src-height="1396" align="center"/>
 
-<b>操作按钮说明</b>
+**操作按钮说明**
 
 - 批量新增：依照模板批次进行银行卡资讯的增加
 - 新增银行卡：单笔新增银行卡
@@ -101,7 +101,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 <img src="/assets/UsNJb31KZoqkElxU7L2c9BhQnid.png" src-width="3248" src-height="870" align="center"/>
 
-<b>操作按钮说明</b>
+**操作按钮说明**
 
 - 刷新：重新获取最新的 eDDA 的授权记录
 - 备注：对授权记录进行配置
@@ -120,7 +120,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 <img src="/assets/UOVXbO2yqo3QdzxXBDlcS61en5d.png" src-width="3260" src-height="866" align="center"/>
 
-<b>操作按钮说明</b>
+**操作按钮说明**
 
 - 新建：单笔增加各地区常见银行列表信息
 - 编辑：对于已添加的银行列表信息进行编辑
@@ -143,7 +143,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 <img src="/assets/XFM2bgF7goWUyrxyoPRcImLun2g.png" src-width="3302" src-height="694" align="center"/>
 
-<b>操作按钮说明</b>
+**操作按钮说明**
 
 - 新增：单笔增加银行区域列表信息
 - 编辑：对于已添加的银行区域列表信息进行编辑
@@ -184,7 +184,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
     - 修改的范围：币种、入金方式、收款银行、金额、入金手续费、备注、凭证（重新上传）
     <img src="/assets/IlRVbRl3toqWxFxk9tJcmms6nNf.gif" src-width="2076" src-height="998" align="center"/>
 
-- 提交（<b>可批量操作</b>）：经过操作人员初步审查无误后，可以将申请提交至下一节点的操作人员进行审核 - 提现
+- 提交（**可批量操作**）：经过操作人员初步审查无误后，可以将申请提交至下一节点的操作人员进行审核 - 提现
 
 操作
 
@@ -298,7 +298,7 @@ Whale 系统包含了处理入金申请、匹配银行流水、入金审核、�
 
 由于入金流程与开户流程可以并行发起，存在入金流程已通过但开户流程仍在执行中的情况，针对该类入金记录，用户可在该页面中进行跟踪已通过入金流程的记录对应的开户情况。
 
-用户可以在页面中「开户状态」查看即时的状态，如果客户的开户流程未通过，可以将其【驳回】（<b>可批量操作</b>）
+用户可以在页面中「开户状态」查看即时的状态，如果客户的开户流程未通过，可以将其【驳回】（**可批量操作**）
 
 <img src="/assets/ZhLmbvYE4orSm4xen3Hc3eqrnfg.png" src-width="3392" src-height="1693" align="center"/>
 

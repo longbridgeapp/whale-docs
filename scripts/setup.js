@@ -14,7 +14,9 @@ import {
 } from "fs";
 import { resolve, dirname } from "path";
 import { sync } from "glob";
+import { compact, flatten, flattenDeep, uniq } from "lodash";
 import { Converter } from "opencc-js";
+
 const converter = Converter({ from: "hk", to: "cn" });
 
 function convertHK2CN() {
@@ -66,7 +68,11 @@ function setupAssets() {
     }
   });
 }
+
 import docs from "../feishu-pages/docs.json";
+import * as path from "node:path";
+import * as fs from "node:fs";
+
 const hkMetadata = docs.find((doc) => doc.meta?.slug === "zh-HK");
 const HomePageSlug = "guides";
 // read feishu-pages/docs.json file find slug equal guides, then copy it to locales/zh-HK/docs/index.md
@@ -97,7 +103,97 @@ function setupIndexPage() {
   }
 }
 
+function getAllNodeTokens(data) {
+    const nodeTokens = [];
+
+    function extractNodeTokens(nodes) {
+        for (const node of nodes) {
+            if (node.node_token) {
+                nodeTokens.push(`${node.node_token}.md`);
+            }
+            if (node.children && node.children.length > 0) {
+                extractNodeTokens(node.children);
+            }
+        }
+    }
+
+    extractNodeTokens(data);
+    return nodeTokens;
+}
+
+function removeFile(filePath) {
+  return new Promise((resolve, reject) => {
+    fs.unlink(filePath, (err) => {
+      if (err) {
+        return reject(err);
+      }
+      resolve();
+    });
+  });
+}
+
+async function removeFiles(filePaths) {
+  for (const filePath of filePaths) {
+    try {
+      if (fs.existsSync(filePath)) {
+        await removeFile(filePath);
+        console.log(`--> Successfully removed: ${filePath}`);
+      } else {
+        console.log("not found file: ", filePath);
+      }
+    } catch (err) {
+      console.error(`--> Error removing file: ${filePath}`, err);
+    }
+  }
+}
+
+function normalize_hidde_docs() {
+  const rootPath = resolve(__dirname, "..");
+  const all_docs = compact(
+    uniq(
+      sync(`${rootPath}/locales/**/*.md`).map((doc) => {
+        return path.basename(doc);
+      }),
+    ),
+  );
+
+  const raw_docs_data = JSON.parse(
+    readFileSync(resolve(__dirname, "../feishu-pages/docs.json"), "utf-8"),
+  );
+  const the_news_docs = compact(
+    uniq(getAllNodeTokens(raw_docs_data)),
+  );
+  const removed_docs = flattenDeep(
+      all_docs
+      .filter((doc) => {
+        if (["index.md", "docs.md", "SUMMARY.md"].includes(doc)){
+          return false;
+        }else {
+          if(doc === "IiHowEDhSiRwVNkSqfDcUheenSc.md"){
+            console.log('normalize_hidde_docs-171', !the_news_docs.includes(doc))
+          }
+          return !the_news_docs.includes(doc);
+        }
+      }).map((f) => {
+        return [
+          `${rootPath}/locales/zh-CN/docs/${f}`,
+          `${rootPath}/locales/zh-HK/docs/${f}`,
+          `${rootPath}/locales/en/docs/${f}`,
+        ];
+      }),
+  );
+  
+  removeFiles(removed_docs)
+    .then(() => {
+      console.log("All files removed.");
+    })
+    .catch((err) => {
+      console.error("Error removing files:", err);
+    });
+}
+
 function run() {
+  normalize_hidde_docs();
   convertHK2CN();
   setupAssets();
   setupIndexPage();

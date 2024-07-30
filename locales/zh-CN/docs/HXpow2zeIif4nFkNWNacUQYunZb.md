@@ -48,7 +48,6 @@ sidebar_position: 1
 <img src="/assets/HSI4bUQ6ZoZr1gxmqu0cFE2pnXo.png" src-width="3362" src-height="1562" align="center"/>
 
 「编辑」在修改经纪人分佣套餐时，支持同步修改其下客户的分佣套餐配置（可选项）
-<img src="/assets/OUdGb1y1wooVP7xABh5cQywlnxc.png" src-width="936" src-height="1662" align="center"/>
 
 「冻结」，冻结经纪人操作后，该经纪人将无法使用账号登录 WTT；
 
