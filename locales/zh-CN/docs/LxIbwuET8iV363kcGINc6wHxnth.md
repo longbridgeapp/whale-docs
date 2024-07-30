@@ -153,3 +153,15 @@ sidebar_position: 6
 
 答：没有调整到当天融资利息的功能，需要下一天执行到日终到 "资金清算" 后，才能调整到今天的利息。
 
+## 7K 问：暗盘平台费和正常交易平台费能否分开计算？
+
+答：先在相关客户组按「编辑」，然后在平台费收费中按「编辑」，进去后在「特殊收费」中按「添加」，再在「订单类型」选择「暗盘」，最后输入收费资料。
+
+<img src="/assets/Qjt5bEd8oonqIzx7aAHcF9o5nJg.png" src-width="2792" src-height="1374" align="center"/>
+
+<img src="/assets/Qe1lbiWHoo2rcSxwiO3cxiZenEd.png" src-width="2790" src-height="1386" align="center"/>
+
+<img src="/assets/I6EwbZ7CyoDnNjxmL9gcQMzQnLw.png" src-width="2804" src-height="1452" align="center"/>
+
+<img src="/assets/NlNObQBBooVwRaxQiAJcTlDRnef.png" src-width="1324" src-height="1654" align="center"/>
+

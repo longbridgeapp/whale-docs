@@ -105,20 +105,3 @@ sidebar_position: 1
 
 <em>1.2H 圖二</em>
 
-## 1.2I 問：已審批通過的賬戶如何上傳客戶提交的附件？
-
-答：在後台「KYC＞開户列表」點擊「詳情」。在“開户詳情”頁面點擊「添加開戶備註」上傳資料。
-之後可以在「操作記錄」查看上傳的資料。
-
-<img src="/assets/ULsab92juo7RLLxRFi2cJImGnFc.png" src-width="2842" src-height="1606" align="center"/>
-
-1.2I 圖一
-
-<img src="/assets/T27LbWa2VoEqHoxNoblctVfKnUd.png" src-width="2856" src-height="1588" align="center"/>
-
-1.2I 圖二
-
-<img src="/assets/UNPhbUuNxoaDqIxxwgOcDMEvn7g.png" src-width="2650" src-height="1386" align="center"/>
-
-1.2I 圖三
-

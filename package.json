@@ -11,6 +11,7 @@
     "autoprefixer": "^10.4.16",
     "feishu-pages": "0.6.11",
     "glob": "^10.3.10",
+    "lodash": "^4.17.21",
     "medium-zoom": "^1.0.8",
     "opencc-js": "^1.0.5",
     "postcss": "^8.4.30",

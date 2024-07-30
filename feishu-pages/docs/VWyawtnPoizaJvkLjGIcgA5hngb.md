@@ -19,7 +19,7 @@ sidebar_position: 2
 
 ### 融資授信
 
-**關於自動授信**：
+<b>關於自動授信</b>：
 
 客戶若開通 margin 賬戶，後面客戶操作了轉倉/入金，則系統自動會給客戶授信一定的額度，客戶可以進行保證金交易，系統支持自動授信機制（轉倉到賬/入金到賬）， 整理自動授信流程如下：
 
@@ -32,11 +32,11 @@ sidebar_position: 2
 <p>風控管理  &gt; 授信額度 &gt; 融資授信 &gt; 客戶額度</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於查詢所有授信客戶額度情況，同時若有客戶需求，也可支持人工給客戶授信及調整額度。​
+<b>菜單功能介紹</b>：該菜單主要用於查詢所有授信客戶額度情況，同時若有客戶需求，也可支持人工給客戶授信及調整額度。​
 
 主要操作場景如下：
 
-**調整客戶額度**
+<b>調整客戶額度</b>
 
 1. 列表為所有融資授信客戶，打開列表頁的調整彈窗為已授信客戶調整額度
 
@@ -52,7 +52,7 @@ sidebar_position: 2
 <col width="375"/>
 </colgroup>
 <thead>
-<tr><th><p><strong>字段</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+<tr><th><p><b>字段</b></p></th><th><p><b>說明</b></p></th></tr>
 </thead>
 <tbody>
 <tr><td><p>融資額度</p></td><td><p>客戶當前的融資額度</p></td></tr>
@@ -69,7 +69,7 @@ sidebar_position: 2
 
 <img src="/assets/HvREbEXKFoMelIxT5XMc2dWrn0f.png" src-width="876" src-height="202" align="center"/>
 
-**新建授信客戶**
+<b>新建授信客戶</b>
 
 1. 若客戶未有資產入賬，需要給未授信的客戶授予額度，可以在列表頁【新建授信客戶】可以單個新增授信客戶
 
@@ -85,7 +85,7 @@ sidebar_position: 2
 
 1. 無論是單個還是批量新增，提交後都需在工單系統審批。審批通過後方可對客戶額度生效
 
-**刪除已註銷客戶授信額度**
+<b>刪除已註銷客戶授信額度</b>
 
 業務中可能存在有些客戶賬戶已經註銷，但仍會計算在公司總批核額度中，可以人工刪除該部分客戶額度。
 
@@ -97,7 +97,7 @@ sidebar_position: 2
 
 <img src="/assets/Zvhkbdy9BooZOwxSNjdc1P7nnLf.png" src-width="3170" src-height="730" align="center"/>
 
-**設置公司額度**
+<b>設置公司額度</b>
 
 1. 根據客戶整體額度匯總情況，若需同步調整公司額度進行額度管控，可以在頁面列表上方【設置公司額度】進入相關頁面操作
 
@@ -118,7 +118,7 @@ sidebar_position: 2
 <col width="416"/>
 </colgroup>
 <thead>
-<tr><th><p><strong>類別</strong></p></th><th><p><strong>字段</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+<tr><th><p><b>類別</b></p></th><th><p><b>字段</b></p></th><th><p><b>說明</b></p></th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="3"><p>融資額度（HKD）​<br/>*幣種由主幣種決定</p></td><td><p>總融資額度</p></td><td><p>人工設定的公司層面可以授予的保證金融資授信總額度，所有客戶累加額度不可超過該數值</p>
@@ -141,7 +141,7 @@ sidebar_position: 2
 <p>風控管理  &gt; 授信額度 &gt; 融資授信 &gt; 額度審批</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於審批授信額度，包含後台及客戶發起的調整額度申請。
+<b>菜單功能介紹</b>：該菜單主要用於審批授信額度，包含後台及客戶發起的調整額度申請。
 
 1. 在列表頁的操作【提交審批】打開彈窗頁面
 
@@ -161,7 +161,7 @@ sidebar_position: 2
 <col width="375"/>
 </colgroup>
 <thead>
-<tr><th><p><strong>字段</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+<tr><th><p><b>字段</b></p></th><th><p><b>說明</b></p></th></tr>
 </thead>
 <tbody>
 <tr><td><p>公司總額度</p></td><td><p>對應「公司額度設置頁面」的總融資額度</p></td></tr>
@@ -186,9 +186,9 @@ sidebar_position: 2
 <p>風控管理  &gt; 授信額度 &gt; 融資授信 &gt; 客戶FPS</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於查詢客戶保證金融資授信的FPS值（FPS初始配置可在「客戶參數」查看） 及配置自定義FPS規則（可在全局FPS初始值上按定義維度配置值進行增減計算）。
+<b>菜單功能介紹</b>：該菜單主要用於查詢客戶保證金融資授信的FPS值（FPS初始配置可在「客戶參數」查看） 及配置自定義FPS規則（可在全局FPS初始值上按定義維度配置值進行增減計算）。
 
-**配置FPS規則**
+<b>配置FPS規則</b>
 
 1. 頁面點擊【規則配置】打開規則頁面
 
@@ -205,9 +205,9 @@ sidebar_position: 2
 <p>風控管理  &gt; 授信額度 &gt; 融資授信 &gt; 授信組</p>
 </div>
 
-**菜單功能介紹**：該菜單用於設置授信組及管理授信組額度，組內客戶額度使用不可超過組額度。如需將同一客戶多個賬戶分組，或者將關聯賬戶（如夫妻賬戶）分組等場景均可使用該功能。
+<b>菜單功能介紹</b>：該菜單用於設置授信組及管理授信組額度，組內客戶額度使用不可超過組額度。如需將同一客戶多個賬戶分組，或者將關聯賬戶（如夫妻賬戶）分組等場景均可使用該功能。
 
-**主列表頁說明**
+<b>主列表頁說明</b>
 
 列表页可查看所有授信组及总授信额度；每個組的額度使用情況也會顯示。如下圖：
 
@@ -217,7 +217,7 @@ sidebar_position: 2
 
 <img src="/assets/Jfgdb8wm2oiUWkxXR0gcdHL8ned.png" src-width="3814" src-height="1614" align="center"/>
 
-**創建授信組**
+<b>創建授信組</b>
 
 1. 新建授信組：如圖操作
 
@@ -242,7 +242,7 @@ sidebar_position: 2
 <p>風控管理  &gt; 授信額度 &gt; 融資授信 &gt; 授信快照</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於查詢所有客戶的歷史每一次的授信記錄，若需具體定位額度變更情況可以使用該功能。
+<b>菜單功能介紹</b>：該菜單主要用於查詢所有客戶的歷史每一次的授信記錄，若需具體定位額度變更情況可以使用該功能。
 
 <img src="/assets/Z8zibSmsAobzduxg5r9cZIOvn1g.png" src-width="3825" src-height="1473" align="center"/>
 
@@ -253,9 +253,9 @@ sidebar_position: 2
 <p>風控管理  &gt; 授信額度 &gt; 融資授信 &gt; 批量變更</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於批量變更客戶的保證金融資額度，主要使用場景為風控的定期額度巡檢。進行批量變更的客戶必須為「授信額度」頁面的已授信客戶。
+<b>菜單功能介紹</b>：該菜單主要用於批量變更客戶的保證金融資額度，主要使用場景為風控的定期額度巡檢。進行批量變更的客戶必須為「授信額度」頁面的已授信客戶。
 
-**操作流程如下**：
+<b>操作流程如下</b>：
 
 1. 頁面右上角可以操作【導入授信】
 
@@ -286,7 +286,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 授信額度 &gt; 客戶融資 &gt; 已用明細</p>
 </div>
 
-**菜單功能介紹**：該菜單分幣種展示所有客戶融資明細，供查詢使用。
+<b>菜單功能介紹</b>：該菜單分幣種展示所有客戶融資明細，供查詢使用。
 
 <img src="/assets/B2aQbzTucoUzuJxnEvUc1nbknZc.png" src-width="3174" src-height="1136" align="center"/>
 
@@ -297,7 +297,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 授信額度 &gt; 客戶融資 &gt; 超額明細</p>
 </div>
 
-**菜單功能介紹**：該菜單展示所有超額融資客戶的明細數據，供查詢使用。
+<b>菜單功能介紹</b>：該菜單展示所有超額融資客戶的明細數據，供查詢使用。
 
 <img src="/assets/Ih6Jbx3gvoltxtx0J3CcE1vBnzb.png" src-width="3174" src-height="1256" align="center"/>
 
@@ -310,9 +310,9 @@ sidebar_position: 2
 <p>風控管理 &gt; 授信額度 &gt; 交易額度 &gt; 客戶交易額度</p>
 </div>
 
-**菜單功能介紹**：該菜單用於查詢所有給過交易額度的客戶，並支持新增、修改和生效/失效額度。
+<b>菜單功能介紹</b>：該菜單用於查詢所有給過交易額度的客戶，並支持新增、修改和生效/失效額度。
 
-**操作流程如下**：
+<b>操作流程如下</b>：
 
 1. 頁面可通過【設置】設置margin call時是否自動失效交易額度，默認開啓自動失效，可以進行修改，詳細可見設置頁面提示；修改需工單審批後方可生效
 
@@ -348,9 +348,9 @@ sidebar_position: 2
 <p>風控管理 &gt; 授信額度 &gt; 交易額度 &gt; 變更紀錄</p>
 </div>
 
-**菜單功能介紹**：該菜單用戶查看客戶交易額度的所有變更記錄。
+<b>菜單功能介紹</b>：該菜單用戶查看客戶交易額度的所有變更記錄。
 
-**操作流程如下**：
+<b>操作流程如下</b>：
 
 1. 「客戶交易額度」創建/編輯後會進入「變更記錄」頁面；列表操作的【工单详情】可以查看该交易额度记录的审批详情
 
@@ -360,7 +360,7 @@ sidebar_position: 2
 
 一般劵商的客戶賬戶都是採用綜合購買力換算機制，能方便客戶以非當地幣別去交易當地幣別股票（例：以港元交易美金股票），當客戶成交後，就會涉及到客戶賬戶的借幣（劵商先提供自有外幣給外國劵商作交易）後續客戶就需要進行換匯操作，因此可以配置事先的借幣換匯提醒，將客戶換匯提醒事項列入風控管理維度。
 
-**業務流程**
+<b>業務流程</b>
 
 #### 提醒查詢
 
@@ -369,24 +369,23 @@ sidebar_position: 2
 <p>風控管理 &gt; 授信額度 &gt; 借幣提醒 &gt; 提醒查詢</p>
 </div>
 
-**菜單功能介紹**：該菜單可以查詢所有提醒客戶，支持配置借幣提醒規則和人工兌換操作。
+<b>菜單功能介紹</b>：該菜單可以查詢所有提醒客戶，支持配置借幣提醒規則和人工兌換操作。
 
-**操作流程如下**：
+<b>操作流程如下</b>：
 
 1. 點擊列表右上角的【換匯規則】配置借幣提醒規則
 
-<img src="/assets/CWYGb5PVro5XRUxJDIBcwmyxnph.png" src-width="3389" src-height="1286" align="center"/>
+<img src="/assets/QjFtb8q3dohY9qxQ2b9cQqFGnCe.png" src-width="3296" src-height="1076" align="center"/>
 
 1. 規則配置：單幣種規則為非必配項，其他為必配項；規則僅在開啓時運行
     1. 必配項的欠款金額和其他幣種可提金額默認為主幣種，所有幣種轉化為主幣種計算
     2. 單幣種規則和必配項規則只要有其一滿足規則，即會提醒
     3. 單幣種規則可以設置不同幣種規則，支持添加和刪除
+    <img src="/assets/GUJXbCmYGop6dfxrqOdcvao0nHe.png" src-width="3312" src-height="1716" align="center"/>
 
-<img src="/assets/DdqjbOJ3eovrKBxqkkSc9Jsxnf4.png" src-width="3356" src-height="1720" align="center"/>
+2. 規則配置後，選擇開啓並提交工單審核。審核通過後，系統則會運行規則，撈取符合規則的客戶，結果在「提醒查詢」列表展示。此外，交易日均會定期執行規則並給符合規則的客戶發送借幣提醒消息，通知客戶主動換匯。頁面操作【換匯用戶撈取】可刷新列表，過濾不再滿足規則的客戶
 
-1. 規則配置後，選擇開啓並保存規則。系統則會運行規則，撈取符合規則的客戶，結果在「提醒查詢」列表展示。此外，交易日均會定期執行規則並給符合規則的客戶發送借幣提醒消息，通知客戶主動換匯。頁面操作【換匯用戶撈取】可刷新列表，過濾不再滿足規則的客戶
-
-<img src="/assets/Spdybd0dnotrSixrMJbcmYWMnIg.png" src-width="3218" src-height="1070" align="center"/>
+<img src="/assets/HlKsbk6ruot71rxggRjcKx6infe.png" src-width="3286" src-height="970" align="center"/>
 
 1. 同時，開啓規則後，客戶在App上可以對應查看【自動還款】功能，可以自主選擇開啓該功能。若客戶打開自動還款，當命中規則時，系統將進行自動換匯或後台操作人工兌換
     1. App端「自動還款」
@@ -398,7 +397,9 @@ sidebar_position: 2
     <img src="/assets/S4kJbnbZgoQyjAxUlbVcRPUpn69.png" src-width="3274" src-height="1640" align="center"/>
     <img src="/assets/Dxo0bPGLkoBbDRxAOlvcd48unih.png" src-width="3222" src-height="1220" align="center"/>
 
-3. 兌換結果查看：人工/自動兌換完成後，若剩餘資產仍命中規則，則仍會在提醒查詢列表；若不再命中規則則會進入歷史記錄，可在「[歷史記錄](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相關詳情
+3. 兌換結果查看：人工/自動兌換完成後，若剩餘資產仍命中規則，則仍會在提醒查詢列表；若不再命中規則則會進入歷史記錄，可在「[歷史記錄](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相關詳情；若命中換匯審核/換匯失敗，可在【換匯異常】頁面查看異常單（換匯審核中需在「款項管理」-「換匯」-「客戶匯兌」頁面進行人工審核）
+
+<img src="/assets/GS1dbmbnSooY1NxBRzWcakSSnme.png" src-width="3290" src-height="1072" align="center"/>
 
 #### 歷史記錄
 
@@ -407,7 +408,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 授信額度 &gt; 借幣提醒 &gt; 歷史紀錄</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於查詢歷史所有的提醒客戶及相關提醒兌換詳情。
+<b>菜單功能介紹</b>：該菜單主要用於查詢歷史所有的提醒客戶及相關提醒兌換詳情。
 
 <img src="/assets/GixebJJjMoXwxFxNY9PcBNmcnug.png" src-width="3198" src-height="1070" align="center"/>
 
@@ -415,7 +416,7 @@ sidebar_position: 2
 
 當客戶的資產淨值，因市場波動而下跌至低於維持保證金水平時，系統會向客戶發出Margin Call通知，客戶必須在3個交易日補充資金或平倉，否則業務上有權替客戶進行平倉，而無須事先通知。
 
-**業務流程**：
+<b>業務流程</b>：
 
 ### 風險預警
 
@@ -426,7 +427,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 風險預警 &gt; 實時預警</p>
 </div>
 
-**菜單功能介紹**：該菜單支持實時的保證金預警監控。
+<b>菜單功能介紹</b>：該菜單支持實時的保證金預警監控。
 
 1. 列表展示所有當前預警客戶記錄，在左側區會有 綠色文字實時相關更新提示（實時更新最新計算結果）；同時在上方區域會加總目前 預警紀錄的追保金額與 長期未結清追保金額的 匯總額
 
@@ -463,7 +464,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 風險預警 &gt; 日內融實時預警</p>
 </div>
 
-**菜單功能介紹**：該菜單功能及操作邏輯同「實時預警」，針對客戶對象僅爲日內融賬戶。
+<b>菜單功能介紹</b>：該菜單功能及操作邏輯同「實時預警」，針對客戶對象僅爲日內融賬戶。
 
 <img src="/assets/PdLrbubJuoKOmbxq336cRytPnvb.png" src-width="3212" src-height="700" align="center"/>
 
@@ -474,7 +475,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 風險預警 &gt; 歷史記錄</p>
 </div>
 
-**菜單功能介紹**：margin call結束後會進入歷史記錄頁面，該菜單下可以查看歷史margin call訂單的詳細信息。
+<b>菜單功能介紹</b>：margin call結束後會進入歷史記錄頁面，該菜單下可以查看歷史margin call訂單的詳細信息。
 
 1. 點擊列表頁的【詳情】可以查看margin call觸發前後的詳細數據
 
@@ -487,7 +488,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 風險預警 &gt; 快照</p>
 </div>
 
-**菜單功能介紹**：當客戶觸發 margin call 後，需要保留當時客戶觸發 margin call 時的歷史數據記錄是可追溯，日後可以作為 RO 或相關合規的參考，附為上報給監管的依據，因此 margin call 歷史記錄需要在部分場景下記錄快照數據。
+<b>菜單功能介紹</b>：當客戶觸發 margin call 後，需要保留當時客戶觸發 margin call 時的歷史數據記錄是可追溯，日後可以作為 RO 或相關合規的參考，附為上報給監管的依據，因此 margin call 歷史記錄需要在部分場景下記錄快照數據。
 
 場景如下：觸發 margin call  /觸發 force call / 觸發通知/每日定時記錄 /結束 margin call
 
@@ -500,7 +501,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 風險預警 &gt; 融券持倉概覽</p>
 </div>
 
-**菜單功能介紹**：當IB不可融資時，會進行提前通知做股票召回或者強制平倉，對應我們也要通知用戶做強制平倉。該菜單支持查看整體融券的使用情況並操作平倉。
+<b>菜單功能介紹</b>：當IB不可融資時，會進行提前通知做股票召回或者強制平倉，對應我們也要通知用戶做強制平倉。該菜單支持查看整體融券的使用情況並操作平倉。
 
 1. 列表頁查看整體融券信息
 
@@ -521,7 +522,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 風險預警 &gt; 不良信貸處理</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於查詢不良信貸客戶數據。
+<b>菜單功能介紹</b>：該菜單主要用於查詢不良信貸客戶數據。
 
 <img src="/assets/FXkQb6ptroSilexXrZIcMPl2nXT.png" src-width="3270" src-height="1624" align="center"/>
 
@@ -534,7 +535,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 股票追收 &gt; 期權備兌追收</p>
 </div>
 
-**菜單功能介紹**：該菜單展示期權備兌正股不足，需要追收股票的記錄。
+<b>菜單功能介紹</b>：該菜單展示期權備兌正股不足，需要追收股票的記錄。
 
 1. 列表展示所有追收記錄
 
@@ -551,7 +552,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 股票追收 &gt; 空頭股票追收</p>
 </div>
 
-**菜單功能介紹**：該菜單展示需要追收的空頭股票記錄（非實时更新）。
+<b>菜單功能介紹</b>：該菜單展示需要追收的空頭股票記錄（非實时更新）。
 
 1. 列表展示所有追收記錄
 
@@ -568,7 +569,7 @@ sidebar_position: 2
 <p>風控管理 &gt; Margin Call  &gt; 平倉訂單</p>
 </div>
 
-**菜單功能介紹**：該菜單用於查看所有平倉記錄，以及若出現平倉操作錯誤，可以進行撤單。
+<b>菜單功能介紹</b>：該菜單用於查看所有平倉記錄，以及若出現平倉操作錯誤，可以進行撤單。
 
 <img src="/assets/Acc5blIXIo6IuwxnsrTcy11Nnwe.png" src-width="3242" src-height="1096" align="center"/>
 
@@ -585,13 +586,11 @@ sidebar_position: 2
 <p>風控管理 &gt; 保證金  &gt; 股票保證金 &gt; 多頭股票保證金</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於設置多頭股票保證金比例。
+<b>菜單功能介紹</b>：該菜單主要用於設置多頭股票保證金比例。
 
 1. 列表展示所有股票保證金設置現狀
 
 <img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
-
-多頭股票保證金列表頁
 
 1. 可以在【新建】按鈕，新增單個股票保證金比例（注：若該股票已存在，數據會覆蓋，以本次設置為準）
 
@@ -619,13 +618,11 @@ sidebar_position: 2
 <p>風控管理 &gt; 保證金  &gt; 股票保證金 &gt; 日內交易實時保證金</p>
 </div>
 
-**菜單功能介紹**：針對日內融業務，可以單獨設置支持日內交易的股票保證金比例。
+<b>菜單功能介紹</b>：針對日內融業務，可以單獨設置支持日內交易的股票保證金比例。
 
 1. 列表展示所有支持日內交易的股票保證金比例記錄；系統會自動根據交易時段變更保證金狀態，相關規則可參看列表保證金狀態字段的幫助提示
 
 <img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
-
-日內融股票保證金列表
 
 1. 頁面的【新增】和【批量上傳】可以單個新增或批量新增日內交易股票的保證金比例設置；操作流程同「股票保證金」
 
@@ -646,7 +643,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 保證金  &gt; 股票保證金 &gt; 設置記錄</p>
 </div>
 
-**菜單功能介紹**：該菜單用來查看股票保證金/日內交易實時保證金比例的設置記錄以及進行人工同步/取消同步操作。
+<b>菜單功能介紹</b>：該菜單用來查看股票保證金/日內交易實時保證金比例的設置記錄以及進行人工同步/取消同步操作。
 
 1. 「股票保證金」「日內交易實時保證金」新增或編輯提交後會在比率設置記錄中会生成未觸發的該保證金設置記錄，也可以點擊【取消同步】則取消設置，不作記錄 ，此時點擊【同步】，該記錄狀態變更為已觸發，同時在主頁生成一條股票保證金記錄（若新增的為已存在的股票則更新原記錄）；點擊【取消同步】，則記錄狀態變更為已撤銷，該設置不生效；若不操作人工同步，系統將在設定的有效期生效對應設置
 
@@ -659,13 +656,11 @@ sidebar_position: 2
 <p>風控管理 &gt; 保證金  &gt; 股票保證金 &gt; 空頭保證金</p>
 </div>
 
-**菜單功能介紹**：針對空頭業務，可以單獨設置支持空頭股票保證金比例。
+<b>菜單功能介紹</b>：針對空頭業務，可以單獨設置支持空頭股票保證金比例。
 
 1. 列表展示所有支持空頭股票保證金比例記錄
 
 <img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
-
-空頭保證金列表頁面
 
 1. 支持批量上傳：下載模板文件根據文件要求填寫後上傳
 
@@ -682,30 +677,49 @@ sidebar_position: 2
 <p>風控管理 &gt; 保證金  &gt; 股票保證金 &gt; 空頭保證金記錄</p>
 </div>
 
-**菜單功能介紹**：該菜單展示空頭股票保證金比例的變更記錄。
+<b>菜單功能介紹</b>：該菜單展示空頭股票保證金比例的變更記錄。
 
 <img src="/assets/AsWxbKzDMoM1MjxmD1IcSGwAndd.png" src-width="3280" src-height="810" align="center"/>
 
 ### 客戶保證金
 
+#### 多頭股票
+
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
-<p>風控管理 &gt; 保證金  &gt; 客戶保證金</p>
+<p>風控管理 &gt; 保證金  &gt; 客戶保證金 &gt; 多頭股票</p>
 </div>
 
-**菜單功能介紹**：該菜單可以設置客戶個性化股票保證金比例，在保證金計算時會優先取客戶保證金比例。
+<b>菜單功能介紹</b>：該菜單可以設置客戶個性化多頭股票保證金比例，在保證金計算時會優先取客戶保證金比例。
 
-1. 列表展示所有客戶保證金設置
+1. 列表展示所有客戶多頭股票保證金設置
 
-<img src="/assets/S5LjbBEXHoi0OvxSIRVck25GnRW.png" src-width="3256" src-height="846" align="center"/>
+<img src="/assets/TJ0ObmeAho1xstxzB4fcdgNKnPe.png" src-width="3222" src-height="1062" align="center"/>
 
-1. 可以通過【導入保證金數據】來新增客戶保證金；進入彈窗下載模版根據模版填寫後上傳
+1. 新建客戶保證金：點擊頁面的【新建】可以打開創建彈窗頁；客戶和股票選擇均支持選擇單個客戶/股票和客戶組/股票組（客戶組可在「風控管理」-「名單管理」-「客戶組」配置；股票組可在「業務參數設置」-「風控」-「股票組」配置）；頁面配置後提交即可完成創建
+
+<img src="/assets/AlpNbLX9coV5D9xe3rOchCKVnUF.png" src-width="3210" src-height="1068" align="center"/>
+
+<img src="/assets/MuggblAOJoxOmDxvKJccvr6DnEh.png" src-width="3226" src-height="1698" align="center"/>
+
+1. 同時，也可以通過【導入保證金數據】來新增客戶保證金；進入彈窗下載模版根據模版填寫後上傳
 
 <img src="/assets/TjQYbH0kboEjx9xrmu5c16uBnne.png" src-width="3168" src-height="1116" align="center"/>
 
 1. 文件上傳【確認】後，在客戶保證金列表中生成狀態為生效中的記錄；如需修改保證金比例，可以通過操作的【編輯】修改；也可以通過【置為失效】來失效客戶保證金比例設置
 
 <img src="/assets/FIEbbOOvmop6Nixv7kKcGuEvnpc.png" src-width="3244" src-height="1424" align="center"/>
+
+#### 空頭股票
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>風控管理 &gt; 保證金  &gt; 客戶保證金 &gt; 空頭股票</p>
+</div>
+
+客戶空頭股票保證金比例設置邏輯同「[多頭股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的信息為“股票賣空狀態”，該狀態與對應空頭股票的可賣空狀態（查看頁面：「風控管理」-「保證金」-「股票保證金」-「空頭股票保證金」）保持同步。
+
+<img src="/assets/EOwcbvEDSoT3Wxxg6QWcFRVYncd.png" src-width="3230" src-height="1078" align="center"/>
 
 ## 期權
 
@@ -716,7 +730,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 期權 &gt; 期權行權</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於查看各行權日期權相關數據概覽，並支持查看具體期權及操作行權。
+<b>菜單功能介紹</b>：該菜單主要用於查看各行權日期權相關數據概覽，並支持查看具體期權及操作行權。
 
 1. 列表展示行權日期權整體數據總覽
 
@@ -749,7 +763,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 期權 &gt; 行權記錄</p>
 </div>
 
-**菜單功能介紹**：該頁面主要用於查看期權到期放棄行權或到期行權操作後的記錄明細。
+<b>菜單功能介紹</b>：該頁面主要用於查看期權到期放棄行權或到期行權操作後的記錄明細。
 
 <img src="/assets/GgLSbayxmoyIpMxDlwRcKKl3nm9.png" src-width="3218" src-height="1088" align="center"/>
 
@@ -760,7 +774,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 期權 &gt; 末日期權</p>
 </div>
 
-**菜單功能介紹**：該頁面主要用於查看到期期權用户的持倉列表明細。
+<b>菜單功能介紹</b>：該頁面主要用於查看到期期權用户的持倉列表明細。
 
 <img src="/assets/SYjCbBFoRoO1ELxeT46cXzponoa.png" src-width="3158" src-height="1324" align="center"/>
 
@@ -783,7 +797,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 交易限額 &gt; 全局限額</p>
 </div>
 
-**菜單功能介紹**：該菜單展示所有的限額代碼，若需新建限額代碼（現有代碼不支持規則），需聯繫長橋處理。
+<b>菜單功能介紹</b>：該菜單展示所有的限額代碼，若需新建限額代碼（現有代碼不支持規則），需聯繫長橋處理。
 
 1. 通過列表操作項的【開啓】和【關閉】可以生效/失效對應限額
 
@@ -818,7 +832,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 交易限額 &gt; 客戶限額</p>
 </div>
 
-**菜單功能介紹**：客戶限額僅支持全局限額中限額類型為「客戶」的限額代碼；支持單個/批量新增客戶限額規則。
+<b>菜單功能介紹</b>：客戶限額僅支持全局限額中限額類型為「客戶」的限額代碼；支持單個/批量新增客戶限額規則。
 
 1. 新增客戶限額規則
 
@@ -841,7 +855,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 交易限額 &gt; 證券限額</p>
 </div>
 
-**菜單功能介紹**：證券限額僅支持全局限額中限額類型為「證券」的限額代碼；支持單個/批量新增證券限額規則
+<b>菜單功能介紹</b>：證券限額僅支持全局限額中限額類型為「證券」的限額代碼；支持單個/批量新增證券限額規則
 
 1. 新增證券限額規則
 
@@ -862,7 +876,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 交易限額 &gt; 交易員限額</p>
 </div>
 
-**菜單功能介紹**：交易員限額僅支持全局限額中限額類型為「交易員」的限額代碼。
+<b>菜單功能介紹</b>：交易員限額僅支持全局限額中限額類型為「交易員」的限額代碼。
 
 1. 新增交易員限額規則
 
@@ -883,7 +897,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 交易限額 &gt; 客戶類別限額</p>
 </div>
 
-**菜單功能介紹**：客戶類別限額僅支持全局限額中限額類型為「客戶」的限額代碼。
+<b>菜單功能介紹</b>：客戶類別限額僅支持全局限額中限額類型為「客戶」的限額代碼。
 
 1. 新增客戶類別限額規則
 
@@ -904,7 +918,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 交易限額 &gt; 多維度交易限額</p>
 </div>
 
-**菜單功能介紹**：多維度限額僅支持全局限額中限額類型為「多維度」的限額代碼。
+<b>菜單功能介紹</b>：多維度限額僅支持全局限額中限額類型為「多維度」的限額代碼。
 
 1. 新增多維度限額規則
 
@@ -927,7 +941,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 名單管理 &gt; 黑名單</p>
 </div>
 
-**菜單功能介紹**：該菜單列表頁展示當前所有黑名單，當前黑名單使用業務場景有授信和資產調撥。業務標籤為“授信”的名單用戶不會進行自動授信，且用戶申請調額均會進入人工審核；業務標籤為“資產調撥”的名單用戶不支持使用購買力劃轉。
+<b>菜單功能介紹</b>：該菜單列表頁展示當前所有黑名單，當前黑名單使用業務場景有授信和資產調撥。業務標籤為“授信”的名單用戶不會進行自動授信，且用戶申請調額均會進入人工審核；業務標籤為“資產調撥”的名單用戶不支持使用購買力劃轉。
 
 1. 列表頁面
 
@@ -943,6 +957,35 @@ sidebar_position: 2
 
 <img src="/assets/O6b0bFHnaoOKdhx7bP4cdX4fnZf.png" src-width="2818" src-height="1190" align="center"/>
 
+### 客戶組
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>風控管理 &gt; 名單管理 &gt; 客戶組</p>
+</div>
+
+<b>菜單功能介紹</b>：該菜單可支持配置客戶組，可在其他業務場景調用客戶組，當前應用業務有保證金、報表（如需應用其他業務場景，可聯繫客戶反饋）。
+
+1. 新建客戶組：選擇客戶組應用的業務類型，自定義客戶組名稱後提交即可完成創建
+
+<img src="/assets/CkzgbeDMtovoX8xW0m3cnR32nYb.png" src-width="3302" src-height="748" align="center"/>
+
+<img src="/assets/XNlLbxd3yoTN0HxDZfCcjWFznlc.png" src-width="3284" src-height="1164" align="center"/>
+
+1. 添加組內賬戶：客戶組創建後，主列表頁會生成一條客戶組記錄，點擊【詳情】可以進入添加組內賬戶頁面；可在詳情頁面的【新建】或【批量導入】進行單個/批量增加組內賬戶
+
+<img src="/assets/T17BblV4toWv6txuhthcwpZrnEc.png" src-width="3302" src-height="862" align="center"/>
+
+<img src="/assets/DcSmbtDT4oPgNoxQgrrcBgUGnUf.png" src-width="3296" src-height="638" align="center"/>
+
+1. 管理組內賬戶：組內賬戶支持【刪除】
+
+<img src="/assets/M2xibgKd8ohXAIxLC8scemafnjh.png" src-width="3278" src-height="568" align="center"/>
+
+1. 管理客戶組：客戶組支持【編輯】組信息和【刪除】
+
+<img src="/assets/AqCkbUVesoJc0gxFkLnc76FDnIg.png" src-width="3288" src-height="824" align="center"/>
+
 ## 壓力測試
 
 基於SFC保證金指引的壓力測試與股票、客戶相關的監控。
@@ -956,7 +999,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; Margin Call壓力測試 &gt; 測試明細</p>
 </div>
 
-**菜單功能介紹**：該菜單可以支持新設不同的條件來計算 Margin Call 預警/非速凍資金盈餘，每次新設都是分配一個任務 ID，當預計完成後，可以查詢任務 ID 的執行狀態與計算內容詳情。
+<b>菜單功能介紹</b>：該菜單可以支持新設不同的條件來計算 Margin Call 預警/非速凍資金盈餘，每次新設都是分配一個任務 ID，當預計完成後，可以查詢任務 ID 的執行狀態與計算內容詳情。
 
 1. 新建模擬計算：系統支持股票組/股票市場/單一股票 三種模式的預計算，同時也支持是否將某種豁免規則配置在壓力測試某個批次上​；按需選擇模擬計算類型及計算內容後，提交即可開始模擬計算
 
@@ -979,7 +1022,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; Margin Call壓力測試 &gt; 自定義數據</p>
 </div>
 
-**菜單功能介紹**：該菜單可以維護股票保證金比例，將保證金比例的文檔批次導入。
+<b>菜單功能介紹</b>：該菜單可以維護股票保證金比例，將保證金比例的文檔批次導入。
 
 1. 按模版要求導入保證金比例，導入成功後則會在列表頁展示
 
@@ -994,7 +1037,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; 指數管理 &gt; 指數級別</p>
 </div>
 
-**菜單功能介紹**：該菜單用來維護劵商保證金指引內所提及的指數級別。
+<b>菜單功能介紹</b>：該菜單用來維護劵商保證金指引內所提及的指數級別。
 
 1. 在頁面點擊【新建】可以新建指數級別
 
@@ -1013,7 +1056,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; 指數管理 &gt; 股票指數</p>
 </div>
 
-**菜單功能介紹**：該菜單用來維護劵商保證金指引內所提及的股票指數。
+<b>菜單功能介紹</b>：該菜單用來維護劵商保證金指引內所提及的股票指數。
 
 1. 頁面提供與行情數據同步功能【拉取基本數據】功能，點選後可以自動同步基本數據（此數據是提供給 Whale 產品始用的行情數據源）
 
@@ -1034,7 +1077,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; 指數管理 &gt; 股票級別佔比</p>
 </div>
 
-**菜單功能介紹**：該菜單展示股票級別佔比，並支持模擬margin call計算。
+<b>菜單功能介紹</b>：該菜單展示股票級別佔比，並支持模擬margin call計算。
 
 1. 股票級別佔比列表
 
@@ -1054,10 +1097,10 @@ sidebar_position: 2
 <col width="719"/>
 </colgroup>
 <thead>
-<tr><th><p><strong>術語 / 縮略詞</strong></p></th><th><p><strong>說明</strong></p></th></tr>
+<tr><th><p><b>術語 / 縮略詞</b></p></th><th><p><b>說明</b></p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>Haircut</p></td><td><p>在金融學里，<strong>估值折扣</strong>或<strong>剃頭</strong>是指從作為擔保或抵押品的資產市場價值中扣除的百分比。估值折扣的數量反襯出投資者持有資產的風險。但是，貸款人擁有整個資產的擔保物權。​<br/>比如，在投資者看來風險度很低的美國國庫券可能有1%的估值折扣，而投資者認為風險度高的股票期權的估值折扣可能高達30%。換句話說，1000美元的國庫券可被接納為990美元貸款的擔保，而1000美元的股票期權僅可作為700美元貸款的擔保。</p></td></tr>
+<tr><td><p>Haircut</p></td><td><p>在金融學里，<b>估值折扣</b>或<b>剃頭</b>是指從作為擔保或抵押品的資產市場價值中扣除的百分比。估值折扣的數量反襯出投資者持有資產的風險。但是，貸款人擁有整個資產的擔保物權。​<br/>比如，在投資者看來風險度很低的美國國庫券可能有1%的估值折扣，而投資者認為風險度高的股票期權的估值折扣可能高達30%。換句話說，1000美元的國庫券可被接納為990美元貸款的擔保，而1000美元的股票期權僅可作為700美元貸款的擔保。</p></td></tr>
 </tbody>
 </table>
 
@@ -1068,7 +1111,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; Haircut管理 &gt; 股票Haircut管理</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於管理股票Haircut。
+<b>菜單功能介紹</b>：該菜單主要用於管理股票Haircut。
 
 1. 列表展示所有已設置Haircut的股票列表
 
@@ -1093,7 +1136,7 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; Haircut管理 &gt; 指數Haircut</p>
 </div>
 
-**菜單功能介紹**：該菜單主要用於管理指數Haircut。
+<b>菜單功能介紹</b>：該菜單主要用於管理指數Haircut。
 
 1. 指數部分與前述股票 Haircut 操作功能相同，但不支持批量導入
 
@@ -1106,9 +1149,149 @@ sidebar_position: 2
 <p>風控管理 &gt; 壓力測試 &gt; Haircut管理 &gt; Haircut修改記錄</p>
 </div>
 
-**菜單功能介紹**：該菜單用於查詢所有Haircut修改記錄。
+<b>菜單功能介紹</b>：該菜單用於查詢所有Haircut修改記錄。
 
 <img src="/assets/WceRbCzaQoaSbXxlBqecAS7ynVc.png" src-width="3158" src-height="974" align="center"/>
 
 Haircut修改記錄列表頁面
+
+### 速動資金短欠
+
+#### 業務說明
+
+主要通過模擬SFC的要求，進行速動資金的壓力測試，從而得出Top 10股票集中度是否符合監管要求。
+
+#### 名詞解釋
+
+<table>
+<colgroup>
+<col width="155"/>
+<col width="109"/>
+<col width="302"/>
+<col width="366"/>
+</colgroup>
+<tbody>
+<tr><td><p><b>繁體名詞</b></p></td><td><p><b>英文名詞</b></p></td><td><p><b>說明</b></p></td><td><p><b>計算規則</b></p></td></tr>
+<tr><td><p>速動資金</p></td><td><p>LC</p></td><td><p>速動資金是持牌法團根據該規則需維持的其中一種財政資源，為持牌法團的速動資產超出認可負債之數</p></td><td></td></tr>
+<tr><td><p>規定速凍資金</p></td><td><p>RLC</p></td><td><p>規定速動資金是持牌法團必須備有的，以便遵守該規則所指的財政資源規定的最低速動資金數額</p></td><td></td></tr>
+<tr><td><p>速凍資金盈余</p></td><td><p>ELC</p></td><td><p>LC-RLC</p></td><td><p>LC-RLC</p></td></tr>
+<tr><td><p>持倉市值</p></td><td><p>Market Value</p></td><td><p>抵押物market value等值HKD</p></td><td><p>market value*港幣匯率</p></td></tr>
+<tr><td><p>FRR ratio</p></td><td><p>FRR ratio</p></td><td><p>作为担保或抵押品的的百分比</p></td><td><p>= 1-haircut，<br/>根據571N準則，一般來講人工導入；<br/><b>空頭持倉，選擇權持倉，FRR ratio依0計算</b></p></td></tr>
+<tr><td><p>Liquid Asset</p></td><td><p>速動資產</p></td><td><p>持牌法團的速動資產是其在計算速動資金時需包含在內的資產金額。該等資產的價值需進行調整，以反映一些例如其非速動性質及信用風險等因素</p></td><td><p>FRR ratio*客戶持倉市值等值HKD</p></td></tr>
+<tr><td><p>客户欠款</p></td><td><p>Loan Amount</p></td><td><p>同一客戶融資欠款的等值本幣</p></td><td><p>取分幣種客戶餘額，全部轉換為本位幣，在做匯總，取匯總後金額&lt;0的數據，再取絕對值<br/>例如帳面餘額 -200，那麼客戶欠款200，帳面餘額為100，那麼客戶欠款為0</p></td></tr>
+<tr><td><p>速動資金短欠</p></td><td><p>Shortfall</p></td><td><p>客戶負債，且負債超出認可資產淨值的那部分金額</p></td><td><p>max（abs(Loan Amount)-Liquid Asset)，0） </p></td></tr>
+<tr><td><p>30%跌幅下速動資金短欠</p></td><td><p>Shortfall 30%</p></td><td><p>抵押物市值下降30%，客戶負債，且負債超出認可資產淨值的那部分數據</p></td><td><p>max【Loan Amount -min(abs(Loan Amount),Liquid Asset*70%)，0】</p></td></tr>
+<tr><td><p>50%跌幅下速動資金短欠</p></td><td><p>Shortfall 50%</p></td><td><p>抵押物市值下降50%，客戶負債，且負債超出認可資產淨值的那部分數據</p></td><td><p>max【Loan Amount -min(abs(Loan Amount),Liquid Asset*50%)，0】</p></td></tr>
+<tr><td><p>TOP10</p></td><td><p>TOP10</p></td><td><p>股票不可抵押後對shortfall影響最大的10個股票</p></td><td></td></tr>
+</tbody>
+</table>
+
+#### 速動資金短欠
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>風控管理 &gt; 壓力測試 &gt; 速動資金短欠 &gt; 速動資金短欠</p>
+</div>
+
+1. 列表展示歷史創建的計算任務
+
+<img src="/assets/LJkxbuSovolFdAxtxZRcnh4AnT9.png" src-width="3328" src-height="1256" align="center"/>
+
+1. 點擊『新建』，會創建一條新的計算任務，同時需要人工填寫速動資金數據
+
+<img src="/assets/HjasbIxmyo0BTbx1YUHcOefRnkf.png" src-width="3296" src-height="1682" align="center"/>
+
+1. 創建完成後，可點擊『詳情』，查看本次計算任務
+
+<img src="/assets/ODFdbYUGJoaOyixyrbWcMX4InVc.png" src-width="3290" src-height="1020" align="center"/>
+
+#### 客戶shortfall明細
+
+1. 計算任務約1-5分鐘完成，完成後可查看本次計算結果，首先會展示客戶的shortfall明細
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>❗</div>
+<p>此頁面僅會統計欠款客戶，以及模擬客戶持有的抵押物下跌30%及50%後的shortfall結果</p>
+</div>
+
+<img src="/assets/CbfBb2WxPoDr9XxAorrcHz3Enzd.png" src-width="3264" src-height="1762" align="center"/>
+
+1. 點擊詳情可查看客戶的持倉明細以及持倉中認可的資產值
+
+<img src="/assets/MS4YbWrAyo97D5xXhjUcfJqMnuh.png" src-width="3286" src-height="1818" align="center"/>
+
+#### Top 10股票
+
+1. <b>第一部分:LC數據。</b>
+
+首先系統會根據財務所填寫的LC，RLC資料得到ELC相關數據（速動資金英盈餘）
+
+<img src="/assets/UwUhbeVvZotqpFxC5Hrc2qlanTf.png" src-width="3286" src-height="1782" align="center"/>
+
+1. <b>第二部分:速動資金短欠</b>
+
+此處數據模擬抵押物跌幅為x時的shortfall結果，同時會對比是否還有buffer（緩衝額）
+
+buffer（緩衝額）= 50%速動資金盈餘 - 速動資金短欠（shortfall）
+
+<img src="/assets/YD6NbbBOWouX63xb8IzcpMoRnif.png" src-width="3306" src-height="1800" align="center"/>
+
+<b>股票跌幅 x 為一個變量，需要根據保證金指引規則得到，明細如下：</b>
+
+依股票類別分別統計持股市值，比計算分類佔比；根據抵押證券的組合成分，採用適當的假設性壓力測試：可以每日所有市場閉市後計算 一次
+
+(a) 以市值計算，若等級1的抵押品佔比超過75%，則平均價格跌幅為參數a的值
+
+(b) 以市值計算，若等級1和等級2的抵押品總佔比超過75%，則平均價格跌幅為參數b的值
+
+(c) 以市值計算，如果等級1和等級2的抵押品總佔比在25%到75%之間，則平均價格跌幅為參數c的值
+
+(d) 以市值計算，如果等級1和等級2的抵押品總佔比在25%以下，則平均價格跌幅為參數d的值
+
+|   |   |
+|---|---|
+|<b>参数</b>|<b>数值</b>|
+|a drop|15%|
+|b drop|25%|
+|c drop|30%|
+|d drop|50%|
+
+1. <b>第三部分 : 速動資金短欠</b>
+
+該部分數據會逐個模擬所有抵押物不可抵押後，對shortfall的影響，並根據shortfall影響最大的10只個股進行排序。
+
+<img src="/assets/DdRSbH9XGoxAcbxSmJdcai6Bnrb.png" src-width="3288" src-height="1800" align="center"/>
+
+<table>
+<colgroup>
+<col width="142"/>
+<col width="177"/>
+<col width="508"/>
+</colgroup>
+<tbody>
+<tr><td><p><b>名詞中文</b></p></td><td><p><b>名詞英文</b></p></td><td><p><b>規則</b></p></td></tr>
+<tr><td><p>股票代碼</p></td><td><p>Stock Code</p></td><td></td></tr>
+<tr><td><p>股票級別</p></td><td><p>Stock Level</p></td><td><p>股票級別，使用股票指數管理的級別數據<br/><a href="https://console.lbkrs.com/next/risk/index_management/stock_index">https://console.lbkrs.com/next/risk/index_management/stock_index</a></p></td></tr>
+<tr><td><p>持倉市值</p></td><td><p>Market Value    </p></td><td><p>所有欠款客戶該股票的合計持股市值</p></td></tr>
+<tr><td><p>速動資金短欠</p></td><td><p>Shortfall</p></td><td><p>按照該股票或關聯股票</p></td></tr>
+<tr><td><p>ELC 影響基準 (%)</p></td><td><p>maximum ELC Ratio</p></td><td><p>根據股票等級來：</p>
+<ul>
+<li>Tier 1: 50%</li>
+<li>Tier 2: 30%</li>
+<li>Other: 50%</li>
+</ul></td></tr>
+<tr><td><p>ELC 下跌百分比（%）</p></td><td><p>Shortfall/ELC（%）</p></td><td><p>对应股票的Shortfall / ELC（人工填写的）</p></td></tr>
+<tr><td><p>集中度 (%)</p></td><td><p>Concentr Action（%）</p></td><td><p>ELC 下跌百分比（%）/ELC 影響基準 (%)</p></td></tr>
+<tr><td><p>結果</p></td><td><p>Result</p></td><td><ul>
+<li>Concentr Action=&lt;100%  &gt;&gt; Pass</li>
+<li>Concentr Action&gt;100%  &gt;&gt; Reject</li>
+</ul></td></tr>
+</tbody>
+</table>
+
+#### 持倉明細
+
+統計所有欠款客戶持倉明細，作為計算shortfall的數據源
+
+<img src="/assets/K7lGbDdUBoHNv6xgqxocvAlwnag.png" src-width="3300" src-height="1226" align="center"/>
 

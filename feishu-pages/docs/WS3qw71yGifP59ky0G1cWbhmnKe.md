@@ -38,13 +38,13 @@ Whale 會計中臺系統全面支持券商證券業務記賬流程，包括記�
 
 在使用會計中臺前，券商需要配置會計屬性。
 
-**步驟一：查看科目屬性**
+<b>步驟一：查看科目屬性</b>
 
 每個券商公司可自定義科目屬性
 
 <img src="/assets/KOKabzVdooQPyXxd88NceFxUnXl.png" src-width="2864" src-height="1078" align="center"/>
 
-**步驟二：科目屬性配置**
+<b>步驟二：科目屬性配置</b>
 
 點選『科目屬性』右上角：‘新建’，設定對應科目屬性信息。
 
@@ -54,11 +54,11 @@ Whale 會計中臺系統全面支持券商證券業務記賬流程，包括記�
 
 每個券商公司可自定義會計科目。
 
-**步驟一：查看會計科目**
+<b>步驟一：查看會計科目</b>
 
 <img src="/assets/RlfBbN78DoFeRlxwq7fcSQ8QnZe.png" src-width="2848" src-height="1022" align="center"/>
 
-**步驟二：會計科目配置**
+<b>步驟二：會計科目配置</b>
 
 會計科目可以根據數量多少選擇選擇「單筆新建」或者「批量導入」。
 
@@ -70,53 +70,53 @@ Whale 會計中臺系統全面支持券商證券業務記賬流程，包括記�
 
 <img src="/assets/Ry4cbJz1coXQIqx6WkycpxzUnvb.png" src-width="2872" src-height="1096" align="center"/>
 
-### **分錄規則配置**
+### <b>分錄規則配置</b>
 
 每個券商公司可自定義分錄規則。
 
-**步驟一：查看分錄規則**
+<b>步驟一：查看分錄規則</b>
 
 <img src="/assets/COgUbDru0oLdIZxMBKccjaiDn5e.png" src-width="2854" src-height="1090" align="center"/>
 
-**步驟二：分錄規則配置**
+<b>步驟二：分錄規則配置</b>
 
 點選『分錄規則』右上角：‘新增’，設定對應券商公司的分錄規則。
 
 <img src="/assets/SF8Wbx51UoNRFdxIxBscAFMXnJd.png" src-width="3018" src-height="4624" align="center"/>
 
-### **資金類型配置**
+### <b>資金類型配置</b>
 
 每個券商公司可自定義資金類型。
 
-**步驟一：查看資金類型**
+<b>步驟一：查看資金類型</b>
 
 <img src="/assets/Pdtzbstg8ohnu7xoFPacVRVBnJe.png" src-width="3806" src-height="1504" align="center"/>
 
-**步驟二：資金類型配置**
+<b>步驟二：資金類型配置</b>
 
 點選『資金類型』右上角：‘新建’，設定對應券商公司的資金類型。
 
 <img src="/assets/YFUZbeKixoKNJcxc7QRcn5rcnhe.png" src-width="3826" src-height="1470" align="center"/>
 
-### **合併規則配置**
+### <b>合併規則配置</b>
 
-**每個券商公司可根據導出報表需求自定義合併規則。**
+<b>每個券商公司可根據導出報表需求自定義合併規則。</b>
 
-**步驟一：查看合併規則**
+<b>步驟一：查看合併規則</b>
 
 <img src="/assets/V39XbXqLDoGnzpxOThDcOfLXnjg.png" src-width="2866" src-height="1162" align="center"/>
 
-**步驟二：合併規則配置**
+<b>步驟二：合併規則配置</b>
 
 點選『合併規則』右上角：‘新建’，設定對應券商公司的合併規則。
 
 <img src="/assets/C0cfb4CyDoi4itxlHZkcFoi7nBe.png" src-width="952" src-height="1776"/>
 
-## **記賬結果查詢**
+## <b>記賬結果查詢</b>
 
-券商證券業務發生後，系統會根據記賬參數生成記賬結果供用戶進行查詢和導出**。**
+券商證券業務發生後，系統會根據記賬參數生成記賬結果供用戶進行查詢和導出<b>。</b>
 
-### **財務報表導出**
+### <b>財務報表導出</b>
 
 會計中臺可根據券商公司使用的財務軟件報表格式進行定製，系統直接導出財務報表。
 

@@ -73,3 +73,11 @@ sidebar_position: 10
 
 <img src="/assets/UkspbwFj5oTOVQxUZKSceLY5nxf.png" src-width="2168" src-height="1356" align="center"/>
 
+## 11D 问：经纪人编号能否修改？
+
+答：经纪人编号不能修改，但可以选择「冻结」该经纪人，也可以按「编辑」来修改电子邮箱，以释放该电子邮箱。
+
+<img src="/assets/YLAsbfExUoDjtqx98y6cW4xoncb.png" src-width="2842" src-height="1314" align="center"/>
+
+<img src="/assets/Pl9EbaIx9osOt8x0lODcTBscn0g.png" src-width="2858" src-height="1604" align="center"/>
+

@@ -1,9 +1,9 @@
 ---
-title: 產品更新日誌
-slug: release-notes
+title: 更新日誌
+slug: JuxhwPm1xiZ025k4GBcc2NdDnfe
 sidebar_position: 3
 ---
 
 
-# 產品更新日誌
+# 更新日誌
 

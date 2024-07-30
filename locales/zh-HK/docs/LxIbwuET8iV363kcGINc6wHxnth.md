@@ -153,3 +153,15 @@ sidebar_position: 6
 
 答：沒有調整到當天融資利息的功能，需要下一天執行到日終到 "資金清算" 後，才能調整到今天的利息。
 
+## 7K 問：暗盤平台費和正常交易平台費能否分開計算？
+
+答：先在相關客戶組按「編輯」，然後在平台費收費中按「編輯」，進去後在「特殊收費」中按「添加」，再在「訂單類型」選擇「暗盤」，最後輸入收費資料。
+
+<img src="/assets/Qjt5bEd8oonqIzx7aAHcF9o5nJg.png" src-width="2792" src-height="1374" align="center"/>
+
+<img src="/assets/Qe1lbiWHoo2rcSxwiO3cxiZenEd.png" src-width="2790" src-height="1386" align="center"/>
+
+<img src="/assets/I6EwbZ7CyoDnNjxmL9gcQMzQnLw.png" src-width="2804" src-height="1452" align="center"/>
+
+<img src="/assets/NlNObQBBooVwRaxQiAJcTlDRnef.png" src-width="1324" src-height="1654" align="center"/>
+

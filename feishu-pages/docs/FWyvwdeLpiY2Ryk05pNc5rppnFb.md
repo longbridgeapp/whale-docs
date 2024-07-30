@@ -96,7 +96,7 @@ sidebar_position: 1
 
 <img src="/assets/KMhVbsIpvoEIUfxva4ccwC5Bn1b.png" src-width="2926" src-height="1558" align="center"/>
 
-#### 市場清算**一鍵清算**
+#### 市場清算<b>一鍵清算</b>
 
 當清算前準備執行完畢後，就可以點選有上方【開始一鍵清算】功能鍵，系統會自動從第一步開始執行，一直到清算交收作業（ 當沒有錯誤發生時，系統會自動續執行下個作業）
 
@@ -118,11 +118,11 @@ sidebar_position: 1
 
 <img src="/assets/NueHb7DTWo1a5wxXXa0cgUI0nef.png" src-width="2922" src-height="1556" align="center"/>
 
-**日終數據同步（Client Trade）**
+<b>日終數據同步（Client Trade）</b>
 
 執行後會同步系統數據，含交易、日切點前的出入金、交易、開戶等數據
 
-**清算前檢查（Trade Match）**
+<b>清算前檢查（Trade Match）</b>
 
 執行清算前檢查步驟會自動觸發時當日的交易對帳
 
@@ -144,13 +144,13 @@ sidebar_position: 1
 
 <img src="/assets/Smk5boPyXoXQ8ixK8TVcHl6dnY3.png" src-width="2920" src-height="1552" align="center"/>
 
-**清算計費**
+<b>清算計費</b>
 
 在清算計費步驟會生成前台合約，狀態為待計費
 
 該步驟暫停執行的，可以編輯前台訂單的收費
 
-**清算入帳**
+<b>清算入帳</b>
 
 根據計費帳單，股票本金和手續費作業務帳戶處理，合約狀態變由計算完成更為待交收，系統會生成 SDR018系列報表
 
@@ -158,7 +158,7 @@ sidebar_position: 1
 
 注意 2：清算撤銷（資產處理選擇不處理的）後，此步驟已經完成的，清算計費和清算入帳為空跑，按原資料處理
 
-**清算交收**
+<b>清算交收</b>
 
 根據合約和調帳等其他流水進行倉位處理
 
@@ -196,7 +196,7 @@ sidebar_position: 1
 
 <img src="/assets/SUYubW4qsoZnAaxppnWcz7zUnYd.png" src-width="2912" src-height="1522" align="center"/>
 
-**數據匯總**
+<b>數據匯總</b>
 
 此操作前需要完成流水日期調整，證券組合費/融資利息的提前歸本、金額調整
 
@@ -204,27 +204,27 @@ sidebar_position: 1
 
 數據匯總後操作流水日期調整、收盤價，需要重新點擊數據匯總
 
-**清算中檢查**
+<b>清算中檢查</b>
 
 內部流水對帳、業務操作檢查等
 
 檢查可重複觸發，排除問題後可重新觸發檢查
 
-**資金清算**
+<b>資金清算</b>
 
 執行融資利息計算、證券組合費、融券計算等任務
 
-**清算後檢查**
+<b>清算後檢查</b>
 
 清算後檢查主要檢查資金清算步驟的執行狀況
 
-**結單生成**
+<b>結單生成</b>
 
 點擊結單生成後，可生成結單
 
 結單已發送的，不能重新生成
 
-**日切**
+<b>日切</b>
 
 執行完日切流程后，當前系統帳務日会切换到下一日
 
@@ -238,7 +238,7 @@ sidebar_position: 1
 
 路径：清算管理&gt; 日終管理&gt;結單管理&gt;結單查詢
 
-**系統支持在日切步驟匯總進行結單自動發送,但須事先配置,請聯絡Whale 客服**
+<b>系統支持在日切步驟匯總進行結單自動發送,但須事先配置,請聯絡Whale 客服</b>
 
 <img src="/assets/IxjDb8klLoPTI3x6nSacbWPanyb.png" src-width="3364" src-height="1452" align="center"/>
 
@@ -252,15 +252,15 @@ sidebar_position: 1
 
 T+2日的早上可導出ATI交收指令，上傳到CCASS
 
-路径：清算管理  &gt; 市場清算  &gt;文件導出
+路径：清算管理-日终任务-交收指令导出
 
-買賣方向為空的，導出的為全部檔
+支持导出未来日期的文件
 
-買賣方向為 1 的，導出的是買入交易的記錄
+支持導出HK、SZ、SH多市場
 
-買賣方向為 2 的，導出的是賣出交易的檔
+<img src="/assets/ZDg6bY3GeoWGc2xH4RYcQNXInFh.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/ERpJbbG4coaKB0x7Pavcp0n4ndf.png" src-width="2924" src-height="1560" align="center"/>
+<img src="/assets/VxwybTsHIoRmYPxDEyZcitSunNf.png" src-width="3574" src-height="1774" align="center"/>
 
 ### 持倉對帳
 

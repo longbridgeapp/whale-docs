@@ -55,6 +55,7 @@ Whale 的賬戶管理模塊提供了對客戶賬戶的綜合管理和操作功�
 <img src="/assets/QeXibd182oFjg9xxyU9cHWLCnfb.png" src-width="3362" src-height="1562" align="center"/>
 
 「編輯」在修改經紀人分傭套餐時，支持同步修改其下客戶的分傭套餐配置（可選項）
+<img src="/assets/BRSebWmDFopMNfxvpCHcsVl2nkc.png" src-width="936" src-height="1662" align="center"/>
 
 「凍結」，凍結經紀人操作後，該經紀人將無法使用賬號登錄WTT；
 
@@ -68,7 +69,7 @@ Whale 的賬戶管理模塊提供了對客戶賬戶的綜合管理和操作功�
 
 在查詢組件上：支持按經紀人編號或經紀人名稱查詢
 
-### **新增分成套餐**
+### <b>新增分成套餐</b>
 
 可以在右上角， 點擊【新增】，新增一筆分成佣金套餐
 
@@ -77,6 +78,8 @@ Whale 的賬戶管理模塊提供了對客戶賬戶的綜合管理和操作功�
 先填寫套餐主體信息
 
 字段說明：
+- 分傭對象設置（ 劵商或經紀人）：決定配置的算法對哪個對象生效（先算哪一個）
+- 允許虧損字段（：決定在分傭金額&gt;佣金时的處理方案，允许虧损的，計算金額可大于佣金）
 
 <img src="/assets/Rro5bqoyRoCVtixExeXcu8dVn5b.png" src-width="3584" src-height="1738" align="center"/>
 
