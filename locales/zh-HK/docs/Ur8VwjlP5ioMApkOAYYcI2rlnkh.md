@@ -58,13 +58,13 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
 
 <img src="/assets/JvoUb9maJow7UNxI1sFcOFesnsf.png" src-width="2362" src-height="884" align="center"/>
 
-**指標卡說明**
+<b>指標卡說明</b>
 
 指標卡支持自定義配置，包括展示的個數及順序
 
 <img src="/assets/YDZobjsKioMT0LxyeV5cp5Zsnog.png" src-width="2056" src-height="1081" align="center"/>
 
-**開戶列表**
+<b>開戶列表</b>
 
 - 支持各類字段篩選開戶申請的數據
 - 列表頁支持點擊提交時間、最近更新時間、開戶成功時間等字段升序/降序排列
@@ -128,7 +128,7 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
 
 <img src="/assets/SpTQbxzVRoV9jYxyGGDcVzEknwe.png" src-width="2318" src-height="834" align="center"/>
 
-**開戶資料列表**
+<b>開戶資料列表</b>
 
 - 支持各類狀態篩選列表數據
 - 點擊「導入用戶」按鈕，按導入模板，可批量導入開戶申請
@@ -147,13 +147,13 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
 
 <img src="/assets/XmXLbtbTco84WAxyZ8KcyJDknYd.png" src-width="2334" src-height="978" align="center"/>
 
-**提交批量修改操作**
+<b>提交批量修改操作</b>
 
 點擊「批量導入」按鈕，下載導入模板。按照導入要求，上傳修改信息的文件。
 
 <img src="/assets/ATeNbiEd0oxAPbxIsGlcHaR8nAg.png" src-width="1960" src-height="1018" align="center"/>
 
-**工單審核**
+<b>工單審核</b>
 
 - 批量修改列表頁展示上傳成功的數據
 - 點擊「詳情」按鈕，或在列表左側批量勾選多條數據，可單次或批量審核修改的工單申請
@@ -181,12 +181,23 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
 開戶類型分為 3 個步驟：選擇客戶/新建客戶、選擇客戶類型、選擇客戶國籍
 
 選擇客戶/新建客戶 
+選擇客戶：選擇已註冊客戶（APP 用戶），可通過客戶編號、電話、email、真實姓名、身份證進行搜索
+<img src="/assets/H5awbuCWwo1aJhxHdF5cAB7VnZc.png" src-width="3274" src-height="1178" align="center"/>
+新建客戶：未在系統註冊的客戶，可通過本作業創建。當前系統提供了多元的登錄方式供選擇：
+<b>系統預設產生 APP 帳號登錄</b>
+<b>手機號碼驗證碼登錄</b>
+<b>郵箱驗證登入</b>
+<img src="/assets/QYDjbAejMoz7DPxpqyZcI8FTn6f.png" src-width="3278" src-height="1196" align="center"/>
 
 選擇客戶類型，可選擇：個人客戶 /聯名客戶 /企業客戶
+<img src="/assets/IcOhbYRTwoSVY7xZaRscfwggnAc.png" src-width="3262" src-height="990" align="center"/>
+ 注意：若是企業帳戶，可以修改預設的公司戶的 CRS 企業實體類型
+<img src="/assets/WB3gbweu2oHcFlxskGucAKXfnvb.png" src-width="3250" src-height="1550" align="center"/>
 
 選擇客戶國籍，系統支持 200 + 國籍
+<img src="/assets/DbBbbZFxio9OljxNxbscRIx8nEc.png" src-width="3278" src-height="1184" align="center"/>
 
-##### **第二步**：上傳身份證件
+##### <b>第二步</b>：上傳身份證件
 
 分為 3 種類型客戶：
 
@@ -203,7 +214,7 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
     3. 如用戶選擇否，需上傳其他身份證
     <img src="/assets/USGxbv0LGoDII9xqZShcpN2Wn5N.png" src-width="3252" src-height="1822" align="center"/>
 
-##### **第三步**：上傳地址證明
+##### <b>第三步</b>：上傳地址證明
 
 分為 2 種類型客戶：
 
@@ -216,25 +227,27 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
     1. 需上傳居住地址證明
     <img src="/assets/E60Zb1Kf9omNqdxV2NIcIhYbn7g.png" src-width="3252" src-height="1604" align="center"/>
 
-##### **第四步**：填寫各類基礎信息
+##### <b>第四步</b>：填寫各類基礎信息
 
 主要是包含 職業資訊、納稅資訊、電子郵箱等信息。其中，
 
 納稅資訊，需填寫用戶納稅的國家/地區及納稅編號，最多支持填寫 10 個。包含以下字段：納稅國家/地區  與 納稅人編號
+<img src="/assets/IUn9bWB8Bo2rA3xgxPScUEjnnwd.png" src-width="3270" src-height="1438" align="center"/>
 
 電子郵箱：用戶用於接收結單、通知等通知。一個 App 的用戶郵箱唯一
 
 填寫聯繫手機號，多個客戶可使用相同的聯繫手機號
+<img src="/assets/N8sAbwRqMo28h5xg00ccwYRBnXy.png" src-width="3266" src-height="1430" align="center"/>
 
-##### **第五步**：填寫資產投資信息
+##### <b>第五步</b>：填寫資產投資信息
 
 <img src="/assets/Hv2mbZRgfovpUexgD60c9igRnLe.png" src-width="3258" src-height="1804" align="center"/>
 
-##### **第六步**：合規資訊確認
+##### <b>第六步</b>：合規資訊確認
 
 <img src="/assets/IKtMbo4BOoTGj1xQQ6Bcs2u4nwg.png" src-width="3254" src-height="1806" align="center"/>
 
-##### **第七步**：確認資訊
+##### <b>第七步</b>：確認資訊
 
 系統會按：身份證件/個人基礎信息/職業信息/資產投資信息/合規信息確認/關聯賬戶信息 等區塊排列，將客戶資料展示出來，方便按確認填寫訊息
 
@@ -244,7 +257,14 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
 
 <img src="/assets/EH4tbDobcoezA0xZPFicIpXNnce.png" src-width="3162" src-height="1142" align="center"/>
 
-##### **第八步**：選擇帳戶類型、上傳開戶文件
+##### <b>第八步</b>：選擇帳戶類型、上傳開戶文件
 
 上傳開戶文件及自定義文件： 
+1. 基礎文件為系統生成的開戶相關文件，後台填寫的資訊自動填寫；
+2. 業務人員可列印文件讓客戶簽字 
+<img src="/assets/OhtibaFRio6NoQxW07KcX1hWnPb.png" src-width="3258" src-height="1818" align="center"/>
+帳戶類型：可選擇開通融資帳戶、現金帳戶，系統支持同時多開帳戶
+<img src="/assets/UC8GbD6zeoPOP1xqlskcenB9n9g.png" src-width="3300" src-height="1678" align="center"/>
+其他配置資訊，包括：是否接收線下結單 /經紀人 /見證員工姓名 /牌照號碼 /證券號碼（可自定義輸入客戶帳號） /客戶聲明資訊確認
+<img src="/assets/Y7NPbdPp0oHjFVxowSAcSQSonYb.png" src-width="3262" src-height="1636"/>
 

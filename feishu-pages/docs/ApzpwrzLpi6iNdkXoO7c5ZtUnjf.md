@@ -42,10 +42,12 @@ sidebar_position: 12
 <img src="/assets/BXiVbUGYhoTmkHxrgCfcBbNjnEb.png" src-width="943" src-height="492" align="center"/>
 
 支持市場：
+- 公告類型為：通用公告、常規休市、臨時休市、通道問題，支持設置；
 
 <img src="/assets/E5Vib5QBjoXu7Axz7QNc2Ixendg.png" src-width="1118" src-height="676" align="center"/>
 
 標的範圍
+- 公告類型為：單股票，支持設置；
 
 <img src="/assets/Tvq2bgZhnocq3YxLPoCcYyWgn0e.png" src-width="1122" src-height="684" align="center"/>
 
@@ -58,6 +60,8 @@ sidebar_position: 12
 <img src="/assets/HtzybT7xfoq4KBxVCzEctgqYnmc.png" src-width="963" src-height="1380" align="center"/>
 
 當新增一個系統公告管理後：
+1. 新創建公告，提交工單審批，審批通過後才會生效；
+2. 可以在記錄右側操作區進行【編輯】或【禁用】
 
 <img src="/assets/Ha5SbWlPto8p07xhmqgclPAsnkb.png" src-width="3224" src-height="1506" align="center"/>
 

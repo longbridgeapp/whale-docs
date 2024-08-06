@@ -104,8 +104,10 @@ Whale系統提供了換匯的基礎參數設定與業務主流程操作功能。
 - 新建（匯率加點）：點選【新建】，在呼喚的彈跳窗中依照「參考匯率來源管道」以「幣種對」設定對應的加點
     - 幣種對選擇完畢後，系統將自動帶出對應的匯率參考
     - 加點的方式有「值」與「比值」2種方式
-
-<img src="/assets/S454bEII8omUagx8cNKcwQfRnZb.png" src-width="3320" src-height="1760" align="center"/>
+    - 「參考匯率」上設定加點數值：
+    <img src="/assets/S454bEII8omUagx8cNKcwQfRnZb.png" src-width="3320" src-height="1760" align="center"/>
+    - 「成交匯率」上設定加點數值：
+    <img src="/assets/BNrZbW1ZPoQI6CxAPMmc8HI6nYc.png" src-width="2360" src-height="1642" align="center"/>
 
 ### 大額設置
 

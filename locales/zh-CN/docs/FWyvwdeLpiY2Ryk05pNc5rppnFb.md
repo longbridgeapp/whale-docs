@@ -96,7 +96,7 @@ sidebar_position: 1
 
 <img src="/assets/KMhVbsIpvoEIUfxva4ccwC5Bn1b.png" src-width="2926" src-height="1558" align="center"/>
 
-#### 市场清算**一键清算**
+#### 市场清算<b>一键清算</b>
 
 当清算前准备执行完毕后，就可以点选有上方【开始一键清算】功能键，系统会自动从第一步开始执行，一直到清算交收作业（当没有错误发生时，系统会自动续执行下个作业）
 
@@ -118,11 +118,11 @@ sidebar_position: 1
 
 <img src="/assets/NueHb7DTWo1a5wxXXa0cgUI0nef.png" src-width="2922" src-height="1556" align="center"/>
 
-**日终数据同步（Client Trade）**
+<b>日终数据同步（Client Trade）</b>
 
 执行后会同步系统数据，含交易、日切点前的出入金、交易、开户等数据
 
-**清算前检查（Trade Match）**
+<b>清算前检查（Trade Match）</b>
 
 执行清算前检查步骤会自动触发时当日的交易对帐
 
@@ -144,13 +144,13 @@ sidebar_position: 1
 
 <img src="/assets/Smk5boPyXoXQ8ixK8TVcHl6dnY3.png" src-width="2920" src-height="1552" align="center"/>
 
-**清算计费**
+<b>清算计费</b>
 
 在清算计费步骤会生成前台合约，状态为待计费
 
 该步骤暂停执行的，可以编辑前台订单的收费
 
-**清算入帐**
+<b>清算入帐</b>
 
 根据计费帐单，股票本金和手续费作业务帐户处理，合约状态变由计算完成更为待交收，系统会生成 SDR018 系列报表
 
@@ -158,7 +158,7 @@ sidebar_position: 1
 
 注意 2：清算撤销（资产处理选择不处理的）后，此步骤已经完成的，清算计费和清算入帐为空跑，按原资料处理
 
-**清算交收**
+<b>清算交收</b>
 
 根据合约和调帐等其他流水进行仓位处理
 
@@ -196,7 +196,7 @@ sidebar_position: 1
 
 <img src="/assets/SUYubW4qsoZnAaxppnWcz7zUnYd.png" src-width="2912" src-height="1522" align="center"/>
 
-**数据汇总**
+<b>数据汇总</b>
 
 此操作前需要完成流水日期调整，证券组合费/融资利息的提前归本、金额调整
 
@@ -204,27 +204,27 @@ sidebar_position: 1
 
 数据汇总后操作流水日期调整、收盘价，需要重新点击数据汇总
 
-**清算中检查**
+<b>清算中检查</b>
 
 内部流水对帐、业务操作检查等
 
 检查可重复触发，排除问题后可重新触发检查
 
-**资金清算**
+<b>资金清算</b>
 
 执行融资利息计算、证券组合费、融券计算等任务
 
-**清算后检查**
+<b>清算后检查</b>
 
 清算后检查主要检查资金清算步骤的执行状况
 
-**结单生成**
+<b>结单生成</b>
 
 点击结单生成后，可生成结单
 
 结单已发送的，不能重新生成
 
-**日切**
+<b>日切</b>
 
 执行完日切流程后，当前系统帐务日会切换到下一日
 
@@ -238,7 +238,7 @@ sidebar_position: 1
 
 路径：清算管理&gt; 日终管理&gt;结单管理&gt;结单查询
 
-**系统支持在日切步骤汇总进行结单自动发送，但须事先配置，请联络 Whale 客服**
+<b>系统支持在日切步骤汇总进行结单自动发送，但须事先配置，请联络 Whale 客服</b>
 
 <img src="/assets/IxjDb8klLoPTI3x6nSacbWPanyb.png" src-width="3364" src-height="1452" align="center"/>
 
@@ -252,15 +252,15 @@ sidebar_position: 1
 
 T+2 日的早上可导出 ATI 交收指令，上传到 CCASS
 
-路径：清算管理  &gt; 市场清算  &gt;文件导出
+路径：清算管理 - 日终任务 - 交收指令导出
 
-买卖方向为空的，导出的为全部档
+支持导出未来日期的文件
 
-买卖方向为 1 的，导出的是买入交易的记录
+支持导出 HK、SZ、SH 多市场
 
-买卖方向为 2 的，导出的是卖出交易的档
+<img src="/assets/ZDg6bY3GeoWGc2xH4RYcQNXInFh.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/ERpJbbG4coaKB0x7Pavcp0n4ndf.png" src-width="2924" src-height="1560" align="center"/>
+<img src="/assets/VxwybTsHIoRmYPxDEyZcitSunNf.png" src-width="3574" src-height="1774" align="center"/>
 
 ### 持仓对帐
 

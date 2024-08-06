@@ -155,13 +155,18 @@ sidebar_position: 6
 
 ## 7K 問：暗盤平台費和正常交易平台費能否分開計算？
 
-答：先在相關客戶組按「編輯」，然後在平台費收費中按「編輯」，進去後在「特殊收費」中按「添加」，再在「訂單類型」選擇「暗盤」，最後輸入收費資料。
+答：在「業務參數設置＞計算管＞客户組計費配置」相關客戶組點擊「編輯」（見 7K 圖一），然後在平台費收費點擊「編輯」。（見 7K 圖二）
+在“特殊收費”點擊「添加」，“訂單類型”選擇「暗盤」後并輸入收費資料。（見 7K 圖三）
 
-<img src="/assets/Qjt5bEd8oonqIzx7aAHcF9o5nJg.png" src-width="2792" src-height="1374" align="center"/>
+<img src="/assets/BcNybt9EboDqzkxJaLIceaHDnmf.png" src-width="2866" src-height="1606" align="center"/>
+
+<em>7K 圖一</em>
 
 <img src="/assets/Qe1lbiWHoo2rcSxwiO3cxiZenEd.png" src-width="2790" src-height="1386" align="center"/>
 
-<img src="/assets/I6EwbZ7CyoDnNjxmL9gcQMzQnLw.png" src-width="2804" src-height="1452" align="center"/>
+<em>7K 圖二</em>
 
-<img src="/assets/NlNObQBBooVwRaxQiAJcTlDRnef.png" src-width="1324" src-height="1654" align="center"/>
+<img src="/assets/WELwbbklhol38RxG7Xdc1XJ7nOc.png" src-width="2864" src-height="1618" align="center"/>
+
+<em>7K 圖三</em>
 

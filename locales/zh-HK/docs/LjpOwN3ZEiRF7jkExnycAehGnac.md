@@ -75,9 +75,13 @@ sidebar_position: 10
 
 ## 11D 問：經紀人編號能否修改？
 
-答：經紀人編號不能修改，但可以選擇「凍結」該經紀人，也可以按「編輯」來修改電子郵箱，以釋放該電子郵箱。
+答：創建後經紀人編號不能點擊「編輯」修改。（見 11D 圖一）可以選擇「凍結」該經紀人，（見 11D 圖二）或修改電子郵箱，以釋放該電子郵箱作重新創建。
+
+<img src="/assets/QZvlbVJw2oFeXjxA7FNcenmFnb4.png" src-width="2700" src-height="1376" align="center"/>
+
+<em>11D 圖一</em>
 
 <img src="/assets/YLAsbfExUoDjtqx98y6cW4xoncb.png" src-width="2842" src-height="1314" align="center"/>
 
-<img src="/assets/Pl9EbaIx9osOt8x0lODcTBscn0g.png" src-width="2858" src-height="1604" align="center"/>
+<em>11D 圖二</em>
 

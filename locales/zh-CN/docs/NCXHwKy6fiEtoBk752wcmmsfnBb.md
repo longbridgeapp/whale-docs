@@ -1,7 +1,7 @@
 ---
 title: 系统介绍
 slug: NCXHwKy6fiEtoBk752wcmmsfnBb
-sidebar_position: 8
+sidebar_position: 2
 ---
 
 
@@ -30,7 +30,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/VLmgbUNTwo06PNxxyHccfQuon2b.png" src-width="3828" src-height="1614" align="center"/>
 
-**操作按钮说明**
+<b>操作按钮说明</b>
 
 - 新建：可根据券商公司需求自定义会计科目属性。
 - 编辑：对已经添加的科目属性可以进行人工编辑。
@@ -42,7 +42,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/Pj7Fb49Rvo0Kl5xYgmvcrOwwnNc.png" src-width="3820" src-height="1622" align="center"/>
 
-**操作按钮说明**
+<b>操作按钮说明</b>
 
 - 批量导入：如果券商公司需要大量添加会计科目，可以选择批量导入，大批量新增会计科目。
 - 新建：可根据券商公司需求单笔自定义会计科目。
@@ -55,7 +55,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/ESmSbOsTzoRK7jxkODlcsYSZnXf.png" src-width="3814" src-height="1524" align="center"/>
 
-**操作按钮说明**
+<b>操作按钮说明</b>
 
 - 新增：可根据券商公司需求新增各业务的分录规则。
 - 编辑：对已经添加的分录规则可以进行人工编辑。
@@ -68,7 +68,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/TopPbU9GCosOBdx3qzrc7SehnDe.png" src-width="3792" src-height="1462" align="center"/>
 
-**操作按钮说明**
+<b>操作按钮说明</b>
 
 - 新建：可根据券商公司银行账单新建不同资金类型标签。
 - 删除：对已经添加的资金类型可以进行删除。
@@ -79,7 +79,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/OL9KbJyoSoCtfCxXKPhcmFcjn8d.png" src-width="3834" src-height="1452" align="center"/>
 
-**操作按钮说明**
+<b>操作按钮说明</b>
 
 - 新建：可根据券商公司需求新增报表的合并规则。
 - 编辑：对已经添加的合并规则可以进行人工编辑。

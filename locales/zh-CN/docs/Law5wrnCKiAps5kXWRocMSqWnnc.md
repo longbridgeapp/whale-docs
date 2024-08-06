@@ -226,9 +226,22 @@ xxx 证券
 
 <em>1.1U 图二</em>
 
-## 1.1V 问：为什么开户审核完成初审后，未能到「RO 审核」阶段。
+## 1.1V 问：为什么开户审核完成初审后，未能到「RO 审核」阶段？
 
-答：请留意「风险规则」内容，如：纳税地区与居住地区国籍不一致，须要在「操作」填写风险资料。
+答：请留意「风险规则」内容，如：纳税地区与居住地区国籍不一致，须要填写回风险资料。
 
-<img src="/assets/PPj7bnuacozisZxNivacTmEpnLe.png" src-width="2314" src-height="1146" align="center"/>
+<img src="/assets/QCpvbFgAuoHpN0xRbStcxjUJnBh.png" src-width="2718" src-height="1126" align="center"/>
+
+## 1.1W 问：客户开户修改见证方式，须要驳回至哪个开户页面？
+
+答：在「KYC&gt;开户列表」点击「驳回」可剔选“证件上传页”的选项，把申请退回给客户修改。（见 1.1W 图一）
+或在「备注」输入驳回内容，然后在“驳回页面”中选择「证件上传页」退回开户申请。（见 1.1W 图二）
+
+<img src="/assets/XnEzbwb2XoaKLpxttXRcbh2hnhe.png" src-width="2718" src-height="1364" align="center"/>
+
+<em>1.1W 图一</em>
+
+<img src="/assets/EwmTbaZyQoBbSBxdyKlcaP77nBe.png" src-width="2722" src-height="1370" align="center"/>
+
+<em>1.1W 图二</em>
 

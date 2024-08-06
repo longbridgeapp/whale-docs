@@ -13,7 +13,7 @@ sidebar_position: 19
 
 ## 20B 问：为何上传「批量发放卡券奖励」模板文件失败？
 
-答：请留意模板文件的「活动 code」和「奖品 code」字段只能填写字母和数字。
+答：模板文件的「活动 code」和「奖品 code」字段只能填写英文字母和数字，如输入了中文字、特殊符号会引致不能导入。
 
 <img src="/assets/F5ugbjNByonkiax0uSjcu7E6nxg.png" src-width="2842" src-height="1374" align="center"/>
 

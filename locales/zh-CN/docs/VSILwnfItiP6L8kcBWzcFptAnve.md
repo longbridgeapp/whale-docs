@@ -63,19 +63,19 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 ### 直接出帐
 
-**步骤一**：进入提现处理 tab 页下的待处理分类页面，选择目标记录，确认资讯无误后点选【直接出帐】
+<b>步骤一</b>：进入提现处理 tab 页下的待处理分类页面，选择目标记录，确认资讯无误后点选【直接出帐】
 
 <img src="/assets/P3bibjGXxo2tRYxB6U1cAJc4nrc.png" src-width="3310" src-height="1716" align="center"/>
 
-**步骤二**：在出现的弹跳窗内输入银行名称、银行帐户、通路、银行流水（如有），点选【提交审核】（_若不需要工单审批，可以进行配置，详见步骤五_）
+<b>步骤二</b>：在出现的弹跳窗内输入银行名称、银行帐户、通路、银行流水（如有），点选【提交审核】（<em>若不需要工单审批，可以进行配置，详见步骤五</em>）
 
 <img src="/assets/ROgZbn9cMosrZNx2KbrcKnRunDb.png" src-width="3326" src-height="1776" align="center"/>
 
-**步骤三**：进入工单系统，找到刚提交审核的记录进行审核
+<b>步骤三</b>：进入工单系统，找到刚提交审核的记录进行审核
 
 <img src="/assets/MXI1b4TcUoVXkhxUeW0ceaxtndb.png" src-width="3824" src-height="1848" align="center"/>
 
-**步骤四**：进入直接出帐待处理分类页面中的目标记录，点选【检视并更新结果】手动更新出金的状态，更新成「成功」后即可完成出账
+<b>步骤四</b>：进入直接出帐待处理分类页面中的目标记录，点选【检视并更新结果】手动更新出金的状态，更新成「成功」后即可完成出账
 
 <img src="/assets/IpTsbedS3ot6bsxwXYtcjX7WnUh.png" src-width="3320" src-height="1020" align="center"/>
 
@@ -89,23 +89,23 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 ### 打包处理
 
-**步骤一**：在待处理分类下，选择多笔目标记录后点选【打包提审】
+<b>步骤一</b>：在待处理分类下，选择多笔目标记录后点选【打包提审】
 
 <img src="/assets/SsCybNzIvoso8hxGqnAcEUSjnCe.png" src-width="3298" src-height="1470" align="center"/>
 
-**步骤二**：在出现的跳窗中，填写相关银行资料后，点选【提交审核】
+<b>步骤二</b>：在出现的跳窗中，填写相关银行资料后，点选【提交审核】
 
 <img src="/assets/JOYtbKzqGo14jKxpSyXcrYcyn8e.png" src-width="3318" src-height="1760" align="center"/>
 
-**步骤三：进入打包待处理分类，选取刚刚打包好的批次，点选【审批】，在被召唤的工单中审批通过**
+<b>步骤三：进入打包待处理分类，选取刚刚打包好的批次，点选【审批】，在被召唤的工单中审批通过</b>
 
 <img src="/assets/B2w3bM3T8o5866xyHAPc56xsnGe.png" src-width="3304" src-height="1024" align="center"/>
 
-**步骤四：点选批次记录中的【检视并更新结果】进入弹跳窗内，依照批次内的明细记录实际出金情况进行手动更新为「成功」（可批次操作）**
+<b>步骤四：点选批次记录中的【检视并更新结果】进入弹跳窗内，依照批次内的明细记录实际出金情况进行手动更新为「成功」（可批次操作）</b>
 
 <img src="/assets/TCNlbkuaioHyRix5pqVcMXYTnlh.png" src-width="3318" src-height="1764" align="center"/>
 
-**步骤五：进入工单系统中针对刚刚更新的结果再次进行审核通过，即可完成出帐**
+<b>步骤五：进入工单系统中针对刚刚更新的结果再次进行审核通过，即可完成出帐</b>
 
 <img src="/assets/X8QJbJMBqohOYaxzDfdcPSZJnvb.png" src-width="3808" src-height="1868" align="center"/>
 
@@ -115,11 +115,11 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 指用户相应出金的管道可能存在每日限额，所以为了降低出金异常情况，建立了出金日限额监控提示以及管理。
 
-**步骤一：进入““业务参数设定&gt;出金规则&gt;日限额 tab””，目前页面展示已设定好的限额记录**
+<b>步骤一：进入““业务参数设定&gt;出金规则&gt;日限额 tab””，目前页面展示已设定好的限额记录</b>
 
 <img src="/assets/Jt1Ibr0EOoUpr0xa4WBcTOg7nGf.png" src-width="3836" src-height="1770" align="center"/>
 
-**步骤二：若需要新增限额，点选【新建】，进入弹窗填入对应的栏位后点选【确定】**
+<b>步骤二：若需要新增限额，点选【新建】，进入弹窗填入对应的栏位后点选【确定】</b>
 
 <img src="/assets/EXJlbKAfGoFcwQxhFhCchB6knig.png" src-width="3834" src-height="1858" align="center"/>
 
@@ -143,11 +143,11 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 在实际业务中，出金可能会因种种原因被银行拒绝，该部分记录会被标记为异常，需要人工单独处理
 
-**步骤一：进入待处理页面选择目标记录，点选【处理】，在弹跳窗中的 4 种方式中选择 1 种，点选【确定】**
+<b>步骤一：进入待处理页面选择目标记录，点选【处理】，在弹跳窗中的 4 种方式中选择 1 种，点选【确定】</b>
 
 <img src="/assets/XlR7b1WZYoMiR3xZdvjcutWrnTf.png" src-width="3322" src-height="1696" align="center"/>
 
-**步骤二：进入待审核页面，选择目标记录后进行复核**
+<b>步骤二：进入待审核页面，选择目标记录后进行复核</b>
 
 <img src="/assets/IckcbV6CYomj0ZxQLJJc7p7sntf.png" src-width="3288" src-height="1218" align="center"/>
 

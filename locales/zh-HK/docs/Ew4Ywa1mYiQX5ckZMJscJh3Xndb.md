@@ -13,7 +13,7 @@ sidebar_position: 19
 
 ## 20B 問：為何上傳「批量發放卡券獎勵」模板文件失敗？
 
-答：請留意模板文件的「活動 code」和「獎品 code」字段只能填寫字母和數字。
+答：模板文件的「活動 code」和「獎品 code」字段只能填寫英文字母和數字，如輸入了中文字、特殊符號會引致不能導入。
 
 <img src="/assets/F5ugbjNByonkiax0uSjcu7E6nxg.png" src-width="2842" src-height="1374" align="center"/>
 

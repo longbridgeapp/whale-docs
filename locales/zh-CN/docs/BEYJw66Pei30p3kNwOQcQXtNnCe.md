@@ -44,15 +44,11 @@ Whale 风控系统全面支持券商处理风控业务相关流程，包括额�
 
 <img src="/assets/L5m1bb3piop3thxbL97c6AjdnNb.png" src-width="3726" src-height="1568" align="center"/>
 
-授信客户参数配置修改页面
-
 ### 客户额度查询
 
 所有已授信客户可在「客户额度」页面进行查看其授予额度及额度使用情况
 
 <img src="/assets/LzzObsHuKoKuTzxb13EclU2TnHc.png" src-width="3696" src-height="1412" align="center"/>
-
-客户额度查询列表页
 
 ### 额度调整及审批
 
@@ -95,6 +91,4 @@ Whale 风控系统全面支持券商处理风控业务相关流程，包括额�
 支持设置股票或客户级别保证金，保证金计算会按“客户保证金&gt;股票保证金”的优先级逻辑处理。
 
 <img src="/assets/KiZzbuMbbobwDixGIMVceRVxnab.png" src-width="3688" src-height="1558" align="center"/>
-
-保证金设置页面
 

@@ -1,15 +1,22 @@
 ---
-title: 21. 网页版问题
+title: 21. 网页版 (web trade) 问题
 slug: PsNuwqSv3i0dafkworPcEyhen5g
 sidebar_position: 20
 ---
 
 
-# 21. 网页版问题
+# 21. 网页版 (web trade) 问题
 
-## 21A 问：网页版如何更换显示的语言？
+## 21A 问：网页版 (web trade) 如何更换显示的语言？
 
-答：网页版的语言是跟随 APP 设置的语言，可以在 APP 的「我的」-&gt;「设置」-&gt;「通用」-&gt;「语言设置」来修改显示语言。
+答：网页版的语言是跟随 App 语言设置。在 App 的「我的」-&gt;「设置」-&gt;「通用」-&gt;「语言设置」修改显示语言并扫描登录。
 
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[29%]" width-ratio="29">
 <img src="/assets/TwbxbaE0Ko5eFWxiSZCcUJ6WnKf.png" src-width="682" src-height="754" align="center"/>
+</div>
+<div class="w-[70%]" width-ratio="70">
+<img src="/assets/IXXJbcmcEoLzHIxTM1ace5XDnCc.png" src-width="2700" src-height="1256" align="center"/>
+</div>
+</div>
 

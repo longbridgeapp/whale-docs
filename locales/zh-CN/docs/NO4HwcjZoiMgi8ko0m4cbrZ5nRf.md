@@ -7,15 +7,15 @@ sidebar_position: 2
 
 # 系统介绍
 
-# 一、系统介绍
+## 一、系统介绍
 
 清算系统主要通过日终任务串联功能。日终任务分成两个模块，一个是市场清算，一个是日终管理。市场清算处理交易数据为主，用于各市场的计费、交收流程。日终清算处理涵盖交易、调帐、公司行动在内的全部数据，进行利息计算，最终输出报表和结单
 
-# 二、系统设定
+## 二、系统设定
 
-## 市场管理配置
+### 市场管理配置
 
-### **服务商资料管理**
+#### <b>服务商资料管理</b>
 
 主要用于维护服务商的基础信息。可新增、编辑，删除
 
@@ -23,7 +23,7 @@ sidebar_position: 2
 
 <img src="/assets/OlHCbC5dmoF8iMxWPMQcf86qnwg.png" src-width="3548" src-height="1806" align="center"/>
 
-### **子仓资料**
+#### <b>子仓资料</b>
 
 主要用于维护托管商子仓的基础信息。可新增、编辑、删除
 
@@ -33,41 +33,69 @@ sidebar_position: 2
 
 <img src="/assets/Xu5IbVllGo8T9zx64JrciOUhnCf.png" src-width="3548" src-height="1806" align="center"/>
 
-### **结算渠道资料**
+#### <b>结算渠道资料</b>
 
 主要用于维护结算渠道基础信息，可新增、编辑、删除。新增、编辑时可选择的服务商必须事先在服务商资料中配置，且服务商类型为代理商。配置交收、仓位规则时需要用到该配置项
 
 <img src="/assets/R4yxbJdE8oIHHvxzX6Vcx37Tnsg.png" src-width="3548" src-height="1806" align="center"/>
 
-### **交收仓位规则管理**
+#### <b>交收仓位规则管理</b>
 
-**市场层规则**
+<b>市场层规则</b>
 
 每个市场可分别配置一条规则
 
 特殊字段说明：
+- 隔夜市场：隔夜市场选择是的，系统处理时账务日期=交易日期 +1。长桥将美股市场作为隔夜市场
+- 默认托管商、默认子仓编号：在未匹配到业务规则的情况下，仓位处理时取该配置
 
 <img src="/assets/L9TBbxYoWozjRCx8DU2ca5BZnDc.png" src-width="3548" src-height="1806" align="center"/>
 
-**业务层规则**
+<b>业务层规则</b>
+可以在业务层配置交收和仓位处理规则，一条规则可同时对交收和仓位服务起作用
 
 依赖交收仓位基础对象的配置
 
 字段说明：
+组织号选 ALL
+柜台选 ALL
+合约
+暗盘和非暗盘的可单独设置规则
+买卖方向
+可针对买、卖设置规则
+期权类别
+针对美股期权起作用，可根据期权类别设置规则
+枚举包括权利仓、义务仓
+指令类型
+针对满足上述条件的流水，可生成交收指令
+指令类型包括 ATI、STI、SI、ISI
+交收方式
+针对满足上述条件的流水，可生成交收指令
+交收方式包括 FOP、RDP、DVP
+默认托管仓
+针对满足规则的持仓变动，在配置的托管商上进行仓位处理
+托管商的枚举为服务商资料商已新增的服务商，且性质为托管商
+默认子仓
+针对满足规则的持仓变动，在配置的子仓上进行仓位处理
+子仓的枚举为子仓资料已新增的子仓
 
 <img src="/assets/IZCjbBSiOoCmwaxdG0GcMSIhnwh.png" src-width="3548" src-height="1806" align="center"/>
 
-## 日终任务配置
+### 日终任务配置
 
-路径：清算管理&gt;市场清算&gt;日终任务&gt;日终任务配置
+路径：清算管理&gt;市场清算&gt;日终任务&gt;日终设置
 
-<img src="/assets/OhZQbA40KoFvGNxcbz8c2A5JnSF.png" src-width="2522" src-height="1207" align="center"/>
+<img src="/assets/GA3hb6ICYoiMPdxyDfzcogw0nJg.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/A73KbZ4SMoafvlxvz35cWPI3nHe.png" src-width="2462" src-height="502" align="center"/>
+<b>市场交收配置</b>
 
 点击新建新增分组
 
 根据劵商交易市场帐务处理顺序，配置市场执行的群组配置
+常规是按时间区段将接近相同地域市场配置在一起：例 欧美市场/亚洲市场 
+租户劵商也可根据需要，将一些市场清算独立出来
+
+<img src="/assets/Sf2ObkeXUouFpIxcoELcABi2nsh.png" src-width="3574" src-height="1774" align="center"/>
 
 <img src="/assets/TP1ybFelmoRXmWx8G0kcMfIVnJo.png" src-width="2440" src-height="934" align="center"/>
 
@@ -75,17 +103,38 @@ sidebar_position: 2
 
 <img src="/assets/Bv9DbAUeOoPJC3xZxDwcf2l9nTb.png" src-width="2436" src-height="888" align="center"/>
 
-## 计费配置
+<b>清算前准备配置</b>
+可编辑时间段：操作日终任务之前
+检查阶段释义：交易清算（数据同步 - 清算交收之前的检查项目）；日终清结算（数据汇总 - 日切之前的检查项目）
+失败后处理释义：仅提醒（不会拦截流程，仅提示）、工单审核（会拦截流程，但是可以手动通过）、强制校验（会拦截流程，必须通过）
+支持的操作：开启/关闭，选择失败后的处理方式
+编辑时需要审批，工单标识：clearing.before_clearing_ready.setting       
+其它：部分检查项目要求强制检查，不允许编辑
+<img src="/assets/GoEYbJGiAo9VO6xVWL1cJQsnnpf.png" src-width="3574" src-height="1774" align="center"/>
 
-### 收费场景
+<b>清算参数配置</b>
+
+可编辑时间段：操作日终任务之前
+
+编辑清算初始化配置时需要审批，工单标识：clearing.update_system_config.exec
+
+注意：需要联系技术人员后修改
+
+<img src="/assets/Nai0bUEJVoAqXKxW1QwcN5cCnih.png" src-width="3574" src-height="1774" align="center"/>
+
+### 计费配置
+
+#### 收费场景
 
 可在收费场景配置配置各个证券市场、融资、融券的基础收费场景，为套餐创建做准备。场景为业务类型 + 收费类型的组合
 
-**字段说明**
+<b>字段说明</b>
 
 业务类型包括股票交易、融资利息、存款利息、出金交易、期权交易、转仓手续费
+匹配条件之一，满足此条件的流水，按计算规则收费。只能选择，不能新增
 
 收费类型包括佣金、平台费、印花税等
+计算规则之一，满足匹配条件的流水，收取该费用。只能选择，不能新增
 
 计费依据：匹配条件之一。满足此条件的，按此规则计费。股票交易选择市场，融资交易选择币种
 
@@ -99,33 +148,46 @@ sidebar_position: 2
 
 <img src="/assets/MhgcbTcFaolc12xafw8crlbUn6y.png" src-width="3548" src-height="1806" align="center"/>
 
-### 客户组管理
+#### 客户组管理
 
 在客户组计费配置可维护客户组。支持增、删、改。全局客户组（默认客户组）不支持删除
 
 <img src="/assets/M3cubDB6foOYUyxdjuUc8vjAnj6.png" src-width="3548" src-height="1806" align="center"/>
 
-**字段说明**
+<b>字段说明</b>
+客户组类型：用于区分套餐的类别
+通用套餐：有别于默认套餐，有通用套餐的先用通用套餐的规则
+FD 机构：在 FD 模式中针对 FD 机构设置的套餐，用于筛选不同机构的套餐。一般多租户用不到
 
 套餐名称：用户可自定义，方便筛选用
 
 合单规则（未选择不合单）。设置值后，对应市场的套餐将按合单规则进行合单
 
 阈值（计费门槛）：大于设置值的流水才进行收费。该字段对其计算方式的设置值。例子：计费方式设置为交易金额，阈值（计费门槛）设置为 1000，则交易金额&gt;1000 才收费
+费率：
+<b>固定费率：收费金额=值</b><b>x</b><b>费率</b>
+计算方式为交易金额、持仓市值，则费率值为交。费率，不带%。例子：按照交易金额的 1% 收费，则费率填 0.01
+计算方式为交易股数、按期权张数、计费合约数量、订单笔数、成交笔数，则费率值填写每股（张、订单……）的收费金额。
+计算方式为非预期上游回报费用的，填写 0，实际不起作用，收费金额=上游收费值
+<b>单笔阶梯费率：针对单笔统计单位生效。收费金额=阶梯结束值 1</b><b>x</b><b>费率 1+ （阶梯结束值 2-阶梯结束值 1）</b><b>x</b><b>费率 2+……+ （阶梯结束值 N-阶梯结束值 N-1）</b><b>x</b><b>费率 N</b>
+阶梯输入规则：输入时，左开右闭，最后一个阶梯值为 0。如图阶梯为大于 1&lt;=3
 
 <img src="/assets/XIJFb9aG1oMdFixZFJFcKmH2nTh.png" src-width="1398" src-height="432" align="center"/>
 
 按月阶梯费率：后台统计每月的交易金额总量，系统判断到该笔累计的交易处于哪一梯度，则按该梯度的费率计费
+收费金额= 该笔交易金额（交易笔数等）x 费率
+跨梯度的则将交易金额拆开计算，用各自的费率计算后再叠加
+按月阶梯的累积值从月初开始统计，而不是设置是时开始统计
 
 费率币种：收费币种，计算方式的枚举值自带币种的，按照枚举值的币种。若计算方式为交易金额的，收费币种按照交易金额的币种
 
 最低、最高收费：略
 
-不超过交易金额比例：收费的金额不大于交易金额*设置值/100。业务类型为股票交易、期权交易的才可选择设置。
+不超过交易金额比例：收费的金额不大于交易金额 x 设置值/100。业务类型为股票交易、期权交易的才可选择设置。
 
-## 结单配置
+### 结单配置
 
-### 结单模版设置
+#### 结单模版设置
 
 路径：清算管理&gt; 日终管理&gt;结单管理&gt;结单模板 
 
@@ -140,10 +202,15 @@ sidebar_position: 2
 <img src="/assets/TLIZbgU33oJRh4xWv4FcJKxxnKe.png" src-width="2908" src-height="1546" align="center"/>
 
 结单模板新增结单语言配置功能（支持 5 种语言设置方式）
+- 跟随系统：跟随客户 app 设置语言进行展示
+- 全局设定（英语）：所有客户结单均为英文
+- 全局设定（简体中文）：所有客户结单均为简体中文
+- 全局设定（繁体中文）：所有客户结单均为繁体中文
+- 全局设定（繁体中文&英语）：所有客户结单均为双语（繁体中文 + 英文）
 
 <img src="/assets/PRTcbNWcJofdyTxliqBcz0Cjnic.png" src-width="2476" src-height="1420" align="center"/>
 
-### 结单配置
+#### 结单配置
 
 本作业用来配置管理：客户结单是否线下发送/是否接受邮件和 APP 通知/未配置的按线下发送为否/提醒全部开启处理 等配置项
 
@@ -161,7 +228,7 @@ sidebar_position: 2
 
 <img src="/assets/BC5DboP39oaRsWxSUMQc3E3Pn6d.png" src-width="3364" src-height="1410" align="center"/>
 
-### 客户备注
+#### 客户备注
 
 路径：清算管理&gt; 日终管理&gt;结单管理&gt;客户备注
 
@@ -171,7 +238,7 @@ sidebar_position: 2
 
 <img src="/assets/FRowbvuURoZz1pxINv7c7tnZnSf.png" src-width="3116" src-height="1132" align="center"/>
 
-可以点选右上角【新增备注】，根据需要新增 日结单/月结单/临时结单/DA 结单上对应客户备注
+可以点选右上角【新增备注】，根据需要新增 日结单/月结单 结单上对应客户备注
 
 <img src="/assets/Nkj5bw2DJoOgaExDNhKcPZ3Fnth.png" src-width="3368" src-height="1462" align="center"/>
 
@@ -187,7 +254,7 @@ sidebar_position: 2
 
 <img src="/assets/XkDibU6pooVfjMxUf0Wc3Zb9nCg.png" src-width="3358" src-height="1240" align="center"/>
 
-### DA 结单配置
+#### DA 结单配置
 
 路径：清算管理&gt; 日终管理&gt;结单管理&gt;DA 结单配置
 
@@ -197,9 +264,9 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/YLlMbWxzqojCKjx5hxucHqJznnh.png" src-width="3346" src-height="1456" align="center"/>
 
-# 三、市场清算（交易清算）操作说明
+## 三、市场清算（交易清算）操作说明
 
-## 对手方文件转入（Broker Trade）
+### 对手方文件转入（Broker Trade）
 
 路径：清算管理&gt;文件处理&gt;文件导入 
 
@@ -217,7 +284,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/JQnUbsLgmoo5EmxADRwcD7DZnvg.png" src-width="2910" src-height="1548" align="center"/>
 
-## 清算前准备
+### 清算前准备
 
 该功能的目的是检查执行日终任务前是否完成了相关配置和当天业务操作。市场清算和日终清算有不同的检查项目
 
@@ -226,6 +293,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 <img src="/assets/U5D2b9haIocbEtxskspcDZrzn5d.png" src-width="2908" src-height="1540" align="center"/>
 
 执行后，5 秒内会返回检查结果。全部检查都通过的，可以进行后续操作
+检查报错的，点击检查项目右上角可查看检查项目的规则和操作指引
 
 <img src="/assets/HyXnbsgDMoWndSx7NEVclBnPnch.png" src-width="2906" src-height="1548" align="center"/>
 
@@ -295,7 +363,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 </tbody>
 </table>
 
-## 市场清算**一键清算**
+### 市场清算<b>一键清算</b>
 
 当清算前准备执行完毕后，就可以点选有上方【开始一键清算】功能键，系统会自动从第一步开始执行，一直到清算交收作业（当没有错误发生时，系统会自动续执行下个作业）
 
@@ -317,11 +385,11 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/PZbibMo0yozKWYx4DX1cNbC4nqg.png" src-width="2922" src-height="1556" align="center"/>
 
-### 数据同步（Client Trade）
+#### 数据同步（Client Trade）
 
 点击执行后会同步系统数据（交易、日切点前的出入金、交易、开户等数据）
 
-### 清算前检查（Trade Match）
+#### 清算前检查（Trade Match）
 
 在日终流程中点击清算前检查步骤会：自动触发当日的交易对帐
 
@@ -329,13 +397,13 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/HujDbj6wko4Zrgx3o0CcBGYXntf.png" src-width="2904" src-height="1544" align="center"/>
 
-**对帐结果查询**
+<b>对帐结果查询</b>
 
-可在**清算检查 - 交易对账**页面分别查询各市场的交易对帐
+可在<b>清算检查 - 交易对账</b>页面分别查询各市场的交易对帐
 
 每次点击检查会生成最新的检查结果，只需要维护最新的检查结果
 
-可在**交易对帐**页面查询交易对帐的差异明细、对帐总览讯息；
+可在<b>交易对帐</b>页面查询交易对帐的差异明细、对帐总览讯息；
 
 点击本端档案可查询本端明细；点击对手端档案可查询对手端明细
 
@@ -343,7 +411,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/S8MtbgmR2oh4IYxMfEHck5R3nTh.png" src-width="3566" src-height="1732" align="center"/>
 
-**特殊场景手动通过**
+<b>特殊场景手动通过</b>
 
 对手端档导入错误：在档导入介面，重新导入对手端档，然后重新点击清算前检查 
 
@@ -353,35 +421,46 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/NoJ5bSM4vomhhax2lhUcieEMnae.png" src-width="2920" src-height="1552" align="center"/>
 
-### 清算计费
+#### 清算计费
 
 在清算计费步骤会生成前台合约，状态为待计费
 
 该步骤暂停执行的，可以编辑前台订单的收费
 
-### 清算入帐
+#### 清算入帐
 
 执行完毕后：
+根据计费帐单，股票本金和手续费作业务帐户处理
+合约状态变由计算完成更为待交收
+系统会生成 SDR018 系列报表
 
 注意 1：后台补单必须在该步骤之前操作完成
 
 注意 2：清算撤销（资产处理选择不处理的）后，此步骤已经完成的，清算计费和清算入帐为空跑，按原资料处理
 
-### 清算交收
+#### 清算交收
 
 执行后：
+根据合约和调帐等其他流水进行仓位处理
+对应日期的合约变更为交收完成
+生成仓位数据
+生成 ATI 等指令
+生成临时持仓，用于处理公司行动
 
-# 四、日终清算（非交易清算）操作说明
+## 四、日终清算（非交易清算）操作说明
 
-## 清算前准备
+### 清算前准备
 
 在正式执行日终清算前，需要先执行清算前准备
+必须在完成所有的市场清算后再操作
+检查是否完成了当天所有的业务操作
+操作方式同市场清算，详见上文
 
 <img src="/assets/JJVQbvFSuoMkdXxs9sRc8cBfnAe.png" src-width="2492" src-height="1412" align="center"/>
 
 <img src="/assets/P69dbSKKvodCRhx3XzDc9UJPnaf.png" src-width="2434" src-height="1418" align="center"/>
 
-## 日终清算一键清算
+### 日终清算一键清算
 
 当清算前准备执行完毕后，就可以点选有上方【开始一键清算】功能键
 
@@ -391,7 +470,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/Hi7Lbn8ufoHjJAxccc6cPRV7nTc.png" src-width="2912" src-height="1522" align="center"/>
 
-### 数据汇总
+#### 数据汇总
 
 此操作前需要完成流水日期调整，证券组合费/融资利息的提前归本、金额调整
 
@@ -399,7 +478,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 数据汇总后操作流水日期调整、收盘价，需要重新点击数据汇总
 
-### 清算中检查
+#### 清算中检查
 
 内部流水对帐、业务操作检查等（不断扩充中）
 
@@ -409,11 +488,11 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/JH5ybYIFqo3GxzxN5oUc1GDwnic.png" src-width="2846" src-height="1418" align="center"/>
 
-### 资金清算
+#### 资金清算
 
 执行融资利息计算、证券组合费、融券计算等任务
 
-### 清算后检查
+#### 清算后检查
 
 内部流水对帐、业务操作检查等
 
@@ -421,7 +500,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 清算中检查手动通过的操作方式类似交易对帐
 
-### 结单生成
+#### 结单生成
 
 <img src="/assets/DMYWbK1ZmoSxlKxpimicH0EGnOe.png" src-width="3364" src-height="1452" align="center"/>
 
@@ -437,25 +516,25 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/NVv4bf0bvoH4Fmxwr4dcPg2fnsg.png" src-width="3362" src-height="1368" align="center"/>
 
-### 日切
+#### 日切
 
 执行完日切流程后，当前系统帐务日会切换到下一日。进行了融资利息等的结算操作，触发了经纪人分成计算的任务
 
-# 五、交收指令导出
+## 五、交收指令导出
 
-路径：清算管理  &gt; 市场清算  &gt;文件导出
+T+2 日的早上可导出 ATI 交收指令，上传到 CCASS
 
-系统最早可在交易日的清算交收步骤后就可导出 T+N 的文件。在文件导出可下载 ATI 档
+路径：清算管理 - 日终任务 - 交收指令导出
 
-买卖方向为空的，导出的为全部档
+支持导出未来日期的文件
 
-买卖方向为 1 的，导出的是买入交易的记录
+支持导出 HK、SZ、SH 多市场
 
-买卖方向为 2 的，导出的是卖出交易的档
+<img src="/assets/I9Wgb8c5doirwUxzZ9Xc9yN8nle.png" src-width="3574" src-height="1774" align="center"/>
 
-<img src="/assets/Vv0WbJq8ZoRN3ExHtSZcKm4JnEg.png" src-width="2924" src-height="1560" align="center"/>
+<img src="/assets/AjoWbZWNho9sDdxQlsGcrWDGnKg.png" src-width="3574" src-height="1774" align="center"/>
 
-# 六、持仓对帐
+## 六、持仓对帐
 
 在文件导入界面可导入持仓文件，部分文件可直接系统触发对帐处理
 
@@ -471,13 +550,13 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 <img src="/assets/XulibqZa0oMH4Hx5B96cB4PAnX3.png" src-width="2914" src-height="1526" align="center"/>
 
-# 七、非交易流水编辑日期
+## 七、非交易流水编辑日期
 
 本作业主要是市场清算后，若想要改变原本日终所计算的流水入帐日期，也就是进行资金/持仓的流水日期调整，新机制下通过修改前台帐户日期实现
 
 路径：清算管理  &gt; 市场清算  &gt; 流水管理
 
-## 单笔流水日期编辑
+### 单笔流水日期编辑
 
 资金和持仓流水需要在不同页面 Tab 上操作，找到流水纪录点击编辑
 
@@ -493,7 +572,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 在日终任务中重新点击数据汇总
 
-## 批量流水日期编辑
+### 批量流水日期编辑
 
 先选中流水纪录，然后点击批量编辑帐务日期
 
@@ -501,19 +580,19 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 在日终任务中重新点击数据汇总
 
-## 通过业务码批量编辑日期
+### 通过业务码批量编辑日期
 
 注意：批量调整日期的，需要事先确认该业务码是否支持编辑，边界后需要在页面观察最终结果
 
 <img src="/assets/Fsosb77I6onLl1xp9NmcJ44CnBe.png" src-width="3356" src-height="1344" align="center"/>
 
-## 更新数据
+### 更新数据
 
 流水同步为准实时。提交后，可刷新当前账务日期的全部数据。
 
 <img src="/assets/Ba0bbLaHpoKMBcx6Ms5cc1T9nVb.png" src-width="3578" src-height="1798" align="center"/>
 
-# 八、后台客户**合约补单和券商快捷补单**
+## 八、后台客户<b>合约补单和券商快捷补单</b>
 
 提供新增客户补单与劵商快捷补单的合约记录功能，这个补单就是业务上所谓的 Client trade 与 Broker trade 补单
 
@@ -523,7 +602,7 @@ DA 帐户开户后会默认配置为按 3 月/6 月/9 月/12 月这四个月生�
 
 上手合约（代理商合约）需要在清算前检查步骤前操作
 
-## 后台客户合约补单
+### 后台客户合约补单
 
 点击新增客户补单
 
@@ -565,7 +644,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/XnMzb87Uxof2FWxUlRwc6Wkfn1b.png" src-width="2900" src-height="1550" align="center"/>
 
-## **券商快捷补单**
+### <b>券商快捷补单</b>
 
 在完成所有客户合约补单后，可以透过右上【劵商快捷补单】操作劵商补单
 
@@ -573,13 +652,13 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/B7M0b7tVZowcdXxB4LicJnTGnBh.png" src-width="2898" src-height="1520" align="center"/>
 
-**机构合约（代理商合约）提前试算**
+<b>机构合约（代理商合约）提前试算</b>
 
 选择所有筛选条件，点击试算机构费用并刷新，系统会自动计算代理商费用（详见后文机构合约操作说明）
 
 <img src="/assets/THwTbC48QombuwxRUmbcNnnmn2b.png" src-width="2914" src-height="1098" align="center"/>
 
-**更新对手方文件**
+<b>更新对手方文件</b>
 
 初步核对数据，有问题的修改客户合约后，重新进入页面并刷新
 
@@ -597,7 +676,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/D62fbJXLnoepe5xzdwTc2AxhnKg.png" src-width="2904" src-height="1542" align="center"/>
 
-# 九、**查询和编辑前台合约**
+## 九、<b>查询和编辑前台合约</b>
 
 在操作清算计费步骤后，系统会基于前台交易订单、计费管理配置生成客户合约
 
@@ -617,7 +696,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/AkfOblq8XodksmxzDrfcyrqGnJc.png" src-width="2486" src-height="1544" align="center"/>
 
-## 结算币种编辑
+### 结算币种编辑
 
 在基础信息点击编辑
 
@@ -631,19 +710,19 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/OHkQbgZEuoTUBTxOIkwcs1qxnef.png" src-width="2512" src-height="1558" align="center"/>
 
-## 成交纪录查询
+### 成交纪录查询
 
 点击成交记录可展示成交记录
 
 <img src="/assets/VbLEbqRbZohpZZxzS5xcbRX9nSc.png" src-width="2480" src-height="1542" align="center"/>
 
-## IBOND 累计利息编辑
+### IBOND 累计利息编辑
 
 在成交记录中，可以点击编辑，修改累计利息
 
 <img src="/assets/F6mGbL86ZoVwK6xzQfPc2DJWn1b.png" src-width="2500" src-height="1556" align="center"/>
 
-## 费用查询和编辑
+### 费用查询和编辑
 
 点击费用信息可展示收费明细
 
@@ -665,7 +744,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/U6FwbiEz7ocZUBxsYbzcJhgZn7b.png" src-width="2916" src-height="1538" align="center"/>
 
-## 仓位信息查询和编辑
+### 仓位信息查询和编辑
 
 点击仓位信息可查询仓位数据
 
@@ -675,7 +754,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/OE8ybBYSmoULvZxCd0kcTWLSnHl.png" src-width="2914" src-height="1544" align="center"/>
 
-# 十、提前交收
+## 十、提前交收
 
 若在 T+2（N）时有提早交收的入帐操作，方便客户可以提早操作资金相关处理
 
@@ -689,13 +768,13 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/WMvIbJmkyoc8UaxskGWcVbAOnth.png" src-width="2516" src-height="740" align="center"/>
 
-# 十一、仓位调整
+## 十一、仓位调整
 
 路径：清算管理&gt; 日终管理&gt;仓位管理&gt;仓位查询
 
-## 子仓位置调整
+### 子仓位置调整
 
-查询出对应的客户记录后，在右侧记录区点击【**编辑仓位**】
+查询出对应的客户记录后，在右侧记录区点击【<b>编辑仓位</b>】
 
 <img src="/assets/Y0vxbtG9BoIZWLxGcmacQZennUc.png" src-width="2924" src-height="1546" align="center"/>
 
@@ -707,9 +786,9 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/F7ENbsM3XoGzdOxlqvjcMlOKnBd.png" src-width="2892" src-height="1022" align="center"/>
 
-## 内部转仓
+### 内部转仓
 
-查询出对应的客户记录后，在右侧记录区点击【**内部转仓**】
+查询出对应的客户记录后，在右侧记录区点击【<b>内部转仓</b>】
 
 <img src="/assets/HqeKb6YEuo4EBQxzpGNcOp6RnId.png" src-width="2920" src-height="1548" align="center"/>
 
@@ -717,7 +796,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/AJbFbAtMOobGysxC6ZbcPmQgnGg.png" src-width="2922" src-height="1236" align="center"/>
 
-## 批量调整
+### 批量调整
 
 可以根据事先下载模板，进行批量调仓
 
@@ -725,11 +804,13 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/S9e0bjFIRodLIBxwDujcB9y5nng.png" src-width="2926" src-height="1556" align="center"/>
 
-# 十二、融资利息调整
+## 十二、融资利息调整
 
-## 融资利息查询
+### 融资利息查询
 
 可在融资利息账单页面查询每个客户的融资利息收费详情
+当期账单=抵扣后金额 + 已调整利息
+抵扣后金额=抵扣前金额 + 抵扣金额
 
 <img src="/assets/A9PDbM0OyokHjCxrRmLc8TJinqe.png" src-width="2910" src-height="1544" align="center"/>
 
@@ -739,7 +820,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/MDT5bXQoDoi5BUxSIGZc7Efrnwb.png" src-width="2898" src-height="1522" align="center"/>
 
-## 融资利息调整
+### 融资利息调整
 
 点击调整可调整融资利息
 
@@ -757,7 +838,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/Nnl3b5ypgooGaVxHYZ3cTsTmnHV.png" src-width="2914" src-height="1548" align="center"/>
 
-调整的流水可在**差错流水**页面查询
+调整的流水可在<b>差错流水</b>页面查询
 
 <img src="/assets/M9a3bTQiZoUpcJxBqSwcNWPLnSd.png" src-width="2482" src-height="1406" align="center"/>
 
@@ -765,13 +846,13 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/XsVxbnCE6oiYFNxD65tcxrT5noc.png" src-width="2912" src-height="1550" align="center"/>
 
-## 批量调整
+### 批量调整
 
 可按照发生额调整进行批量处理
 
 <img src="/assets/BRn7b5Qc6o4kOzxNTLucPioHnBb.png" src-width="3578" src-height="1798" align="center"/>
 
-## 提前结算
+### 提前结算
 
 注意：日切期间（第次击数据汇总后 - 日终流畅点完日切）不能操作提前结算
 
@@ -779,7 +860,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/OE5BbyWPfoeiOGxzmVHcICF2nIf.png" src-width="2900" src-height="1546" align="center"/>
 
-# 十三、收盘价临时编辑
+## 十三、收盘价临时编辑
 
 有持仓的股票会展示在收盘价管理页面
 
@@ -799,7 +880,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 如果是清算前准备报错的，可先执行清算交收，然后重新执行清算前准备
 
-# 十四、清算撤销
+## 十四、清算撤销
 
 选择需要撤销的日期，点击清算撤销，根据实际需要，选择撤销项目，并提交
 
@@ -836,15 +917,18 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 </tbody>
 </table>
 
-# 十五、台风天处理
+## 十五、台风天处理
 
 台风天 8 号风球处理
 
 路径：清算管理 &gt; 市场管理 - 台风天处理
 
-## 台风天全日市
+### 台风天全日市
 
 场景：9 月 2 日为台风天，港股交收整体延后
+选择需要处理的账务日期（如 9 月 2 日），需要处理的市场（HK）
+操作时可操作钱货同时延后，或者仅钱延后
+提交后：所有待交收的货（钱）都会延后一个帐务日期进行处理，点击完「确定」后更新版面
 
 <img src="/assets/BH18biKOjorWRBxeFGdcLcYZnoI.png" src-width="3578" src-height="1798" align="center"/>
 
@@ -856,5 +940,5 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 <img src="/assets/CpoobZLiioXDRTxJv8qcx223nnb.png" src-width="3368" src-height="1172" align="center"/>
 
-## 台风天半日市
+### 台风天半日市
 

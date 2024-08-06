@@ -71,6 +71,8 @@ sidebar_position: 1
 <img src="/assets/Dms8beB51ok80LxYC3Dcuc0Bnoe.png" src-width="2142" src-height="1312" align="center"/>
 
 當新增一個系統公告管理後：
+1. 新創建公告，提交工單審批，審批通過後才會生效；
+2. 可以在記錄右側操作區進行【編輯】或【禁用】
 
 <img src="/assets/JpsxbEkbZov2LSxpslicrdIOnej.png" src-width="3224" src-height="1506" align="center"/>
 

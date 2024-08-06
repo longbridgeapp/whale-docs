@@ -52,7 +52,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 <img src="/assets/Ps7TbaliYouroyxhlZGce9JGnkh.png" src-width="3286" src-height="998" align="center"/>
 
-**操作按鈕說明**
+<b>操作按鈕說明</b>
 
 - 新建：可根據券商公司自行增加對應公司銀行賬戶信息。
 - 編輯：對已經添加的公司银行账户信息可以進行人工編輯。
@@ -63,7 +63,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 <img src="/assets/GWgZbkb8uoWN3fx0rXTc1G85nrg.png" src-width="3282" src-height="988" align="center"/>
 
-**操作按鈕說明**
+<b>操作按鈕說明</b>
 
 - 新建：可根據券商公司自行增加幣種。
 - 編輯：對已經添加的幣種可以進行人工編輯。
@@ -79,7 +79,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 <img src="/assets/D9fsb2NTvo6FYsxoYOgc6zR4nSf.png" src-width="3349" src-height="1396" align="center"/>
 
-**操作按鈕說明**
+<b>操作按鈕說明</b>
 
 - 批量新增：依照模板批次進行銀行卡資訊的增加
 - 新增銀行卡：單筆新增銀行卡
@@ -101,7 +101,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 <img src="/assets/UsNJb31KZoqkElxU7L2c9BhQnid.png" src-width="3248" src-height="870" align="center"/>
 
-**操作按鈕說明**
+<b>操作按鈕說明</b>
 
 - 刷新：重新獲取最新的 eDDA 的授權記錄
 - 備註：對授權記錄進行配置
@@ -120,7 +120,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 <img src="/assets/UOVXbO2yqo3QdzxXBDlcS61en5d.png" src-width="3260" src-height="866" align="center"/>
 
-**操作按鈕說明**
+<b>操作按鈕說明</b>
 
 - 新建：單筆增加各地區常見銀行列表信息
 - 編輯：對於已添加的銀行列表信息進行編輯
@@ -143,7 +143,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 <img src="/assets/XFM2bgF7goWUyrxyoPRcImLun2g.png" src-width="3302" src-height="694" align="center"/>
 
-**操作按鈕說明**
+<b>操作按鈕說明</b>
 
 - 新增：單筆增加銀行區域列表信息
 - 編輯：對於已添加的銀行區域列表信息進行編輯
@@ -184,7 +184,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
     - 修改的范围：幣種、入金方式、收款銀行、金額、入金手續費、備註、憑證（重新上傳）
     <img src="/assets/IlRVbRl3toqWxFxk9tJcmms6nNf.gif" src-width="2076" src-height="998" align="center"/>
 
-- 提交（**可批量操作**）：經過操作人員初步審查無誤後，可以將申請提交至下一節點的操作人員進行審核-提現
+- 提交（<b>可批量操作</b>）：經過操作人員初步審查無誤後，可以將申請提交至下一節點的操作人員進行審核-提現
 
 操作
 
@@ -298,7 +298,7 @@ Whale系統包含了處理入金申請、匹配銀行流水、入金審核、單
 
 由於入金流程與開戶流程可以並行發起，存在入金流程已通過但開戶流程仍在執行中的情況，針對該類入金記錄，用戶可在該頁面中進行跟踪已通過入金流程的記錄對應的開戶情況。
 
-用戶可以在頁面中「開戶狀態」查看即時的狀態，如果客戶的開戶流程未通過，可以將其【駁回】（**可批量操作**）
+用戶可以在頁面中「開戶狀態」查看即時的狀態，如果客戶的開戶流程未通過，可以將其【駁回】（<b>可批量操作</b>）
 
 <img src="/assets/ZhLmbvYE4orSm4xen3Hc3eqrnfg.png" src-width="3392" src-height="1693" align="center"/>
 

@@ -127,3 +127,10 @@ sidebar_position: 16
 
 高于对手价格 9 档不会存到系统，直接送出交易所，但会被交易所的价格限制下可能会被拒绝。
 
+## 17M 问：如何在 WTT 申请行情？
+
+答：在 WTT 的右上方图像点击「行情申请」，在「行情商店」选择市场及行情计划。
+审批通过后，会按用量在 Whale 的月费帐单收取。
+
+<img src="/assets/W0hnbCR6vo6LSRxtc2KcNLxgnHo.png" src-width="1582" src-height="1140" align="center"/>
+

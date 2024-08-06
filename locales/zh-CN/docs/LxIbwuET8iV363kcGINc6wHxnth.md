@@ -155,13 +155,18 @@ sidebar_position: 6
 
 ## 7K 问：暗盘平台费和正常交易平台费能否分开计算？
 
-答：先在相关客户组按「编辑」，然后在平台费收费中按「编辑」，进去后在「特殊收费」中按「添加」，再在「订单类型」选择「暗盘」，最后输入收费资料。
+答：在「业务参数设置＞计算管＞客户组计费配置」相关客户组点击「编辑」（见 7K 图一），然后在平台费收费点击「编辑」。（见 7K 图二）
+在“特殊收费”点击「添加」，“订单类型”选择「暗盘」后并输入收费资料。（见 7K 图三）
 
-<img src="/assets/Qjt5bEd8oonqIzx7aAHcF9o5nJg.png" src-width="2792" src-height="1374" align="center"/>
+<img src="/assets/BcNybt9EboDqzkxJaLIceaHDnmf.png" src-width="2866" src-height="1606" align="center"/>
+
+<em>7K 图一</em>
 
 <img src="/assets/Qe1lbiWHoo2rcSxwiO3cxiZenEd.png" src-width="2790" src-height="1386" align="center"/>
 
-<img src="/assets/I6EwbZ7CyoDnNjxmL9gcQMzQnLw.png" src-width="2804" src-height="1452" align="center"/>
+<em>7K 图二</em>
 
-<img src="/assets/NlNObQBBooVwRaxQiAJcTlDRnef.png" src-width="1324" src-height="1654" align="center"/>
+<img src="/assets/WELwbbklhol38RxG7Xdc1XJ7nOc.png" src-width="2864" src-height="1618" align="center"/>
+
+<em>7K 图三</em>
 

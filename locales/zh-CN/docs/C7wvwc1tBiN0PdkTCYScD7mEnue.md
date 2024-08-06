@@ -29,7 +29,7 @@ sidebar_position: 2
 
 <img src="/assets/Qzpkb0MZAo9vQ0xGtNGc3MGnnse.png" src-width="3584" src-height="1738" align="center"/>
 
-### **新增分成套餐**
+### <b>新增分成套餐</b>
 
 可以在右上角，点击【新增】，新增一笔分成佣金套餐
 
@@ -38,6 +38,8 @@ sidebar_position: 2
 先填写套餐主体信息
 
 特殊字段说明：
+- 分佣对象设置（劵商或经纪人）：决定配置的算法对哪个对象生效（先算哪一个）
+- 允许亏损字段（：决定在分佣金额&gt;佣金时的处理方案，允许亏损的，计算金额可大于佣金）
 
 <img src="/assets/Kk5EbBXjQoHHhfxKt8Ic8h3FnJg.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -52,6 +54,10 @@ sidebar_position: 2
 跨阶梯处理方式：决定将统计基准统一用一个费率计算 OR 拆分成多端计算
 
 注意：
+- 分佣币种和佣金币种不一致时，分佣的金额会根据汇率转换为分佣币种
+- 阶梯的范围为左开（不含）右闭（含）
+- 阶梯收费的最低、最高收费和主页面最低最高收费的关系
+    - 阶梯收费总体算出一个分佣金额后，再和主页面进行比较
 
 <img src="/assets/P11NbZ34KoG8B8xxtfYcDcjFnVb.png" src-width="3584" src-height="1738" align="center"/>
 
@@ -95,7 +101,7 @@ sidebar_position: 2
 
 <img src="/assets/CIBkbEqeaoE3oXxKHyqc9MSUn48.png" src-width="3584" src-height="1738" align="center"/>
 
-查询经纪人名下客户的分佣套餐佣金，是以帐务日期与交易币种作查询条件，支持日/月/年的周期报表查询（报表管理 - 佣金报表），点击【导出】可将查询的资料导出
+查询经纪人名下客户的分佣套餐佣金，是以帐务日期与交易币种作查询条件，支持日/月/年的周期报表查询（报表管理-佣金报表），点击【导出】可将查询的资料导出
 
 <img src="/assets/SP4wbVY3goIBigxhOQ4crKiynGc.png" src-width="3584" src-height="1738" align="center"/>
 

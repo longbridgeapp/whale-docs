@@ -89,3 +89,11 @@ sidebar_position: 9
 
 答：交易額度不能用作現金或融資新股認購，新股認購需要有足夠資金。
 
+## 10L 問：新股認購能否分開不同渠道逐一扣款？
+
+答：可以先進行 A 渠道扣款，然後新增 B 渠道並推遲申請時間，最後為 B 渠道扣款。
+
+<img src="/assets/BukGbDR52oo0VIxTO3OcShGFnPf.png" src-width="2876" src-height="1602" align="center"/>
+
+<img src="/assets/Uus5bUlemo4eZBxcfHxcbt1AnKc.png" src-width="2820" src-height="1598" align="center"/>
+

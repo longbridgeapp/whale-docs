@@ -226,9 +226,22 @@ xxx 证券
 
 <em>1.1U 圖二</em>
 
-## 1.1V 問：為什麼開戶審核完成初審後，未能到「RO 審核」階段。
+## 1.1V 問：為什麼開戶審核完成初審後，未能到「RO 審核」階段？
 
-答：請留意「風險規則」內容，如：納稅地區與居住地區國籍不一致，須要在「操作」填寫風險資料。
+答：請留意「風險規則」內容，如：納稅地區與居住地區國籍不一致，須要填寫回風險資料。
 
-<img src="/assets/PPj7bnuacozisZxNivacTmEpnLe.png" src-width="2314" src-height="1146" align="center"/>
+<img src="/assets/QCpvbFgAuoHpN0xRbStcxjUJnBh.png" src-width="2718" src-height="1126" align="center"/>
+
+## 1.1W 問：客戶開戶修改見證方式，須要駁回至哪個開戶頁面？
+
+答：在「KYC&gt;開户列表」點擊「駁回」可剔選“證件上傳頁”的選項，把申請退回給客户修改。（見 1.1W 圖一）
+或在「備註」輸入駁回內容，然後在“駁回頁面”中選擇「證件上傳頁」退回開户申請。（見 1.1W 圖二）
+
+<img src="/assets/XnEzbwb2XoaKLpxttXRcbh2hnhe.png" src-width="2718" src-height="1364" align="center"/>
+
+<em>1.1W 圖一</em>
+
+<img src="/assets/EwmTbaZyQoBbSBxdyKlcaP77nBe.png" src-width="2722" src-height="1370" align="center"/>
+
+<em>1.1W 圖二</em>
 

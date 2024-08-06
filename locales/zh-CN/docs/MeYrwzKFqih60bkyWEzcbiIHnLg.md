@@ -104,8 +104,10 @@ Whale 系统提供了换汇的基础参数设定与业务主流程操作功能�
 - 新建（汇率加点）：点选【新建】，在呼唤的弹跳窗中依照「参考汇率来源管道」以「币种对」设定对应的加点
     - 币种对选择完毕后，系统将自动带出对应的汇率参考
     - 加点的方式有「值」与「比值」2 种方式
-
-<img src="/assets/S454bEII8omUagx8cNKcwQfRnZb.png" src-width="3320" src-height="1760" align="center"/>
+    - 「参考汇率」上设定加点数值：
+    <img src="/assets/S454bEII8omUagx8cNKcwQfRnZb.png" src-width="3320" src-height="1760" align="center"/>
+    - 「成交汇率」上设定加点数值：
+    <img src="/assets/BNrZbW1ZPoQI6CxAPMmc8HI6nYc.png" src-width="2360" src-height="1642" align="center"/>
 
 ### 大额设置
 

@@ -75,9 +75,13 @@ sidebar_position: 10
 
 ## 11D 问：经纪人编号能否修改？
 
-答：经纪人编号不能修改，但可以选择「冻结」该经纪人，也可以按「编辑」来修改电子邮箱，以释放该电子邮箱。
+答：创建后经纪人编号不能点击「编辑」修改。（见 11D 图一）可以选择「冻结」该经纪人，（见 11D 图二）或修改电子邮箱，以释放该电子邮箱作重新创建。
+
+<img src="/assets/QZvlbVJw2oFeXjxA7FNcenmFnb4.png" src-width="2700" src-height="1376" align="center"/>
+
+<em>11D 图一</em>
 
 <img src="/assets/YLAsbfExUoDjtqx98y6cW4xoncb.png" src-width="2842" src-height="1314" align="center"/>
 
-<img src="/assets/Pl9EbaIx9osOt8x0lODcTBscn0g.png" src-width="2858" src-height="1604" align="center"/>
+<em>11D 图二</em>
 

@@ -13,11 +13,11 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 注意：目前 Whale 基金业务仅支持基金认购资金募集成立后，基金申购与赎回的业务操作，募集期间的认购目前暂不支持
 
-**基金交易流程**
+<b>基金交易流程</b>
 
-<img src="/assets/CnHTb2sHRo8zW3x8Ggnce8Qmnmg.jpeg" src-width="2611" src-height="5775" align="center"/>
+<img src="/assets/OTlsbbuMgoD9ZNxhQ3Oc4qcInlc.png" src-width="1322" src-height="2244" align="center"/>
 
-**重要時間點參考： **（以下會根據不同基金代理商有所不同）
+<b>重要時間點參考： </b>（以下會根據不同基金代理商有所不同）
 
 <table>
 <colgroup>
@@ -44,7 +44,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/ErYpbMF3GomuTOxqVVFcpX6Cneh.png" src-width="558" src-height="997"/>
 
-####  客戶訂單
+#### 客戶訂單
 
 執行菜單：基金管理&gt; 公募基金&gt;客戶訂單 Tab 頁籤
 
@@ -54,7 +54,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 注意：同時若租戶劵商本身也接入下游劵商（OB 模式） ，下游劵商可以先透過【同步訂單】操作下游劵商（OB）的基金訂單同步至上游劵商
 
-####  外部份額
+#### 外部份額
 
 執行菜單：基金管理&gt; 公募基金&gt;外部份額 Tab 頁籤
 
@@ -66,14 +66,38 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 執行菜單：基金管理&gt; 公募基金&gt;淨值表 Tab 頁籤
 
-- 本作業可以查詢基金的淨值數據
+- 本作業可以查詢、添加、编辑基金的淨值數據
 
-<img src="/assets/YekNbg6a1osjDTx2jCLcDxzDnrq.png" src-width="3250" src-height="1406" align="center"/>
+<img src="/assets/Er76bqu2OomiSCxWTvhccFw3nsm.png" src-width="3322" src-height="1662" align="center"/>
 
-<div class="callout callout-bg-2 callout-border-2">
-<div class='callout-emoji'>💡</div>
-<p>注意：系統已改成透過行情數據源自動獲取公募基金的淨值表（租戶無法自行新增，避免數據更新錯誤）</p>
-</div>
+- 添加基金净值
+    - 点击「新增」按钮
+        <img src="/assets/LSE6bB8GcoQHoAx1vIfc1EEange.png" src-width="3284" src-height="1656" align="center"/>
+    - 输入需要添加净值的基金，输入净值后，选择净值对应的日期
+        <img src="/assets/VfVsb2AJjonWFlxpRbXcZNzAnWf.png" src-width="3320" src-height="1652" align="center"/>
+        <div class="callout callout-bg-2 callout-border-2">
+        <div class='callout-emoji'>💡</div>
+        <p>注意：系統已改成透過行情數據源自動獲取公募基金的淨值表，如果行情数据源获取到的数据延迟，则支持手动添加净值的方式来确保基金清算交收。</p>
+        </div>
+
+- 编辑基金净值
+    <div class="callout callout-bg-2 callout-border-2">
+    <div class='callout-emoji'>💡</div>
+    <ol>
+    <li><p>更新完成后盈亏将重新计算，注意，只有修改最新的 30 条净值数据才会重新计算盈亏；</p>
+    </li>
+    <li><p>更新完成后，货币基金的七日年化、万元收益、基金表现（今年以来）自动更新；</p>
+    </li>
+    <li><p>更新完成后，基金清算的渠道单在完成核对确认后的不更新；</p>
+    </li>
+    </ol>
+    </div>
+    - 找到需要编辑净值的基金，点击编辑按钮
+        <img src="/assets/H39ZbOp5XowTJpxSvOFc4vRxnbd.png" src-width="3332" src-height="1660" align="center"/>
+    - 输入对应的基金净值，并点击「确定」
+        <img src="/assets/PBQkbPgzmoQ6H7xpIikcQfzLnjg.png" src-width="3332" src-height="1756" align="center"/>
+    - 完成净值修改后，如果开启编辑净值审批，则新的净值将在审批工单通过后生效；未开启编辑审批则编辑后立即生效；
+        <img src="/assets/K7MkbbfZRoNkMBx9eabco5FtnGg.png" src-width="3314" src-height="1658" align="center"/>
 
 #### 基金清算
 
@@ -93,15 +117,25 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/VJjEbvuHRoLSzexMdRBc1MI3nvb.png" src-width="3236" src-height="1524" align="center"/>
 
-數據發送之後，等後一段時間會收到基金公司申購/贖回確認檔，這時在該基金記錄操作區，選擇數據【**回填**】
+數據發送之後，等後一段時間會收到基金公司申購/贖回確認檔，這時在該基金記錄操作區，選擇數據【<b>回填</b>】
 
 <img src="/assets/H1ZWbz8fBokIdNxZZsRcqrFhnCb.png" src-width="3254" src-height="1438" align="center"/>
 
-回填視窗彈出，需要填寫 基金淨值 /申購份額：申購金額/基金淨值 /贖回金額：贖回份額*基金淨值 
+回填视窗弹出，需要选择净值日期，选择后自动查询到 基金淨值；根据上手返回的信息填写「确认申购份额」和「确认赎回金额」；
 
-<img src="/assets/IUXqbnTx7oOc43xucedcwVCWnkc.png" src-width="3256" src-height="1530" align="center"/>
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>💡</div>
+<p>如果所选「净值日期」无净值数据，需要前往净值表添加净值。</p>
+</div>
 
-數據回填之後，接下操作**核對確認**，進行數據確認，確認提交
+<img src="/assets/BSgbbNL8jow5a1xTm07c9pfsnwb.png" src-width="3296" src-height="1764" align="center"/>
+
+<div class="callout callout-bg-3 callout-border-3">
+<div class='callout-emoji'>💡</div>
+<p>申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在 0.5 时，点击『 确定 』将提示错误，需要重新填写。</p>
+</div>
+
+數據回填之後，接下操作<b>核對確認</b>，進行數據確認，確認提交
 
 <img src="/assets/NWLzbuZkkogqE7x4Q4CcV1V3ngd.png" src-width="3192" src-height="1002" align="center"/>
 
@@ -134,6 +168,10 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 - 本作業維護一個公募基金的基金資料，配置基金主體和介紹，也可以管理基金的上架與顯示展示。
 
 首先在基金紀錄右側操作區，可以操作【詳情】或【詳情】來查閱編輯基金資料，同時提供基金上架 與顯示管理
+【上架】：是指將基金 納入系統交易。并調整时需要標的是上架状態      
+【下架】：是指將基金 將無法在系統交易
+【顯示】：是指基金可在 APP 端展示、搜索和交易 
+【隱藏】：是指基金在 APP 端不展示、不可搜索
 
 <img src="/assets/YsCmbcVQHogXjFx9iItcHFdinZb.png" src-width="3270" src-height="1578" align="center"/>
 
@@ -141,7 +179,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/WXGybiFD8oA8RixlSFbc9PHonXf.png" src-width="3294" src-height="1464" align="center"/>
 
-**APP 端展示效果**：  （如果一個 公募基金是 '上架' 且 '顯示' 的 狀況下）
+<b>APP 端展示效果</b>：  （如果一個 公募基金是 '上架' 且 '顯示' 的 狀況下）
 
 <img src="/assets/PaNSboCVRonRQGxtH9OcCiusnre.png" src-width="686" src-height="1482" align="center"/>
 
@@ -180,7 +218,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/WpjabgONio8tmpxMXQLc32exnmZ.png" src-width="3292" src-height="1634" align="center"/>
 
-**APP 端展示效果**： （當新建 基金公司後）
+<b>APP 端展示效果</b>： （當新建 基金公司後）
 
 <div class="flex gap-3 columns-2" column-size="2">
 <div class="w-[48%]" width-ratio="48">
@@ -217,7 +255,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/WSLKb9UCDoMevqxx7l6c92WEnff.png" src-width="3272" src-height="1570" align="center"/>
 
-首先可以點選【新建】，分別填入私募基金 ** 基本訊息/基本面/申購規則/贖回規則**
+首先可以點選【新建】，分別填入私募基金 <b> 基本訊息/基本面/申購規則/贖回規則</b>
 
 系統展示改成左側樹狀 Tab 配置页面，提高數據展示優化
 
@@ -227,7 +265,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <img src="/assets/TzmLbCEogoV1z2xw3pEcRuTynge.png" src-width="2754" src-height="1532" align="center"/>
 
-**申購規則**：
+<b>申購規則</b>：
 
 <img src="/assets/XVPbbuE1Ko0DH1xCv0jc3mgTntf.png" src-width="2296" src-height="1518" align="center"/>
 
@@ -246,6 +284,23 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 首先在右方左側【新增】操作，可以新增一筆 私募基金淨值紀錄
 
 <img src="/assets/WEzcbmxP5ofKI3xNo3cc27KJnZf.png" src-width="3278" src-height="1406" align="center"/>
+
+支持【编辑】基金净值
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>💡</div>
+<ol>
+<li><p>更新完成后盈亏将重新计算，注意，只有修改最新的 30 条净值数据才会重新计算盈亏；</p>
+</li>
+<li><p>更新完成后，基金清算的渠道单在完成核对确认后的不更新；</p>
+</li>
+</ol>
+</div>
+- 找到需要编辑净值的基金，点击编辑按钮
+    <img src="/assets/WcKZbhReAoNhCqxZSIkcEY4AnmQ.png" src-width="3334" src-height="1656" align="center"/>
+- 输入对应的基金净值，并点击「确定」
+    <img src="/assets/JtOBbZduVolqsOxeXKxcVIEwnDg.png" src-width="3320" src-height="1656" align="center"/>
+- 完成净值修改后，如果开启编辑净值审批，则新的净值将在审批工单通过后生效；未开启编辑审批则编辑后立即生效
+    <img src="/assets/PGJmbIAQZoGIooxZ8N1cesXBnne.png" src-width="3314" src-height="1758" align="center"/>
 
 #### 客戶訂單
 
@@ -272,13 +327,13 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 - 本作業可以進行私募基金後台的清算作業（包含數據確認/申購交收/贖回錢貨交收）
 
-A. **數據發送** 
+A. <b>數據發送</b> 
 
 選中對應基金記錄勾選，發送給基金公司，系統會判斷基金訂單狀態'初始化'才會進行數據發送
 
 <img src="/assets/V17Rb0A1xodMOCxBW6Xc8S5dnve.png" src-width="3334" src-height="1707" align="center"/>
 
- B. **回填** 
+ B. <b>回填</b> 
 
  根據基金公司提供資料，更新基金對應淨值以及每個帳戶及總體申購份額、贖回金額及外部收費，進行回填
 
@@ -286,7 +341,7 @@ A. **數據發送**
 
 <img src="/assets/Qef2btbaPoWpS2xyHcFcyv2Bn5f.png" src-width="3272" src-height="1258" align="center"/>
 
- C.**私募交割** 
+ C.<b>私募交割</b> 
 
  選中對應基金管道單 ID 進行私募交割，完成貨和錢交割的操作
 
@@ -333,7 +388,7 @@ A. **數據發送**
 
 熱銷基金模塊是基金後台可配的運營型基金展示功能，熱銷基金頁面進行配置後可以在 App 端展示，默認展示的收益週期是近 3 年收益率。
 
-**APP 端 參考畫面**：
+<b>APP 端 參考畫面</b>：
 
 <img src="/assets/Z3kNbSC3woTLFTxTF8UcDybjnUb.png" src-width="958" src-height="1722" align="center"/>
 
@@ -398,10 +453,10 @@ A. **數據發送**
 對上游劵商而言：
 
 1. 下手 OB 劵商提交的基金訂單初期僅是基金申購請求，要經過上手劵商的的審批操作才能成為真正的基金訂單轉出，其中訂單狀況如下：
-    **待生成：同步後的初始狀態（**上游劵商 將下游 OB 劵商的 基金 同步過來的 初始狀態**）**
-    **已駁回：駁回訂單後的狀態**
+    <b>待生成：同步後的初始狀態（</b>上游劵商 將下游 OB 劵商的 基金 同步過來的 初始狀態<b>）</b>
+    <b>已駁回：駁回訂單後的狀態</b>
     <b>已生成：</b>
-    **下手已撤單**
+    <b>下手已撤單</b>
 
 2. 生成上手劵商基金訂單前，需要對下手 OB 帳戶餘額進行檢測，檢測之後，才顯示租戶 OB 帳戶對應的【帳戶餘額】和【持倉份額】數據，提供上游劵商審批操作下手 OB 劵商申購贖回進行參考
     在紀錄右側操作區點選【餘額檢測】，系統會計算目前該 OB 帳戶的基金帳戶餘額與持倉份額
@@ -423,7 +478,7 @@ Whale 系統 提供 三種終端方式來交易基金，分別是 LongPort APP �
 <img src="/assets/Qe4ybdtltoJldrxBrUCcFdjvn9c.png" src-width="1578" src-height="651" align="center"/>
 
 - 接著輸入 相對應的基金渠道的訂單（申購），對應的基金渠道與基金產品，與申購金額，其中下單頁面填入申購手續費用后，當核準後會從用户的對應幣種现金里直接扣除
-    注：系統會判斷 **申購手續费 + 申購金额 &gt;= 现金**
+    注：系統會判斷 <b>申購手續费 + 申購金额 &gt;= 现金</b>
     <img src="/assets/NL2ybRVeWotjCAx1x8Kc0kPmnHf.png" src-width="3202" src-height="1716" align="center"/>
 
  或 相對應的基金渠道的訂單（贖回），對應的基金渠道與基金產品，與贖回份數
