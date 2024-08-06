@@ -169,9 +169,6 @@ function normalize_hidde_docs() {
         if (["index.md", "docs.md", "SUMMARY.md"].includes(doc)){
           return false;
         }else {
-          if(doc === "IiHowEDhSiRwVNkSqfDcUheenSc.md"){
-            console.log('normalize_hidde_docs-171', !the_news_docs.includes(doc))
-          }
           return !the_news_docs.includes(doc);
         }
       }).map((f) => {
