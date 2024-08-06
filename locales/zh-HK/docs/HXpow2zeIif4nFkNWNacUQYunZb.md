@@ -48,7 +48,6 @@ sidebar_position: 1
 <img src="/assets/HSI4bUQ6ZoZr1gxmqu0cFE2pnXo.png" src-width="3362" src-height="1562" align="center"/>
 
 「編輯」在修改經紀人分傭套餐時，支持同步修改其下客戶的分傭套餐配置（可選項）
-<img src="/assets/OUdGb1y1wooVP7xABh5cQywlnxc.png" src-width="936" src-height="1662" align="center"/>
 
 「凍結」，凍結經紀人操作後，該經紀人將無法使用賬號登錄 WTT；
 

@@ -1,9 +1,9 @@
 ---
-title: 常见问题库
-slug: JIl7wbv6ViOo7IkpuVrcH8GEnKe
+title: 常见问题
+slug: faq
 sidebar_position: 2
 ---
 
 
-# 常见问题库
+# 常见问题
 

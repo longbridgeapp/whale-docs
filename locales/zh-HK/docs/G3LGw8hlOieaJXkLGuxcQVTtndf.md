@@ -1,6 +1,6 @@
 ---
 title: Whale Console
-slug: G3LGw8hlOieaJXkLGuxcQVTtndf
+slug: console
 sidebar_position: 0
 ---
 

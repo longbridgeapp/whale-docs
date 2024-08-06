@@ -72,21 +72,15 @@ Whale 的账户管理模块提供了对客户账户的综合管理和操作功�
 
 其中申报逻辑：上报的数据是 已开通帐户、有 BCAN 码且同意授权协议的全量客户，申报给港交易所后，获取交易所返回的档内容，将 BCAN 生效的状态同步更新；
 
-1. <b>若是劵商是 EP 租户</b>：本作业是支持自动申报上传（透过 SFTP 的 SDNet/2 线路）
+1. **若是劵商是 EP 租户**：本作业是支持自动申报上传（透过 SFTP 的 SDNet/2 线路）
 
 SFTP 申报方式说明如下：
-- 交易日 08:00 am- 03:00 pm 时间段内，自动生成 BCAN-CID 档
-- 产生档案后自动通过 SFTP 的方式提交给交易所
-- 交易所返回的应答档展示在后台，支持下载
-- 返回的全景档自动解析，将客户的 BCAN 状态自动更新
 
 <img src="/assets/Waf3bsdXCoAeoLxzAHjctyeKnJS.png" src-width="3250" src-height="1542" align="center"/>
 
-1. <b>若是劵商是 OB 租户</b>：是要手动产生 BCAN-CID 档后，再人工透过 SFC Web ECP 网站上传资料
+1. **若是劵商是 OB 租户**：是要手动产生 BCAN-CID 档后，再人工透过 SFC Web ECP 网站上传资料
 
 SFC Wings 申报方式说明如下：
-- 通过本作业先行下载申报文件
-<img src="/assets/LZCib61FeoV55oxAno4cQAbOncf.png" src-width="3222" src-height="1618" align="center"/>
 
 - 去 ECP 2.0 SFC 入口官网上传申报文件，将交易所返回的全景文件导入后台
 
@@ -122,7 +116,7 @@ SFC Wings 申报方式说明如下：
 <col width="503"/>
 </colgroup>
 <tbody>
-<tr><td><p><b>港股 EP 模式</b></p></td><td><p><b>港股 Non-EP 模式</b></p></td></tr>
+<tr><td><p><strong>港股 EP 模式</strong></p></td><td><p><strong>港股 Non-EP 模式</strong></p></td></tr>
 <tr><td><p>CCEP：选择当前租户选项<br/>使用者：选择当前租户选项<br/>是否上报：选择‘是’<br/>起始编号/结束编号：手动输入配置· </p></td><td><p>CCEP：选择‘lb’选项<br/>使用者：选择当前租户选项<br/> 是否上报：选择‘是’<br/> 起始编号/结束编号：手动输入配置·</p></td></tr>
 <tr><td colspan="2"><p>注意：（‘1’ - ‘99’是交易所自测区间，不可使用，不可用‘0’前置占位，建议按 lb 提供的区间配置）</p></td></tr>
 </tbody>
@@ -146,7 +140,7 @@ SFC Wings 申报方式说明如下：
 
 支持在后台操作客户的账号冻结，冻结后，当前账号将无法登录 App、桌面端等。
 
-<b>单个账号冻结</b>
+**单个账号冻结**
 
 点击「新建工单」，选择「冻结客户」
 
@@ -160,7 +154,7 @@ SFC Wings 申报方式说明如下：
 
 <img src="/assets/AcNhblfXWogXHMx9yIicPZySnNd.png" src-width="1948" src-height="988" align="center"/>
 
-<b>批量客户冻结</b>
+**批量客户冻结**
 
 在冻结客户的列表页，点击「批量导入」按钮
 

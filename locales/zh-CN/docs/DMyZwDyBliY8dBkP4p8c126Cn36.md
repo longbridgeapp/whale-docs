@@ -71,8 +71,6 @@ sidebar_position: 1
 <img src="/assets/Dms8beB51ok80LxYC3Dcuc0Bnoe.png" src-width="2142" src-height="1312" align="center"/>
 
 当新增一个系统公告管理后：
-1. 新创建公告，提交工单审批，审批通过后才会生效；
-2. 可以在记录右侧操作区进行【编辑】或【禁用】
 
 <img src="/assets/JpsxbEkbZov2LSxpslicrdIOnej.png" src-width="3224" src-height="1506" align="center"/>
 

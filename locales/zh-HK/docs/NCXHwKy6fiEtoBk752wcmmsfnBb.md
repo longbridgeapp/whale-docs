@@ -30,7 +30,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/VLmgbUNTwo06PNxxyHccfQuon2b.png" src-width="3828" src-height="1614" align="center"/>
 
-<b>操作按鈕說明</b>
+**操作按鈕說明**
 
 - 新建：可根據券商公司需求自定義會計科目屬性。
 - 編輯：對已經添加的科目屬性可以進行人工編輯。
@@ -42,7 +42,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/Pj7Fb49Rvo0Kl5xYgmvcrOwwnNc.png" src-width="3820" src-height="1622" align="center"/>
 
-<b>操作按鈕說明</b>
+**操作按鈕說明**
 
 - 批量導入：如果券商公司需要大量添加會計科目，可以選擇批量導入，大批量新增會計科目。
 - 新建：可根據券商公司需求单笔自定義會計科目。
@@ -55,7 +55,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/ESmSbOsTzoRK7jxkODlcsYSZnXf.png" src-width="3814" src-height="1524" align="center"/>
 
-<b>操作按鈕說明</b>
+**操作按鈕說明**
 
 - 新增：可根據券商公司需求新增各業務的分錄規則。
 - 編輯：對已經添加的分录规则可以進行人工編輯。
@@ -68,7 +68,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/TopPbU9GCosOBdx3qzrc7SehnDe.png" src-width="3792" src-height="1462" align="center"/>
 
-<b>操作按鈕說明</b>
+**操作按鈕說明**
 
 - 新建：可根據券商公司銀行賬單新建不同資金類型標籤。
 - 刪除：對已經添加的资金类型可以進行刪除。
@@ -79,7 +79,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/OL9KbJyoSoCtfCxXKPhcmFcjn8d.png" src-width="3834" src-height="1452" align="center"/>
 
-<b>操作按鈕說明</b>
+**操作按鈕說明**
 
 - 新建：可根據券商公司需求新增報表的合併規則。
 - 編輯：對已經添加的合并规则可以進行人工編輯。

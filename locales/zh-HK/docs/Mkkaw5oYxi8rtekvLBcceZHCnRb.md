@@ -76,16 +76,6 @@ sidebar_position: 0
 - 同時根據不同的報表條件欄位，也可以設制不同條件：在批次詳情面，點擊【添加】進入報表添加设置頁面，選擇報表并設置報表條件
 
  例：如果是日期则如下选择项：
-- ledger date    當前帳務日期  
-- Last ledger date 上一个帳務日期
-- year start date     年初第一天
-- month start date    本月初第一天
-- last month end date   上月最后一天
-- last month begin date 上月最后一天
-- system date  當前自然日
-- last system date 上一自然日
-- Before last ledger date 上上一个帳務日期
-- Before last system date 上上一自然日
 
 <img src="/assets/GBDVbXytnoJTmexd5oFcw1sXnVf.png" src-width="1280" src-height="580" align="center"/>
 

@@ -19,7 +19,7 @@ sidebar_position: 2
 
 ### 融资授信
 
-<b>关于自动授信</b>：
+**关于自动授信**：
 
 客户若开通 margin 账户，后面客户操作了转仓/入金，则系统自动会给客户授信一定的额度，客户可以进行保证金交易，系统支持自动授信机制（转仓到账/入金到账），整理自动授信流程如下：
 
@@ -32,11 +32,11 @@ sidebar_position: 2
 <p>风控管理  &gt; 授信额度 &gt; 融资授信 &gt; 客户额度</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于查询所有授信客户额度情况，同时若有客户需求，也可支持人工给客户授信及调整额度。​
+**菜单功能介绍**：该菜单主要用于查询所有授信客户额度情况，同时若有客户需求，也可支持人工给客户授信及调整额度。​
 
 主要操作场景如下：
 
-<b>调整客户额度</b>
+**调整客户额度**
 
 1. 列表为所有融资授信客户，打开列表页的调整弹窗为已授信客户调整额度
 
@@ -52,7 +52,7 @@ sidebar_position: 2
 <col width="375"/>
 </colgroup>
 <thead>
-<tr><th><p><b>字段</b></p></th><th><p><b>说明</b></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>说明</strong></p></th></tr>
 </thead>
 <tbody>
 <tr><td><p>融资额度</p></td><td><p>客户当前的融资额度</p></td></tr>
@@ -69,7 +69,7 @@ sidebar_position: 2
 
 <img src="/assets/HvREbEXKFoMelIxT5XMc2dWrn0f.png" src-width="876" src-height="202" align="center"/>
 
-<b>新建授信客户</b>
+**新建授信客户**
 
 1. 若客户未有资产入账，需要给未授信的客户授予额度，可以在列表页【新建授信客户】可以单个新增授信客户
 
@@ -85,7 +85,7 @@ sidebar_position: 2
 
 1. 无论是单个还是批量新增，提交后都需在工单系统审批。审批通过后方可对客户额度生效
 
-<b>删除已注销客户授信额度</b>
+**删除已注销客户授信额度**
 
 业务中可能存在有些客户账户已经注销，但仍会计算在公司总批核额度中，可以人工删除该部分客户额度。
 
@@ -97,7 +97,7 @@ sidebar_position: 2
 
 <img src="/assets/Zvhkbdy9BooZOwxSNjdc1P7nnLf.png" src-width="3170" src-height="730" align="center"/>
 
-<b>设置公司额度</b>
+**设置公司额度**
 
 1. 根据客户整体额度汇总情况，若需同步调整公司额度进行额度管控，可以在页面列表上方【设置公司额度】进入相关页面操作
 
@@ -118,7 +118,7 @@ sidebar_position: 2
 <col width="416"/>
 </colgroup>
 <thead>
-<tr><th><p><b>类别</b></p></th><th><p><b>字段</b></p></th><th><p><b>说明</b></p></th></tr>
+<tr><th><p><strong>类别</strong></p></th><th><p><strong>字段</strong></p></th><th><p><strong>说明</strong></p></th></tr>
 </thead>
 <tbody>
 <tr><td rowspan="3"><p>融资额度（HKD）​<br/>*币种由主币种决定</p></td><td><p>总融资额度</p></td><td><p>人工设定的公司层面可以授予的保证金融资授信总额度，所有客户累加额度不可超过该数值</p>
@@ -141,7 +141,7 @@ sidebar_position: 2
 <p>风控管理  &gt; 授信额度 &gt; 融资授信 &gt; 额度审批</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于审批授信额度，包含后台及客户发起的调整额度申请。
+**菜单功能介绍**：该菜单主要用于审批授信额度，包含后台及客户发起的调整额度申请。
 
 1. 在列表页的操作【提交审批】打开弹窗页面
 
@@ -161,7 +161,7 @@ sidebar_position: 2
 <col width="375"/>
 </colgroup>
 <thead>
-<tr><th><p><b>字段</b></p></th><th><p><b>说明</b></p></th></tr>
+<tr><th><p><strong>字段</strong></p></th><th><p><strong>说明</strong></p></th></tr>
 </thead>
 <tbody>
 <tr><td><p>公司总额度</p></td><td><p>对应「公司额度设置页面」的总融资额度</p></td></tr>
@@ -186,9 +186,9 @@ sidebar_position: 2
 <p>风控管理  &gt; 授信额度 &gt; 融资授信 &gt; 客户 FPS</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于查询客户保证金融资授信的 FPS 值（FPS 初始配置可在「客户参数」查看）及配置自定义 FPS 规则（可在全局 FPS 初始值上按定义维度配置值进行增减计算）。
+**菜单功能介绍**：该菜单主要用于查询客户保证金融资授信的 FPS 值（FPS 初始配置可在「客户参数」查看）及配置自定义 FPS 规则（可在全局 FPS 初始值上按定义维度配置值进行增减计算）。
 
-<b>配置 FPS 规则</b>
+**配置 FPS 规则**
 
 1. 页面点击【规则配置】打开规则页面
 
@@ -205,9 +205,9 @@ sidebar_position: 2
 <p>风控管理  &gt; 授信额度 &gt; 融资授信 &gt; 授信组</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用于设置授信组及管理授信组额度，组内客户额度使用不可超过组额度。如需将同一客户多个账户分组，或者将关联账户（如夫妻账户）分组等场景均可使用该功能。
+**菜单功能介绍**：该菜单用于设置授信组及管理授信组额度，组内客户额度使用不可超过组额度。如需将同一客户多个账户分组，或者将关联账户（如夫妻账户）分组等场景均可使用该功能。
 
-<b>主列表页说明</b>
+**主列表页说明**
 
 列表页可查看所有授信组及总授信额度；每个组的额度使用情况也会显示。如下图：
 
@@ -217,7 +217,7 @@ sidebar_position: 2
 
 <img src="/assets/Jfgdb8wm2oiUWkxXR0gcdHL8ned.png" src-width="3814" src-height="1614" align="center"/>
 
-<b>创建授信组</b>
+**创建授信组**
 
 1. 新建授信组：如图操作
 
@@ -242,7 +242,7 @@ sidebar_position: 2
 <p>风控管理  &gt; 授信额度 &gt; 融资授信 &gt; 授信快照</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于查询所有客户的历史每一次的授信记录，若需具体定位额度变更情况可以使用该功能。
+**菜单功能介绍**：该菜单主要用于查询所有客户的历史每一次的授信记录，若需具体定位额度变更情况可以使用该功能。
 
 <img src="/assets/Z8zibSmsAobzduxg5r9cZIOvn1g.png" src-width="3825" src-height="1473" align="center"/>
 
@@ -253,9 +253,9 @@ sidebar_position: 2
 <p>风控管理  &gt; 授信额度 &gt; 融资授信 &gt; 批量变更</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于批量变更客户的保证金融资额度，主要使用场景为风控的定期额度巡检。进行批量变更的客户必须为「授信额度」页面的已授信客户。
+**菜单功能介绍**：该菜单主要用于批量变更客户的保证金融资额度，主要使用场景为风控的定期额度巡检。进行批量变更的客户必须为「授信额度」页面的已授信客户。
 
-<b>操作流程如下</b>：
+**操作流程如下**：
 
 1. 页面右上角可以操作【导入授信】
 
@@ -286,7 +286,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 授信额度 &gt; 客户融资 &gt; 已用明细</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单分币种展示所有客户融资明细，供查询使用。
+**菜单功能介绍**：该菜单分币种展示所有客户融资明细，供查询使用。
 
 <img src="/assets/B2aQbzTucoUzuJxnEvUc1nbknZc.png" src-width="3174" src-height="1136" align="center"/>
 
@@ -297,7 +297,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 授信额度 &gt; 客户融资 &gt; 超额明细</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单展示所有超额融资客户的明细数据，供查询使用。
+**菜单功能介绍**：该菜单展示所有超额融资客户的明细数据，供查询使用。
 
 <img src="/assets/Ih6Jbx3gvoltxtx0J3CcE1vBnzb.png" src-width="3174" src-height="1256" align="center"/>
 
@@ -310,9 +310,9 @@ sidebar_position: 2
 <p>风控管理 &gt; 授信额度 &gt; 交易额度 &gt; 客户交易额度</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用于查询所有给过交易额度的客户，并支持新增、修改和生效/失效额度。
+**菜单功能介绍**：该菜单用于查询所有给过交易额度的客户，并支持新增、修改和生效/失效额度。
 
-<b>操作流程如下</b>：
+**操作流程如下**：
 
 1. 页面可通过【设置】设置 margin call 时是否自动失效交易额度，默认开启自动失效，可以进行修改，详细可见设置页面提示；修改需工单审批后方可生效
 
@@ -348,9 +348,9 @@ sidebar_position: 2
 <p>风控管理 &gt; 授信额度 &gt; 交易额度 &gt; 变更纪录</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用户查看客户交易额度的所有变更记录。
+**菜单功能介绍**：该菜单用户查看客户交易额度的所有变更记录。
 
-<b>操作流程如下</b>：
+**操作流程如下**：
 
 1. 「客户交易额度」创建/编辑后会进入「变更记录」页面；列表操作的【工单详情】可以查看该交易额度记录的审批详情
 
@@ -360,7 +360,7 @@ sidebar_position: 2
 
 一般劵商的客户账户都是采用综合购买力换算机制，能方便客户以非当地币别去交易当地币别股票（例：以港元交易美金股票），当客户成交后，就会涉及到客户账户的借币（劵商先提供自有外币给外国劵商作交易）后续客户就需要进行换汇操作，因此可以配置事先的借币换汇提醒，将客户换汇提醒事项列入风控管理维度。
 
-<b>业务流程</b>
+**业务流程**
 
 #### 提醒查询
 
@@ -369,23 +369,24 @@ sidebar_position: 2
 <p>风控管理 &gt; 授信额度 &gt; 借币提醒 &gt; 提醒查询</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单可以查询所有提醒客户，支持配置借币提醒规则和人工兑换操作。
+**菜单功能介绍**：该菜单可以查询所有提醒客户，支持配置借币提醒规则和人工兑换操作。
 
-<b>操作流程如下</b>：
+**操作流程如下**：
 
 1. 点击列表右上角的【换汇规则】配置借币提醒规则
 
-<img src="/assets/QjFtb8q3dohY9qxQ2b9cQqFGnCe.png" src-width="3296" src-height="1076" align="center"/>
+<img src="/assets/CWYGb5PVro5XRUxJDIBcwmyxnph.png" src-width="3389" src-height="1286" align="center"/>
 
 1. 规则配置：单币种规则为非必配项，其他为必配项；规则仅在开启时运行
     1. 必配项的欠款金额和其他币种可提金额默认为主币种，所有币种转化为主币种计算
     2. 单币种规则和必配项规则只要有其一满足规则，即会提醒
     3. 单币种规则可以设置不同币种规则，支持添加和删除
-    <img src="/assets/GUJXbCmYGop6dfxrqOdcvao0nHe.png" src-width="3312" src-height="1716" align="center"/>
 
-2. 规则配置后，选择开启并提交工单审核。审核通过后，系统则会运行规则，捞取符合规则的客户，结果在「提醒查询」列表展示。此外，交易日均会定期执行规则并给符合规则的客户发送借币提醒消息，通知客户主动换汇。页面操作【换汇用户捞取】可刷新列表，过滤不再满足规则的客户
+<img src="/assets/DdqjbOJ3eovrKBxqkkSc9Jsxnf4.png" src-width="3356" src-height="1720" align="center"/>
 
-<img src="/assets/HlKsbk6ruot71rxggRjcKx6infe.png" src-width="3286" src-height="970" align="center"/>
+1. 规则配置后，选择开启并保存规则。系统则会运行规则，捞取符合规则的客户，结果在「提醒查询」列表展示。此外，交易日均会定期执行规则并给符合规则的客户发送借币提醒消息，通知客户主动换汇。页面操作【换汇用户捞取】可刷新列表，过滤不再满足规则的客户
+
+<img src="/assets/Spdybd0dnotrSixrMJbcmYWMnIg.png" src-width="3218" src-height="1070" align="center"/>
 
 1. 同时，开启规则后，客户在 App 上可以对应查看【自动还款】功能，可以自主选择开启该功能。若客户打开自动还款，当命中规则时，系统将进行自动换汇或后台操作人工兑换
     1. App 端「自动还款」
@@ -397,9 +398,7 @@ sidebar_position: 2
     <img src="/assets/S4kJbnbZgoQyjAxUlbVcRPUpn69.png" src-width="3274" src-height="1640" align="center"/>
     <img src="/assets/Dxo0bPGLkoBbDRxAOlvcd48unih.png" src-width="3222" src-height="1220" align="center"/>
 
-3. 兑换结果查看：人工/自动兑换完成后，若剩余资产仍命中规则，则仍会在提醒查询列表；若不再命中规则则会进入历史记录，可在「[历史记录](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相关详情；若命中换汇审核/换汇失败，可在【换汇异常】页面查看异常单（换汇审核中需在「款项管理」-「换汇」-「客户汇兑」页面进行人工审核）
-
-<img src="/assets/GS1dbmbnSooY1NxBRzWcakSSnme.png" src-width="3290" src-height="1072" align="center"/>
+3. 兑换结果查看：人工/自动兑换完成后，若剩余资产仍命中规则，则仍会在提醒查询列表；若不再命中规则则会进入历史记录，可在「[历史记录](./VWyawtnPoizaJvkLjGIcgA5hngb)」查看相关详情
 
 #### 历史记录
 
@@ -408,7 +407,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 授信额度 &gt; 借币提醒 &gt; 历史纪录</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于查询历史所有的提醒客户及相关提醒兑换详情。
+**菜单功能介绍**：该菜单主要用于查询历史所有的提醒客户及相关提醒兑换详情。
 
 <img src="/assets/GixebJJjMoXwxFxNY9PcBNmcnug.png" src-width="3198" src-height="1070" align="center"/>
 
@@ -416,7 +415,7 @@ sidebar_position: 2
 
 当客户的资产净值，因市场波动而下跌至低于维持保证金水平时，系统会向客户发出 Margin Call 通知，客户必须在 3 个交易日补充资金或平仓，否则业务上有权替客户进行平仓，而无须事先通知。
 
-<b>业务流程</b>：
+**业务流程**：
 
 ### 风险预警
 
@@ -427,7 +426,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 风险预警 &gt; 实时预警</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单支持实时的保证金预警监控。
+**菜单功能介绍**：该菜单支持实时的保证金预警监控。
 
 1. 列表展示所有当前预警客户记录，在左侧区会有 绿色文字实时相关更新提示（实时更新最新计算结果）；同时在上方区域会加总目前 预警纪录的追保金额与 长期未结清追保金额的 汇总额
 
@@ -464,7 +463,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 风险预警 &gt; 日内融实时预警</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单功能及操作逻辑同「实时预警」，针对客户对象仅为日内融账户。
+**菜单功能介绍**：该菜单功能及操作逻辑同「实时预警」，针对客户对象仅为日内融账户。
 
 <img src="/assets/PdLrbubJuoKOmbxq336cRytPnvb.png" src-width="3212" src-height="700" align="center"/>
 
@@ -475,7 +474,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 风险预警 &gt; 历史记录</p>
 </div>
 
-<b>菜单功能介绍</b>：margin call 结束后会进入历史记录页面，该菜单下可以查看历史 margin call 订单的详细信息。
+**菜单功能介绍**：margin call 结束后会进入历史记录页面，该菜单下可以查看历史 margin call 订单的详细信息。
 
 1. 点击列表页的【详情】可以查看 margin call 触发前后的详细数据
 
@@ -488,7 +487,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 风险预警 &gt; 快照</p>
 </div>
 
-<b>菜单功能介绍</b>：当客户触发 margin call 后，需要保留当时客户触发 margin call 时的历史数据记录是可追溯，日后可以作为 RO 或相关合规的参考，附为上报给监管的依据，因此 margin call 历史记录需要在部分场景下记录快照数据。
+**菜单功能介绍**：当客户触发 margin call 后，需要保留当时客户触发 margin call 时的历史数据记录是可追溯，日后可以作为 RO 或相关合规的参考，附为上报给监管的依据，因此 margin call 历史记录需要在部分场景下记录快照数据。
 
 场景如下：触发 margin call  /触发 force call / 触发通知/每日定时记录 /结束 margin call
 
@@ -501,7 +500,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 风险预警 &gt; 融券持仓概览</p>
 </div>
 
-<b>菜单功能介绍</b>：当 IB 不可融资时，会进行提前通知做股票召回或者强制平仓，对应我们也要通知用户做强制平仓。该菜单支持查看整体融券的使用情况并操作平仓。
+**菜单功能介绍**：当 IB 不可融资时，会进行提前通知做股票召回或者强制平仓，对应我们也要通知用户做强制平仓。该菜单支持查看整体融券的使用情况并操作平仓。
 
 1. 列表页查看整体融券信息
 
@@ -522,7 +521,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 风险预警 &gt; 不良信贷处理</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于查询不良信贷客户数据。
+**菜单功能介绍**：该菜单主要用于查询不良信贷客户数据。
 
 <img src="/assets/FXkQb6ptroSilexXrZIcMPl2nXT.png" src-width="3270" src-height="1624" align="center"/>
 
@@ -535,7 +534,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 股票追收 &gt; 期权备兑追收</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单展示期权备兑正股不足，需要追收股票的记录。
+**菜单功能介绍**：该菜单展示期权备兑正股不足，需要追收股票的记录。
 
 1. 列表展示所有追收记录
 
@@ -552,7 +551,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 股票追收 &gt; 空头股票追收</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单展示需要追收的空头股票记录（非实时更新）。
+**菜单功能介绍**：该菜单展示需要追收的空头股票记录（非实时更新）。
 
 1. 列表展示所有追收记录
 
@@ -569,7 +568,7 @@ sidebar_position: 2
 <p>风控管理 &gt; Margin Call  &gt; 平仓订单</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用于查看所有平仓记录，以及若出现平仓操作错误，可以进行撤单。
+**菜单功能介绍**：该菜单用于查看所有平仓记录，以及若出现平仓操作错误，可以进行撤单。
 
 <img src="/assets/Acc5blIXIo6IuwxnsrTcy11Nnwe.png" src-width="3242" src-height="1096" align="center"/>
 
@@ -586,11 +585,13 @@ sidebar_position: 2
 <p>风控管理 &gt; 保证金  &gt; 股票保证金 &gt; 多头股票保证金</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于设置多头股票保证金比例。
+**菜单功能介绍**：该菜单主要用于设置多头股票保证金比例。
 
 1. 列表展示所有股票保证金设置现状
 
 <img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
+
+多头股票保证金列表页
 
 1. 可以在【新建】按钮，新增单个股票保证金比例（注：若该股票已存在，数据会覆盖，以本次设置为准）
 
@@ -618,11 +619,13 @@ sidebar_position: 2
 <p>风控管理 &gt; 保证金  &gt; 股票保证金 &gt; 日内交易实时保证金</p>
 </div>
 
-<b>菜单功能介绍</b>：针对日内融业务，可以单独设置支持日内交易的股票保证金比例。
+**菜单功能介绍**：针对日内融业务，可以单独设置支持日内交易的股票保证金比例。
 
 1. 列表展示所有支持日内交易的股票保证金比例记录；系统会自动根据交易时段变更保证金状态，相关规则可参看列表保证金状态字段的帮助提示
 
 <img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
+
+日内融股票保证金列表
 
 1. 页面的【新增】和【批量上传】可以单个新增或批量新增日内交易股票的保证金比例设置；操作流程同「股票保证金」
 
@@ -643,7 +646,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 保证金  &gt; 股票保证金 &gt; 设置记录</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用来查看股票保证金/日内交易实时保证金比例的设置记录以及进行人工同步/取消同步操作。
+**菜单功能介绍**：该菜单用来查看股票保证金/日内交易实时保证金比例的设置记录以及进行人工同步/取消同步操作。
 
 1. 「股票保证金」「日内交易实时保证金」新增或编辑提交后会在比率设置记录中会生成未触发的该保证金设置记录，也可以点击【取消同步】则取消设置，不作记录，此时点击【同步】，该记录状态变更为已触发，同时在主页生成一条股票保证金记录（若新增的为已存在的股票则更新原记录）；点击【取消同步】，则记录状态变更为已撤销，该设置不生效；若不操作人工同步，系统将在设定的有效期生效对应设置
 
@@ -656,11 +659,13 @@ sidebar_position: 2
 <p>风控管理 &gt; 保证金  &gt; 股票保证金 &gt; 空头保证金</p>
 </div>
 
-<b>菜单功能介绍</b>：针对空头业务，可以单独设置支持空头股票保证金比例。
+**菜单功能介绍**：针对空头业务，可以单独设置支持空头股票保证金比例。
 
 1. 列表展示所有支持空头股票保证金比例记录
 
 <img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
+
+空头保证金列表页面
 
 1. 支持批量上传：下载模板文件根据文件要求填写后上传
 
@@ -677,49 +682,30 @@ sidebar_position: 2
 <p>风控管理 &gt; 保证金  &gt; 股票保证金 &gt; 空头保证金记录</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单展示空头股票保证金比例的变更记录。
+**菜单功能介绍**：该菜单展示空头股票保证金比例的变更记录。
 
 <img src="/assets/AsWxbKzDMoM1MjxmD1IcSGwAndd.png" src-width="3280" src-height="810" align="center"/>
 
 ### 客户保证金
 
-#### 多头股票
-
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
-<p>风控管理 &gt; 保证金  &gt; 客户保证金 &gt; 多头股票</p>
+<p>风控管理 &gt; 保证金  &gt; 客户保证金</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单可以设置客户个性化多头股票保证金比例，在保证金计算时会优先取客户保证金比例。
+**菜单功能介绍**：该菜单可以设置客户个性化股票保证金比例，在保证金计算时会优先取客户保证金比例。
 
-1. 列表展示所有客户多头股票保证金设置
+1. 列表展示所有客户保证金设置
 
-<img src="/assets/TJ0ObmeAho1xstxzB4fcdgNKnPe.png" src-width="3222" src-height="1062" align="center"/>
+<img src="/assets/S5LjbBEXHoi0OvxSIRVck25GnRW.png" src-width="3256" src-height="846" align="center"/>
 
-1. 新建客户保证金：点击页面的【新建】可以打开创建弹窗页；客户和股票选择均支持选择单个客户/股票和客户组/股票组（客户组可在「风控管理」-「名单管理」-「客户组」配置；股票组可在「业务参数设置」-「风控」-「股票组」配置）；页面配置后提交即可完成创建
-
-<img src="/assets/AlpNbLX9coV5D9xe3rOchCKVnUF.png" src-width="3210" src-height="1068" align="center"/>
-
-<img src="/assets/MuggblAOJoxOmDxvKJccvr6DnEh.png" src-width="3226" src-height="1698" align="center"/>
-
-1. 同时，也可以通过【导入保证金数据】来新增客户保证金；进入弹窗下载模版根据模版填写后上传
+1. 可以通过【导入保证金数据】来新增客户保证金；进入弹窗下载模版根据模版填写后上传
 
 <img src="/assets/TjQYbH0kboEjx9xrmu5c16uBnne.png" src-width="3168" src-height="1116" align="center"/>
 
 1. 文件上传【确认】后，在客户保证金列表中生成状态为生效中的记录；如需修改保证金比例，可以通过操作的【编辑】修改；也可以通过【置为失效】来失效客户保证金比例设置
 
 <img src="/assets/FIEbbOOvmop6Nixv7kKcGuEvnpc.png" src-width="3244" src-height="1424" align="center"/>
-
-#### 空头股票
-
-<div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>风控管理 &gt; 保证金  &gt; 客户保证金 &gt; 空头股票</p>
-</div>
-
-客户空头股票保证金比例设置逻辑同「[多头股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的信息为“股票卖空状态”，该状态与对应空头股票的可卖空状态（查看页面：「风控管理」-「保证金」-「股票保证金」-「空头股票保证金」）保持同步。
-
-<img src="/assets/EOwcbvEDSoT3Wxxg6QWcFRVYncd.png" src-width="3230" src-height="1078" align="center"/>
 
 ## 期权
 
@@ -730,7 +716,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 期权 &gt; 期权行权</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于查看各行权日期权相关数据概览，并支持查看具体期权及操作行权。
+**菜单功能介绍**：该菜单主要用于查看各行权日期权相关数据概览，并支持查看具体期权及操作行权。
 
 1. 列表展示行权日期权整体数据总览
 
@@ -763,7 +749,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 期权 &gt; 行权记录</p>
 </div>
 
-<b>菜单功能介绍</b>：该页面主要用于查看期权到期放弃行权或到期行权操作后的记录明细。
+**菜单功能介绍**：该页面主要用于查看期权到期放弃行权或到期行权操作后的记录明细。
 
 <img src="/assets/GgLSbayxmoyIpMxDlwRcKKl3nm9.png" src-width="3218" src-height="1088" align="center"/>
 
@@ -774,7 +760,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 期权 &gt; 末日期权</p>
 </div>
 
-<b>菜单功能介绍</b>：该页面主要用于查看到期期权用户的持仓列表明细。
+**菜单功能介绍**：该页面主要用于查看到期期权用户的持仓列表明细。
 
 <img src="/assets/SYjCbBFoRoO1ELxeT46cXzponoa.png" src-width="3158" src-height="1324" align="center"/>
 
@@ -797,7 +783,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 交易限额 &gt; 全局限额</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单展示所有的限额代码，若需新建限额代码（现有代码不支持规则），需联系长桥处理。
+**菜单功能介绍**：该菜单展示所有的限额代码，若需新建限额代码（现有代码不支持规则），需联系长桥处理。
 
 1. 通过列表操作项的【开启】和【关闭】可以生效/失效对应限额
 
@@ -832,7 +818,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 交易限额 &gt; 客户限额</p>
 </div>
 
-<b>菜单功能介绍</b>：客户限额仅支持全局限额中限额类型为「客户」的限额代码；支持单个/批量新增客户限额规则。
+**菜单功能介绍**：客户限额仅支持全局限额中限额类型为「客户」的限额代码；支持单个/批量新增客户限额规则。
 
 1. 新增客户限额规则
 
@@ -855,7 +841,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 交易限额 &gt; 证券限额</p>
 </div>
 
-<b>菜单功能介绍</b>：证券限额仅支持全局限额中限额类型为「证券」的限额代码；支持单个/批量新增证券限额规则
+**菜单功能介绍**：证券限额仅支持全局限额中限额类型为「证券」的限额代码；支持单个/批量新增证券限额规则
 
 1. 新增证券限额规则
 
@@ -876,7 +862,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 交易限额 &gt; 交易员限额</p>
 </div>
 
-<b>菜单功能介绍</b>：交易员限额仅支持全局限额中限额类型为「交易员」的限额代码。
+**菜单功能介绍**：交易员限额仅支持全局限额中限额类型为「交易员」的限额代码。
 
 1. 新增交易员限额规则
 
@@ -897,7 +883,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 交易限额 &gt; 客户类别限额</p>
 </div>
 
-<b>菜单功能介绍</b>：客户类别限额仅支持全局限额中限额类型为「客户」的限额代码。
+**菜单功能介绍**：客户类别限额仅支持全局限额中限额类型为「客户」的限额代码。
 
 1. 新增客户类别限额规则
 
@@ -918,7 +904,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 交易限额 &gt; 多维度交易限额</p>
 </div>
 
-<b>菜单功能介绍</b>：多维度限额仅支持全局限额中限额类型为「多维度」的限额代码。
+**菜单功能介绍**：多维度限额仅支持全局限额中限额类型为「多维度」的限额代码。
 
 1. 新增多维度限额规则
 
@@ -941,7 +927,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 名单管理 &gt; 黑名单</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单列表页展示当前所有黑名单，当前黑名单使用业务场景有授信和资产调拨。业务标签为“授信”的名单用户不会进行自动授信，且用户申请调额均会进入人工审核；业务标签为“资产调拨”的名单用户不支持使用购买力划转。
+**菜单功能介绍**：该菜单列表页展示当前所有黑名单，当前黑名单使用业务场景有授信和资产调拨。业务标签为“授信”的名单用户不会进行自动授信，且用户申请调额均会进入人工审核；业务标签为“资产调拨”的名单用户不支持使用购买力划转。
 
 1. 列表页面
 
@@ -957,35 +943,6 @@ sidebar_position: 2
 
 <img src="/assets/O6b0bFHnaoOKdhx7bP4cdX4fnZf.png" src-width="2818" src-height="1190" align="center"/>
 
-### 客户组
-
-<div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>风控管理 &gt; 名单管理 &gt; 客户组</p>
-</div>
-
-<b>菜单功能介绍</b>：该菜单可支持配置客户组，可在其他业务场景调用客户组，当前应用业务有保证金、报表（如需应用其他业务场景，可联系客户反馈）。
-
-1. 新建客户组：选择客户组应用的业务类型，自定义客户组名称后提交即可完成创建
-
-<img src="/assets/CkzgbeDMtovoX8xW0m3cnR32nYb.png" src-width="3302" src-height="748" align="center"/>
-
-<img src="/assets/XNlLbxd3yoTN0HxDZfCcjWFznlc.png" src-width="3284" src-height="1164" align="center"/>
-
-1. 添加组内账户：客户组创建后，主列表页会生成一条客户组记录，点击【详情】可以进入添加组内账户页面；可在详情页面的【新建】或【批量导入】进行单个/批量增加组内账户
-
-<img src="/assets/T17BblV4toWv6txuhthcwpZrnEc.png" src-width="3302" src-height="862" align="center"/>
-
-<img src="/assets/DcSmbtDT4oPgNoxQgrrcBgUGnUf.png" src-width="3296" src-height="638" align="center"/>
-
-1. 管理组内账户：组内账户支持【删除】
-
-<img src="/assets/M2xibgKd8ohXAIxLC8scemafnjh.png" src-width="3278" src-height="568" align="center"/>
-
-1. 管理客户组：客户组支持【编辑】组信息和【删除】
-
-<img src="/assets/AqCkbUVesoJc0gxFkLnc76FDnIg.png" src-width="3288" src-height="824" align="center"/>
-
 ## 压力测试
 
 基于 SFC 保证金指引的压力测试与股票、客户相关的监控。
@@ -999,7 +956,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; Margin Call 压力测试 &gt; 测试明细</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单可以支持新设不同的条件来计算 Margin Call 预警/非速冻资金盈余，每次新设都是分配一个任务 ID，当预计完成后，可以查询任务 ID 的执行状态与计算内容详情。
+**菜单功能介绍**：该菜单可以支持新设不同的条件来计算 Margin Call 预警/非速冻资金盈余，每次新设都是分配一个任务 ID，当预计完成后，可以查询任务 ID 的执行状态与计算内容详情。
 
 1. 新建模拟计算：系统支持股票组/股票市场/单一股票 三种模式的预计算，同时也支持是否将某种豁免规则配置在压力测试某个批次上​；按需选择模拟计算类型及计算内容后，提交即可开始模拟计算
 
@@ -1022,7 +979,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; Margin Call 压力测试 &gt; 自定义数据</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单可以维护股票保证金比例，将保证金比例的文档批次导入。
+**菜单功能介绍**：该菜单可以维护股票保证金比例，将保证金比例的文档批次导入。
 
 1. 按模版要求导入保证金比例，导入成功后则会在列表页展示
 
@@ -1037,7 +994,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; 指数管理 &gt; 指数级别</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用来维护劵商保证金指引内所提及的指数级别。
+**菜单功能介绍**：该菜单用来维护劵商保证金指引内所提及的指数级别。
 
 1. 在页面点击【新建】可以新建指数级别
 
@@ -1056,7 +1013,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; 指数管理 &gt; 股票指数</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用来维护劵商保证金指引内所提及的股票指数。
+**菜单功能介绍**：该菜单用来维护劵商保证金指引内所提及的股票指数。
 
 1. 页面提供与行情数据同步功能【拉取基本数据】功能，点选后可以自动同步基本数据（此数据是提供给 Whale 产品始用的行情数据源）
 
@@ -1077,7 +1034,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; 指数管理 &gt; 股票级别占比</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单展示股票级别占比，并支持模拟 margin call 计算。
+**菜单功能介绍**：该菜单展示股票级别占比，并支持模拟 margin call 计算。
 
 1. 股票级别占比列表
 
@@ -1097,10 +1054,10 @@ sidebar_position: 2
 <col width="719"/>
 </colgroup>
 <thead>
-<tr><th><p><b>术语 / 缩略词</b></p></th><th><p><b>说明</b></p></th></tr>
+<tr><th><p><strong>术语 / 缩略词</strong></p></th><th><p><strong>说明</strong></p></th></tr>
 </thead>
 <tbody>
-<tr><td><p>Haircut</p></td><td><p>在金融学里，<b>估值折扣</b>或<b>剃头</b>是指从作为担保或抵押品的资产市场价值中扣除的百分比。估值折扣的数量反衬出投资者持有资产的风险。但是，贷款人拥有整个资产的担保物权。​<br/>比如，在投资者看来风险度很低的美国国库券可能有 1% 的估值折扣，而投资者认为风险度高的股票期权的估值折扣可能高达 30%。换句话说，1000 美元的国库券可被接纳为 990 美元贷款的担保，而 1000 美元的股票期权仅可作为 700 美元贷款的担保。</p></td></tr>
+<tr><td><p>Haircut</p></td><td><p>在金融学里，<strong>估值折扣</strong>或<strong>剃头</strong>是指从作为担保或抵押品的资产市场价值中扣除的百分比。估值折扣的数量反衬出投资者持有资产的风险。但是，贷款人拥有整个资产的担保物权。​<br/>比如，在投资者看来风险度很低的美国国库券可能有 1% 的估值折扣，而投资者认为风险度高的股票期权的估值折扣可能高达 30%。换句话说，1000 美元的国库券可被接纳为 990 美元贷款的担保，而 1000 美元的股票期权仅可作为 700 美元贷款的担保。</p></td></tr>
 </tbody>
 </table>
 
@@ -1111,7 +1068,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; Haircut 管理 &gt; 股票 Haircut 管理</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于管理股票 Haircut。
+**菜单功能介绍**：该菜单主要用于管理股票 Haircut。
 
 1. 列表展示所有已设置 Haircut 的股票列表
 
@@ -1136,7 +1093,7 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; Haircut 管理 &gt; 指数 Haircut</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单主要用于管理指数 Haircut。
+**菜单功能介绍**：该菜单主要用于管理指数 Haircut。
 
 1. 指数部分与前述股票 Haircut 操作功能相同，但不支持批量导入
 
@@ -1149,149 +1106,9 @@ sidebar_position: 2
 <p>风控管理 &gt; 压力测试 &gt; Haircut 管理 &gt; Haircut 修改记录</p>
 </div>
 
-<b>菜单功能介绍</b>：该菜单用于查询所有 Haircut 修改记录。
+**菜单功能介绍**：该菜单用于查询所有 Haircut 修改记录。
 
 <img src="/assets/WceRbCzaQoaSbXxlBqecAS7ynVc.png" src-width="3158" src-height="974" align="center"/>
 
 Haircut 修改记录列表页面
-
-### 速动资金短欠
-
-#### 业务说明
-
-主要通过模拟 SFC 的要求，进行速动资金的压力测试，从而得出 Top 10 股票集中度是否符合监管要求。
-
-#### 名词解释
-
-<table>
-<colgroup>
-<col width="155"/>
-<col width="109"/>
-<col width="302"/>
-<col width="366"/>
-</colgroup>
-<tbody>
-<tr><td><p><b>繁体名词</b></p></td><td><p><b>英文名词</b></p></td><td><p><b>说明</b></p></td><td><p><b>计算规则</b></p></td></tr>
-<tr><td><p>速动资金</p></td><td><p>LC</p></td><td><p>速动资金是持牌法团根据该规则需维持的其中一种财政资源，为持牌法团的速动资产超出认可负债之数</p></td><td></td></tr>
-<tr><td><p>规定速冻资金</p></td><td><p>RLC</p></td><td><p>规定速动资金是持牌法团必须备有的，以便遵守该规则所指的财政资源规定的最低速动资金数额</p></td><td></td></tr>
-<tr><td><p>速冻资金盈余</p></td><td><p>ELC</p></td><td><p>LC-RLC</p></td><td><p>LC-RLC</p></td></tr>
-<tr><td><p>持仓市值</p></td><td><p>Market Value</p></td><td><p>抵押物 market value 等值 HKD</p></td><td><p>market value*港币汇率</p></td></tr>
-<tr><td><p>FRR ratio</p></td><td><p>FRR ratio</p></td><td><p>作为担保或抵押品的的百分比</p></td><td><p>= 1-haircut，<br/>根据 571N 准则，一般来讲人工导入；<br/><b>空头持仓，选择权持仓，FRR ratio 依 0 计算</b></p></td></tr>
-<tr><td><p>Liquid Asset</p></td><td><p>速动资产</p></td><td><p>持牌法团的速动资产是其在计算速动资金时需包含在内的资产金额。该等资产的价值需进行调整，以反映一些例如其非速动性质及信用风险等因素</p></td><td><p>FRR ratio*客户持仓市值等值 HKD</p></td></tr>
-<tr><td><p>客户欠款</p></td><td><p>Loan Amount</p></td><td><p>同一客户融资欠款的等值本币</p></td><td><p>取分币种客户余额，全部转换为本位币，在做汇总，取汇总后金额&lt;0 的数据，再取绝对值<br/>例如帐面余额 -200，那么客户欠款 200，帐面余额为 100，那么客户欠款为 0</p></td></tr>
-<tr><td><p>速动资金短欠</p></td><td><p>Shortfall</p></td><td><p>客户负债，且负债超出认可资产净值的那部分金额</p></td><td><p>max (abs(Loan Amount)-Liquid Asset), 0) </p></td></tr>
-<tr><td><p>30% 跌幅下速动资金短欠</p></td><td><p>Shortfall 30%</p></td><td><p>抵押物市值下降 30%，客户负债，且负债超出认可资产净值的那部分数据</p></td><td><p>max [Loan Amount -min(abs(Loan Amount),Liquid Asset*70%), 0]</p></td></tr>
-<tr><td><p>50% 跌幅下速动资金短欠</p></td><td><p>Shortfall 50%</p></td><td><p>抵押物市值下降 50%，客户负债，且负债超出认可资产净值的那部分数据</p></td><td><p>max [Loan Amount -min(abs(Loan Amount),Liquid Asset*50%), 0]</p></td></tr>
-<tr><td><p>TOP10</p></td><td><p>TOP10</p></td><td><p>股票不可抵押后对 shortfall 影响最大的 10 个股票</p></td><td></td></tr>
-</tbody>
-</table>
-
-#### 速动资金短欠
-
-<div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>风控管理 &gt; 压力测试 &gt; 速动资金短欠 &gt; 速动资金短欠</p>
-</div>
-
-1. 列表展示历史创建的计算任务
-
-<img src="/assets/LJkxbuSovolFdAxtxZRcnh4AnT9.png" src-width="3328" src-height="1256" align="center"/>
-
-1. 点击『新建』，会创建一条新的计算任务，同时需要人工填写速动资金数据
-
-<img src="/assets/HjasbIxmyo0BTbx1YUHcOefRnkf.png" src-width="3296" src-height="1682" align="center"/>
-
-1. 创建完成后，可点击『详情』，查看本次计算任务
-
-<img src="/assets/ODFdbYUGJoaOyixyrbWcMX4InVc.png" src-width="3290" src-height="1020" align="center"/>
-
-#### 客户 shortfall 明细
-
-1. 计算任务约 1-5 分钟完成，完成后可查看本次计算结果，首先会展示客户的 shortfall 明细
-
-<div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>❗</div>
-<p>此页面仅会统计欠款客户，以及模拟客户持有的抵押物下跌 30% 及 50% 后的 shortfall 结果</p>
-</div>
-
-<img src="/assets/CbfBb2WxPoDr9XxAorrcHz3Enzd.png" src-width="3264" src-height="1762" align="center"/>
-
-1. 点击详情可查看客户的持仓明细以及持仓中认可的资产值
-
-<img src="/assets/MS4YbWrAyo97D5xXhjUcfJqMnuh.png" src-width="3286" src-height="1818" align="center"/>
-
-#### Top 10 股票
-
-1. <b>第一部分:LC 数据。</b>
-
-首先系统会根据财务所填写的 LC，RLC 资料得到 ELC 相关数据（速动资金英盈余）
-
-<img src="/assets/UwUhbeVvZotqpFxC5Hrc2qlanTf.png" src-width="3286" src-height="1782" align="center"/>
-
-1. <b>第二部分：速动资金短欠</b>
-
-此处数据模拟抵押物跌幅为 x 时的 shortfall 结果，同时会对比是否还有 buffer（缓冲额）
-
-buffer（缓冲额）= 50% 速动资金盈余 - 速动资金短欠（shortfall）
-
-<img src="/assets/YD6NbbBOWouX63xb8IzcpMoRnif.png" src-width="3306" src-height="1800" align="center"/>
-
-<b>股票跌幅 x 为一个变量，需要根据保证金指引规则得到，明细如下：</b>
-
-依股票类别分别统计持股市值，比计算分类占比；根据抵押证券的组合成分，采用适当的假设性压力测试：可以每日所有市场闭市后计算 一次
-
-(a) 以市值计算，若等级 1 的抵押品占比超过 75%，则平均价格跌幅为参数 a 的值
-
-(b) 以市值计算，若等级 1 和等级 2 的抵押品总占比超过 75%，则平均价格跌幅为参数 b 的值
-
-(c) 以市值计算，如果等级 1 和等级 2 的抵押品总占比在 25% 到 75% 之间，则平均价格跌幅为参数 c 的值
-
-(d) 以市值计算，如果等级 1 和等级 2 的抵押品总占比在 25% 以下，则平均价格跌幅为参数 d 的值
-
-|   |   |
-|---|---|
-|<b>参数</b>|<b>数值</b>|
-|a drop|15%|
-|b drop|25%|
-|c drop|30%|
-|d drop|50%|
-
-1. <b>第三部分 : 速动资金短欠</b>
-
-该部分数据会逐个模拟所有抵押物不可抵押后，对 shortfall 的影响，并根据 shortfall 影响最大的 10 只个股进行排序。
-
-<img src="/assets/DdRSbH9XGoxAcbxSmJdcai6Bnrb.png" src-width="3288" src-height="1800" align="center"/>
-
-<table>
-<colgroup>
-<col width="142"/>
-<col width="177"/>
-<col width="508"/>
-</colgroup>
-<tbody>
-<tr><td><p><b>名词中文</b></p></td><td><p><b>名词英文</b></p></td><td><p><b>规则</b></p></td></tr>
-<tr><td><p>股票代码</p></td><td><p>Stock Code</p></td><td></td></tr>
-<tr><td><p>股票级别</p></td><td><p>Stock Level</p></td><td><p>股票级别，使用股票指数管理的级别数据<br/><a href="https://console.lbkrs.com/next/risk/index_management/stock_index">https://console.lbkrs.com/next/risk/index_management/stock_index</a></p></td></tr>
-<tr><td><p>持仓市值</p></td><td><p>Market Value    </p></td><td><p>所有欠款客户该股票的合计持股市值</p></td></tr>
-<tr><td><p>速动资金短欠</p></td><td><p>Shortfall</p></td><td><p>按照该股票或关联股票</p></td></tr>
-<tr><td><p>ELC 影响基准 (%)</p></td><td><p>maximum ELC Ratio</p></td><td><p>根据股票等级来：</p>
-<ul>
-<li>Tier 1: 50%</li>
-<li>Tier 2: 30%</li>
-<li>Other: 50%</li>
-</ul></td></tr>
-<tr><td><p>ELC 下跌百分比（%）</p></td><td><p>Shortfall/ELC（%）</p></td><td><p>对应股票的 Shortfall / ELC（人工填写的）</p></td></tr>
-<tr><td><p>集中度 (%)</p></td><td><p>Concentr Action（%）</p></td><td><p>ELC 下跌百分比（%）/ELC 影响基准 (%)</p></td></tr>
-<tr><td><p>结果</p></td><td><p>Result</p></td><td><ul>
-<li>Concentr Action=&lt;100%  &gt;&gt; Pass</li>
-<li>Concentr Action&gt;100%  &gt;&gt; Reject</li>
-</ul></td></tr>
-</tbody>
-</table>
-
-#### 持仓明细
-
-统计所有欠款客户持仓明细，作为计算 shortfall 的数据源
-
-<img src="/assets/K7lGbDdUBoHNv6xgqxocvAlwnag.png" src-width="3300" src-height="1226" align="center"/>
 

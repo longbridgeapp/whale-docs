@@ -38,7 +38,7 @@ WHALE 证券管理系统中的证券取出功能支援用户新增客户的证�
 <col width="641"/>
 </colgroup>
 <tbody>
-<tr><td><p><b>术语 / 缩略词</b></p></td><td><p><b>说明</b></p></td></tr>
+<tr><td><p><strong>术语 / 缩略词</strong></p></td><td><p><strong>说明</strong></p></td></tr>
 <tr><td><p>我方券商资讯</p></td><td><p>指目前处理平台的券商帐户讯息，依证券转入和证券转出说明如下：</p>
 <ol>
 <li>证券转入：我方券商资讯指接受用户转入股票的券商平台的资讯；</li>
@@ -56,11 +56,11 @@ WHALE 证券管理系统中的证券取出功能支援用户新增客户的证�
 
 后台操作人员依照客户的指示，完成证券取出申请提交工作。
 
-<b>步骤一：选择客户，确认客户本次存入的证券所属的市场、转出券商、帐户姓名、帐号等资讯。</b>
+**步骤一：选择客户，确认客户本次存入的证券所属的市场、转出券商、帐户姓名、帐号等资讯。**
 
 <img src="/assets/K4lnb0t3aoO9UMxUWpEcL0t4nzc.png" src-width="3818" src-height="1838" align="center"/>
 
-<b>步骤二：系统根据步骤一中已选择的客户，可以自动展示所有持仓的证券信息，可以定位至目标持仓的证券，填写具体的证券明细、数量以及备注</b>
+**步骤二：系统根据步骤一中已选择的客户，可以自动展示所有持仓的证券信息，可以定位至目标持仓的证券，填写具体的证券明细、数量以及备注**
 
 <img src="/assets/Mzofb6bLAoVoR9xDgnQcnTeRnSd.png" src-width="3810" src-height="1920" align="center"/>
 
@@ -68,11 +68,11 @@ WHALE 证券管理系统中的证券取出功能支援用户新增客户的证�
 
 如果客户未与对方券商确认此转仓的事宜，后台操作人员可以使用此功能将客户本次转出的细节通知对方券商，以进行正常的转仓流程。
 
-<b>步骤一：选择需要寄电子邮件的券商</b>
+**步骤一：选择需要寄电子邮件的券商**
 
 <img src="/assets/Fki8bIRR8oIL5XxiwDacE8Bknob.png" src-width="3820" src-height="1928" align="center"/>
 
-<b>步骤二：选择目标申请单编号</b>
+**步骤二：选择目标申请单编号**
 
 <img src="/assets/FXBNbppayoKGjlxtAABccabTnAb.png" src-width="3808" src-height="1916" align="center"/>
 

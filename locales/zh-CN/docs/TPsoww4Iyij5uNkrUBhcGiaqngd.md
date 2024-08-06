@@ -7,7 +7,7 @@ sidebar_position: 2
 
 # 全局搜索
 
-Whale 提供两种 全局搜索 Tab 功能： <b>搜索作业功能 </b>与 <b>搜索客户</b>
+Whale 提供两种 全局搜索 Tab 功能： **搜索作业功能 **与 **搜索客户**
 
 <img src="/assets/BVaBbtPo4ovSkZxlzz3c4xShn2g.png" src-width="3303" src-height="545" align="center"/>
 
@@ -52,11 +52,11 @@ Whale 提供两种 全局搜索 Tab 功能： <b>搜索作业功能 </b>与 <b>�
 
 <img src="/assets/WKf5bnuUUoTp8dxFKl7cQSlwn8b.png" src-width="3824" src-height="1576" align="center"/>
 
-<b>资产总览 Tab</b>: 可以切换 不同资产币别来看资产金额总览，同时上方也展示右边也提供 资产数据的 Dashboard 展示
+**资产总览 Tab**: 可以切换 不同资产币别来看资产金额总览，同时上方也展示右边也提供 资产数据的 Dashboard 展示
 
 与风险状态与融资摘要，在下方区域展示 
 
-     <b>现金明细</b>：将会展示不同币种的 现金可用与结算待交收
+     **现金明细**：将会展示不同币种的 现金可用与结算待交收
 
      <b>持仓明细：</b>可以 展示 股票/期权/基金等 相关持仓纪录资料
 
@@ -69,15 +69,15 @@ Whale 提供两种 全局搜索 Tab 功能： <b>搜索作业功能 </b>与 <b>�
 </div>
 </div>
 
-<b>出入金 Tab</b>:  可以 查询该客户的 出入金纪录资讯，也可以直接编辑操作
+**出入金 Tab**:  可以 查询该客户的 出入金纪录资讯，也可以直接编辑操作
 
 <img src="/assets/Cauvb1hLgo9pv7xhBoVcYbDinkd.png" src-width="1426" src-height="842" align="center"/>
 
-<b>银行卡 Tab</b>:  可以 查询该客户的 银行卡资讯，也可以直接编辑操作
+**银行卡 Tab**:  可以 查询该客户的 银行卡资讯，也可以直接编辑操作
 
 <img src="/assets/UUBCbvxyEo9OOyxfDJDcwXjnnGb.png" src-width="1432" src-height="878" align="center"/>
 
-<b>计费 Tab</b>:  可以 查询该客户帐户的 相关收费项目 展示
+**计费 Tab**:  可以 查询该客户帐户的 相关收费项目 展示
 
 <img src="/assets/DVWYb6CJZo409IxrD1Tc0jsZnkg.png" src-width="1388" src-height="1566" align="center"/>
 

@@ -55,7 +55,6 @@ Whale 的账户管理模块提供了对客户账户的综合管理和操作功�
 <img src="/assets/QeXibd182oFjg9xxyU9cHWLCnfb.png" src-width="3362" src-height="1562" align="center"/>
 
 「编辑」在修改经纪人分佣套餐时，支持同步修改其下客户的分佣套餐配置（可选项）
-<img src="/assets/BRSebWmDFopMNfxvpCHcsVl2nkc.png" src-width="936" src-height="1662" align="center"/>
 
 「冻结」，冻结经纪人操作后，该经纪人将无法使用账号登录 WTT；
 
@@ -69,7 +68,7 @@ Whale 的账户管理模块提供了对客户账户的综合管理和操作功�
 
 在查询组件上：支持按经纪人编号或经纪人名称查询
 
-### <b>新增分成套餐</b>
+### **新增分成套餐**
 
 可以在右上角，点击【新增】，新增一笔分成佣金套餐
 
@@ -78,8 +77,6 @@ Whale 的账户管理模块提供了对客户账户的综合管理和操作功�
 先填写套餐主体信息
 
 字段说明：
-- 分佣对象设置（劵商或经纪人）：决定配置的算法对哪个对象生效（先算哪一个）
-- 允许亏损字段（：决定在分佣金额&gt;佣金时的处理方案，允许亏损的，计算金额可大于佣金）
 
 <img src="/assets/Rro5bqoyRoCVtixExeXcu8dVn5b.png" src-width="3584" src-height="1738" align="center"/>
 
