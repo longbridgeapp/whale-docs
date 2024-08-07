@@ -154,7 +154,7 @@ Whale 經紀人管理模塊提供了對經紀人與客戶關系的管理，以�
 
 <img src="/assets/I5lab7D3WoObS0xZWZzcQxTjn5f.png" src-width="3584" src-height="1738" align="center"/>
 
-查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件，支持日/月/年的週期報表查詢（报表管理-佣金报表），點擊【導出】可將查詢的資料導出
+查詢經紀人名下客戶的分佣套餐佣金，是以帳務日期與交易幣種作查詢條件，支持日/月/年的週期報表查詢（报表管理 - 佣金报表），點擊【導出】可將查詢的資料導出
 
 <img src="/assets/Qa4CbIPBboPV3RxSKDtcbICKnMf.png" src-width="3584" src-height="1738" align="center"/>
 
