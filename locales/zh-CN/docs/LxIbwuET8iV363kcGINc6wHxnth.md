@@ -155,7 +155,7 @@ sidebar_position: 6
 
 ## 7K 问：暗盘平台费和正常交易平台费能否分开计算？
 
-答：在「业务参数设置＞计算管＞客户组计费配置」相关客户组点击「编辑」（见 7K 图一），然后在平台费收费点击「编辑」。（见 7K 图二）
+答：在「业务参数设置＞计算管理＞客户组计费配置」相关客户组点击「编辑」（见 7K 图一），然后在平台费收费点击「编辑」。（见 7K 图二）
 在“特殊收费”点击「添加」，“订单类型”选择「暗盘」后并输入收费资料。（见 7K 图三）
 
 <img src="/assets/BcNybt9EboDqzkxJaLIceaHDnmf.png" src-width="2866" src-height="1606" align="center"/>
@@ -169,4 +169,22 @@ sidebar_position: 6
 <img src="/assets/WELwbbklhol38RxG7Xdc1XJ7nOc.png" src-width="2864" src-height="1618" align="center"/>
 
 <em>7K 图三</em>
+
+## 7L 问：收费渠道 Longport, Pro, App, Web, WTT 的分别表示什么？
+
+答：Longport 是公版 App；Pro 是豪华版 Longport Pro；App 是白标 App；Web 是网页版 Web Trade；WTT 是前台 Whale Trade Terminal。
+
+<img src="/assets/Uwgmbd6cwo6xA6xxgBwcMdTznCh.png" src-width="2728" src-height="1370" align="center"/>
+
+## 7M 问：如何添加开户时所选的计费套餐？
+
+答：在「业务参数设置＞计费管理＞机构计费」对应的 "默认用户组" 点击「编辑」（见 7M 图一），在 "可选客户组" 添加「客户组计费配置」已建立的计费套餐，之后在计费套餐可选择（见 7M 图二）。
+
+<img src="/assets/PPVpbYpwCoRGvWxHGrOcKxvPnNg.png" src-width="2726" src-height="1408" align="center"/>
+
+<em>7M 图一</em>
+
+<img src="/assets/ItqabGJSyoye5sxXCWhcrIr2nfd.png" src-width="2126" src-height="1410" align="center"/>
+
+<em>7M 图二</em>
 

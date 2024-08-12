@@ -19,3 +19,15 @@ sidebar_position: 19
 
 <img src="/assets/XF29bp7T0oU6sWxJd3hclNR1nff.png" src-width="1314" src-height="380" align="center"/>
 
+## 20C 問：投放系統中用戶分群的「用戶地區」如何篩選客戶？
+
+答：根據以下字段來作篩選，
+
+優先級 1：居住國家/地區
+
+優先級 2：手機區號
+
+優先級 3：注冊時的 IP 地區
+
+<img src="/assets/TTNVb7TI3ovfe7xasdAcVcEhn4g.png" src-width="1914" src-height="902" align="center"/>
+

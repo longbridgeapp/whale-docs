@@ -70,13 +70,13 @@ sidebar_position: 11
 
 <b>答：</b>可使用以下報表來人工判斷有沒有可疑交易。
 
-IDR018 - Matched Trades Wash Trades
+IDR018 - Matched Trades Wash Trades - 檢查是否有 2 客戶或以上買賣同一股票交易成交
 
-IDR026 - The Proportion Of Customer Transaction Volume
+IDR026 - The Proportion Of Customer Transaction Volume - 客戶的交易量佔股票的當日成交量超越 50%
 
-IDR027 - Deliberately Push Up Or Down The Closing Price
+IDR027 - Deliberately Push Up Or Down The Closing Price - 於收市前最後一分鐘訂單成交高於 / 低於前收市價 ≥5%
 
-IDR019 - Suspected Order Activities Report
+IDR019 - Suspected Order Activities Report - 單一客戶更改或取消訂單超過 20 次
 
 ## 12I 問：如何導出高風險客戶的報告？
 
@@ -100,4 +100,23 @@ IDR019 - Suspected Order Activities Report
 答：這個是時差問題，美股為隔晚市埸。報表顯示的成交時間是香港時間，當中是顯示到美股市場交易記錄。
 
 <img src="/assets/F0oRb7XZToqpe0xKIJpcmuaGnIb.png" src-width="2850" src-height="1444" align="center"/>
+
+## 12L 問：如何計算到客户每月的託管費？
+
+答：SDR058-2 HK Custodian Fee Group by Client V2 能計算到，當中收取費率可以在「報表管理＞報表打印＞參數設置」修改。（見 12L 圖一至圖二）
+託管費扣除使用手工調賬，可以用證券賬號彙總的費用收取。（見 12L 圖三）
+
+> 其它客户費率指聯名賬户等其它户口。
+
+<img src="/assets/PrEebHcTYo3K2BxNc9ocslXAnmc.png" src-width="2712" src-height="986" align="center"/>
+
+<em>12L 圖一</em>
+
+<img src="/assets/FF2bbvsjXoD3YYx4KMPc5c6gn2f.png" src-width="2384" src-height="922" align="center"/>
+
+<em>12L 圖二</em>
+
+<img src="/assets/VTWyb9kj1oPyyyxDc0ncwkTRnog.png" src-width="2392" src-height="406" align="center"/>
+
+<em>12L 圖三</em>
 
