@@ -101,3 +101,39 @@ sidebar_position: 1
 
 <img src="/assets/Wi7hbQ2BgoxjCixXHeBcCJH4ndh.png" src-width="1682" src-height="634" align="center"/>
 
+## 5.2L 交易下單賬號選錯了另一個客户，前台已作成交分配轉移訂單到正確客户，但是結單上能什樣修正？
+
+答：因前後台分離下，前台 WTT 作成交分配，在「交易查詢＞成交分配」（見 5.2L 圖一、圖二），App 上會即時顯示更正倉位。
+後台作合約修正，選擇錯誤的訂單修正到正確的賬户。在「清算管理＞合約管理＞合約修正列表」修正合約需作審批（見 5.2L 圖三至圖六）。
+日終後結單上會把錯誤的訂單顯示為已撤銷（見 5.2L 圖七），另一客户生成新結單。
+
+> 操作成交分配前請通知受影響客户，以免引起投訴。
+
+<img src="/assets/K5sRb3n9NoKLTix9fGgcCfVfnKc.png" src-width="2612" src-height="1574" align="center"/>
+
+<em>5.2L 圖一</em>
+
+<img src="/assets/TYZWbONwHouV2Ux3Ii9cctt2n0Z.png" src-width="2606" src-height="1544" align="center"/>
+
+<em>5.2L 圖二</em>
+
+<img src="/assets/R2wbbfd1HowsZpxQsxrcpaW7npf.png" src-width="2732" src-height="816" align="center"/>
+
+<em>5.2L 圖三</em>
+
+<img src="/assets/K4RNb3gH3o7f0tx1PmTcj2KYnRX.png" src-width="2702" src-height="1192" align="center"/>
+
+<em>5.2L 圖四</em>
+
+<img src="/assets/EyNxbvLVaoOOaNxMWEqcW8isn5e.png" src-width="2504" src-height="1538" align="center"/>
+
+<em>5.2L 圖五</em>
+
+<img src="/assets/LPH6bRmrooN7m4xSse4cnD08nm3.png" src-width="2850" src-height="1306" align="center"/>
+
+<em>5.2L 圖六</em>
+
+<img src="/assets/DR0JbodVMoCNJVxiaF4cHJhVnmg.png" src-width="1096" src-height="370" align="center"/>
+
+<em>5.2L 圖七</em>
+

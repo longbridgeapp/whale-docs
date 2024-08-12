@@ -101,3 +101,39 @@ sidebar_position: 1
 
 <img src="/assets/Wi7hbQ2BgoxjCixXHeBcCJH4ndh.png" src-width="1682" src-height="634" align="center"/>
 
+## 5.2L 交易下单账号选错了另一个客户，前台已作成交分配转移订单到正确客户，但是结单上能什样修正？
+
+答：因前后台分离下，前台 WTT 作成交分配，在「交易查询＞成交分配」（见 5.2L 图一、图二），App 上会即时显示更正仓位。
+后台作合约修正，选择错误的订单修正到正确的账户。在「清算管理＞合约管理＞合约修正列表」修正合约需作审批（见 5.2L 图三至图六）。
+日终后结单上会把错误的订单显示为已撤销（见 5.2L 图七），另一客户生成新结单。
+
+> 操作成交分配前请通知受影响客户，以免引起投诉。
+
+<img src="/assets/K5sRb3n9NoKLTix9fGgcCfVfnKc.png" src-width="2612" src-height="1574" align="center"/>
+
+<em>5.2L 图一</em>
+
+<img src="/assets/TYZWbONwHouV2Ux3Ii9cctt2n0Z.png" src-width="2606" src-height="1544" align="center"/>
+
+<em>5.2L 图二</em>
+
+<img src="/assets/R2wbbfd1HowsZpxQsxrcpaW7npf.png" src-width="2732" src-height="816" align="center"/>
+
+<em>5.2L 图三</em>
+
+<img src="/assets/K4RNb3gH3o7f0tx1PmTcj2KYnRX.png" src-width="2702" src-height="1192" align="center"/>
+
+<em>5.2L 图四</em>
+
+<img src="/assets/EyNxbvLVaoOOaNxMWEqcW8isn5e.png" src-width="2504" src-height="1538" align="center"/>
+
+<em>5.2L 图五</em>
+
+<img src="/assets/LPH6bRmrooN7m4xSse4cnD08nm3.png" src-width="2850" src-height="1306" align="center"/>
+
+<em>5.2L 图六</em>
+
+<img src="/assets/DR0JbodVMoCNJVxiaF4cHJhVnmg.png" src-width="1096" src-height="370" align="center"/>
+
+<em>5.2L 图七</em>
+

@@ -73,7 +73,7 @@ sidebar_position: 3
 <p>修改费用配置后，何时生效；怎么判断是否生效</p>
 </div>
 
-最快 15 分钟生效
+最快 10 分钟生效
 
 可以在客户计费查询页面（路径：业务参数设置 - 计费管理 - 客户计费查询），此页面查询的数据为最新数据
 
@@ -112,7 +112,55 @@ sidebar_position: 3
 
 <img src="/assets/W6bxbB4cLofNx4xg9sec8tyrn4b.png" src-width="3578" src-height="1798" align="center"/>
 
+## 交易对账
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>为什么会有多种对账模式</p>
+</div>
+
+不同上手在提供交易文件时，会有不同的格式和字段。不同上手会有不同的对账模式。常用的对账模式有成交对账、订单对账、股票对账。不管是哪类都会对交易数量和交易金额（交易数量*成交价格）进行对账
+
+成交对账：基于成交流水号进行配对，会比对交易数量和交易金额
+
+订单对账：基于订单号进行配对，多笔成交的会进行汇总
+
+股票对账：基于股票进行配对，多笔成交的会进行汇总
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>前后台补单后，因为没有流水号，会出现不平账，该如何处理</p>
+<p>解决方案：交易对账配对失败后降级到按股票对账</p>
+</div>
+
+处理方案一：借助 SDR015-2 报表。查看第三模块，人工比对不平账，看看基于股票的对账是否平账。如果平账的人工通过
+
+<img src="/assets/QtjcbpbzPooWctxl1aiclrHnnCb.png" src-width="3584" src-height="1696" align="center"/>
+
+处理方案二：开启模糊对账功能
+
+在清算参数配置打开模糊对账功能。
+
+<img src="/assets/Q8Rib9m2ao8xJkxSEXDcbrnHnTe.png" src-width="3584" src-height="1696" align="center"/>
+
+如果有不平账，系统会自动按股票重新对账
+
+如果按股票对账为平账的，按股票对账的结果会处理为平账，反之依然为不平账
+
+如果不平账明细，按股票对账的结果全部为平账的，清算检查自动通过
+
+<img src="/assets/Zx7dbuYBeojUMyxxToec6OGBnwg.png" src-width="3584" src-height="1696" align="center"/>
+
 ## 持仓对账
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>什么时候进行持仓对账</p>
+</div>
+
+港股市场在下一日对上一个的持仓。在上一日日切且收到文件后进行
+
+美股市场因为是隔夜市场，可在当前账务日期对当日的账。最早可在清算交收步骤后进行
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -160,6 +208,7 @@ sidebar_position: 3
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
 <p>港股市场如果让用户可以在早上提现</p>
+<p>解决方案：HK 自动交收</p>
 </div>
 
 方式一：可以打开“11 点的港股自动交收”任务

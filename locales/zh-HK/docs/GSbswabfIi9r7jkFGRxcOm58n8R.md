@@ -39,9 +39,9 @@ sidebar_position: 1
 
 ## 1.2C 問：客户可否添加多個電郵收取結單？
 
-答：可以的，在「KYC &gt; 開户列表 &gt; 詳情」頁面中 "更多郵箱" 點擊「編輯」，以增加多個電郵收取結單。
+答：可以的，在「賬户管理 &gt; 客户賬户信息 &gt; 修改聯絡方式」頁面中點擊「新增」。在 "修改內容" 點擊「更多聯繫郵範」，以增加多個電郵收取結單。
 
-<img src="/assets/EA6rb8U1Go8UE4xrYYfcQm2encb.png" src-width="2502" src-height="1192" align="center"/>
+<img src="/assets/HBgHb7JKdo9BzBxWCZycNaRznVe.png" src-width="2730" src-height="1370" align="center"/>
 
 ## 1.2D 問：客户已開户，但為什麼登入 App 顯示「請提交開户申請」？
 

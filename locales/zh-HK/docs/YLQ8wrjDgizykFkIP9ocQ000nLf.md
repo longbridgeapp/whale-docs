@@ -73,7 +73,7 @@ sidebar_position: 3
 <p>修改費用配置後，何時生效；怎麼判斷是否生效</p>
 </div>
 
-最快 15 分鐘生效
+最快 10 分鐘生效
 
 可以在客戶計費查詢頁面（路徑：業務參數設置 - 計費管理 - 客戶計費查詢），此頁面查詢的數據為最新數據
 
@@ -112,7 +112,55 @@ sidebar_position: 3
 
 <img src="/assets/W6bxbB4cLofNx4xg9sec8tyrn4b.png" src-width="3578" src-height="1798" align="center"/>
 
+## 交易對賬
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>為什麼會有多種對賬模式</p>
+</div>
+
+不同上手在提供交易文件時，會有不同的格式和字段。不同上手會有不同的對賬模式。常用的對賬模式有成交對賬、訂單對賬、股票對賬。不管是哪類都會對交易數量和交易金額（交易數量*成交價格）進行對賬
+
+成交對賬：基於成交流水號進行配對，會比對交易數量和交易金額
+
+訂單對賬：基於訂單號進行配對，多筆成交的會進行匯總
+
+股票對賬：基於股票進行配對，多筆成交的會進行匯總
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>前後台補單後，因為沒有流水號，會出現不平賬，该如何处理</p>
+<p>解決方案：交易對賬配對失敗後降級到按股票對賬</p>
+</div>
+
+處理方案一：藉助 SDR015-2 報表。查看第三模塊，人工比對不平賬，看看基於股票的對賬是否平賬。如果平賬的人工通過
+
+<img src="/assets/QtjcbpbzPooWctxl1aiclrHnnCb.png" src-width="3584" src-height="1696" align="center"/>
+
+處理方案二：開啟模糊對賬功能
+
+在清算參數配置打開模糊對賬功能。
+
+<img src="/assets/Q8Rib9m2ao8xJkxSEXDcbrnHnTe.png" src-width="3584" src-height="1696" align="center"/>
+
+如果有不平賬，系統會自動按股票重新對賬
+
+如果按股票對賬為平賬的，按股票對賬的結果會處理為平賬，反之依然為不平賬
+
+如果不平賬明細，按股票對賬的結果全部為平賬的，清算檢查自動通過
+
+<img src="/assets/Zx7dbuYBeojUMyxxToec6OGBnwg.png" src-width="3584" src-height="1696" align="center"/>
+
 ## 持倉對賬
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>什麼時候進行持倉對賬</p>
+</div>
+
+港股市場在下一日對上一個的持倉。在上一日日切且收到文件後進行
+
+美股市場因為是隔夜市場，可在當前賬務日期對當日的賬。最早可在清算交收步驟後進行
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -160,6 +208,7 @@ sidebar_position: 3
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
 <p>港股市场如果让用戶可以在早上提現</p>
+<p>解決方案：HK 自動交收</p>
 </div>
 
 方式一：可以打開“11 點的港股自動交收”任務

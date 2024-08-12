@@ -19,3 +19,15 @@ sidebar_position: 19
 
 <img src="/assets/XF29bp7T0oU6sWxJd3hclNR1nff.png" src-width="1314" src-height="380" align="center"/>
 
+## 20C 问：投放系统中用户分群的「用户地区」如何筛选客户？
+
+答：根据以下字段来作筛选，
+
+优先级 1：居住国家/地区
+
+优先级 2：手机区号
+
+优先级 3：注册时的 IP 地区
+
+<img src="/assets/TTNVb7TI3ovfe7xasdAcVcEhn4g.png" src-width="1914" src-height="902" align="center"/>
+

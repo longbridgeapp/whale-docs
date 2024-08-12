@@ -155,7 +155,7 @@ sidebar_position: 6
 
 ## 7K 問：暗盤平台費和正常交易平台費能否分開計算？
 
-答：在「業務參數設置＞計算管＞客户組計費配置」相關客戶組點擊「編輯」（見 7K 圖一），然後在平台費收費點擊「編輯」。（見 7K 圖二）
+答：在「業務參數設置＞計算管理＞客户組計費配置」相關客戶組點擊「編輯」（見 7K 圖一），然後在平台費收費點擊「編輯」。（見 7K 圖二）
 在“特殊收費”點擊「添加」，“訂單類型”選擇「暗盤」後并輸入收費資料。（見 7K 圖三）
 
 <img src="/assets/BcNybt9EboDqzkxJaLIceaHDnmf.png" src-width="2866" src-height="1606" align="center"/>
@@ -169,4 +169,22 @@ sidebar_position: 6
 <img src="/assets/WELwbbklhol38RxG7Xdc1XJ7nOc.png" src-width="2864" src-height="1618" align="center"/>
 
 <em>7K 圖三</em>
+
+## 7L 問：收費渠道 Longport, Pro, App, Web, WTT 的分別表示什麼？
+
+答：Longport 是公版 App；Pro 是豪華版 Longport Pro；App 是白標 App；Web 是網頁版 Web Trade；WTT 是前台 Whale Trade Terminal。
+
+<img src="/assets/Uwgmbd6cwo6xA6xxgBwcMdTznCh.png" src-width="2728" src-height="1370" align="center"/>
+
+## 7M 問：如何添加開户時所選的計費套餐？
+
+答：在「業務參數設置＞計費管理＞機構計費」對應的 "默認用户組" 點擊「編輯」（見 7M 圖一），在 "可選客户組" 添加「客户組計費配置」已建立的計費套餐，之後在計費套餐可選擇（見 7M 圖二）。
+
+<img src="/assets/PPVpbYpwCoRGvWxHGrOcKxvPnNg.png" src-width="2726" src-height="1408" align="center"/>
+
+<em>7M 圖一</em>
+
+<img src="/assets/ItqabGJSyoye5sxXCWhcrIr2nfd.png" src-width="2126" src-height="1410" align="center"/>
+
+<em>7M 圖二</em>
 
