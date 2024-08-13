@@ -121,39 +121,11 @@ function getAllNodeTokens(data) {
     return nodeTokens;
 }
 
-function removeFile(filePath) {
-  return new Promise((resolve, reject) => {
-    fs.unlink(filePath, (err) => {
-      if (err) {
-        return reject(err);
-      }
-      resolve();
-    });
-  });
-}
-
-async function removeFiles(filePaths) {
-  console.log('removeFiles-136', filePaths)
-  try {
-    const deletePromises = filePaths.map(filePath => {
-      if (typeof filePath !== 'string') {
-        throw new TypeError(`Expected a string, but got ${typeof filePath}`);
-      }
-      return fs.unlink(filePath)
-    });
-    console.log('removeFiles-139', deletePromises)
-    await Promise.all(deletePromises);
-    console.log('All files were deleted successfully');
-  } catch (error) {
-    console.error('Error deleting files:', error);
-  }
-}
-
 function normalize_hidde_docs() {
   const rootPath = resolve(__dirname, "..");
   const all_docs = compact(
     uniq(
-      sync(`${rootPath}/locales/**/*.md`).map((doc) => {
+      sync(`${rootPath}/feishu-pages/docs/*.md`).map((doc) => {
         return path.basename(doc);
       }),
     ),
