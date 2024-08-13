@@ -14,7 +14,7 @@ import {
 } from "fs";
 import { resolve, dirname } from "path";
 import { sync } from "glob";
-import { compact, flatten, flattenDeep, uniq } from "lodash";
+import { compact, flattenDeep, uniq } from "lodash";
 import { Converter } from "opencc-js";
 
 const converter = Converter({ from: "hk", to: "cn" });
@@ -133,17 +133,19 @@ function removeFile(filePath) {
 }
 
 async function removeFiles(filePaths) {
-  for (const filePath of filePaths) {
-    try {
-      if (fs.existsSync(filePath)) {
-        await removeFile(filePath);
-        console.log(`--> Successfully removed: ${filePath}`);
-      } else {
-        console.log("not found file: ", filePath);
+  console.log('removeFiles-136', filePaths)
+  try {
+    const deletePromises = filePaths.map(filePath => {
+      if (typeof filePath !== 'string') {
+        throw new TypeError(`Expected a string, but got ${typeof filePath}`);
       }
-    } catch (err) {
-      console.error(`--> Error removing file: ${filePath}`, err);
-    }
+      return fs.unlink(filePath)
+    });
+    console.log('removeFiles-139', deletePromises)
+    await Promise.all(deletePromises);
+    console.log('All files were deleted successfully');
+  } catch (error) {
+    console.error('Error deleting files:', error);
   }
 }
 
@@ -173,6 +175,7 @@ function normalize_hidde_docs() {
         }
       }).map((f) => {
         return [
+          `${rootPath}/feishu-pages/docs/${f}`,
           `${rootPath}/locales/zh-CN/docs/${f}`,
           `${rootPath}/locales/zh-HK/docs/${f}`,
           `${rootPath}/locales/en/docs/${f}`,
@@ -180,16 +183,17 @@ function normalize_hidde_docs() {
       }),
   );
   
-  removeFiles(removed_docs)
-    .then(() => {
-      console.log("All files removed.");
-    })
-    .catch((err) => {
-      console.error("Error removing files:", err);
-    });
+  removed_docs.forEach((doc) => {
+    if (fs.existsSync(doc)) {
+      fs.unlinkSync(doc)
+      console.log(`--> removed file: ${doc}`)
+    }else{
+      console.log(`--> not found file: ${doc}`)
+    }
+  })
 }
 
-function run() {
+async function run() {
   normalize_hidde_docs();
   convertHK2CN();
   setupAssets();
