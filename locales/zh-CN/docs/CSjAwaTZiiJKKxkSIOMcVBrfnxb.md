@@ -1,0 +1,364 @@
+---
+title: 系统介绍
+slug: CSjAwaTZiiJKKxkSIOMcVBrfnxb
+sidebar_position: 2
+---
+
+
+# 系统介绍
+
+# 概述
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="100"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>一级目录</p></td><td><p>二级目录</p></td><td><p>目录说明</p></td></tr>
+<tr><td rowspan="5"><p>卡券福利</p></td><td><p>卡券配置</p></td><td><p>主要功能为卡券模版的查询以及卡券模版配置功能</p></td></tr>
+<tr><td><p>卡券管理</p></td><td><p>主要对已发放出去的所有卡券进行管理，可查询到卡券具体发给谁，以及卡券当前状态与使用情况。</p></td></tr>
+<tr><td><p>卡券结算</p></td><td><p>主要为所有已经结算完成且进行金额返还的卡券结算流水表单，如先收后返的平台费、免佣卡等卡券使用所产生需要返还现金的流水，而自动抵扣的免佣卡不生成流水则不会提现在表单中</p></td></tr>
+<tr><td><p>实物奖品</p></td><td><p>主要用户实物奖励模版查看与实物奖励模版配置功能</p></td></tr>
+<tr><td><p>实物发放管理</p></td><td><p>对已发放的实物奖励可导出地址进行发货，填写物流单号供用户查看。</p></td></tr>
+<tr><td rowspan="2"><p>奖励中心</p></td><td><p>奖励发放</p></td><td><p>创建卡券福利后后台发奖功能，可查询所有的奖励记录并给主动给用户发卡券、实物奖励</p></td></tr>
+<tr><td><p>资产处置</p></td><td></td></tr>
+<tr><td rowspan="2"><p>权益中心</p></td><td><p>权益商品</p></td><td><p>主要用与查询 App 内的权益订单数据</p></td></tr>
+<tr><td><p>权益订单</p></td><td></td></tr>
+<tr><td><p>WTT 权益</p></td><td><p>权益订单</p></td><td><p>查看 WTT 下的权益订单</p></td></tr>
+</tbody>
+</table>
+
+## **适用场景**
+
+奖励发放、审核与查询；卡券、实物奖励创建；权益商店订单查询
+
+## **前置条件**
+
+操作本文档需要申请对应权限，以及购买 OPA 相关服务才可使用
+
+# 各菜单介绍
+
+## 卡券福利
+
+### 卡券配置
+
+菜单入口：运营系统&gt;权益系统&gt;卡劵福利&gt;卡劵配置
+
+<img src="/assets/SJRVbtc7Go0uQ7xCKwOcYFn3ntf.png" src-width="3304" src-height="1606" align="center"/>
+
+列表功能操作：
+
+- 查询：可通过卡券模版标题、模版代码、有效时间等筛选查询卡券模版
+- 查看：点击查看则可见当前卡券模版所有配置字段信息
+- 编辑：点击编辑则可编辑当前卡券字段与规则。
+
+                 （谨慎使用，修改保存之后的字段会影响到当前线上已发放的卡券信息）
+
+- 复制：当想要快速创建相似卡券模版时，点击复制可直接复制当前卡券模版信息进行部分字段修改即可快速创建新的模版。
+
+点击右上角“新建”按钮后打开如下页面
+
+<img src="/assets/P3E0bN25GoPZ5txTUWIclMy1neg.png" src-width="2880" src-height="2218" align="center"/>
+
+**卡券基础信息配置**
+
+选择对应要创建的卡券类型，在卡券预览中可见当前选中的卡券类型的样式预览图，填写好卡券标题、卡券有效期、卡券价值、卡券使用说明、规则配置等必填字段。具体字段规则如下：
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>字段名称</p></td><td><p>配置说明</p></td></tr>
+<tr><td><p>卡券类型</p></td><td><p>按照所购买的产品不同将展示不同卡券种类。</p></td></tr>
+<tr><td><p>卡券标题</p></td><td><p>可配置多语言，支持中文简体、中文繁体、英语三种语言标题配置，配置好后将更具用户手机系统语言默认展示对应语言。若无需多语言展示则三个语言标题都配置统一语言标题即可。</p></td></tr>
+<tr><td><p>卡券有效期</p></td><td><p>分为固定有效期和领取后有效期两种模式。</p>
+<ul>
+<li>设置固定有效期为卡券在固定时间段内有效，例如 2023 年 1 月 1 日至 2023 年 1 月 31 日有效期卡券，不管在何时发放何时领取，用户收到后使用日期都不变；</li>
+<li>设置领取后 XX 天后有效则按照领取时间起开始算有效时间，例如设置卡券领取 7 天后有效，则用户在 2023 年 1 月 1 日领取卡券，卡券有效期则 Wie2023 年 1 月 1 日至 2023 年 1 月 8 日。</li>
+</ul></td></tr>
+<tr><td><p>卡券价值</p></td><td><p>配置当前卡券币种以及对应价值/价值上限。设置后用户可见当前卡券的价值。<br/>部分价值等于实际结算价值如：现金卡、股票现金卡、平台费抵扣卡、全额免佣卡等</p></td></tr>
+<tr><td><p>卡券使用说明</p></td><td><p>卡券使用说明，填写后将在卡券中心，以及卡券选择页面中展示。<br/>可以在交易环节使用的卡券类型（如平台费抵扣卡、股票现金卡、免佣卡）该字段最好为必填</p></td></tr>
+</tbody>
+</table>
+
+**卡券规则配置**
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="127"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>卡券类型</p></td><td><p>规则字段</p></td><td><p>配置说明</p></td></tr>
+<tr><td><p>行情/基本面卡</p></td><td><p>数据权益标签</p></td><td><p>必填项，用户获得该卡后对应可获得的数据权益服务包</p></td></tr>
+<tr><td rowspan="3"><p>免佣卡</p></td><td><p>适用市场</p></td><td><p>必填项，可多选。即可使用该卡进行免佣的市场有哪些，可配置单市场也可配置多市场</p></td></tr>
+<tr><td><p>适用标的类型</p></td><td><p>必填项，可多选。免佣标的类型配置，当前仅支持正股交易免佣配置，后续再拓展其他场景</p></td></tr>
+<tr><td><p>免佣模式</p></td><td><p>必填项，单选，免佣模式支持可配置全额免佣、终身免佣、按比例免佣</p>
+<ul>
+<li>全额：即支持按照当前卡券价值全额免佣，直到扣完全部额度为止。</li>
+<li>终身：即免除该用户在平台内当前市场交易的产生的所有佣金，有效期为终身。（用户注销后重新注册的除外）</li>
+<li>按比率：即按照配置比例进行佣金优惠。例如配置 80%，则免除 80%。收取（1-80%）佣金。</li>
+</ul></td></tr>
+<tr><td><p>打新特权卡</p></td><td><p>指定 IPO 可用</p></td><td><p>非必填，单选。可选择指定打新股票可用。</p></td></tr>
+<tr><td rowspan="3"><p>打新手续费卡</p></td><td><p>指定 IPO 可用</p></td><td><p>非必填，单选。可选择指定打新股票可用。</p></td></tr>
+<tr><td><p>打新方式</p></td><td><p>必填项，单选。可选择融资打新、现金打新是可用</p></td></tr>
+<tr><td><p>融资额度门槛</p></td><td><p>当选择融资打新时可选填，设置后则只有在大于该融资额度打新时才可使用。</p></td></tr>
+<tr><td rowspan="2"><p>股票卡</p></td><td><p>指定股票</p></td><td><p>必填项，单选。兑换后可获得对应股票代码股票</p></td></tr>
+<tr><td><p>可兑换股票股数</p></td><td><p>必填项，填写单张可兑换的股票的股数</p></td></tr>
+<tr><td rowspan="3"><p>股票现金卡</p></td><td><p>指定股票</p></td><td><p>非必填，单选。不选则可通用。选择后则只有对应股票交易或兑换可使用。</p></td></tr>
+<tr><td><p>适用市场</p></td><td><p>必填项，可多选。即可使用该卡进行交易的股票市场有哪些，可配置单市场也可配置多市场</p></td></tr>
+<tr><td><p>适用标的类型</p></td><td><p>必填项，单选。当支持正股交易、期权交易两种类型现金卡配置。</p></td></tr>
+<tr><td><p>平台费抵扣卡</p></td><td><p>可使用次数</p></td><td><p>必填项，即当前卡券可抵扣多少次平台费。如卡券价值为 30 港币，抵扣次数为 3，则单次可抵扣上限 10 港币。</p></td></tr>
+<tr><td rowspan="2"><p>融资利息券</p></td><td><p>优惠方式</p></td><td><p>必填项，单选。支持免息、折扣两种优惠模式选择</p>
+<ul>
+<li>免息：则有效期内所产生融资利息直接免除</li>
+<li>折扣：则有效期内所产生融资利息直接打折收取。</li>
+</ul></td></tr>
+<tr><td><p>折扣率</p></td><td><p>选择折扣优惠时，必填字段。设置折扣为当前收取折扣。例如 80%，则直接收取（1- 80%）利息，优惠 80%。</p></td></tr>
+</tbody>
+</table>
+
+点击确定，则生成对应卡券模版以及模版代码。
+
+### 卡券管理
+
+菜单入口：运营系统&gt;权益系统&gt;卡劵福利&gt;卡劵管理
+
+本作业提供卡券使用数据查看
+
+<img src="/assets/YuzmbN78CoVMLWxbmp9cedhVnbe.png" src-width="3226" src-height="1424" align="center"/>
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
+<tr><td><p>卡券有效期</p></td><td><p>显示用户实际收到卡券之后的具体开始时间和结束时间。若由于用户未开户导致没有开始时间显示的则显示卡券设置的时间</p></td></tr>
+<tr><td><p>状态</p></td><td><ul>
+<li>未使用：卡券还未开始使用</li>
+<li>使用中：只有卡类型有使用中状态，即卡券当前已使用了部分。例如：50 次卡，当前已使用 3 次则状态为使用中</li>
+<li>已使用：全部价值均使用完毕。例如：50 次卡，当前已使用 50 次则状态为已使用</li>
+<li>已过期：卡券未使用或未全部使用完直接过期的都叫已过期。例如：50 次卡，当前已使用 3 次但是有效期已过则显示已过期。或者单次卡还未使用，有效期已过也显示已过期</li>
+<li>已锁定：未使用完单当前已绑定不可使用了。例如：50 次卡，当前使用了 49 次，再次下单使用第 50 次时当订单还未下单成功前都为已锁定状态；30 元股票现金卡，下单时已绑定了该张卡，则该卡当前则为已锁定状态。后续下单时则不可选中绑定了。</li>
+</ul></td></tr>
+<tr><td><p>总价值</p></td><td><p>卡券价值</p></td></tr>
+<tr><td><p>已用价值</p></td><td><p>当前已结算的实际优惠金额的总和。</p></td></tr>
+<tr><td><p>到账时间</p></td><td><p>发放到用户的时间</p></td></tr>
+<tr><td><p>来源</p></td><td><ul>
+<li>活动：通过活动进行发奖 </li>
+<li>奖励：通过奖励中心后台发奖</li>
+<li>任务：通过用户完成任务进行发奖</li>
+</ul></td></tr>
+</tbody>
+</table>
+
+### 卡券结算
+
+菜单入口：运营系统&gt;权益系统&gt;卡劵福利&gt;卡劵结算
+
+<img src="/assets/LZ4pbNIfnoCCXdxsiMscn3cWntg.png" src-width="3224" src-height="1432" align="center"/>
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>列表字段</p></td><td><p>字段说明</p></td></tr>
+<tr><td><p>核销场景</p></td><td><ul>
+<li>交易：交易后结算，如免佣卡、股票现金卡、平台费抵扣卡</li>
+<li>打新：打新后结算，如打新面手续费</li>
+<li>兑换：兑换后结算，如股票卡</li>
+<li>现金：直接现金领取，如现金卡</li>
+</ul></td></tr>
+<tr><td><p>关联流水号</p></td><td><ul>
+<li>交易则显示对应的交易流水号</li>
+<li>打新则显示对应的打新交易流水号</li>
+<li>兑换则显示兑换的资产流水号</li>
+<li>现金则显示资产流水号</li>
+</ul></td></tr>
+<tr><td><p>卡券价值</p></td><td><p>该卡券实际价值</p></td></tr>
+<tr><td><p>实际结算成本</p></td><td><p>当前流水实际抵扣或者优惠的金额</p></td></tr>
+<tr><td><p>核销日期</p></td><td><p>用户结算/返还的时间</p></td></tr>
+</tbody>
+</table>
+
+### 实物奖品
+
+<img src="/assets/JjeqbS2VXogQPuxf6o6ccQgvnGf.png" src-width="3224" src-height="1544" align="center"/>
+
+列表功能操作：
+
+- 查询：可通过奖品类型、奖品标题、创建时间、业务类型进行列表筛选
+- 查看：点击查看则可见当前奖品模版所有配置字段信息
+- 编辑：点击编辑则可编辑当前奖品字段与规则。
+
+（谨慎使用，修改保存之后的字段会影响到当前线上已发放的实物信息）
+
+- 下架：该奖励下架，所有已发放奖励过期
+
+**创建实物奖励模版**
+
+点击页面右上角“新建模版”按钮，将打开以下页面
+
+<img src="/assets/B2iIbBJ3ioOTFvxxgH7c7uWfncb.png" src-width="2684" src-height="1632" align="center"/>
+
+配置面板进行如下字段配置
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>字段名称</p></td><td><p>配置说明</p></td></tr>
+<tr><td><p>奖品类型</p></td><td><p>当前仅支持实物奖励一种奖品类型，后续拓展其他类型</p></td></tr>
+<tr><td><p>奖品名称</p></td><td><p>可配置多语言，支持中文简体、中文繁体、英语三种语言标题配置，配置好后将更具用户手机系统语言默认展示对应语言。若无需多语言展示则三个语言标题都配置统一语言标题即可。</p></td></tr>
+<tr><td><p>奖品有效期</p></td><td><p>分为固定有效期和领取后有效期两种模式。</p>
+<ul>
+<li>设置固定有效期为奖品在固定时间段内可领取，例如 2023 年 1 月 1 日至 2023 年 1 月 31 日有效期卡券，不管在何时发放何时领取，用户收到后均需要在该时间端内领取并填写地址才有效，否则奖励将直接过期。</li>
+<li>设置领取后 XX 天后有效则按照领取时间起开始算领取有效时间，例如设置卡券领取 7 天后有效，则用户在 2023 年 1 月 1 日领取卡券，则用户需要在 2023 年 1 月 1 日至 2023 年 1 月 8 日前领取，否则奖励将直接过期。</li>
+</ul></td></tr>
+<tr><td><p>奖品价值</p></td><td><p>配置当前卡券币种以及对应价值</p></td></tr>
+<tr><td><p>奖品概述</p></td><td><p>配置后，将展示在用户领取奖励页面下方</p></td></tr>
+<tr><td><p>奖品图片</p></td><td><p>上传奖品图片，建议上传图片大小为（100*100）像素，jpg、png 图像格式的文件，大小不</p></td></tr>
+</tbody>
+</table>
+
+填写好以上信息都，点击确定则创建成功，系统自动生成对应模版代码（用于奖励关联）。
+
+### 实物发放管理
+
+<img src="/assets/PlPhbpjyzo03kTxGw9acdLjGntg.jpeg" src-width="1114" src-height="2174" align="center"/>
+
+- 发奖后，查看用户填写的地址信息导出地址与发货信息进行线下发货
+
+<img src="/assets/SETbbB7e8oBMclxbbSWc8UzHnVh.png" src-width="3768" src-height="1840" align="center"/>
+
+<img src="/assets/QP8hbLcq2ousZHx2cqDconwBnpd.png" src-width="1394" src-height="660" align="center"/>
+
+为防止导出发货后用户修改地址，需要点击‘批量修改状态'，修改状态后用户将不能变更发货地址
+
+<img src="/assets/JAKObSgqHoF2AcxdDzdcZ0qsnuf.png" src-width="3252" src-height="1616" align="center"/>
+
+发货后将已发货的物流单号信息填写到系统中或批量导入到系统中，以便用户进行查看
+
+点击“发货”按钮，弹框可填写物流单号
+
+<img src="/assets/BTMpbwyZIovQUTxEqtAcH5W9n7f.png" src-width="3234" src-height="1136" align="center"/>
+
+填写好物流单号后点击确认即可
+
+若操作量多时，可点击页面右上角“批量导入物流单号”可选中文件可批量导入物流单号，更高效！
+
+<img src="/assets/YpyibjbC3oEWkMx4fgxc3lh8nFb.png" src-width="3336" src-height="1724" align="center"/>
+
+## 奖励中心
+
+### 奖励记录
+
+**给指定用户发奖**
+
+菜单入口：运营系统&gt;权益系统&gt;奖励中心&gt;奖励记录
+
+<img src="/assets/UCiab9lt5oh8qixLRAXc4nDQn9b.png" src-width="3252" src-height="1426" align="center"/>
+
+<img src="/assets/UUaHbk5BVoH4yhxlnc6cbKdWntf.png" src-width="3254" src-height="1630" align="center"/>
+
+**给批量用户发奖**
+
+菜单入口：运营系统&gt;权益系统&gt;奖励中心&gt;奖励纪录
+
+批量发放现金 - 点击批量发放现金奖励按钮
+
+<img src="/assets/BVjBbFfcDoQog0xfHyfcOEa2nWb.png" src-width="3246" src-height="280" align="center"/>
+
+<img src="/assets/CkNjbMUneoTVf3xvjwtcRtnQnJo.png" src-width="3248" src-height="1622" align="center"/>
+
+批量发放实物 - 点击批量发放实物奖励按钮
+
+与前述操作相同
+
+批量发放卡券 - 点击批量发放卡券奖励按钮
+
+与前述操作相同
+
+### 资产处置（新功能，待更新）
+
+## 权益中心（系统升级中，待更新）
+
+菜单入口：运营系统&gt;权益系统&gt;权益中心
+
+主要用于运营可查看、导出当前 APP 内权益商店成交的订单情况
+
+<img src="/assets/WuZqbwZ6loCNeBxNplFc89svnhg.png" src-width="2340" src-height="1358" align="center"/>
+
+<table>
+<colgroup>
+<col width="111"/>
+<col width="753"/>
+</colgroup>
+<tbody>
+<tr><td><p>字段名称</p></td><td><p>配置说明</p></td></tr>
+<tr><td><p>订单号</p></td><td><p>用户购买订单流水号</p></td></tr>
+<tr><td><p>产品名称</p></td><td><p>用户所购买的产品名称</p></td></tr>
+<tr><td><p>付款人</p></td><td><p>付款用户 ID</p></td></tr>
+<tr><td><p>账户</p></td><td><p>用户付款账户</p></td></tr>
+<tr><td><p>支付流水号</p></td><td><p>用户付款流水号</p></td></tr>
+<tr><td><p>货币类型</p></td><td><p>付款货币类型</p></td></tr>
+<tr><td><p>产品成本</p></td><td><p>产品实际成本价格</p></td></tr>
+<tr><td><p>支付额度</p></td><td><p>用户付款金额</p></td></tr>
+<tr><td><p>支付时间</p></td><td><p>用户支付完成时间</p></td></tr>
+<tr><td><p>下单时间</p></td><td><p>用户下单时间</p></td></tr>
+<tr><td><p>支付状态</p></td><td><p>用户当前支付状态</p></td></tr>
+<tr><td><p>创建时间</p></td><td><p>订单创建时间</p></td></tr>
+</tbody>
+</table>
+
+## WTT 权益
+
+**适用场景**
+
+本作业提供交易员申请 WTT 行情商店服务，租户交易员可以根据自己使用行情的实际需求在 WTT 平台自主申请，同时升级行情权限。
+
+**申请流程**
+
+进入 WTT 行情商店：点击右上角头像，点击「行情申请」。
+
+<img src="/assets/MBnDbVnMaoFEQLx1trNcUXaMnfd.png" src-width="2880" src-height="1360" align="center"/>
+
+首先选择需要的行情产品，行情商店会展示相关的权限，期限与价格，完成选择后，点击「确认发起申请」（无需付费，Whale 系统 会自动在次月初和交易员所在公司统一结算总费用）
+
+<table header_column="1">
+<colgroup>
+<col width="100"/>
+<col width="200"/>
+</colgroup>
+<tbody>
+<tr><td><p>月卡</p></td><td><p>30 天</p></td></tr>
+<tr><td><p>季卡</p></td><td><p>90 天</p></td></tr>
+<tr><td><p>年卡</p></td><td><p>365 天</p></td></tr>
+</tbody>
+</table>
+
+<img src="/assets/GbCvbmCguo0fUPxJgaRcLcvrn7b.png" src-width="2880" src-height="1360" align="center"/>
+
+等待审核：在申请完成后，该申请需要交易员所在公司的管理员帐号进行内部审核。
+
+<img src="/assets/FMQ9basuyo51rjxYhf8ckOPMnSc.png" src-width="2880" src-height="1360" align="center"/>
+
+管理员审核：在 OPA Console 后台—「运营系统」-「WTT 权益」-「权益订单」中，管理员可以看到交易员发起的申请，并可以进行审核操作。
+
+<img src="/assets/YxlibwbqloSWBexYDtUccw4xnce.png" src-width="3304" src-height="1208" align="center"/>
+
+审核完成：审核通过后，该交易员帐号会立即激活相应行情权限，Whale 系统会收到相应的订单记录产生。
+
+费用结算：在次月初，Whale 系统 会根据行情申请费用总计统一发送帐单，在确认帐单无误后，进行费用结算。
+
