@@ -64,6 +64,7 @@
       - [清算管理](AxPawktyYi8PpdkXvxVcDXwPneb.md)
         - [業務介紹](TMvmwyvyViOVZbk02vxcarBen7g.md)
         - [快速上手](FWyvwdeLpiY2Ryk05pNc5rppnFb.md)
+          - [快速上手（OB上手為LB）](APK0wYG9UiOtn1kt3X7cgoNPnPe.md)
         - [系統介紹](NO4HwcjZoiMgi8ko0m4cbrZ5nRf.md)
         - [常見問題](YLQ8wrjDgizykFkIP9ocQ000nLf.md)
       - [公司行動](PxB7wuhXNia0XOk8Vohc6HeEnCe.md)
