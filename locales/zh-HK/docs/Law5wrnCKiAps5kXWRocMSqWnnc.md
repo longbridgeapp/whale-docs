@@ -245,3 +245,9 @@ xxx 证券
 
 <em>1.1W 圖二</em>
 
+1.1X 問：為什麼內地客戶在 App 開戶無法修改地址？
+
+答：使用大陸身份證開戶的客戶默認使用身份證的地址，沒有輸入地址的地方；其他地區證件可以填寫居住地址的地方。後台「開戶詳情」可以修改地址。
+
+<img src="/assets/LQF8bkW94oRbMSxwoKEcEBU7nQ3.png" src-width="2574" src-height="984" align="center"/>
+

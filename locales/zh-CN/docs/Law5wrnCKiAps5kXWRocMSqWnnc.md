@@ -245,3 +245,9 @@ xxx 证券
 
 <em>1.1W 图二</em>
 
+1.1X 问：为什么内地客户在 App 开户无法修改地址？
+
+答：使用大陆身份证开户的客户默认使用身份证的地址，没有输入地址的地方；其他地区证件可以填写居住地址的地方。后台「开户详情」可以修改地址。
+
+<img src="/assets/LQF8bkW94oRbMSxwoKEcEBU7nQ3.png" src-width="2574" src-height="984" align="center"/>
+
