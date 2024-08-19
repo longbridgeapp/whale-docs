@@ -120,3 +120,27 @@ IDR019 - Suspected Order Activities Report - 单一客户更改或取消订单�
 
 <em>12L 图三</em>
 
+## 12M 问：如何解读 FRR006-1 报表与 FDR002-1 报表？
+
+答：1.FRR006-1 报表统计所有 Cash 账户欠款客户（根据选择的汇率转换成 HKD）；
+
+一个客户如果有多个币种，统一转成 HKD 后计算结余。
+
+> 例子：USD 10 & HKD -50。转成 HKD 后，正数不统计到 FRR006-1 报表。
+
+日期基准：Trade Date 交易日 ＆Settle Date 交收日
+
+<img src="/assets/LkoMbwD0uoHK9RxybbwceJ8Onbh.png" src-width="2380" src-height="592" align="center"/>
+
+2.FDR002-1 报表统计所有客户的资金明细（分币种计算）
+
+Available balance：以结算金额计算
+
+Net Balance：以账面金额计算
+
+DR 是欠款
+
+CR 是非欠款
+
+<img src="/assets/CHBNbyNQLogtl5xeBKccKQyJnxh.png" src-width="2820" src-height="1264" align="center"/>
+

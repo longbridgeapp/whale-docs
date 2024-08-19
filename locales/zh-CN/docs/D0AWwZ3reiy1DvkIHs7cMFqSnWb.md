@@ -68,6 +68,8 @@ sidebar_position: 1
 
 <b>答：</b>结单上的汇率（见 2.2B 图一）及 手工换汇的系统配置汇率（见 2.2B 图二）会跟随即期汇率（Manual_current）。Manual_current 的汇率会一直根据上次修改的记录显示，直至手动再更新。
 
+参考汇率以中间拆算价换算总资产市值。
+
 会计与换汇、资产相关的报表，如 FRR006、FDR001、SDR003 的汇率类型（见 2.2B 图三），可选帐面汇率通常用于计算资产，帐务才会涉及到帐面汇率（Manual_account）。
 
 <img src="/assets/C1GabusCEojk4zx7ayVctC9knoe.png" src-width="1268" src-height="194" align="center"/>
