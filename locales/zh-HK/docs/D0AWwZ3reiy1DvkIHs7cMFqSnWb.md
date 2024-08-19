@@ -68,6 +68,8 @@ sidebar_position: 1
 
 <b>答：</b>結單上的滙率（見 2.2B 圖一）及 手工換滙的系統配置匯率（見 2.2B 圖二）會跟隨即期匯率（Manual_current）。Manual_current 的滙率會一直根據上次修改的記錄顯示，直至手動再更新。
 
+參考滙率以中間拆算價換算總資產市值。
+
 會計與換匯、資產相關的報表，如 FRR006、FDR001、SDR003 的滙率類型（見 2.2B 圖三），可選帳面匯率通常用於計算資產，帳務才會涉及到帳面匯率（Manual_account）。
 
 <img src="/assets/C1GabusCEojk4zx7ayVctC9knoe.png" src-width="1268" src-height="194" align="center"/>
