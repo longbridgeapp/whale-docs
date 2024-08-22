@@ -82,3 +82,16 @@ sidebar_position: 0
 
 <img src="/assets/YHYSbKpFsoqicGx6wC3cy67ynoe.png" src-width="2852" src-height="500" align="center"/>
 
+## 1I 問：線上開户轉賬失敗，如何轉為線下開户？
+
+答：客户線上轉賬開户但不能成功存入資金，可以在「KYC＞開户列表」駁回客户的轉賬開户申請（見 1I 圖一）。
+轉為線下開户，在「KYC&gt;開户資料」審核狀態處於“提交開户信息中”點擊「編輯」轉為線下見證開户（見 1I 圖二），上傳已簽字文件開通賬户。
+
+<img src="/assets/LYB6bTN5ko8MOCxWcLScvJocn4b.png" src-width="2728" src-height="1280" align="center"/>
+
+<em>1I 圖一</em>
+
+<img src="/assets/Ui2pb2OsoofDECx7XjFcIiUZnph.png" src-width="2732" src-height="1280" align="center"/>
+
+<em>1I 圖二</em>
+

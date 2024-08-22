@@ -15,7 +15,7 @@ sidebar_position: 11
 <col width="612"/>
 </colgroup>
 <tbody>
-<tr><td><p>資金報表</p></td><td><p> FDR017 - Cash Movement In-Out Report By CCY（實時報表）</p></td></tr>
+<tr><td><p>資金報表</p></td><td><p>FDR017 - Cash Movement In-Out Report By CCY（實時報表）</p></td></tr>
 <tr><td><p>股票報表</p></td><td><p>SDR008 - 1  Stock Movement In-Out Report</p></td></tr>
 <tr><td><p>待交收（T＋1／T＋1 以上）<br/>賬面市值＆持倉報表</p></td><td><p>SDR004 - Client Stock Location Report (By Stock)</p></td></tr>
 <tr><td><p>收費詳細報表</p></td><td><p>按市埸選 SDR018 - Bargain Detail Report-HK／SDR018-1 - Bargain Detail Report-US</p></td></tr>
@@ -98,6 +98,8 @@ IDR019 - Suspected Order Activities Report - 單一客戶更改或取消訂單�
 ## 12K 問：為什麼 TDR005 - Trade Summary Report 美股「成交時間」跟「交易日期」的篩選時間不匹配？
 
 答：這個是時差問題，美股為隔晚市埸。報表顯示的成交時間是香港時間，當中是顯示到美股市場交易記錄。
+
+> 成交訂單中也可查詢到「對手方經紀席位」
 
 <img src="/assets/F0oRb7XZToqpe0xKIJpcmuaGnIb.png" src-width="2850" src-height="1444" align="center"/>
 

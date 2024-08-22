@@ -25,6 +25,8 @@ sidebar_position: 18
 
 舉例來說，23/4 的已結算現金是 $10,000，但「可提現金」要扣除 22/4 的未結算的買貨金額，如：$2,000，「可提現金」和「手工換匯餘額」便會是 $8,000。
 
+> 日終清算計費的時候，會解凍手續費、扣減實際手續費，有機會清算計費後的可提現金有所變更。
+
 <img src="/assets/SHksbApFdos7P5xfYEIc3sFnn1b.png" src-width="1840" src-height="918" align="center"/>
 
 <img src="/assets/T5HdbB7HHoaR9MxOK5jcOFlonsb.png" src-width="2872" src-height="1226" align="center"/>

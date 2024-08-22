@@ -25,6 +25,8 @@ sidebar_position: 18
 
 举例来说，23/4 的已结算现金是 $10,000，但「可提现金」要扣除 22/4 的未结算的买货金额，如：$2,000，「可提现金」和「手工换汇余额」便会是 $8,000。
 
+> 日终清算计费的时候，会解冻手续费、扣减实际手续费，有机会清算计费后的可提现金有所变更。
+
 <img src="/assets/SHksbApFdos7P5xfYEIc3sFnn1b.png" src-width="1840" src-height="918" align="center"/>
 
 <img src="/assets/T5HdbB7HHoaR9MxOK5jcOFlonsb.png" src-width="2872" src-height="1226" align="center"/>
