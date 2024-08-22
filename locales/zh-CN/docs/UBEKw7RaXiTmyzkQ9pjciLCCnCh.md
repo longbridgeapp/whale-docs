@@ -82,3 +82,16 @@ sidebar_position: 0
 
 <img src="/assets/YHYSbKpFsoqicGx6wC3cy67ynoe.png" src-width="2852" src-height="500" align="center"/>
 
+## 1I 问：线上开户转账失败，如何转为线下开户？
+
+答：客户线上转账开户但不能成功存入资金，可以在「KYC＞开户列表」驳回客户的转账开户申请（见 1I 图一）。
+转为线下开户，在「KYC&gt;开户资料」审核状态处于“提交开户信息中”点击「编辑」转为线下见证开户（见 1I 图二），上传已签字文件开通账户。
+
+<img src="/assets/LYB6bTN5ko8MOCxWcLScvJocn4b.png" src-width="2728" src-height="1280" align="center"/>
+
+<em>1I 图一</em>
+
+<img src="/assets/Ui2pb2OsoofDECx7XjFcIiUZnph.png" src-width="2732" src-height="1280" align="center"/>
+
+<em>1I 图二</em>
+
