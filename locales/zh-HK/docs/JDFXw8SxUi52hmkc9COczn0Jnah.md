@@ -9,7 +9,7 @@ sidebar_position: 8
 
 ## 9A 問：為什麼後台下基金訂單不能撤單？
 
-<b>答：</b>下單後可以馬上撤單。如點擊「獲取訂單」表示日切了，日切了過了截止時間就不能作撤單。
+<b>答：</b>下單後可以馬上撤單。如訂單狀況為“已日切”過了截止時間就不能作撤單。
 
 <img src="/assets/IEwrbveUGo53AcxD47tcWQtlndh.png" src-width="2848" src-height="1634" align="center"/>
 

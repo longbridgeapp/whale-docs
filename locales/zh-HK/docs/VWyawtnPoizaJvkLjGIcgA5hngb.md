@@ -433,15 +433,36 @@ sidebar_position: 2
 
 <img src="/assets/Eb9zbk0ugo94NAxSElBcJSZjnyd.png" src-width="3262" src-height="796" align="center"/>
 
+<b>頁面基礎字段說明</b>
+
+<table>
+<colgroup>
+<col width="160"/>
+<col width="511"/>
+</colgroup>
+<tbody>
+<tr><td><p><b>字段</b></p></td><td><p><b>說明</b></p></td></tr>
+<tr><td><p>合計追保金額</p></td><td><p>列表所有 margin call 客戶應追繳保證金總額</p></td></tr>
+<tr><td><p>長期未結清追保金額</p></td><td><p>觸發預警超過 90 天的應追繳保證金總額</p></td></tr>
+<tr><td><p>預警類型</p></td><td><p>用戶觸發 margin call 的類型</p></td></tr>
+<tr><td><p>截止日期</p></td><td><p>用戶 margin call 的最後截止日；超出截止日，系統將不再發送消息</p></td></tr>
+<tr><td><p>已觸發時長</p></td><td><p>當前時間 - 觸發預警時間（時間不足一小時按一小時處理）</p></td></tr>
+<tr><td><p>淨資產比率</p></td><td><p>淨資產比率 = 可流動淨資產/max[可流動淨資產, 多頭持倉市值 - 退市及長期停牌股票市值 + abs(空頭持倉市值)]</p></td></tr>
+<tr><td><p>可流動淨資產</p></td><td><p>股權資產 - 退市及長期停牌股票市值</p></td></tr>
+<tr><td><p>股權資產</p></td><td><p>總現金 + 總持倉市值（總股票及衍生品持倉市值）</p></td></tr>
+<tr><td><p>應追繳保證金</p></td><td><p>max (margin call 保證金 - 淨資產 + 應收利息 + 欠款保證金 - 交易額度，超額融資額度)<br/>*具體可在 WBO 後台進行配置</p></td></tr>
+</tbody>
+</table>
+
 1. 同時對於列入監控預警的客戶，可以點選記錄後，可以進行後續操作：發送消息//平倉操作/設置自動平倉
 
 <img src="/assets/TryhbDzfronQenxyUUCcYrk7nlc.png" src-width="3230" src-height="1145" align="center"/>
 
-1. 如果操作平倉動作時，可以選擇是否平倉特定股票平倉
+1. 如果操作批量平倉動作時，可以選擇是否平倉特定股票平倉；批量平倉需要在業務參數設置的平倉開關頁面開啟後才可使用
 
 <img src="/assets/Hsk9b9caxo3LW6xIHx4cGnSSn8c.png" src-width="3248" src-height="1294" align="center"/>
 
-1. 設置自動平倉：可以自定義設置自動平倉時間
+1. 設置自動平倉：可以自定義設置自動平倉時間；同時，也可以根據業務實際情況自定義調整某些 Margin Call 的截止日期
 
 <img src="/assets/W54lbRGVlox4KYxSG9Jc7oPDncf.png" src-width="3222" src-height="1306" align="center"/>
 

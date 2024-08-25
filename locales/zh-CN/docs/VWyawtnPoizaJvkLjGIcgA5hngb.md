@@ -433,15 +433,36 @@ sidebar_position: 2
 
 <img src="/assets/Eb9zbk0ugo94NAxSElBcJSZjnyd.png" src-width="3262" src-height="796" align="center"/>
 
+<b>页面基础字段说明</b>
+
+<table>
+<colgroup>
+<col width="160"/>
+<col width="511"/>
+</colgroup>
+<tbody>
+<tr><td><p><b>字段</b></p></td><td><p><b>说明</b></p></td></tr>
+<tr><td><p>合计追保金额</p></td><td><p>列表所有 margin call 客户应追缴保证金总额</p></td></tr>
+<tr><td><p>长期未结清追保金额</p></td><td><p>触发预警超过 90 天的应追缴保证金总额</p></td></tr>
+<tr><td><p>预警类型</p></td><td><p>用户触发 margin call 的类型</p></td></tr>
+<tr><td><p>截止日期</p></td><td><p>用户 margin call 的最后截止日；超出截止日，系统将不再发送消息</p></td></tr>
+<tr><td><p>已触发时长</p></td><td><p>当前时间 - 触发预警时间（时间不足一小时按一小时处理）</p></td></tr>
+<tr><td><p>净资产比率</p></td><td><p>净资产比率 = 可流动净资产/max[可流动净资产, 多头持仓市值 - 退市及长期停牌股票市值 + abs(空头持仓市值)]</p></td></tr>
+<tr><td><p>可流动净资产</p></td><td><p>股权资产 - 退市及长期停牌股票市值</p></td></tr>
+<tr><td><p>股权资产</p></td><td><p>总现金 + 总持仓市值（总股票及衍生品持仓市值）</p></td></tr>
+<tr><td><p>应追缴保证金</p></td><td><p>max (margin call 保证金 - 净资产 + 应收利息 + 欠款保证金 - 交易额度，超额融资额度)<br/>*具体可在 WBO 后台进行配置</p></td></tr>
+</tbody>
+</table>
+
 1. 同时对于列入监控预警的客户，可以点选记录后，可以进行后续操作：发送消息//平仓操作/设置自动平仓
 
 <img src="/assets/TryhbDzfronQenxyUUCcYrk7nlc.png" src-width="3230" src-height="1145" align="center"/>
 
-1. 如果操作平仓动作时，可以选择是否平仓特定股票平仓
+1. 如果操作批量平仓动作时，可以选择是否平仓特定股票平仓；批量平仓需要在业务参数设置的平仓开关页面开启后才可使用
 
 <img src="/assets/Hsk9b9caxo3LW6xIHx4cGnSSn8c.png" src-width="3248" src-height="1294" align="center"/>
 
-1. 设置自动平仓：可以自定义设置自动平仓时间
+1. 设置自动平仓：可以自定义设置自动平仓时间；同时，也可以根据业务实际情况自定义调整某些 Margin Call 的截止日期
 
 <img src="/assets/W54lbRGVlox4KYxSG9Jc7oPDncf.png" src-width="3222" src-height="1306" align="center"/>
 
