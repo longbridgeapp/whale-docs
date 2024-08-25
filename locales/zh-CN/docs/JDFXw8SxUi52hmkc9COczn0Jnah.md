@@ -9,7 +9,7 @@ sidebar_position: 8
 
 ## 9A 问：为什么后台下基金订单不能撤单？
 
-<b>答：</b>下单后可以马上撤单。如点击「获取订单」表示日切了，日切了过了截止时间就不能作撤单。
+<b>答：</b>下单后可以马上撤单。如订单状况为“已日切”过了截止时间就不能作撤单。
 
 <img src="/assets/IEwrbveUGo53AcxD47tcWQtlndh.png" src-width="2848" src-height="1634" align="center"/>
 
