@@ -74,7 +74,13 @@ sidebar_position: 0
 ## 1G 问：客户类型／客户详细类别选错了，能如何处理？
 
 <b>答：</b>客户类型（如：个人账户、企业账户、联名账户）选错了，需要注销账号重新再开。
-客户详细类别（Retail 是零售客户；House 是公司的自营账户，如：`testing acc`，`error acc`）选错了也是需要注销账号重新再开。
+客户详细类别（Retail 是零售客户；House 是公司的自营账户，如：`testing acc`，`error acc`）选错了，可以在「KYC&gt;开户列表」滑鼠移动到相应栏位会「笔」型图案可作修改。
+
+> 备注和附件不能同时为空
+
+<img src="/assets/NwtVbVjq1oxuV6xRTPbcL1XTnAc.png" src-width="2658" src-height="730" align="center"/>
+
+<img src="/assets/BWD1b86hHoCuJwx9TTjcUhPmnTc.png" src-width="2400" src-height="1262" align="center"/>
 
 ## 1H 问：账户明细中分了 Business 及  Settlement 是什么意思？
 

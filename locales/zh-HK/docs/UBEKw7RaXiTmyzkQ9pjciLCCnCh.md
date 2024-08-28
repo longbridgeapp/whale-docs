@@ -74,7 +74,13 @@ sidebar_position: 0
 ## 1G 問：客户類型／客户詳細類別選錯了，能如何處理？
 
 <b>答：</b>客户類型（如：個人賬户、企業賬户、聯名賬户）選錯了，需要註銷賬號重新再開。
-客户詳細類別（Retail 是零售客户；House 是公司的自營賬户，如：`testing acc`，`error acc`）選錯了也是需要註銷賬號重新再開。
+客户詳細類別（Retail 是零售客户；House 是公司的自營賬户，如：`testing acc`，`error acc`）選錯了，可以在「KYC&gt;開户列表」滑鼠移動到相應欄位會「筆」型圖案可作修改。
+
+> 備註和附件不能同時為空
+
+<img src="/assets/NwtVbVjq1oxuV6xRTPbcL1XTnAc.png" src-width="2658" src-height="730" align="center"/>
+
+<img src="/assets/BWD1b86hHoCuJwx9TTjcUhPmnTc.png" src-width="2400" src-height="1262" align="center"/>
 
 ## 1H 問：賬户明細中分了 Business 及  Settlement 是什麼意思？
 
