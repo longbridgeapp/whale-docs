@@ -1,7 +1,7 @@
 ---
 title: 6.1 公司行動費用
 slug: DlJgw9nIuiTHIBkWutQcygy7nMh
-sidebar_position: 0
+sidebar_position: 5
 ---
 
 
@@ -61,21 +61,13 @@ sidebar_position: 0
 
 <img src="/assets/WBQzbR3QvoYhX4x8zl8cEgQencY.png" src-width="1736" src-height="1524" align="center"/>
 
-## 6.1E. 問：系統什麼時候將打靶的牛熊證進行移除？
-
-<b>答：</b> 新建公司行動時，根據有沒有剩餘價值選 TM 或者 DS 類別，然後選「登記日」輸入上手提供的登記日。上手移除時，再完成公司行動以收回標的。
-
-<img src="/assets/GKAMbX2WpoJIVNxJ8Cgc7D6pnkg.png" src-width="2674" src-height="1226" align="center"/>
-
-<img src="/assets/Vt7KbqB8JolZvIxAdSJcVl9gnfe.png" src-width="904" src-height="1126" align="center"/>
-
-## 6.1F 問：港股派發美元股息，手續費用會如何計算？
+## 6.1E 問：港股派發美元股息，手續費用會如何計算？
 
 <b>答：</b>手續費跟隨派發的幣種收取。CCASS 的手續費收取美元，所以系統中的手續費會收取美元；過户費是香港過户處收取的，默認收取港元。
 
 <img src="/assets/PMQLbfBDpoSatAx8FujcXgk7nVd.png" src-width="2038" src-height="996" align="center"/>
 
-## 6.1G 問：如何導出公司行動向客戶收取費用的報表？
+## 6.1F 問：如何導出公司行動向客戶收取費用的報表？
 
 答：在公司行動的「客戶明細」中可以導出。
 

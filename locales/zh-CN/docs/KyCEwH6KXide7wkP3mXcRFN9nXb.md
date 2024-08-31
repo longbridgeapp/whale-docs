@@ -18,13 +18,7 @@ sidebar_position: 12
 
 <img src="/assets/HpBsbwRXwopiDQxLSm9cTeAVn3f.png" src-width="2512" src-height="1350" align="center"/>
 
-## 13C 问：如何搜寻到发出电邮？（如：常设授权、专业投资者 - PI 的通知）
-
-<b>答：</b>选择主题输入对应的关键字能搜寻到记录。
-
-<img src="/assets/EWPVbD79ro9n1ExpQAyccx1mnYg.png" src-width="2490" src-height="704" align="center"/>
-
-## 13D 问：怎样能一次性发出邮件给客户？
+## 13C 问：怎样能一次性发出邮件给客户？
 
 <b>答：</b>在「消息中心 &gt; 消息发送」点击「新建」选择模版类型，上传「证券账号模板」，把一次性发送消息给所选客户。
 
@@ -32,7 +26,7 @@ sidebar_position: 12
 
 <em>邮件主题、内容能自定义编辑</em>
 
-## 13E 问：系统在发推广讯息时，能否自动识别到不订阅推广讯息的客户？
+## 13D 问：系统在发推广讯息时，能否自动识别到不订阅推广讯息的客户？
 
 答：如客户选择不订阅推广讯息，系统便不会发推广讯息给他们。
 

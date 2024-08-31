@@ -7,12 +7,9 @@ sidebar_position: 5
 
 # 6. 公司行动问题
 
-## 6A 问：不同类型的公司行动如何操作？（如：BE、CA、RS、TM 类别的）
+## 6A 问：不同类型的公司行动类别是什么意思？（如：BE、CA、RS、TM 类别的）
 
 <b>答：</b>见以下列表说明不同类别的公司行动类型
-
-- 如 BE 类别可参考 [快速上手 - 普通红股红利（BE）](./VK4bwFoGyifITykmGaucY7fSncc)、[快速上手 - 自愿类红股红利（BE） ](./NiQDwy0cziZ2b5kKIg5c0ExAn6f)
-- 如 TM 类别可参考 [快速上手 - 牛熊证、债券回收、私有化（TM）](./ODm8wYemyiS9WZkNGUmcbZ3Qnlc)
 
 > 公司行动完成后，一般需要约 5 分钟时间更新成本价
 
@@ -54,45 +51,29 @@ sidebar_position: 5
 
 <img src="/assets/RQ3TbgmIUo6VFPxI4erczsgin0b.png" src-width="2131" src-height="849" align="center"/>
 
-## 6D 问：出现「请核实方案信息」的提醒，如何处理？
-
-<b>答：</b>请确保「方案信息」栏位资料已填好，可点击「编辑」修改补齐方案资料。
-
-> 对应的方案类型需要把打＊必填的栏位都填写。
-
-<img src="/assets/JjAKb9DutooHGmxTxE7chIfwn2b.png" src-width="2478" src-height="1428" align="center"/>
-
-<img src="/assets/Lpg6bN3fFowgIexU05PczbxcnVf.png" src-width="2164" src-height="1366" align="center"/>
-
-## 6E 问：派息金额跟系统派发的有差额，可以处理？
+## 6D 问：派息金额跟系统派发的有差额，可以如何处理？
 
 <b>答：</b>可以操作「尾差调整」输入实际派发金额。
 
 (i). 在「公司行动」页面的操作栏点击「详情」。
 
-<img src="/assets/P0ySbsHgho3rrxxsE4Eccf2GnAd.png" src-width="2816" src-height="1376" align="center"/>
+<img src="/assets/S5uFbmgesorRnBxypOwcvpTbnLe.png" src-width="2816" src-height="1376" align="center"/>
 
-(ii). 在「明细汇总」中点击「尾差调整」可选金额／份额，之后作「提交执行」。
+(ii). 在“明细汇总”中点击「尾差调整」可选金额／份额，之后作「提交执行」。
 
-<img src="/assets/JwdHbYDgcoPKcNx22PecSsRAnQf.png" src-width="2084" src-height="1236" align="center"/>
+<img src="/assets/TJwbbN0RXocnKOxBT4Fc58BmnT3.png" src-width="2084" src-height="1236" align="center"/>
 
-## 6F 问：方案类型中的 "零股转分红" 是什么？
+## 6E 问：公司行动派发股息可以选择以不同货币收取？
 
-<b>答：</b>选择为“是”，代表派股不足 1 股的股票会派发到现金。如果选“否”，就会浪费掉。
+答：在「方案信息」点击「编辑」，添加“BE-CASH DIVIDEND”的方案输入「汇率」及「派息率」（每股派发多少股息），再点击「重新登记」拉取到最新数据。
 
-例如：公司行动每 10 股派 1 股，假如客户 A 有 1000 股持仓、客户 B 有 1005 股持仓，行使股票最终都是派发股 100，系统会自动把 5 股行使到现金。
+<img src="/assets/DaCwbe57CoUaUTx4KCpcs4O8n8e.png" src-width="2236" src-height="1490" align="center"/>
 
-## 6G 问：如客户的供股权（RS 类）不作认购，系统会自动删除掉吗？
-
-<b>答：</b>需要操作 DS 类别的公司行动回收股权。 
-
-RS 类别处理的是已认购上报的，DS 类别处理的是未申请的股权。两个公司行动在 CCASS 处理的过程中，登记日期是不同的，DS 类别的会晚点生成。
-
-## 6H 问：如何为客户申购／修改供股权行权数量？
+## 6F 问：如何为客户申购／修改供股权行权数量？
 
 <b>答：</b>（i）「登记」成功后在「明细汇总」栏位看到可行权股票及客户数量。在「客户明细」可新增 或 在详情中编辑。
 
-<img src="/assets/ZCvDb4yeCoFKa3xhhSIcKEa0nPe.png" src-width="2367" src-height="1392" align="center"/>
+<img src="/assets/KXDxbuyXIoNgkVxvbUGcLKAbnXe.png" src-width="2367" src-height="1392" align="center"/>
 
 (ii). 在「客户明细」栏位查看到合资格的派发客户。修改资料后，请点击「重新登记」刷新资料。确认资料无误点击「行权指令收集」进行下一步。
 
@@ -101,39 +82,44 @@ RS 类别处理的是已认购上报的，DS 类别处理的是未申请的股�
 - 点击「作废」：可删除客户
 - 点击「详情」：可修改个别客户的收费信息 或 权益信息的转入份额
 
-<img src="/assets/R9ezbx7WEo9OANx5RcgcQApenid.png" src-width="2391" src-height="1438" align="center"/>
+<img src="/assets/LFDKbNDhAo3ANTx442pczYLAnYD.png" src-width="2391" src-height="1438" align="center"/>
 
-<img src="/assets/NIW5bh73YoM3ywxskvycP3GKn0y.png" src-width="1849" src-height="1390" align="center"/>
+<img src="/assets/DAvIbn0YDoEvasx4UCEcj6MNnQf.png" src-width="1849" src-height="1390" align="center"/>
 
-## 6I 问：哪类别的公司行动需要上报埸外证券交易汇报制度（OTCR）？
+## 6G 问：如客户的供股权（RS 类）不作认购，系统会自动删除掉吗？
 
-<b>答：</b>不收印花税的公司行动不需要上报埸外证券交易汇报制度（OTCR），现金要约类别的公司行动需要作上传，可使用报表 `SDR070 - OTCR Report`，注意需要导出 EXCEL 档才会展示要约收购的股份转让记录，页面查询和 CSV 导出不支持。
+<b>答：</b>需要操作 DS 类别的公司行动回收股权。 
 
-<img src="/assets/RLolbt0tSoVrDWxcYsbcWEnonAc.png" src-width="2042" src-height="808" align="center"/>
+RS 类别处理的是已认购上报的，DS 类别处理的是未申请的股权。两个公司行动在 CCASS 处理的过程中，登记日期是不同的，DS 类别的会晚点生成。
 
-## 6J 问：公司行动操作「行权指令收集」出现报错，需要如何处理？
+## 6H 问：系统什么时候将打靶的牛熊证进行移除？
 
-<img src="/assets/EjeEb1YdHoUQUDxeyLMcn2kznHe.png" src-width="2137" src-height="510" align="center"/>
+<b>答：</b> 新建公司行动时，根据有没有剩余价值选 TM 或者 DS 类别，然后选「登记日」输入上手提供的登记日。上手移除时，再完成公司行动以收回标的。
+
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[72%]" width-ratio="72">
+<img src="/assets/SgLlbByiIoNWS5x5yCvcKsJbnvh.png" src-width="2674" src-height="1226" align="center"/>
+</div>
+<div class="w-[27%]" width-ratio="27">
+<img src="/assets/NYTRb6fL7objkyx7vPScVYNLnge.png" src-width="904" src-height="1126" align="center"/>
+</div>
+</div>
+
+## 6I 问：公司行动操作「行权指令收集」出现报错，需要如何处理？
+
+<img src="/assets/Re0LblRTUo4YavxzISQcTv3vnKf.png" src-width="2137" src-height="510" align="center"/>
 
 <b>答：</b>操作「行权指令收集」需要在选择开始时间及结束时间之间。成功后，可以点击「提前完成指令收集」提早完成公司行动。
 另外，时间段需逐步递进：选择开始时间＜选择结束时间＜选择结束时间（CCASS）。
 
-## 6K 问：公司行动在那个报表显示出来？
+## 6J 问：公司行动在那个报表显示出来？
 
 <b>答：</b> 可以查看 SDR040 类别的报表。执行方式为“强制执行”的派息派股公司行动在 SDR040-09  Corporate Action Detail Report(BE/IP/SO) 报表显示；
 “可选择”的选股选息公司行动在 SDR040-10 Corporate Action Detail Report(BE With Selection) 报表显示。
 
-## 6L 问：公司行动修改“方案信息”后，要如何继续操作？
+## 6JK 问：哪类别的公司行动需要上报埸外证券交易汇报制度（OTCR）？
 
-答：修改“方案信息”后，检查「客户明细」资料无误点击「重新登记」，再点击「提交执行」继续完成公司行动。
+<b>答：</b>不收印花税的公司行动不需要上报埸外证券交易汇报制度（OTCR），现金要约类别的公司行动需要作上传，可使用报表 `SDR070 - OTCR Report`，注意需要导出 EXCEL 档才会展示要约收购的股份转让记录，页面查询和 CSV 导出不支持。
 
-<img src="/assets/QDnpbElwjo5AaOxGHoxcqJuunsd.png" src-width="2836" src-height="1374" align="center"/>
-
-<img src="/assets/XphPbXAwFoJSsExuMXTchx8qnCf.png" src-width="2828" src-height="1598" align="center"/>
-
-## 6M 问：公司行动派发股息可以选择以不同货币收取？如何修改方案信息？
-
-答：在「方案信息」点击「编辑」，添加“BE-CASH DIVIDEND”的方案输入「汇率」及「派息率」（每股派发多少股息），再点击「重新登记」拉取到最新数据。
-
-<img src="/assets/Ikp2b7ftUofQj4xe9vScieUgnbe.png" src-width="2236" src-height="1490" align="center"/>
+<img src="/assets/V9lRbpJyaoAH7DxBpLHcX5AnnWg.png" src-width="2042" src-height="808" align="center"/>
 

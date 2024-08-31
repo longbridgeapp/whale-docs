@@ -15,7 +15,7 @@ sidebar_position: 0
 
 <img src="/assets/IvMZb9gL2oCVaqxh8BDcxSkRngo.png" src-width="1792" src-height="1612" align="center"/>
 
-(ii). 进入 WBO 的「业务参数设置 ＞ 市场管理 ＞市场日历」页面设置。
+(ii). 进入 WBO 的「业务参数设置＞市场管理＞市场日历」页面设置。
 
 <img src="/assets/VmOZbHQHRo6YEexAP1Xcn0sXnJh.png" src-width="2488" src-height="922" align="center"/>
 
@@ -40,7 +40,7 @@ sidebar_position: 0
 
 ## 5.1B 问：如何操作清算撤销？
 
-<b>答：</b>在「清算管理 ＞ 清算撤销」页面点击「新建清算撤销」。（见 5.1B 图一）
+<b>答：</b>在「清算管理＞清算撤销」页面点击「新建清算撤销」。（见 5.1B 图一）
 
 选择财务日期、发送后结单处理、资产类回撤、市埸（可选多个市埸），之后按「提交审批」。（见 5.1B 图二）
 

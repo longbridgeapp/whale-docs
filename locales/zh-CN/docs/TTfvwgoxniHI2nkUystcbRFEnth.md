@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## 3A 问：手工出仓如何修改转仓手续费？
 
-<b>答：</b>在「证券管理 &gt; 证券取出 &gt; 取出明细」页面点击「修改转出费用」。
+<b>答：</b>在「证券管理＞证券取出＞取出明细」页面点击「修改转出费用」。
 
 > 提交手工出仓后，申请状态未点击提交审核处于“<b>初始化状态” </b>在「<b>取出明细」</b>能作修改，如已提交审核则不能修改。
 
@@ -39,13 +39,21 @@ sidebar_position: 2
 
 ## 3C 问：如何修改「通知券商」的对手方或我方券商资料？
 
-<b>答：</b>证券存入／取出中「通知券商」的资料，在「证券管理 &gt; 券商信息配置 &gt; 我方券商信息／对手方券商信息」点击「编辑」可修改我方或对手方券商资讯。
+<b>答：</b>证券存入／取出中「通知券商」的资料（见 3C 图一、图二），在「证券管理＞券商信息配置＞我方券商信息／对手方券商信息」（见 3C 图三、图四）点击「编辑」可修改我方或对手方券商资讯。
 
 <img src="/assets/ITDfbAk2GobFfHxwltJcqRj3noc.png" src-width="2684" src-height="662" align="center"/>
 
+<em>3C 图一</em>
+
 <img src="/assets/Gejwb5WJEoG3dKxclpEcJU6QnDd.png" src-width="2346" src-height="1328" align="center"/>
+
+<em>3C 图二</em>
 
 <img src="/assets/UhETbBnp2og83vxzJizckBihnPf.png" src-width="2682" src-height="1338" align="center"/>
 
+<em>3C 图三</em>
+
 <img src="/assets/Spn8bCHa7oSJtOxCInMc9BZbnDu.png" src-width="2156" src-height="1626" align="center"/>
+
+<em>3C 图四</em>
 

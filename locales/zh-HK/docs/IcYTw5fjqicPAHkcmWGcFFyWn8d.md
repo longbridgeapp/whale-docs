@@ -25,7 +25,7 @@ sidebar_position: 7
 
 <img src="/assets/U8tkbrOhSoYWVrxIhH0cFgm0nVb.png" src-width="2535" src-height="1552" align="center"/>
 
-市埸、類型、證券代碼不能作修改
+<em>市埸、類型、證券代碼不能作修改</em>
 
 (iv). 在「行情維護」頁面點擊「新增行情」
 

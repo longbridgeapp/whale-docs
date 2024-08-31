@@ -20,3 +20,7 @@ sidebar_position: 20
 </div>
 </div>
 
+## 21B 問：Web Trade 和 APP 能否同時使用？
+
+答：Web Trade 和 APP 可以同時使用。
+

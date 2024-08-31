@@ -15,7 +15,7 @@ sidebar_position: 0
 
 <img src="/assets/IvMZb9gL2oCVaqxh8BDcxSkRngo.png" src-width="1792" src-height="1612" align="center"/>
 
-(ii). 進入 WBO 的「業務參數設置 ＞ 市場管理 ＞市場日曆」頁面設置。
+(ii). 進入 WBO 的「業務參數設置＞市場管理＞市場日曆」頁面設置。
 
 <img src="/assets/VmOZbHQHRo6YEexAP1Xcn0sXnJh.png" src-width="2488" src-height="922" align="center"/>
 
@@ -40,7 +40,7 @@ sidebar_position: 0
 
 ## 5.1B 問：如何操作清算撤銷？
 
-<b>答：</b>在「清算管理 ＞ 清算撤銷」頁面點擊「新建清算撤銷」。（見 5.1B 圖一）
+<b>答：</b>在「清算管理＞清算撤銷」頁面點擊「新建清算撤銷」。（見 5.1B 圖一）
 
 選擇財務日期、發送後結單處理、資產類回撤、市埸（可選多個市埸），之後按「提交審批」。（見 5.1B 圖二）
 

@@ -1,13 +1,13 @@
 ---
 title: 2.1 銀行賬號／銀行卡
 slug: UuwQwu0wdiWfqSkN1Yocw3H4n3d
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 
 # 2.1 銀行賬號／銀行卡
 
-## 2.1A 問：客户的銀行卡不能修改？
+## 2.1A 問：客户的銀行卡不能作修改？
 
 <b>答：</b>客户銀行卡被認證後不能作修改，可以刪除舊的銀行卡記錄，再新添銀行卡。
 
@@ -19,7 +19,7 @@ sidebar_position: 0
 
 ## 2.1C 問：如何新增公司的收款賬户？
 
-<b>答：</b>在「業務參數設置 &gt; 資金參數 &gt; 公司銀行賬户」頁面點擊「新建」公司銀行賬户資料（見 2.1C 圖一及圖二）。
+<b>答：</b>在「業務參數設置＞資金參數＞公司銀行賬户」頁面點擊「新建」添加公司銀行賬户資料（見 2.1C 圖一及圖二）。
 
 <img src="/assets/GHjHbWfbRompGoxi1VNc9NpEnGe.png" src-width="2392" src-height="1370" align="center"/>
 
@@ -32,7 +32,7 @@ sidebar_position: 0
 
 ## 2.1D 問：如何修改客户 App 中的入金公司銀行資料？
 
-<b>答：</b>在「款項管理 &gt; App 管理 &gt; 入金參數」頁面點擊「編輯」（見 2.1D 圖一）把入金銀行 ID 修改為在 App 顯示的銀行賬號（見 2.1D 圖二）。
+<b>答：</b>在「款項管理＞App 管理＞入金參數」頁面點擊「編輯」（見 2.1D 圖一）把入金銀行 ID 修改為在 App 顯示的銀行賬號（見 2.1D 圖二）。
 
 > App 一個入金方式只能顯示到一家銀行，同一方式不能同時顯示到兩家銀行資料
 
@@ -46,9 +46,14 @@ sidebar_position: 0
 
 ## 2.1E 問：EDDA 認證中，客戶姓名錯誤可以如何修改？
 
-<b>答：</b>EDDA 是綁定客戶的銀行卡，如果該<b>銀行卡未做認證</b>，可以在 App「資產&gt;全部功能&gt;銀行卡」，選擇該銀行卡點擊「編輯」修改姓名。
+<b>答：</b>EDDA 是綁定客戶的銀行卡，如果該<b>銀行卡未做認證</b>，可以在 App「資產＞全部功能＞銀行卡」選擇該銀行卡點擊「編輯」修改姓名。
 
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/IVE0bXapMoQk5RxRxQ4cSD2Wnkh.png" src-width="722" src-height="1486" align="center"/>
-
+</div>
+<div class="w-[49%]" width-ratio="49">
 <img src="/assets/CF1sbfINfogKvixqm2lcnJBjnWg.png" src-width="722" src-height="1528" align="center"/>
+</div>
+</div>
 

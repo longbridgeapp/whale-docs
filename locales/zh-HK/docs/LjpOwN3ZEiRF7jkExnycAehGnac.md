@@ -85,3 +85,17 @@ sidebar_position: 10
 
 <em>11D 圖二</em>
 
+## 11F 問：分成套餐配置中的“新股”計算方式選「佣金總額」是對應那個費用？
+
+<img src="/assets/NNBxbnnNGoNP0rxLJS9cRdCVnRc.png" src-width="2594" src-height="1194" align="center"/>
+
+<b>答：</b>對應到新股的經紀佣金收費。可在「業務參數設置 &gt; 新股配置 &gt; 費率管理」頁面中編輯 "經紀佣金" （見 11F 圖一），或 在「新股認購 &gt; 詳情」頁面中基本信息新建費率（見 11F 圖二）可編輯。
+
+<img src="/assets/TEcobySpioJnnkxGkp7ceLSGnqe.png" src-width="2819" src-height="1437" align="center"/>
+
+<em>11F 圖一</em>
+
+<img src="/assets/XAB2bnxkco1Bvzx2OldcDQ57nWb.png" src-width="2820" src-height="1417" align="center"/>
+
+<em>11F 圖二</em>
+

@@ -1,7 +1,7 @@
 ---
 title: 12.1 批量報表打印
 slug: Pv1iwdUS7irds2kU6HBcVq2UnCc
-sidebar_position: 0
+sidebar_position: 2
 ---
 
 

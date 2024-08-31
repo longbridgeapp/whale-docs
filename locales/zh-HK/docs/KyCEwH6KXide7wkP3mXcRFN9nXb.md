@@ -18,13 +18,7 @@ sidebar_position: 12
 
 <img src="/assets/HpBsbwRXwopiDQxLSm9cTeAVn3f.png" src-width="2512" src-height="1350" align="center"/>
 
-## 13C 問：如何搜尋到發出電郵？（如：常設授權、專業投資者 - PI 的通知）
-
-<b>答：</b>選擇主題輸入對應的關鍵字能搜尋到記錄。
-
-<img src="/assets/EWPVbD79ro9n1ExpQAyccx1mnYg.png" src-width="2490" src-height="704" align="center"/>
-
-## 13D 問：怎樣能一次性發出郵件給客戶？
+## 13C 問：怎樣能一次性發出郵件給客戶？
 
 <b>答：</b>在「消息中心 &gt; 消息發送」點擊「新建」選擇模版類型，上傳「證券賬號模板」，把一次性發送消息給所選客戶。
 
@@ -32,7 +26,7 @@ sidebar_position: 12
 
 <em>郵件主題、內容能自定義編輯</em>
 
-## 13E 問：系統在發推廣訊息時，能否自動識別到不訂閱推廣訊息的客戶？
+## 13D 問：系統在發推廣訊息時，能否自動識別到不訂閱推廣訊息的客戶？
 
 答：如客戶選擇不訂閱推廣訊息，系統便不會發推廣訊息給他們。
 
