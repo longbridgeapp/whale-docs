@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## 3A 問：手工出倉如何修改轉倉手續費？
 
-<b>答：</b>在「證券管理 &gt; 證券取出 &gt; 取出明細」頁面點擊「修改轉出費用」。
+<b>答：</b>在「證券管理＞證券取出＞取出明細」頁面點擊「修改轉出費用」。
 
 > 提交手工出倉後，申請狀態未點擊提交審核處於“<b>初始化狀態” </b>在「<b>取出明細」</b>能作修改，如已提交審核則不能修改。
 
@@ -39,13 +39,21 @@ sidebar_position: 2
 
 ## 3C 問：如何修改「通知券商」的對手方或我方券商資料？
 
-<b>答：</b>證券存入／取出中「通知券商」的資料，在「證券管理 &gt; 券商信息配置 &gt; 我方券商信息／對手方券商信息」點擊「編輯」可修改我方或對手方券商資訊。
+<b>答：</b>證券存入／取出中「通知券商」的資料（見 3C 圖一、圖二），在「證券管理＞券商信息配置＞我方券商信息／對手方券商信息」（見 3C 圖三、圖四）點擊「編輯」可修改我方或對手方券商資訊。
 
 <img src="/assets/ITDfbAk2GobFfHxwltJcqRj3noc.png" src-width="2684" src-height="662" align="center"/>
 
+<em>3C 圖一</em>
+
 <img src="/assets/Gejwb5WJEoG3dKxclpEcJU6QnDd.png" src-width="2346" src-height="1328" align="center"/>
+
+<em>3C 圖二</em>
 
 <img src="/assets/UhETbBnp2og83vxzJizckBihnPf.png" src-width="2682" src-height="1338" align="center"/>
 
+<em>3C 圖三</em>
+
 <img src="/assets/Spn8bCHa7oSJtOxCInMc9BZbnDu.png" src-width="2156" src-height="1626" align="center"/>
+
+<em>3C 圖四</em>
 

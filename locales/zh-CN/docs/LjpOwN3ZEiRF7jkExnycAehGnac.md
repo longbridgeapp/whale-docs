@@ -85,3 +85,17 @@ sidebar_position: 10
 
 <em>11D 图二</em>
 
+## 11F 问：分成套餐配置中的“新股”计算方式选「佣金总额」是对应那个费用？
+
+<img src="/assets/NNBxbnnNGoNP0rxLJS9cRdCVnRc.png" src-width="2594" src-height="1194" align="center"/>
+
+<b>答：</b>对应到新股的经纪佣金收费。可在「业务参数设置 &gt; 新股配置 &gt; 费率管理」页面中编辑 "经纪佣金" （见 11F 图一），或 在「新股认购 &gt; 详情」页面中基本信息新建费率（见 11F 图二）可编辑。
+
+<img src="/assets/TEcobySpioJnnkxGkp7ceLSGnqe.png" src-width="2819" src-height="1437" align="center"/>
+
+<em>11F 图一</em>
+
+<img src="/assets/XAB2bnxkco1Bvzx2OldcDQ57nWb.png" src-width="2820" src-height="1417" align="center"/>
+
+<em>11F 图二</em>
+
