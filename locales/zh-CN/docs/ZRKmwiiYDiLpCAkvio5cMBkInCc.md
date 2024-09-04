@@ -24,7 +24,7 @@ sidebar_position: 17
 
 ## 18C. 问：客户的现金账户户口余额为正数，没有向券商借款，为什么会占用融资额度？
 
-答：「风控管理&gt;客户融资」的“已占用融资额度”包括已冻结不可用的现金。
+答：「风控管理＞客户融资」的“已占用融资额度”包括已冻结不可用的现金。
 
 <img src="/assets/GEBcbfofqo9LtYxmTRlcRsUZn7d.png" src-width="2828" src-height="1346" align="center"/>
 

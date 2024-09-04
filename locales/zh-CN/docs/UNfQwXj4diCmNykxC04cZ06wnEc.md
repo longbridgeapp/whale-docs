@@ -11,11 +11,11 @@ sidebar_position: 0
 
 <b>答：</b>指定相关人员账户作审核，请参考以下步骤。
 
-(i). 于证劵后台右上角点击「身份管理」。
+(i). 于证劵后台右上方点击「身份管理」。
 
 <img src="/assets/NLNAbdg80o4aWix3BM7ceIc7nhg.png" src-width="2558" src-height="392" align="center"/>
 
-(ii). 在「身份管理 &gt; 审批流程配置」页面按业务分类工单，点击「配置」。另外，可以设置「默认审批流配置」把工单都去到指定默认人员审批。
+(ii). 在「身份管理＞审批流程配置」页面按业务分类工单，点击「配置」。另外，可以设置「默认审批流配置」把工单都去到指定默认人员审批。
 
 <img src="/assets/S8GBbFWMYoWfxExtGEQc1Cvinvb.png" src-width="2554" src-height="670" align="center"/>
 
@@ -31,7 +31,7 @@ sidebar_position: 0
 
 ## 15.1B 问：为什么审批的工单都去到超级管理员账户？
 
-答：需要先设置工单审核人。在系统右上方齿轮点击「身份管理&gt;审批流程配置&gt;默认审批流配置」添加审核人员，之后工单就会去到指定人员（见 15.1B 图一、图二)。<b>
+答：需要先设置工单审核人。在系统右上方齿轮点击「身份管理＞审批流程配置＞默认审批流配置」添加审核人员，之后工单就会去到指定人员（见 15.1B 图一、图二）。<b>
 </b>审核人员可按“角色”或“人员”账号添加（见 15.1B 图三）。配置完成后，可再发起工单由新的审核人处理。
 
 <img src="/assets/Uh3Wb6lcwoV1aFxZ3kFc2NRQn3f.png" src-width="2792" src-height="418" align="center"/>

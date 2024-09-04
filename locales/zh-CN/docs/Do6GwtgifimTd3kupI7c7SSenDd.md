@@ -9,11 +9,11 @@ sidebar_position: 14
 
 ## 15A 问：如何新建／编辑／冻结操作员账号、用户角色？
 
-<b>答：</b> (i). 在系统右上角的「齿轮」点击「身份管理」。
+<b>答：</b> （i）在系统右上角的「齿轮」点击「身份管理」。
 
 <img src="/assets/GxrzbPOxWoCtsIxLak2cZi1gnJh.png" src-width="2636" src-height="719" align="center"/>
 
-（ii). 在「身份管理 &gt; 人员」页面点击「添加人员」
+(ii). 在「身份管理 &gt; 人员」页面点击「添加人员」
 
 <img src="/assets/TWNnbpbUeoc8rCxEXO1cu0uLnAb.png" src-width="2621" src-height="858" align="center"/>
 
@@ -50,16 +50,9 @@ sidebar_position: 14
 
 ## 15B 问：如何修改角色名称或备注？
 
-<b>答：</b>在「身份管理 &gt; 角色」点击「编辑」。打开隐藏资讯按钮，可以修改角色名称及备注说明。
+<b>答：</b>在「身份管理＞角色」点击「编辑」。打开隐藏资讯按钮，可以修改角色名称及备注说明。
 
 <img src="/assets/BFLdbW1fCoXafsxlJTUc6jIynLe.png" src-width="2542" src-height="620" align="center"/>
 
 <img src="/assets/LrOgbHGghowuNXxtjXecggq9n5c.png" src-width="2516" src-height="1268" align="center"/>
-
-## 15C 问：“结算账户”跟“业务账户”如何影响到对账类型？
-
-<b>答：</b>上手代理／托管商设置的对账类型「结算账户」指以已结算数量（T+2 交收后）来显示持仓股数，「业务账户」指以账面股数（即时反映）来显示持仓股数。
-系统主要以「结算账户」已交收的股数作对账，如设置了「业务账户」以账面股数对账，会引致 SDR025 - Stock Reconciliation Report 不对账，可以统一以把对账类型选为结算账户。
-
-<img src="/assets/JEOybKwukolNKJx9d0UcpLfonXb.png" src-width="2672" src-height="1404" align="center"/>
 

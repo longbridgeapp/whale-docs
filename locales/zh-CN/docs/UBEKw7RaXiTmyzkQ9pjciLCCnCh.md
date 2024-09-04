@@ -7,91 +7,73 @@ sidebar_position: 0
 
 # 1. 账户问题
 
-## 1A 问：一个客户能有多个账户？
+## 1A 问：工单中心 - 冻结客户跟冻结账户的分别是什么？
 
-<b>答：</b>客户账户开通后，可以在后台「KYC &gt; 开户列表 &gt; 详情」页面中的 "<b>关联账户信息</b>" 点击「新增」添加主子账户。
+<b>答：</b>冻结客户 - 客户被冻结，限制 App 无法登录，可操作解冻客户；（见 1A 图一）
+冻结账户 - 账户被冻结，限制了单个证券账号无法交易、出入金、换汇等操作，可操作激活账户（解冻账户）。（见 1A 图二）
 
-<img src="/assets/AGQ5bJOwwoEGkLxqTrZcRXkknXL.png" src-width="2506" src-height="888" align="center"/>
+<img src="/assets/O4nEbEy4coQPo1xboGFcVxqDnbP.png" src-width="2706" src-height="1146" align="center"/>
 
 <em>1A 图一</em>
 
-## 1B 问：客户如何设置 App 的登录密码？
+<img src="/assets/FAJebQEbVo4WnYxCMyScgH5MnOg.png" src-width="2706" src-height="1066" align="center"/>
 
-<b>答：</b>开户成功时，会收到短讯的登录密码，最少为 8 个字元，包含英文大小写及数字。
-重设可以在 App 选择「手机号密码」方式登入（见 1.B 图一），之后点击「忘记密码」。
+<em>1A 图二</em>
 
 
-也可以在「账户管理 &gt; 客户 / 账户信息」的页面选「解锁密码」解锁对象选 "登录密码"  （见 1.B 图二）以重置客户输入错误的次数再作登录 或 选「重置密码」发出新的登录密码（见 1.B 图三）。
+## 1B 问：账户列表中，如何区分客户状态、账户状态、账户冻结状态？
 
-<img src="/assets/KaYObPgnpoGCA6xDKyWc2mjHnNc.png" src-width="651" src-height="1357" align="center"/>
+<img src="/assets/Y0b1b3jGEocYR9x9Z3UcN7F8nIh.png" src-width="2682" src-height="494" align="center"/>
 
-<em>1.B 图一</em>
-
-<img src="/assets/SUOVbpwumodNTUxx950cQifAnE2.png" src-width="2504" src-height="1222" align="center"/>
-
-<em>1.B 图二</em>
-
-<img src="/assets/Q7Mcbx59toSH5RxbXmJcGgYPn6g.png" src-width="2162" src-height="982" align="center"/>
-
-<em>1.B. 图三</em>
-
-## 1C 问：如何添加备注资料？
-
-<b>答：</b>在「KYC &gt; 开户列表 ＞ 详情」页面可以点击「添加开户备注」输入资料／上传附件。
-
-在开户详情页面的 "操作记录" 能查到相关记录。
-
-<img src="/assets/WWQibU6w8o4OEoxn4cHc9chKnOg.png" src-width="2490" src-height="1435" align="center"/>
-
-<img src="/assets/BGyibRGYcocJZrxIKYVckSC1nHg.png" src-width="2650" src-height="1386" align="center"/>
-
-## 1D 问：主子账户添加了开户备注，如何查看？
-
-<b>答：</b>在主子账户添加了备注，需要在主的申请账户查看添加记录（见 1.D 图一 黄色标记的账户）。详情页面中“操作记录”中能查到相关记录（见 1.D 图二）。
-
-<img src="/assets/U1vMb6p1UoVkSexVsSfceueynMh.png" src-width="2508" src-height="1326" align="center"/>
-
-<em>1.D 图一</em>
-
-<img src="/assets/StiEbid5xoyLLmxAKt6cgI9on0f.png" src-width="2482" src-height="1416" align="center"/>
-
-<em>1.D 图二</em>
-
-## 1E 问：工单中心 - 冻结客户跟冻结账户的分别是什么？
-
-<b>答：</b>冻结客户 - 客户被冻结，限制 App 无法登录，可操作解冻客户；
-冻结账户 - 账户被冻结，限制了单个证券账号无法交易、出入金、换汇等操作，可操作激活账户（解冻账户）。
-
-## 1F 问：账户列表中，如何区分客户状态、账户状态、账户冻结状态？
-
-<img src="/assets/Hw6pbqCMKo1CK5xMLszcEAbjnxb.png" src-width="2567" src-height="493" align="center"/>
-
-<b>答：</b>“客户状态”对应是这个客户是注销／冻结／激活（对应工单中心 - 注销客户／冻结客户）；
+<b>答：</b>“客户状态”对应是这个客户是注销／冻结／激活（对应工单中心 - 注销客户＆冻结客户）；
 “账户状态”对应是证券账户是否注销。如果已冻结但还没有注销，会显示为激活（对应工单中心 - 注销证券账户） ；
 
 “账户冻结状态”对应是证券账户是否冻结（对应工单中心 - 冻结账户）。
 
-## 1G 问：客户类型／客户详细类别选错了，能如何处理？
+## 1C 问：客户类型／客户详细类别选错了，能如何处理？
 
 <b>答：</b>客户类型（如：个人账户、企业账户、联名账户）选错了，需要注销账号重新再开。
-客户详细类别（Retail 是零售客户；House 是公司的自营账户，如：`testing acc`，`error acc`）选错了也是需要注销账号重新再开。
+客户详细类别（Retail 是零售客户；House 是公司的自营账户，如：`testing acc`，`error acc`）选错了，可以在「KYC&gt;开户列表」详情页中滑鼠移动到相应栏位会「笔」型图案可作修改。
 
-## 1H 问：账户明细中分了 Business 及  Settlement 是什么意思？
+> 备注和附件不能同时为空
+
+<img src="/assets/EFsFbUanioVdNnx43L7c3J6zn9b.png" src-width="2658" src-height="730" align="center"/>
+
+<img src="/assets/BhYqbyom4oCbzdxJlG5cnupungd.png" src-width="2400" src-height="1262" align="center"/>
+
+## 1D 问：账户明细中分了 Business 及  Settlement 是什么意思？
 
 <b>答：</b>待交收的流水一开始会放在 Business 账户，等到交收当天将 Business 的账调整到去 Settlement。
 
-<img src="/assets/YHYSbKpFsoqicGx6wC3cy67ynoe.png" src-width="2852" src-height="500" align="center"/>
+<img src="/assets/DLi1biixHoYFFrxwqx9cbj2jn1f.png" src-width="2852" src-height="500" align="center"/>
 
-## 1I 问：线上开户转账失败，如何转为线下开户？
+## 1E 问：客户如何设置 App 的登录密码？
 
-答：客户线上转账开户但不能成功存入资金，可以在「KYC＞开户列表」驳回客户的转账开户申请（见 1I 图一）。
-转为线下开户，在「KYC&gt;开户资料」审核状态处于“提交开户信息中”点击「编辑」转为线下见证开户（见 1I 图二），上传已签字文件开通账户。
+<b>答：</b>开户成功时，会收到短讯的登录密码，最少为 8 个字元，包含英文大小写及数字。
+重设可以在 App 选择登录方式后（见 1E 图一），之后点击「忘记密码」（见 1E 图二）。
 
-<img src="/assets/LYB6bTN5ko8MOCxWcLScvJocn4b.png" src-width="2728" src-height="1280" align="center"/>
 
-<em>1I 图一</em>
+后台重设方面，在「账户管理 &gt; 客户 / 账户信息」的页面选「解锁密码」解锁对象选 "登录密码"  （见 1E 图三）以重置客户输入错误的次数再作登录 或 选「重置密码」发出新的登录密码（见 1E 图四）。
 
-<img src="/assets/Ui2pb2OsoofDECx7XjFcIiUZnph.png" src-width="2732" src-height="1280" align="center"/>
+> 「重置密码」会发到联系手机号，如没有会发到登录手机号。
 
-<em>1I 图二</em>
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[48%]" width-ratio="48">
+<img src="/assets/DwUdbFZRXofHeUxhoJOcTB5onOf.png" src-width="651" src-height="1357" align="center"/>
+</div>
+<div class="w-[51%]" width-ratio="51">
+<img src="/assets/K8m7bzcCqo9YUMxWM1ocs26LnYe.png" src-width="478" src-height="950" align="center"/>
+</div>
+</div>
 
+<em>1E 图一 ＆ 图二</em>
+
+<img src="/assets/LPxobZfzTog5JExOOnacnkRRn8g.png" src-width="2504" src-height="1222" align="center"/>
+
+<em>1E 图三</em>
+
+<img src="/assets/OaGtbvTQHoWgQQxFHAzcgiS9nVd.png" src-width="2162" src-height="982" align="center"/>
+
+<em>1E 图四</em>
+
+## 

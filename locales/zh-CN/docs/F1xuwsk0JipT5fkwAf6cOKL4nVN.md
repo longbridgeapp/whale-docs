@@ -7,7 +7,7 @@ sidebar_position: 11
 
 # 12. 报表问题
 
-## 常用报表类型：
+## 常用报表类型说明：
 
 <table>
 <colgroup>
@@ -31,98 +31,40 @@ sidebar_position: 11
 
 <img src="/assets/Owvpbv3UXofcY1xyc9ociMxvnXd.png" src-width="1790" src-height="780" align="center"/>
 
-## 12B 问：SDR070 - OTCR report 是用作什么申报？
-
-<b>答：</b>SDR070 - OTCR report 用作申报实物股票转出及转入。不收印花税的公司行动不会在报表上显示，现金要约的会作申报。可导出 excel 上传到交易所。
-
-## 12C 问：在场外证券交易汇报制度（OTCR）下，现金要约等企业行动是否须予汇报？
-
-<b>答：</b>如企业行动不涉及须征收印花税的交易（例如新股发行、公开招股、供股及私有化等）或为须向联交所汇报的交易（例如由交易所参与者进行的现有股份配售），则该等企业行动不属于场外证券交易。因此，在场外证券交易汇报制度下，与此等企业行动有关的股份转移无须予以汇报。 
-
-另一方面，若相关受规管中介人（不论是作为主事人或代理人）进行就现金要约（此乃场外证券交易）而作出的股份转移，该相关受规管中介人便须根据场外证券交易汇报制度就该股份转移予以汇报。在这情况下，该相关受规管中介人须在股份转移日（即相关受规管中介人知悉已接纳的要约获得结算当日，而该日亦为在场外证券交易汇报制度下须予汇报的股份交易日期）之后的三个香港交易日内，根据场外证券交易汇报制度向证监会汇报。
-
-## 12D 问：SDR025 - Stock Reconciliation Report 显示的任务结果 Successful Check／Manually Confirmed／ Manually Unrecognized 是什么意思？
-
-<b>答：</b>SDR025 的任务结果对应「清算管理 &gt; 清算检查 &gt; 检查结果」页面的任务结果栏位。
-- 检查通过，Successful Check；
-- 检查失败，点击了手动通过的 - Manually Confirmed；
-- 检查失败，未手动通过的 - Manually Unrecognized。
-
-<img src="/assets/Yuv6bFgCAos4RCxvmYjcU7MbnUn.png" src-width="2074" src-height="850" align="center"/>
-
-## 12E 问：为何交易报表 TDR001-1 Daily Client Order Report By Client 的市价单价格跟股票现价相差那么多？
-
-<b>答：</b>市价单非交易所订单，会以对手方的价格档位下特别限价单（SLO）。因为成交价格不确定，防止穿仓，所以做了 20% （1.2 倍）冻结资金的保护。
-
-## 12F 问：合规报表 IDR020 Re-activation Of Dormant Account 显示什么客户数据？
+## 12B 问：合规报表 IDR020 Re-activation Of Dormant Account 显示什么客户数据？
 
 <b>答：</b>报表显示上次成交记录超过 180 日的客户，新客户以开户日期计算。报表不会判断客户的激活状态。
 
-## 12G 问：SDR018 - Bargain Detail Report 类别的报表什么时间能看到当天的交易数据？
-
-<b>答：</b>最快在日终任务完成「清算入账」，可以在 SDR018 报表查看当天的交易佣金资料。
-
-> 美股的可以查看 SDR018-1 - Bargain Detail Report-US。
-
-<img src="/assets/RxQzbH5oqoULV1xI0RwcbNTvnDe.png" src-width="2246" src-height="1486" align="center"/>
-
-## 12H 问：系统对虚拟交易、操控价格、内幕交易会有监察警报吗？
+## 12C 问：系统对虚拟交易、操控价格、内幕交易会有监察警报吗？
 
 <b>答：</b>可使用以下报表来人工判断有没有可疑交易。
 
-IDR018 - Matched Trades Wash Trades - 检查是否有 2 客户或以上买卖同一股票交易成交
+IDR018 - Matched Trades Wash Trades（检查是否有 2 客户或以上买卖同一股票交易成交）
 
-IDR026 - The Proportion Of Customer Transaction Volume - 客户的交易量占股票的当日成交量超越 50%
+IDR026 - The Proportion Of Customer Transaction Volume（客户的交易量占股票的当日成交量超越 50%）
 
-IDR027 - Deliberately Push Up Or Down The Closing Price - 于收市前最后一分钟订单成交高于 / 低于前收市价 ≥5%
+IDR027 - Deliberately Push Up Or Down The Closing Price（于收市前最后一分钟订单成交高于 / 低于前收市价 ≥5%）
 
-IDR019 - Suspected Order Activities Report - 单一客户更改或取消订单超过 20 次
+IDR019 - Suspected Order Activities Report（单一客户更改或取消订单超过 20 次）
 
-## 12I 问：如何导出高风险客户的报告？
+## 12D 问：如何导出高风险客户的报告？
 
 答：在 CDR001 - Client Master Listing Report 的「自定义列表」选择「风险承受能力」点击「保存」。
 导出 Excel 后，在「风险承受能力」栏位作筛选。
 
-<img src="/assets/TkITbLn4NohreAxZEzqc2ZcVnoc.png" src-width="2826" src-height="1600" align="center"/>
+<img src="/assets/UjF3bx23goiKmUxAfNqcqTCDnte.png" src-width="2826" src-height="1600" align="center"/>
 
-<img src="/assets/XDVibeH3JoKYWGxUfCXcrKwqn7b.png" src-width="2844" src-height="1618" align="center"/>
+<img src="/assets/UW5XbfXIBo4HQwx2a1Sc08TVnZb.png" src-width="2844" src-height="1618" align="center"/>
 
-<img src="/assets/YOMzbY3RKoOwsSxJ7Kbcxwainhb.png" src-width="2846" src-height="1468" align="center"/>
+<img src="/assets/DLwfbDP0xoIvzrxnznWc2amjnBh.png" src-width="2846" src-height="1468" align="center"/>
 
-## 12J 问：如何导出客户股票集中度（Stock Concentration）的历史数据？
+## 12E 问：如何导出客户股票集中度（Stock Concentration）的历史数据？
 
-答：报表 RDR010 - Concentration Risk 包含到一周的数据。如需要先前的历史数据可从 SDR003 Client Stock Holding Report(By Stock) 取得客户每天的持仓数值，再按港交所的股票发行市值，手工计算股票集中度。
+答：报表 RDR010 - Concentration Risk 包含到一周的数据。如需要先前的历史数据可从 SDR003 Client Stock Holding Report（By Stock）取得客户每天的持仓数值，再按港交所的股票发行市值，手工计算股票集中度。
 
-<img src="/assets/DIunbYmVZoH8Zpx5tGJcCCTNnAh.png" src-width="2850" src-height="1346" align="center"/>
+<img src="/assets/Ki5TbQ5qYoROi2xXzc7caRXennf.png" src-width="2850" src-height="1346" align="center"/>
 
-## 12K 问：为什么 TDR005 - Trade Summary Report 美股「成交时间」跟「交易日期」的筛选时间不匹配？
-
-答：这个是时差问题，美股为隔晚市埸。报表显示的成交时间是香港时间，当中是显示到美股市场交易记录。
-
-> 成交订单中也可查询到「对手方经纪席位」
-
-<img src="/assets/F0oRb7XZToqpe0xKIJpcmuaGnIb.png" src-width="2850" src-height="1444" align="center"/>
-
-## 12L 问：如何计算到客户每月的托管费？
-
-答：SDR058-2 HK Custodian Fee Group by Client V2 能计算到，当中收取费率可以在「报表管理＞报表打印＞参数设置」修改。（见 12L 图一至图二）
-托管费扣除使用手工调账，可以用证券账号汇总的费用收取。（见 12L 图三）
-
-> 其它客户费率指联名账户等其它户口。
-
-<img src="/assets/PrEebHcTYo3K2BxNc9ocslXAnmc.png" src-width="2712" src-height="986" align="center"/>
-
-<em>12L 图一</em>
-
-<img src="/assets/FF2bbvsjXoD3YYx4KMPc5c6gn2f.png" src-width="2384" src-height="922" align="center"/>
-
-<em>12L 图二</em>
-
-<img src="/assets/VTWyb9kj1oPyyyxDc0ncwkTRnog.png" src-width="2392" src-height="406" align="center"/>
-
-<em>12L 图三</em>
-
-## 12M 问：如何解读 FRR006-1 报表与 FDR002-1 报表？
+## 12F 问：如何解读 FRR006-1 报表与 FDR002-1 报表？
 
 答：1.FRR006-1 报表统计所有 Cash 账户欠款客户（根据选择的汇率转换成 HKD）；
 
@@ -132,7 +74,7 @@ IDR019 - Suspected Order Activities Report - 单一客户更改或取消订单�
 
 日期基准：Trade Date 交易日 ＆Settle Date 交收日
 
-<img src="/assets/LkoMbwD0uoHK9RxybbwceJ8Onbh.png" src-width="2380" src-height="592" align="center"/>
+<img src="/assets/L3uYb98C7o5egvxWyhucD005nHf.png" src-width="2380" src-height="592" align="center"/>
 
 2.FDR002-1 报表统计所有客户的资金明细（分币种计算）
 
@@ -144,5 +86,5 @@ DR 是欠款
 
 CR 是非欠款
 
-<img src="/assets/CHBNbyNQLogtl5xeBKccKQyJnxh.png" src-width="2820" src-height="1264" align="center"/>
+<img src="/assets/NSM7b7mGCo0iWJxk6JrcRi1UnTd.png" src-width="2820" src-height="1264" align="center"/>
 

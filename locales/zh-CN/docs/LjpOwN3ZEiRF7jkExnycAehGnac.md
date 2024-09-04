@@ -15,7 +15,7 @@ sidebar_position: 10
 
 「团队管理」是为了区分不同经纪人的群组，团队包含经纪人，每个经纪人至少需要被分配到一个团队。为了区别不同的用户，需要对用户进行分类，分成不同的团队。非本团队成员无法看到本团队所属的客户信息。
 
-(i).  在「经纪人管理 &gt; 团队与经纪人 &gt; 团队管理」页面点击「新建」
+(i).  在「经纪人管理＞团队与经纪人＞团队管理」页面点击「新建」
 
 <img src="/assets/Lom0bedRgoyqUYxfrKSc4z88nQb.png" src-width="2508" src-height="1318" align="center"/>
 
@@ -44,7 +44,7 @@ sidebar_position: 10
 
 <b>答：</b>请参考以下步骤：
 
-(i). 在「经纪人管理 &gt; 分成管理 &gt; 分成套餐配置」点击「新增」 
+(i). 在「经纪人管理＞分成管理＞分成套餐配置」点击「新增」 
 
 <img src="/assets/YOgXb4hW7oYy4dxki4AcDzimnsb.png" src-width="2504" src-height="984" align="center"/>
 
@@ -65,7 +65,7 @@ sidebar_position: 10
 
 <b>答：</b>如经纪人已离职或需更换经纪人，
 
-(i). 在「经纪人管理 &gt; 关系管理」页面选择经纪人／客户，之后剔选证券账号（可多选），点击「转入其他经纪人名下」
+(i). 在「经纪人管理＞关系管理」页面选择经纪人／客户，之后剔选证券账号（可多选），点击「转入其他经纪人名下」
 
 <img src="/assets/FAfCbKHKeo77inxCAk7cYmKnnsg.png" src-width="2502" src-height="1122" align="center"/>
 
@@ -84,4 +84,19 @@ sidebar_position: 10
 <img src="/assets/YLAsbfExUoDjtqx98y6cW4xoncb.png" src-width="2842" src-height="1314" align="center"/>
 
 <em>11D 图二</em>
+
+## 11F 问：分成套餐配置中的“新股”计算方式选「佣金总额」是对应那个费用？
+
+<img src="/assets/NNBxbnnNGoNP0rxLJS9cRdCVnRc.png" src-width="2594" src-height="1194" align="center"/>
+
+<b>答：</b>对应到新股的经纪佣金收费。
+在「业务参数设置＞新股配置＞费率管理」页面中编辑 "经纪佣金" （见 11F 图一），或 在「新股认购＞详情」页面中基本信息新建费率（见 11F 图二）可作编辑。
+
+<img src="/assets/TEcobySpioJnnkxGkp7ceLSGnqe.png" src-width="2819" src-height="1437" align="center"/>
+
+<em>11F 图一</em>
+
+<img src="/assets/XAB2bnxkco1Bvzx2OldcDQ57nWb.png" src-width="2820" src-height="1417" align="center"/>
+
+<em>11F 图二</em>
 

@@ -9,12 +9,12 @@ sidebar_position: 3
 
 ## 1.4A 问：如何导出/修改 CRS 文件？
 
-<b>答：</b>在「报表管理 &gt; CRS 文件生成」可导出 XML 文档，请参考操作文档 [CRS 操作文档](./Zf8xwz6teiNduAkCSPmcEf1mn4b)
+<b>答：</b>在「报表管理＞CRS 文件生成」可导出 XML 文档，请参考操作文档 [CRS 操作文档](./Zf8xwz6teiNduAkCSPmcEf1mn4b)
 
 
 ## 1.4B 问：CRS 是申报那个年度、编号是什么？
 
-<b>答：</b>申报是上一个年度的数据，如今年为 2024 年，需要申报 2023 年。
+<b>答：</b>申报是上一个年度的数据，如今年为 2024 年，需要申报 2023 年 1 月 1 日至 12 月 31 日。
 编号是输入自动形式交换财务帐户资料（AEOI）税务局所提供，一般是由 2 个英文字母 + 5 个数字的 7 位编号。
 
 <img src="/assets/Mo0nbouPxoxfL0xBR5IcemPondf.png" src-width="2496" src-height="1084" align="center"/>

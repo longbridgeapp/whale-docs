@@ -1,7 +1,7 @@
 ---
 title: 6.1 公司行动费用
 slug: DlJgw9nIuiTHIBkWutQcygy7nMh
-sidebar_position: 0
+sidebar_position: 5
 ---
 
 
@@ -9,7 +9,7 @@ sidebar_position: 0
 
 ## 6.1A 问：公司行动的过户费如何设置／修改？
 
-<b>答：</b>在「公司行动 &gt; 费用管理 &gt; 全局规则」页面点击「过户费配置」。
+<b>答：</b>在「公司行动＞费用管理＞全局规则」页面点击「过户费配置」。
 
 <img src="/assets/VsXrbmMfEof3JVxYmuJcbRlunWc.png" src-width="2344" src-height="792" align="center"/>
 
@@ -33,7 +33,7 @@ sidebar_position: 0
 
 <b>答：</b> 可以按下面步骤操作。
 
-(i). 在「公司行动 &gt; 费用管理」页面点击「新建／编辑」
+(i). 在「公司行动＞费用管理」页面点击「新建／编辑」
 
 <img src="/assets/P9f1bOT9DorqYux0pCeczuOpnCc.png" src-width="2810" src-height="1434" align="center"/>
 
@@ -46,7 +46,7 @@ sidebar_position: 0
     - 「向上截取」即上舍入，例子：`5.4>6.0`
 
 - 费用特殊限制：
-    - 「无限制」即不论派发金额多少，都是收取设置的费用；、
+    - 「无限制」即不论派发金额多少，都是收取设置的费用；
     - 「单项费用不超过权益」即收取费用不会超过派发的金额，例子：手续费为$10，派发利息$5，只会收取$5 费用，不会超过派发的金额
 
 <img src="/assets/VT7HbYotOo3iUdxyT0yccvStnff.png" src-width="2734" src-height="1614" align="center"/>
@@ -61,21 +61,13 @@ sidebar_position: 0
 
 <img src="/assets/WBQzbR3QvoYhX4x8zl8cEgQencY.png" src-width="1736" src-height="1524" align="center"/>
 
-## 6.1E. 问：系统什么时候将打靶的牛熊证进行移除？
-
-<b>答：</b> 新建公司行动时，根据有没有剩余价值选 TM 或者 DS 类别，然后选「登记日」输入上手提供的登记日。上手移除时，再完成公司行动以收回标的。
-
-<img src="/assets/GKAMbX2WpoJIVNxJ8Cgc7D6pnkg.png" src-width="2674" src-height="1226" align="center"/>
-
-<img src="/assets/Vt7KbqB8JolZvIxAdSJcVl9gnfe.png" src-width="904" src-height="1126" align="center"/>
-
-## 6.1F 问：港股派发美元股息，手续费用会如何计算？
+## 6.1E 问：港股派发美元股息，手续费用会如何计算？
 
 <b>答：</b>手续费跟随派发的币种收取。CCASS 的手续费收取美元，所以系统中的手续费会收取美元；过户费是香港过户处收取的，默认收取港元。
 
 <img src="/assets/PMQLbfBDpoSatAx8FujcXgk7nVd.png" src-width="2038" src-height="996" align="center"/>
 
-## 6.1G 问：如何导出公司行动向客户收取费用的报表？
+## 6.1F 问：如何导出公司行动向客户收取费用的报表？
 
 答：在公司行动的「客户明细」中可以导出。
 

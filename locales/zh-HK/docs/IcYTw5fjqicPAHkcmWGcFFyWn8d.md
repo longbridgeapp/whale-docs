@@ -9,9 +9,9 @@ sidebar_position: 7
 
 ## 8A 問：如何處理債券進出？
 
-<b>答：</b>債券買入或賣出需要使用手工調賬方式處理，調賬前請在私有標的庫建立標的代碼。
+<b>答：</b>債券買入或賣出需要使用手工調賬方式處理，調賬前請在「私有標的庫」建立標的代碼。
 
-(i). 在「證券管理 &gt; 標的管理 &gt; 私有標的庫」頁面點擊「新增標的」添加債券或外國股票
+(i). 在「證券管理＞標的管理＞私有標的庫」頁面點擊「新增標的」添加債券或外國股票
 
 <img src="/assets/OHX7bsYcFofoKlxB7hqcaVUWnKb.png" src-width="2594" src-height="1289" align="center"/>
 
@@ -25,9 +25,9 @@ sidebar_position: 7
 
 <img src="/assets/U8tkbrOhSoYWVrxIhH0cFgm0nVb.png" src-width="2535" src-height="1552" align="center"/>
 
-市埸、類型、證券代碼不能作修改
+<em>市埸、類型、證券代碼不能作修改</em>
 
-(iv). 在「行情維護」頁面點擊「新增行情」
+(iv). 市值修改在「行情維護」頁面點擊「新增行情」
 
 <img src="/assets/TFnmbqiFHoe1hGxUZU9cFqD5npd.png" src-width="2241" src-height="1231" align="center"/>
 
@@ -35,7 +35,7 @@ sidebar_position: 7
 
 <img src="/assets/Zj0zb20zVohFEOxyAeUcnggzn4c.png" src-width="2242" src-height="1302" align="center"/>
 
-(vi). 設置債券標的後，在「資產賬户 &gt; 手工調賬 &gt; 債券」頁面點擊「新建」作債券出入倉。
+(vi). 設置債券標的後，在「資產賬户＞手工調賬＞債券」頁面點擊「新建」作債券出入倉。
 
 <img src="/assets/OBSpbrGJQoR3FwxiiZ9cAS0IniZ.png" src-width="2580" src-height="1206" align="center"/>
 
@@ -52,13 +52,13 @@ sidebar_position: 7
 
 <img src="/assets/HDwobHTDGoc8Q4x2FMyclNRZnbb.png" src-width="2542" src-height="1479" align="center"/>
 
-(ix). 在「資產賬户 &gt; 賬户明細 &gt; 債券」頁面看到流入債券。賣出顯示為流出。
+(ix). 在「資產賬户＞賬户明細＞債券」頁面看到流入債券。賣出顯示為流出。
 
 <img src="/assets/MBd7bly46oTqDmxozu1cjzggnC0.png" src-width="2852" src-height="716" align="center"/>
 
 ## 8B 問：為什麼債券的價格沒有在結單上更新？
 
-<b>答：</b> 需要在「證券管理 &gt; 標的管理 &gt; 行情維護」頁面編輯行情才會在結上會反映（見 8B 圖一、圖二）。
+<b>答：</b> 需要在「證券管理＞標的管理＞行情維護」頁面編輯行情才會在結上會反映（見 8B 圖一、圖二）。
 
 如在清算前沒有作維護，需清算撤銷處理（結單可不操作、資產類不操作、補單不操作），新增／編輯行情後（見 8B 圖三），重跑日終更新收盤價。
 
@@ -82,11 +82,11 @@ sidebar_position: 7
 
 ## 8C 問：結單上的成本、價格、持倉市值是什麼計算？
 
-<b>答：</b>結單成本計算是用攤薄成本： （總買入金額 - 總賣出金額）/ 持有數量。債券行情維護的收盤價在結單上顯示的是價格，成本是前面提供的攤薄成本。持倉市值是持倉股數 x 收盤價。
+<b>答：</b>結單成本計算是用攤薄成本： （總買入金額 - 總賣出金額）/ 持有數量。債券「行情維護」的收盤價在結單上顯示的是價格，成本是前面提供的攤薄成本。持倉市值是持倉股數 x 收盤價。
 
-基金的收盤價則是取淨值表的價格。
+> 基金的收盤價則是取「淨值表」的價格。
 
-調帳進去的金額就是買賣金額 如果調帳有設定總成本價就以設定為準，否則會以收盤價計算 價格*數量。
+註＊調帳進去的金額就是買賣金額 如果調帳有設定總成本價就以設定為準，否則會以收盤價計算（價格*數量）。
 
 <img src="/assets/PO8pbGCcCoxyTsxIXKlcAdQxnrh.png" src-width="1368" src-height="260" align="center"/>
 

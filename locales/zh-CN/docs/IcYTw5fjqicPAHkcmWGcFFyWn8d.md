@@ -9,9 +9,9 @@ sidebar_position: 7
 
 ## 8A 问：如何处理债券进出？
 
-<b>答：</b>债券买入或卖出需要使用手工调账方式处理，调账前请在私有标的库建立标的代码。
+<b>答：</b>债券买入或卖出需要使用手工调账方式处理，调账前请在「私有标的库」建立标的代码。
 
-(i). 在「证券管理 &gt; 标的管理 &gt; 私有标的库」页面点击「新增标的」添加债券或外国股票
+(i). 在「证券管理＞标的管理＞私有标的库」页面点击「新增标的」添加债券或外国股票
 
 <img src="/assets/OHX7bsYcFofoKlxB7hqcaVUWnKb.png" src-width="2594" src-height="1289" align="center"/>
 
@@ -25,9 +25,9 @@ sidebar_position: 7
 
 <img src="/assets/U8tkbrOhSoYWVrxIhH0cFgm0nVb.png" src-width="2535" src-height="1552" align="center"/>
 
-市埸、类型、证券代码不能作修改
+<em>市埸、类型、证券代码不能作修改</em>
 
-(iv). 在「行情维护」页面点击「新增行情」
+(iv). 市值修改在「行情维护」页面点击「新增行情」
 
 <img src="/assets/TFnmbqiFHoe1hGxUZU9cFqD5npd.png" src-width="2241" src-height="1231" align="center"/>
 
@@ -35,7 +35,7 @@ sidebar_position: 7
 
 <img src="/assets/Zj0zb20zVohFEOxyAeUcnggzn4c.png" src-width="2242" src-height="1302" align="center"/>
 
-(vi). 设置债券标的后，在「资产账户 &gt; 手工调账 &gt; 债券」页面点击「新建」作债券出入仓。
+(vi). 设置债券标的后，在「资产账户＞手工调账＞债券」页面点击「新建」作债券出入仓。
 
 <img src="/assets/OBSpbrGJQoR3FwxiiZ9cAS0IniZ.png" src-width="2580" src-height="1206" align="center"/>
 
@@ -52,13 +52,13 @@ sidebar_position: 7
 
 <img src="/assets/HDwobHTDGoc8Q4x2FMyclNRZnbb.png" src-width="2542" src-height="1479" align="center"/>
 
-(ix). 在「资产账户 &gt; 账户明细 &gt; 债券」页面看到流入债券。卖出显示为流出。
+(ix). 在「资产账户＞账户明细＞债券」页面看到流入债券。卖出显示为流出。
 
 <img src="/assets/MBd7bly46oTqDmxozu1cjzggnC0.png" src-width="2852" src-height="716" align="center"/>
 
 ## 8B 问：为什么债券的价格没有在结单上更新？
 
-<b>答：</b> 需要在「证券管理 &gt; 标的管理 &gt; 行情维护」页面编辑行情才会在结上会反映（见 8B 图一、图二）。
+<b>答：</b> 需要在「证券管理＞标的管理＞行情维护」页面编辑行情才会在结上会反映（见 8B 图一、图二）。
 
 如在清算前没有作维护，需清算撤销处理（结单可不操作、资产类不操作、补单不操作），新增／编辑行情后（见 8B 图三），重跑日终更新收盘价。
 
@@ -82,11 +82,11 @@ sidebar_position: 7
 
 ## 8C 问：结单上的成本、价格、持仓市值是什么计算？
 
-<b>答：</b>结单成本计算是用摊薄成本： （总买入金额 - 总卖出金额）/ 持有数量。债券行情维护的收盘价在结单上显示的是价格，成本是前面提供的摊薄成本。持仓市值是持仓股数 x 收盘价。
+<b>答：</b>结单成本计算是用摊薄成本： （总买入金额 - 总卖出金额）/ 持有数量。债券「行情维护」的收盘价在结单上显示的是价格，成本是前面提供的摊薄成本。持仓市值是持仓股数 x 收盘价。
 
-基金的收盘价则是取净值表的价格。
+> 基金的收盘价则是取「净值表」的价格。
 
-调帐进去的金额就是买卖金额 如果调帐有设定总成本价就以设定为准，否则会以收盘价计算 价格*数量。
+注＊调帐进去的金额就是买卖金额 如果调帐有设定总成本价就以设定为准，否则会以收盘价计算（价格*数量）。
 
 <img src="/assets/PO8pbGCcCoxyTsxIXKlcAdQxnrh.png" src-width="1368" src-height="260" align="center"/>
 

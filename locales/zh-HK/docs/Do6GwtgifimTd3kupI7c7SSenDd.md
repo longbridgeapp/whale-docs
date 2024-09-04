@@ -9,11 +9,11 @@ sidebar_position: 14
 
 ## 15A 問：如何新建／編輯／凍結操作員賬號、用户角色？
 
-<b>答：</b> (i). 在系統右上角的「齒輪」點擊「身份管理」。
+<b>答：</b> （i）在系統右上角的「齒輪」點擊「身份管理」。
 
 <img src="/assets/GxrzbPOxWoCtsIxLak2cZi1gnJh.png" src-width="2636" src-height="719" align="center"/>
 
-（ii). 在「身份管理 &gt; 人員」頁面點擊「添加人員」
+(ii). 在「身份管理 &gt; 人員」頁面點擊「添加人員」
 
 <img src="/assets/TWNnbpbUeoc8rCxEXO1cu0uLnAb.png" src-width="2621" src-height="858" align="center"/>
 
@@ -50,16 +50,9 @@ sidebar_position: 14
 
 ## 15B 問：如何修改角色名稱或備註？
 
-<b>答：</b>在「身份管理 &gt; 角色」點擊「編輯」。打開隱藏資訊按鈕，可以修改角色名稱及備註說明。
+<b>答：</b>在「身份管理＞角色」點擊「編輯」。打開隱藏資訊按鈕，可以修改角色名稱及備註說明。
 
 <img src="/assets/BFLdbW1fCoXafsxlJTUc6jIynLe.png" src-width="2542" src-height="620" align="center"/>
 
 <img src="/assets/LrOgbHGghowuNXxtjXecggq9n5c.png" src-width="2516" src-height="1268" align="center"/>
-
-## 15C 問：“結算賬户”跟“業務賬户”如何影響到對賬類型？
-
-<b>答：</b>上手代理／託管商設置的對賬類型「結算賬户」指以已結算數量（T+2 交收後）來顯示持倉股數，「業務賬户」指以賬面股數（即時反映）來顯示持倉股數。
-系統主要以「結算賬户」已交收的股數作對賬，如設置了「業務賬户」以賬面股數對賬，會引致 SDR025 - Stock Reconciliation Report 不對賬，可以統一以把對賬類型選為結算賬户。
-
-<img src="/assets/JEOybKwukolNKJx9d0UcpLfonXb.png" src-width="2672" src-height="1404" align="center"/>
 

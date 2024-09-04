@@ -11,11 +11,11 @@ sidebar_position: 0
 
 <b>答：</b>指定相關人員賬户作審核，請參考以下步驟。
 
-(i). 於證劵後台右上角點擊「身份管理」。
+(i). 於證劵後台右上方點擊「身份管理」。
 
 <img src="/assets/NLNAbdg80o4aWix3BM7ceIc7nhg.png" src-width="2558" src-height="392" align="center"/>
 
-(ii). 在「身份管理 &gt; 審批流程配置」頁面按業務分類工單，點擊「配置」。另外，可以設置「默認審批流配置」把工單都去到指定默認人員審批。
+(ii). 在「身份管理＞審批流程配置」頁面按業務分類工單，點擊「配置」。另外，可以設置「默認審批流配置」把工單都去到指定默認人員審批。
 
 <img src="/assets/S8GBbFWMYoWfxExtGEQc1Cvinvb.png" src-width="2554" src-height="670" align="center"/>
 
@@ -31,7 +31,7 @@ sidebar_position: 0
 
 ## 15.1B 問：為什麼審批的工單都去到超級管理員賬户？
 
-答：需要先設置工單審核人。在系統右上方齒輪點擊「身份管理&gt;審批流程配置&gt;默認審批流配置」添加審核人員，之後工單就會去到指定人員（見 15.1B 圖一、圖二)。<b>
+答：需要先設置工單審核人。在系統右上方齒輪點擊「身份管理＞審批流程配置＞默認審批流配置」添加審核人員，之後工單就會去到指定人員（見 15.1B 圖一、圖二）。<b>
 </b>審核人員可按“角色”或“人員”賬號添加（見 15.1B 圖三）。配置完成後，可再發起工單由新的審核人處理。
 
 <img src="/assets/Uh3Wb6lcwoV1aFxZ3kFc2NRQn3f.png" src-width="2792" src-height="418" align="center"/>
