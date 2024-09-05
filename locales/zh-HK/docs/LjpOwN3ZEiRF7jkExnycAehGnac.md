@@ -15,7 +15,7 @@ sidebar_position: 10
 
 「團隊管理」是為了區分不同經紀人的群組，團隊包含經紀人，每個經紀人至少需要被分配到一個團隊。為了區別不同的用戶，需要對用戶進行分類，分成不同的團隊。非本團隊成員無法看到本團隊所屬的客戶信息。
 
-(i).  在「經紀人管理 &gt; 團隊與經紀人 &gt; 團隊管理」頁面點擊「新建」
+(i).  在「經紀人管理＞團隊與經紀人＞團隊管理」頁面點擊「新建」
 
 <img src="/assets/Lom0bedRgoyqUYxfrKSc4z88nQb.png" src-width="2508" src-height="1318" align="center"/>
 
@@ -44,7 +44,7 @@ sidebar_position: 10
 
 <b>答：</b>請參考以下步驟：
 
-(i). 在「經紀人管理 &gt; 分成管理 &gt; 分成套餐配置」點擊「新增」 
+(i). 在「經紀人管理＞分成管理＞分成套餐配置」點擊「新增」 
 
 <img src="/assets/YOgXb4hW7oYy4dxki4AcDzimnsb.png" src-width="2504" src-height="984" align="center"/>
 
@@ -65,7 +65,7 @@ sidebar_position: 10
 
 <b>答：</b>如經紀人已離職或需更換經紀人，
 
-(i). 在「經紀人管理 &gt; 關係管理」頁面選擇經紀人／客戶，之後剔選證券賬號（可多選），點擊「轉入其他經紀人名下」
+(i). 在「經紀人管理＞關係管理」頁面選擇經紀人／客戶，之後剔選證券賬號（可多選），點擊「轉入其他經紀人名下」
 
 <img src="/assets/FAfCbKHKeo77inxCAk7cYmKnnsg.png" src-width="2502" src-height="1122" align="center"/>
 
@@ -84,4 +84,19 @@ sidebar_position: 10
 <img src="/assets/YLAsbfExUoDjtqx98y6cW4xoncb.png" src-width="2842" src-height="1314" align="center"/>
 
 <em>11D 圖二</em>
+
+## 11F 問：分成套餐配置中的“新股”計算方式選「佣金總額」是對應那個費用？
+
+<img src="/assets/NNBxbnnNGoNP0rxLJS9cRdCVnRc.png" src-width="2594" src-height="1194" align="center"/>
+
+<b>答：</b>對應到新股的經紀佣金收費。
+在「業務參數設置＞新股配置＞費率管理」頁面中編輯 "經紀佣金" （見 11F 圖一），或 在「新股認購＞詳情」頁面中基本信息新建費率（見 11F 圖二）可作編輯。
+
+<img src="/assets/TEcobySpioJnnkxGkp7ceLSGnqe.png" src-width="2819" src-height="1437" align="center"/>
+
+<em>11F 圖一</em>
+
+<img src="/assets/XAB2bnxkco1Bvzx2OldcDQ57nWb.png" src-width="2820" src-height="1417" align="center"/>
+
+<em>11F 圖二</em>
 

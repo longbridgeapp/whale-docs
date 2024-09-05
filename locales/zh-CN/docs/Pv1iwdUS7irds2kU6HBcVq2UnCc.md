@@ -1,7 +1,7 @@
 ---
 title: 12.1 批量报表打印
 slug: Pv1iwdUS7irds2kU6HBcVq2UnCc
-sidebar_position: 0
+sidebar_position: 2
 ---
 
 
@@ -33,7 +33,7 @@ sidebar_position: 0
 
 <b>答：</b>请参考以下步骤
 
-(i). 于「报表管理 &gt; 批量列印」页面点击「新建」
+(i). 于「报表管理＞批量列印」页面点击「新建」
 
 <img src="/assets/GQ8MbYdohoGashx1ZnicEcOunib.png" src-width="2640" src-height="990" align="center"/>
 

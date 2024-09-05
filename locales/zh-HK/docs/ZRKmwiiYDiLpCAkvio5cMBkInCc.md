@@ -24,7 +24,7 @@ sidebar_position: 17
 
 ## 18C. 問：客戶的現金賬戶戶口餘額為正數，沒有向券商借款，為什麼會佔用融資額度？
 
-答：「風控管理&gt;客户融資」的“已佔用融資額度”包括已凍結不可用的現金。
+答：「風控管理＞客户融資」的“已佔用融資額度”包括已凍結不可用的現金。
 
 <img src="/assets/GEBcbfofqo9LtYxmTRlcRsUZn7d.png" src-width="2828" src-height="1346" align="center"/>
 
