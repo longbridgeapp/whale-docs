@@ -112,6 +112,20 @@ Whale 会计中台系统全面支持券商证券业务记账流程，包括记�
 
 <img src="/assets/C0cfb4CyDoi4itxlHZkcFoi7nBe.png" src-width="952" src-height="1776"/>
 
+### 业务类型<b>配置</b>
+
+<b>每个券商公司可根据记账与否的要求进行个性化配置</b>
+
+<b>步骤一：查看</b><b>业务类型</b>
+
+<img src="/assets/Q6aBbgLKiokbT5xmdYec50qHnHg.png" src-width="3810" src-height="1676" align="center"/>
+
+<b>步骤二：</b><b>业务类型</b><b>配置</b>
+
+点选『业务类型』右上角：‘新建’，设定对应券商公司记账与否的业务类型。
+
+<img src="/assets/JUQyb855ropp6bx6E7GcM9n6nyD.png" src-width="3256" src-height="1484" align="center"/>
+
 ## <b>记账结果查询</b>
 
 券商证券业务发生后，系统会根据记账参数生成记账结果供用户进行查询和导出<b>。</b>
