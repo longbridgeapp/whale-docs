@@ -151,8 +151,6 @@ sidebar_position: 2
 
 <img src="/assets/ACswbkSOMoX581xYo3CcJz8jnNc.png" src-width="3286" src-height="1628" align="center"/>
 
-額度審批核對頁面
-
 - 頁面字段說明
 
 <table header_row="1">
@@ -167,7 +165,7 @@ sidebar_position: 2
 <tr><td><p>公司總額度</p></td><td><p>對應「公司額度設置頁面」的總融資額度</p></td></tr>
 <tr><td><p>公司剩餘額度</p></td><td><p>剩餘可以授信的額度，對應「公司額度設置頁面」的總融資額度減去已批融資額度的差值</p></td></tr>
 <tr><td><p>調整前額度</p></td><td><p>客戶當前的融資額度</p></td></tr>
-<tr><td><p>調整前關聯賬戶總額度</p></td><td><p>=if(授信组总融资额度&lt;&gt;&#39;&#39;,  授信组总融资额度，member 总融资额度）</p></td></tr>
+<tr><td><p>調整前關聯賬戶總額度</p></td><td><p>=if[授信组总融资额度&lt;&gt;&#39;&#39;,  min(授信组总融资额度，member 总融资额度), member 总融资额度]</p></td></tr>
 <tr><td><p>調整後額度</p></td><td><p>本次調整後的額度</p></td></tr>
 <tr><td><p>系統計算授信額度</p></td><td><p>系統根據當前客戶資產根據自動授信計算邏輯計算的額度</p></td></tr>
 </tbody>
@@ -433,7 +431,7 @@ sidebar_position: 2
 
 <img src="/assets/Eb9zbk0ugo94NAxSElBcJSZjnyd.png" src-width="3262" src-height="796" align="center"/>
 
-<b>頁面基礎字段說明</b>
+<b>頁面基礎字段說明</b>：
 
 <table>
 <colgroup>
@@ -592,7 +590,7 @@ sidebar_position: 2
 
 <b>菜單功能介紹</b>：該菜單用於查看所有平倉記錄，以及若出現平倉操作錯誤，可以進行撤單。
 
-<img src="/assets/Acc5blIXIo6IuwxnsrTcy11Nnwe.png" src-width="3242" src-height="1096" align="center"/>
+<img src="/assets/ZkxhbCFDAoJXvtx8frgcXLsFnyg.png" src-width="3312" src-height="856" align="center"/>
 
 ## 保證金
 
@@ -611,11 +609,11 @@ sidebar_position: 2
 
 1. 列表展示所有股票保證金設置現狀
 
-<img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
+<img src="/assets/EsfabTBLBoexlTx91xbcOK9EnQf.png" src-width="2636" src-height="1020" align="center"/>
 
 1. 可以在【新建】按鈕，新增單個股票保證金比例（注：若該股票已存在，數據會覆蓋，以本次設置為準）
 
-<img src="/assets/ThhabRRdBoGlvBx2siFc2O5vnQ2.png" src-width="3252" src-height="560" align="center"/>
+<img src="/assets/SUg1bmHshowLV2xArcic3s9knKh.png" src-width="2294" src-height="636" align="center"/>
 
 <img src="/assets/N6nJb2KWhoys7ix5cRXcAIGEnkb.png" src-width="2238" src-height="1014" align="center"/>
 
@@ -630,7 +628,7 @@ sidebar_position: 2
 
 1. 股票狀態可能變更，可以通過列表右上角的【拉取個股狀態】刷新最新狀態
 
-<img src="/assets/FySubnmqpomqjTxgu8DcpjslnXg.png" src-width="3246" src-height="640" align="center"/>
+<img src="/assets/IbdbbjwSBomBAYxx2qYc1RnJnoe.png" src-width="2278" src-height="534" align="center"/>
 
 #### 日內交易實時保證金
 
@@ -641,19 +639,19 @@ sidebar_position: 2
 
 <b>菜單功能介紹</b>：針對日內融業務，可以單獨設置支持日內交易的股票保證金比例。
 
-1. 列表展示所有支持日內交易的股票保證金比例記錄；系統會自動根據交易時段變更保證金狀態，相關規則可參看列表保證金狀態字段的幫助提示
+1. 列表展示所有支持日內交易的股票保證金比例記錄；系統會自動根據交易時段變更保證金狀態，相關規則可在頁面的【規則設置】進行設置
 
-<img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
+<img src="/assets/E0A0bn3rroUiCrxOy3Kc2QcOn3c.png" src-width="2352" src-height="978" align="center"/>
 
 1. 頁面的【新增】和【批量上傳】可以單個新增或批量新增日內交易股票的保證金比例設置；操作流程同「股票保證金」
 
-<img src="/assets/Qsx5bEMDSoeyBSx3tp1cFnUpnbc.png" src-width="3298" src-height="954" align="center"/>
+<img src="/assets/E0HgbXEd6ogYFJxhMPvcEATfnIb.png" src-width="2320" src-height="782" align="center"/>
 
 1. 在紀錄右側操作區，進行【編輯】或【刪除】
 
-<img src="/assets/KeSxb0C88oOj0zxhLnjcPstYnYc.png" src-width="3288" src-height="550" align="center"/>
+<img src="/assets/CRwvbMYsjovCGwxQmgScSEvznEh.png" src-width="2294" src-height="784" align="center"/>
 
-<img src="/assets/OyK3bJRLoom6dfx7yAccvvzxnLe.png" src-width="3338" src-height="1598" align="center"/>
+<img src="/assets/PDX3bM4rAojeyAxpwkNcQY2unUQ.png" src-width="2380" src-height="1282" align="center"/>
 
 注意：若其中若狀態為失效，則說明保證金比例默認為 100%
 
@@ -668,7 +666,7 @@ sidebar_position: 2
 
 1. 「股票保證金」「日內交易實時保證金」新增或編輯提交後會在比率設置記錄中会生成未觸發的該保證金設置記錄，也可以點擊【取消同步】則取消設置，不作記錄，此時點擊【同步】，該記錄狀態變更為已觸發，同時在主頁生成一條股票保證金記錄（若新增的為已存在的股票則更新原記錄）；點擊【取消同步】，則記錄狀態變更為已撤銷，該設置不生效；若不操作人工同步，系統將在設定的有效期生效對應設置
 
-<img src="/assets/JdukbF4g7oL8ebxvK3BcdmWjnFd.png" src-width="3246" src-height="576" align="center"/>
+<img src="/assets/DjBxblhOto5cixxTAGmcaI82n4d.png" src-width="2316" src-height="862" align="center"/>
 
 #### 空頭保證金
 
@@ -681,26 +679,27 @@ sidebar_position: 2
 
 1. 列表展示所有支持空頭股票保證金比例記錄
 
-<img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
+<img src="/assets/DCUrb1zYuoGfsRxQpavcjR9ynge.png" src-width="2352" src-height="860" align="center"/>
 
 1. 支持批量上傳：下載模板文件根據文件要求填寫後上傳
 
-<img src="/assets/RVOWbBklxohO32xfme9cEGpWnBd.png" src-width="3268" src-height="1122" align="center"/>
+<img src="/assets/XKC7b20AsoLMIMxF62qcu55znmh.png" src-width="2298" src-height="816" align="center"/>
 
 1. 也可點擊紀錄區【編輯】修改紀錄
+    <b>可賣空狀態說明</b>：總共有三種狀態
+    - 允許賣空：融券池充足，當前股票支持賣空
+    - 禁止賣空：人工設置不可賣空，代表股票不支持融券
+    - 系統自動禁止：若人工設置融券池數量規則，當融券池數量達到自動關閉規則時，則系統會自動禁止賣空，對客戶感知為該股票支持融券，但融券池數量不足導致無法賣空；同時若滿足自動恢復賣空規則，則系統會恢復“允許賣空”
 
-<img src="/assets/MFLZbjGkEo1InSxnzBccbyiMn4v.png" src-width="3302" src-height="1428" align="center"/>
+<img src="/assets/DwuobJpBtoRLAPxiWvFczClenwh.png" src-width="2298" src-height="1280" align="center"/>
 
-#### 空頭保證金記錄
+❤️Tips：
 
-<div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>風控管理 &gt; 保證金  &gt; 股票保證金 &gt; 空頭保證金記錄</p>
-</div>
+融券池數量規則設置：自動恢復賣空數量需大於等於自動關閉賣空數量。
 
-<b>菜單功能介紹</b>：該菜單展示空頭股票保證金比例的變更記錄。
+1. 點擊頁面的【變更記錄】可以查看歷史所有空頭保證金的變更記錄
 
-<img src="/assets/AsWxbKzDMoM1MjxmD1IcSGwAndd.png" src-width="3280" src-height="810" align="center"/>
+<img src="/assets/BWZWbDdkVo6BKqxCbDSc35HqnTc.png" src-width="2334" src-height="582" align="center"/>
 
 ### 客戶保證金
 
@@ -725,11 +724,11 @@ sidebar_position: 2
 
 1. 同時，也可以通過【導入保證金數據】來新增客戶保證金；進入彈窗下載模版根據模版填寫後上傳
 
-<img src="/assets/TjQYbH0kboEjx9xrmu5c16uBnne.png" src-width="3168" src-height="1116" align="center"/>
+<img src="/assets/EjxobkrYvo2HtYxvNk8ckl3lnXc.png" src-width="2292" src-height="800" align="center"/>
 
 1. 文件上傳【確認】後，在客戶保證金列表中生成狀態為生效中的記錄；如需修改保證金比例，可以通過操作的【編輯】修改；也可以通過【置為失效】來失效客戶保證金比例設置
 
-<img src="/assets/FIEbbOOvmop6Nixv7kKcGuEvnpc.png" src-width="3244" src-height="1424" align="center"/>
+<img src="/assets/EobibaNTeoVjlyxSTYycqQgxngJ.png" src-width="2288" src-height="672" align="center"/>
 
 #### 空頭股票
 
@@ -738,9 +737,9 @@ sidebar_position: 2
 <p>風控管理 &gt; 保證金  &gt; 客戶保證金 &gt; 空頭股票</p>
 </div>
 
-客戶空頭股票保證金比例設置邏輯同「[多頭股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的信息為“股票賣空狀態”，該狀態與對應空頭股票的可賣空狀態（查看頁面：「風控管理」-「保證金」-「股票保證金」-「空頭股票保證金」）保持同步。
+客戶空頭股票保證金比例設置邏輯同「[多頭股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的是空頭股票多了“可賣空狀態”和融券池規則設置，其賣空狀態及融券池規則設置邏輯同「空頭保證金」頁面。
 
-<img src="/assets/EOwcbvEDSoT3Wxxg6QWcFRVYncd.png" src-width="3230" src-height="1078" align="center"/>
+<img src="/assets/J53NbXrv5oMANqxN6DYcbRz4nBd.png" src-width="2342" src-height="852" align="center"/>
 
 ## 期權
 

@@ -164,3 +164,26 @@ sidebar_position: 6
 
 <em>7J 圖二</em>
 
+## 7K 問：App「我的費率」佣金計費的取值邏輯是什麼？
+
+答：取值邏輯先後次序如下：
+
+1. 「客戶計費」佣金特殊收費（「條件」只可設置「收費渠道」為「APP」）
+2. 「客戶組計費」佣金特殊收費（「條件」只可設置「收費渠道」為「APP」）
+3. 「全局客戶組計費」佣金特殊收費（「條件」只可設置「收費渠道」為「APP」）
+4. 「客戶計費」佣金特殊收費
+5. 「客戶組計費」佣金特殊收費
+6. 「全局客戶組計費」佣金特殊收費
+
+此外，可以在「瞭解示例」中為客戶提供更多「費率」資訊，而後台「幫助中心」可以修改「瞭解示例」中的內容。
+
+ 
+
+<img src="/assets/VgjRbBOHloOZIXxHcKGcFZxan7b.png" src-width="716" src-height="1606" align="center"/>
+
+ 
+
+<img src="/assets/QH0sb0IXIoBXODxs4DucuPBinbh.png" src-width="740" src-height="1588" align="center"/>
+
+<img src="/assets/R831byx3goj3mRxdNKOcdrounOe.png" src-width="2824" src-height="1156" align="center"/>
+
