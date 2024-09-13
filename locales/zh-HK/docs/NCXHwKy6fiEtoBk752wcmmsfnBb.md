@@ -13,6 +13,8 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 # 会计中台流程说明
 
+<img src="/assets/SpYFbz4lQozQRyxm2xFcvmWtnsb.png" src-width="874" src-height="553" align="center"/>
+
 # 務操作管理
 
 # 參數設置
