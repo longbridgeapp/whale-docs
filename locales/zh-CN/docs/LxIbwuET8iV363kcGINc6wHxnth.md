@@ -164,3 +164,33 @@ sidebar_position: 6
 
 <em>7J 图二</em>
 
+## 7K 问：App「我的费率」佣金计费的取值逻辑是什么？
+
+答：取值逻辑先后次序如下：
+
+1. 「客户计费」佣金特殊收费中的「条件」（「条件」在「收费渠道」有设置了「APP」才会显示）
+2. 「客户组计费」佣金特殊收费中的「条件」
+3. 「全局客户组计费」佣金特殊收费中的「条件」
+4. 「客户计费」佣金特殊收费
+5. 「客户组计费」佣金特殊收费
+6. 「全局客户组计费」佣金特殊收费
+
+此外，可以在「了解示例」中为客户提供更多「费率」资讯，而后台「帮助中心」可以修改「了解示例」中的内容。
+
+ 
+
+<div class="flex gap-3 columns-3" column-size="3">
+<div class="w-[13%]" width-ratio="13">
+<img src="/assets/VgjRbBOHloOZIXxHcKGcFZxan7b.png" src-width="716" src-height="1606" align="center"/>
+
+</div>
+<div class="w-[14%]" width-ratio="14">
+<img src="/assets/QH0sb0IXIoBXODxs4DucuPBinbh.png" src-width="740" src-height="1588" align="center"/>
+</div>
+<div class="w-[72%]" width-ratio="72">
+<img src="/assets/R831byx3goj3mRxdNKOcdrounOe.png" src-width="2824" src-height="1156" align="center"/>
+</div>
+</div>
+
+ 
+
