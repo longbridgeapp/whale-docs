@@ -50,7 +50,7 @@ sidebar_position: 1
 
 ## 1.2D 問：客户可否添加多個電郵收取結單？
 
-<b>答：</b>可以的，在「賬户管理 &gt; 客户賬户信息 &gt; 修改聯絡方式」頁面中點擊「新增」。在 "修改內容" 點擊「更多聯繫郵範」，以增加多個電郵收取結單。
+<b>答：</b>可以的，在「賬户管理 &gt; 客户賬户信息 &gt; 修改聯絡方式」頁面中點擊「新增」。在 "修改內容" 點擊「更多聯繫郵箱」，以增加多個電郵收取結單。
 
 <img src="/assets/HBgHb7JKdo9BzBxWCZycNaRznVe.png" src-width="2730" src-height="1370" align="center"/>
 

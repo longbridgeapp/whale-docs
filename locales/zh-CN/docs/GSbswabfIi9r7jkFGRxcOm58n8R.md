@@ -50,7 +50,7 @@ sidebar_position: 1
 
 ## 1.2D 问：客户可否添加多个电邮收取结单？
 
-<b>答：</b>可以的，在「账户管理 &gt; 客户账户信息 &gt; 修改联络方式」页面中点击「新增」。在 "修改内容" 点击「更多联系邮范」，以增加多个电邮收取结单。
+<b>答：</b>可以的，在「账户管理 &gt; 客户账户信息 &gt; 修改联络方式」页面中点击「新增」。在 "修改内容" 点击「更多联系邮箱」，以增加多个电邮收取结单。
 
 <img src="/assets/HBgHb7JKdo9BzBxWCZycNaRznVe.png" src-width="2730" src-height="1370" align="center"/>
 

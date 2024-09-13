@@ -168,9 +168,9 @@ sidebar_position: 6
 
 答：取值逻辑先后次序如下：
 
-1. 「客户计费」佣金特殊收费（「条件」只可设置「收费渠道」为「APP」）
-2. 「客户组计费」佣金特殊收费（「条件」只可设置「收费渠道」为「APP」）
-3. 「全局客户组计费」佣金特殊收费（「条件」只可设置「收费渠道」为「APP」）
+1. 「客户计费」佣金特殊收费中的「条件」（「条件」在「收费渠道」有设置了「APP」才会显示）
+2. 「客户组计费」佣金特殊收费中的「条件」
+3. 「全局客户组计费」佣金特殊收费中的「条件」
 4. 「客户计费」佣金特殊收费
 5. 「客户组计费」佣金特殊收费
 6. 「全局客户组计费」佣金特殊收费
@@ -179,11 +179,18 @@ sidebar_position: 6
 
  
 
+<div class="flex gap-3 columns-3" column-size="3">
+<div class="w-[13%]" width-ratio="13">
 <img src="/assets/VgjRbBOHloOZIXxHcKGcFZxan7b.png" src-width="716" src-height="1606" align="center"/>
 
- 
-
+</div>
+<div class="w-[14%]" width-ratio="14">
 <img src="/assets/QH0sb0IXIoBXODxs4DucuPBinbh.png" src-width="740" src-height="1588" align="center"/>
-
+</div>
+<div class="w-[72%]" width-ratio="72">
 <img src="/assets/R831byx3goj3mRxdNKOcdrounOe.png" src-width="2824" src-height="1156" align="center"/>
+</div>
+</div>
+
+ 
 

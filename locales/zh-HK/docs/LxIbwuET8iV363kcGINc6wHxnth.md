@@ -168,9 +168,9 @@ sidebar_position: 6
 
 答：取值邏輯先後次序如下：
 
-1. 「客戶計費」佣金特殊收費（「條件」只可設置「收費渠道」為「APP」）
-2. 「客戶組計費」佣金特殊收費（「條件」只可設置「收費渠道」為「APP」）
-3. 「全局客戶組計費」佣金特殊收費（「條件」只可設置「收費渠道」為「APP」）
+1. 「客戶計費」佣金特殊收費中的「條件」（「條件」在「收費渠道」有設置了「APP」才會顯示）
+2. 「客戶組計費」佣金特殊收費中的「條件」
+3. 「全局客戶組計費」佣金特殊收費中的「條件」
 4. 「客戶計費」佣金特殊收費
 5. 「客戶組計費」佣金特殊收費
 6. 「全局客戶組計費」佣金特殊收費
@@ -179,11 +179,18 @@ sidebar_position: 6
 
  
 
+<div class="flex gap-3 columns-3" column-size="3">
+<div class="w-[13%]" width-ratio="13">
 <img src="/assets/VgjRbBOHloOZIXxHcKGcFZxan7b.png" src-width="716" src-height="1606" align="center"/>
 
- 
-
+</div>
+<div class="w-[14%]" width-ratio="14">
 <img src="/assets/QH0sb0IXIoBXODxs4DucuPBinbh.png" src-width="740" src-height="1588" align="center"/>
-
+</div>
+<div class="w-[72%]" width-ratio="72">
 <img src="/assets/R831byx3goj3mRxdNKOcdrounOe.png" src-width="2824" src-height="1156" align="center"/>
+</div>
+</div>
+
+ 
 
