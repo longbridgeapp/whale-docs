@@ -23,6 +23,8 @@ sidebar_position: 11
 
 在会计中台的会计科目主要作业流程如下：
 
+<img src="/assets/J23XbK9pPoJxpbx57NEczt2FneL.png" src-width="874" src-height="553" align="center"/>
+
 ## 前置条件
 
 拥有会计中台的菜单权限，并且已经设定了会计工作中涉及的各项资料来源

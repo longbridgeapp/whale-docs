@@ -13,6 +13,8 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 # 会计中台流程说明
 
+<img src="/assets/SpYFbz4lQozQRyxm2xFcvmWtnsb.png" src-width="874" src-height="553" align="center"/>
+
 # 务操作管理
 
 # 参数设置
