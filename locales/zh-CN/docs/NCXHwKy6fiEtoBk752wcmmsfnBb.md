@@ -26,7 +26,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 ## 科目属性
 
-### 概要
+### <b>概要</b>
 
 在使用会计中台前，券商需要配置会计属性。
 
@@ -61,7 +61,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 ## 1.2 会计科目
 
-### 概要
+### <b>概要</b>
 
 在配置科目属性后，需要根据券商公司的要求配置会计科目。
 
@@ -79,7 +79,8 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 - 科目编码：系统会根据每个科目分配一个唯一的编码。
 - 外部科目编码：由于券商公司接入的财务系统不一样，在券商公司财务系统中定义的科目名称和科目编码和会计中台也不一样，为了会计中台最终可以按照券商公司财务系统的要求导出财务报表，所以券商公司需要在会计科目中定义对应财务软件对应的科目编码，称之为外部科目编码。
 - 会计科目：是指按照经济业务的内容和经济管理的要求，对会计要素的具体内容进行分类核算的会计科目所构成的集合。会计科目按其所提供信息的详细程度及其统驭关系不同，又分为总分类科目和明细分类科目，总分类科目可以对应会计中台的一级科目，明细分类科目对应会计中台二级或三级科目。
-                  为了会计中台系统搭建统一，在会计中台进行分录记账的明细科目统一为三级科目。
+
+      为了会计中台系统搭建统一，在会计中台进行分录记账的明细科目统一为三级科目。
 
 ### 操作步骤
 
@@ -95,10 +96,11 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
     <img src="/assets/Wr47b1FyFoJKElxSgePcE3NjnIe.png" src-width="3358" src-height="1480" align="center"/>
     <img src="/assets/S1sObyUZpo6SXax4bJrcE6U7nOe.png" src-width="2225" src-height="666" align="center"/>
 
-2. 步骤二：对于未配置分录规则或者未进行会计分录记账的科目，可以进入后台进行修改
+2. 步骤二：对于已经添加的会计科目，可以进入后台进行修改
+    - 📢：对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
     <img src="/assets/YjSYbTQNWo7VScxrOGCchBhrnrb.png" src-width="3308" src-height="1478" align="center"/>
 
-3. 步骤三：对于未配置分录规则或者未进行会计分录记账的科目，可以进入后台进行删除，需要先删除所有的三级科目，然后删除对应的二级科目，最后才能删除相应的一级科目
+3. 对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
     <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
     - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
@@ -130,13 +132,30 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
     <img src="/assets/ZEenb8ODBowJDWxICl1cRYn6noe.png" src-width="3437" src-height="906" align="center"/>
     1. “支付流水”如何添加分录规则
     <img src="/assets/STNjbnDqvo7lH5xCxuRcVghmn34.png" src-width="2736" src-height="4936" align="center"/>
-        1. “客户收费账单”如何添加分录规则
+    1. “客户收费账单”如何添加分录规则
     <img src="/assets/Y7iHbEL8Fo2Pt6x0unPcVt0Nn6d.png" src-width="2664" src-height="3890" align="center"/>
     1. “银行账单”如何添加分录规则
     <img src="/assets/PgtBbNGgzoRycYxP6AncdzkTndc.png" src-width="2646" src-height="3740" align="center"/>
 
-2. 
+2. 步骤二：对于已配置的分录规则可以后台进行修改。
+    - 📢：对于编辑后的分录规则，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
+
+<img src="/assets/JU9AbFSb4oOubUxAwN6cOLXLnvc.png" src-width="3278" src-height="1282" align="center"/>
+
+<img src="/assets/VJjLbEplDor8adxuHWlcQrLLncc.png" src-width="2492" src-height="4530" align="center"/>
+
+1. 步骤三：对于已配置的分录规则可以后台进行删除
+    - 📢：当前分录规则删除后，只会对后续新的分录有影响，历史已生成的分录只有重跑之后才会同步更新。
+
+<img src="/assets/BQfPbyVtcoUy8Vxfr9McfQnEnOc.png" src-width="3276" src-height="1304" align="center"/>
+
+1. 步骤四：如果需要新增类似业务的分录规则，可以使用后台复制功能
+
+<img src="/assets/KrkobuGWXoVXtdxysULcXBlan8c.png" src-width="3252" src-height="1246" align="center"/>
+
 ## 1.4 资金类型
+
+### 概要
 
 对于券商公司获取的银行账单可以自定义资金类型。
 
@@ -147,47 +166,117 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 - 新建：可根据券商公司银行账单新建不同资金类型标签。
 - 删除：对已经添加的资金类型可以进行删除。
 
+<b>专有名词解释</b>
+
+- 资金类型：是指银行账单业务分类的名称
+
+### 操作步骤
+
+1. 步骤一：如需要新增资金类型，可以根据需求在后台添加
+
+<img src="/assets/VkO0bTGPZoMlmGxbMUtcQH9anOk.png" src-width="3248" src-height="834" align="center"/>
+
+1. 步骤二：如果未被使用的资金类型需要删除，可以后台操作
+
+<img src="/assets/FoOObG9oXoEq7nxOaBJcQ9m7nzd.png" src-width="3278" src-height="724" align="center"/>
+
+📢：如果当前的资金类型已经被银行账单使用，则无法进行删除
+
+<img src="/assets/Sfxdb39zYofX35xaLwtcSKonnnf.png" src-width="362" src-height="114"/>
+
 ## 1.5 合并规则
+
+### 概要
 
 如果券商公司导出的财务报表需要合并，则可以自定义合并规则。
 
-<img src="/assets/OL9KbJyoSoCtfCxXKPhcmFcjn8d.png" src-width="3834" src-height="1452" align="center"/>
+<img src="/assets/Luehblccxoh7rXxR4jOceML8njg.png" src-width="3776" src-height="794" align="center"/>
+
+<img src="/assets/X0XUbWrqSozvP7xnBUOc9DoBnWg.png" src-width="1846" src-height="735" align="center"/>
 
 <b>操作按钮说明</b>
 
 - 新建：可根据券商公司需求新增报表的合并规则。
 - 编辑：对已经添加的合并规则可以进行人工编辑。
-- 删除：对已经添加的葛冰规则可以进行删除。
+- 删除：对已经添加的合并规则可以进行删除。
+
+<b>专有名词解释</b>
+
+- 合并规则：为了满足不同券商公司对于记账颗粒度的诉求，证券后台可支持合并规则配置，两种合并方式为：借贷各自合并、借贷抵减合并。借贷各自合并是指借方或者贷方按照本身的科目进行分类汇总，借贷抵减合并是指可以按照设定的相同科目或者不同科目将借贷金额抵减之后合并。
+
+### 操作步骤
+
+1. 步骤一：如需要新增合并规则，可以根据需求在后台添加。
+    <img src="/assets/Muq6bASXHoTa5yxqMnacmg0UnNc.png" src-width="2396" src-height="4954" align="center"/>
+    - 📢：如果在新建合并规则选择的业务类型都未配置分录规则，则无法新建
+    <img src="/assets/Ae1LbrVN5oYAmtxzZhOcdoexn0Q.png" src-width="2680" src-height="3140" align="center"/>
+
+2. 步骤二：对于已配置的合并规则可以后台进行修改
+    <img src="/assets/SqFFbe07vov6gdxoH6pcZhPBnnc.png" src-width="3258" src-height="780" align="center"/>
+    - 📢：对于编辑后的合并规则，会应用于后续的合并分录，对于历史已经生成的合并分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 合并」进行重跑。
+
+3. 步骤三：如果已配置的合并规则可以后台删除
+    <img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
+    - 📢：当前合并规则删除后，只会对后续新的分录有影响，历史已生成的合并分录只有重跑之后才会同步更新。
+
+## 1.6 业务类型
+
+### 概要
+
+业务类型是指区分记账数据源各种业务的标签，该功能可提供客户按照记账与否的要求进行个性化配置
+
+<img src="/assets/BE5gbzttIouTv4xZGjFcUHExnKd.png" src-width="3772" src-height="1622" align="center"/>
+
+<b>操作按钮说明</b>
+
+- 新建：可根据券商公司需求配置业务类型。
+- 编辑：对已经添加的业务类型可以进行人工编辑。
+
+<b>专有名词解释</b>
+
+- 业务类型：是指区分记账数据源各种业务的标签
+
+### 操作步骤
+
+1. 步骤一：如需要新增业务类型，可以根据需求在后台添加。
+
+<img src="/assets/Nrq7bpVlNoB5pvxi9sNc6IKVnMv.png" src-width="3298" src-height="1410" align="center"/>
+
+1. 步骤二：对于已配置的业务类型可以后台进行修改
+    <img src="/assets/JF7BbXQ1roq1CExXWOUcshVOn8a.png" src-width="3266" src-height="1360" align="center"/>
+    - 📢：对于编辑后的业务类型，会应用于后续的分录，对于历史已经生成的分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
 
 # 会计分录
 
 ## 2.1 适用场景
 
-使用者在初始化使用会计中台功能时，需要维护的基础数据
+在证券系统发生出、入金或者交易之后，系统就可以自动获取支付流水、客户收费账单或者其他分录数据源并根据客户初始配置的记账参数自动形成明细和合并的会计分录
 
 ## 2.2 前置条件 
 
-拥有会计中台的菜单权限，并且已经设定了会计工作中涉及的会计科目
+拥有会计中台的菜单权限，并且已经设定了会计工作中涉及的参数设置
 
 ### 2.2.1 会计分录列表
 
 执行菜单：证券后台&gt;会计中台&gt;会计分录
 
-此功能可以维护会计分录，其中会计分录是外部财务系统最重要的会计凭证转入的依据
+此功能可以查询或者维护会计分录，其中明细的会计分录是形成合并的依据，合并的会计分录是导出外部财务系统对应财务报表的依据
 
-<img src="/assets/QjGrbtZmzo1gxqxPjNTc3Hugn4b.png" src-width="1280" src-height="634" align="center"/>
+<img src="/assets/Jbvab1mBhoiRPHxF0qWc3Zu1n17.png" src-width="3794" src-height="922" align="center"/>
+
+<img src="/assets/BhoFbmjwCoUW6nxB3VOcvACzndg.png" src-width="3282" src-height="1646" align="center"/>
 
 首先，系统是支持根据不同数据源配置分录规则，可以自动地对数据源产生会计分录，若某些数据源无法自动配置，此功能提供批次导入与手工录入方式：
 
 如果自动产生分录后，作业提供新增【编辑】功能，可以修改产生分录纪录，同时纪录新增支付流水新增支票号栏位展示
 
-<img src="/assets/CqZlbS8mxo2o2exeVgzc3x28nDb.png" src-width="2658" src-height="1412" align="center"/>
+<img src="/assets/CqZlbS8mxo2o2exeVgzc3x28nDb.png" src-width="2658" src-height="1412"/>
 
 <img src="/assets/PFtjbvAAko74FpxyhiHc0oxonPc.png" src-width="3270" src-height="2754" align="center"/>
 
 如果需要手工录入的分录很少，可以选择【手动录入】
 
-<img src="/assets/RsZPb9Fn4ofvgfxunhCccLw7nqb.png" src-width="2502" src-height="1330" align="center"/>
+<img src="/assets/RsZPb9Fn4ofvgfxunhCccLw7nqb.png" src-width="2502" src-height="1330"/>
 
 <img src="/assets/OAmyb0IQpopXP6xg5U0cMSZcnGb.png" src-width="3290" src-height="2782" align="center"/>
 
@@ -214,6 +303,10 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 提供合并会计分录查询功能，合并会计分录时，系统会按账帐日期获取汇率
 
 <img src="/assets/XYBsbXDA3oylpaxKqLDcrqFknkh.png" src-width="3348" src-height="1418" align="center"/>
+
+如果对应的合并规则有更新，可以选择对应日期的合并分录进行重跑
+
+<img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
 
 # 3.科目余额
 

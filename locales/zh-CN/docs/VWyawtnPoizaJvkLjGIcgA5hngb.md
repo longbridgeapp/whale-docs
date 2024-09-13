@@ -151,8 +151,6 @@ sidebar_position: 2
 
 <img src="/assets/ACswbkSOMoX581xYo3CcJz8jnNc.png" src-width="3286" src-height="1628" align="center"/>
 
-额度审批核对页面
-
 - 页面字段说明
 
 <table header_row="1">
@@ -167,7 +165,7 @@ sidebar_position: 2
 <tr><td><p>公司总额度</p></td><td><p>对应「公司额度设置页面」的总融资额度</p></td></tr>
 <tr><td><p>公司剩余额度</p></td><td><p>剩余可以授信的额度，对应「公司额度设置页面」的总融资额度减去已批融资额度的差值</p></td></tr>
 <tr><td><p>调整前额度</p></td><td><p>客户当前的融资额度</p></td></tr>
-<tr><td><p>调整前关联账户总额度</p></td><td><p>=if(授信组总融资额度&lt;&gt;&#39;&#39;,  授信组总融资额度，member 总融资额度）</p></td></tr>
+<tr><td><p>调整前关联账户总额度</p></td><td><p>=if[授信组总融资额度&lt;&gt;&#39;&#39;,  min(授信组总融资额度，member 总融资额度), member 总融资额度]</p></td></tr>
 <tr><td><p>调整后额度</p></td><td><p>本次调整后的额度</p></td></tr>
 <tr><td><p>系统计算授信额度</p></td><td><p>系统根据当前客户资产根据自动授信计算逻辑计算的额度</p></td></tr>
 </tbody>
@@ -433,7 +431,7 @@ sidebar_position: 2
 
 <img src="/assets/Eb9zbk0ugo94NAxSElBcJSZjnyd.png" src-width="3262" src-height="796" align="center"/>
 
-<b>页面基础字段说明</b>
+<b>页面基础字段说明</b>：
 
 <table>
 <colgroup>
@@ -592,7 +590,7 @@ sidebar_position: 2
 
 <b>菜单功能介绍</b>：该菜单用于查看所有平仓记录，以及若出现平仓操作错误，可以进行撤单。
 
-<img src="/assets/Acc5blIXIo6IuwxnsrTcy11Nnwe.png" src-width="3242" src-height="1096" align="center"/>
+<img src="/assets/ZkxhbCFDAoJXvtx8frgcXLsFnyg.png" src-width="3312" src-height="856" align="center"/>
 
 ## 保证金
 
@@ -611,11 +609,11 @@ sidebar_position: 2
 
 1. 列表展示所有股票保证金设置现状
 
-<img src="/assets/UEzUb5TGNowNgBxfNUecJIg3ncd.png" src-width="3262" src-height="836" align="center"/>
+<img src="/assets/EsfabTBLBoexlTx91xbcOK9EnQf.png" src-width="2636" src-height="1020" align="center"/>
 
 1. 可以在【新建】按钮，新增单个股票保证金比例（注：若该股票已存在，数据会覆盖，以本次设置为准）
 
-<img src="/assets/ThhabRRdBoGlvBx2siFc2O5vnQ2.png" src-width="3252" src-height="560" align="center"/>
+<img src="/assets/SUg1bmHshowLV2xArcic3s9knKh.png" src-width="2294" src-height="636" align="center"/>
 
 <img src="/assets/N6nJb2KWhoys7ix5cRXcAIGEnkb.png" src-width="2238" src-height="1014" align="center"/>
 
@@ -630,7 +628,7 @@ sidebar_position: 2
 
 1. 股票状态可能变更，可以通过列表右上角的【拉取个股状态】刷新最新状态
 
-<img src="/assets/FySubnmqpomqjTxgu8DcpjslnXg.png" src-width="3246" src-height="640" align="center"/>
+<img src="/assets/IbdbbjwSBomBAYxx2qYc1RnJnoe.png" src-width="2278" src-height="534" align="center"/>
 
 #### 日内交易实时保证金
 
@@ -641,19 +639,19 @@ sidebar_position: 2
 
 <b>菜单功能介绍</b>：针对日内融业务，可以单独设置支持日内交易的股票保证金比例。
 
-1. 列表展示所有支持日内交易的股票保证金比例记录；系统会自动根据交易时段变更保证金状态，相关规则可参看列表保证金状态字段的帮助提示
+1. 列表展示所有支持日内交易的股票保证金比例记录；系统会自动根据交易时段变更保证金状态，相关规则可在页面的【规则设置】进行设置
 
-<img src="/assets/NLwjb7uqXovzvfxrUGlc7Hk1n3c.png" src-width="3296" src-height="1084" align="center"/>
+<img src="/assets/E0A0bn3rroUiCrxOy3Kc2QcOn3c.png" src-width="2352" src-height="978" align="center"/>
 
 1. 页面的【新增】和【批量上传】可以单个新增或批量新增日内交易股票的保证金比例设置；操作流程同「股票保证金」
 
-<img src="/assets/Qsx5bEMDSoeyBSx3tp1cFnUpnbc.png" src-width="3298" src-height="954" align="center"/>
+<img src="/assets/E0HgbXEd6ogYFJxhMPvcEATfnIb.png" src-width="2320" src-height="782" align="center"/>
 
 1. 在纪录右侧操作区，进行【编辑】或【删除】
 
-<img src="/assets/KeSxb0C88oOj0zxhLnjcPstYnYc.png" src-width="3288" src-height="550" align="center"/>
+<img src="/assets/CRwvbMYsjovCGwxQmgScSEvznEh.png" src-width="2294" src-height="784" align="center"/>
 
-<img src="/assets/OyK3bJRLoom6dfx7yAccvvzxnLe.png" src-width="3338" src-height="1598" align="center"/>
+<img src="/assets/PDX3bM4rAojeyAxpwkNcQY2unUQ.png" src-width="2380" src-height="1282" align="center"/>
 
 注意：若其中若状态为失效，则说明保证金比例默认为 100%
 
@@ -668,7 +666,7 @@ sidebar_position: 2
 
 1. 「股票保证金」「日内交易实时保证金」新增或编辑提交后会在比率设置记录中会生成未触发的该保证金设置记录，也可以点击【取消同步】则取消设置，不作记录，此时点击【同步】，该记录状态变更为已触发，同时在主页生成一条股票保证金记录（若新增的为已存在的股票则更新原记录）；点击【取消同步】，则记录状态变更为已撤销，该设置不生效；若不操作人工同步，系统将在设定的有效期生效对应设置
 
-<img src="/assets/JdukbF4g7oL8ebxvK3BcdmWjnFd.png" src-width="3246" src-height="576" align="center"/>
+<img src="/assets/DjBxblhOto5cixxTAGmcaI82n4d.png" src-width="2316" src-height="862" align="center"/>
 
 #### 空头保证金
 
@@ -681,26 +679,27 @@ sidebar_position: 2
 
 1. 列表展示所有支持空头股票保证金比例记录
 
-<img src="/assets/WAaqbZamDoXHNxxtMrfcKmv9nCd.png" src-width="3282" src-height="986" align="center"/>
+<img src="/assets/DCUrb1zYuoGfsRxQpavcjR9ynge.png" src-width="2352" src-height="860" align="center"/>
 
 1. 支持批量上传：下载模板文件根据文件要求填写后上传
 
-<img src="/assets/RVOWbBklxohO32xfme9cEGpWnBd.png" src-width="3268" src-height="1122" align="center"/>
+<img src="/assets/XKC7b20AsoLMIMxF62qcu55znmh.png" src-width="2298" src-height="816" align="center"/>
 
 1. 也可点击纪录区【编辑】修改纪录
+    <b>可卖空状态说明</b>：总共有三种状态
+    - 允许卖空：融券池充足，当前股票支持卖空
+    - 禁止卖空：人工设置不可卖空，代表股票不支持融券
+    - 系统自动禁止：若人工设置融券池数量规则，当融券池数量达到自动关闭规则时，则系统会自动禁止卖空，对客户感知为该股票支持融券，但融券池数量不足导致无法卖空；同时若满足自动恢复卖空规则，则系统会恢复“允许卖空”
 
-<img src="/assets/MFLZbjGkEo1InSxnzBccbyiMn4v.png" src-width="3302" src-height="1428" align="center"/>
+<img src="/assets/DwuobJpBtoRLAPxiWvFczClenwh.png" src-width="2298" src-height="1280" align="center"/>
 
-#### 空头保证金记录
+❤️Tips：
 
-<div class="callout callout-bg-6 callout-border-6">
-<div class='callout-emoji'>⚓</div>
-<p>风控管理 &gt; 保证金  &gt; 股票保证金 &gt; 空头保证金记录</p>
-</div>
+融券池数量规则设置：自动恢复卖空数量需大于等于自动关闭卖空数量。
 
-<b>菜单功能介绍</b>：该菜单展示空头股票保证金比例的变更记录。
+1. 点击页面的【变更记录】可以查看历史所有空头保证金的变更记录
 
-<img src="/assets/AsWxbKzDMoM1MjxmD1IcSGwAndd.png" src-width="3280" src-height="810" align="center"/>
+<img src="/assets/BWZWbDdkVo6BKqxCbDSc35HqnTc.png" src-width="2334" src-height="582" align="center"/>
 
 ### 客户保证金
 
@@ -725,11 +724,11 @@ sidebar_position: 2
 
 1. 同时，也可以通过【导入保证金数据】来新增客户保证金；进入弹窗下载模版根据模版填写后上传
 
-<img src="/assets/TjQYbH0kboEjx9xrmu5c16uBnne.png" src-width="3168" src-height="1116" align="center"/>
+<img src="/assets/EjxobkrYvo2HtYxvNk8ckl3lnXc.png" src-width="2292" src-height="800" align="center"/>
 
 1. 文件上传【确认】后，在客户保证金列表中生成状态为生效中的记录；如需修改保证金比例，可以通过操作的【编辑】修改；也可以通过【置为失效】来失效客户保证金比例设置
 
-<img src="/assets/FIEbbOOvmop6Nixv7kKcGuEvnpc.png" src-width="3244" src-height="1424" align="center"/>
+<img src="/assets/EobibaNTeoVjlyxSTYycqQgxngJ.png" src-width="2288" src-height="672" align="center"/>
 
 #### 空头股票
 
@@ -738,9 +737,9 @@ sidebar_position: 2
 <p>风控管理 &gt; 保证金  &gt; 客户保证金 &gt; 空头股票</p>
 </div>
 
-客户空头股票保证金比例设置逻辑同「[多头股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的信息为“股票卖空状态”，该状态与对应空头股票的可卖空状态（查看页面：「风控管理」-「保证金」-「股票保证金」-「空头股票保证金」）保持同步。
+客户空头股票保证金比例设置逻辑同「[多头股票](./VWyawtnPoizaJvkLjGIcgA5hngb)」，唯一不同的是空头股票多了“可卖空状态”和融券池规则设置，其卖空状态及融券池规则设置逻辑同「空头保证金」页面。
 
-<img src="/assets/EOwcbvEDSoT3Wxxg6QWcFRVYncd.png" src-width="3230" src-height="1078" align="center"/>
+<img src="/assets/J53NbXrv5oMANqxN6DYcbRz4nBd.png" src-width="2342" src-height="852" align="center"/>
 
 ## 期权
 

@@ -74,8 +74,6 @@ Whale 風控系統全面支持券商處理風控業務相關流程，包括額�
 
 <img src="/assets/PD9wbjwSUo7dUOxxfsVc2qyWnAj.png" src-width="3826" src-height="1724" align="center"/>
 
-追保金額配置頁面
-
 ### 平倉處理
 
 1. Margin Call 列表頁會展示觸發 margin call 客戶紀錄，點擊【詳情】可以查看具體資產數據信息
