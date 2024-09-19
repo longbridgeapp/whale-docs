@@ -33,7 +33,7 @@ sidebar_position: 2
 
 <b>答：</b>请参考以下步骤
 
-(i). 于「报表管理＞批量列印」页面点击「新建」
+(i). 于「报表管理＞批量打印」页面点击「新建」
 
 <img src="/assets/GQ8MbYdohoGashx1ZnicEcOunib.png" src-width="2640" src-height="990" align="center"/>
 
