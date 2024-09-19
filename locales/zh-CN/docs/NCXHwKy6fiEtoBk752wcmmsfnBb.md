@@ -316,3 +316,25 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 # 6.记帐数据源
 
+# 7.入金在途
+
+## 7.1 适用场景 
+
+作为追踪客户在入金未完成状态时的记录参考
+
+## 7.2 前置条件 
+
+入金流程未完成
+
+执行菜单：会计中台&gt;入金在途&gt;明细
+
+- 提供在途资金的汇总记录查询
+
+<img src="/assets/If7mbcaCooFQM2xx692cVK2tnGg.png" src-width="3282" src-height="1690" align="center"/>
+
+执行菜单：会计中台 &gt; 入金在途&gt;汇总核对
+
+- 提供在途资金与银行账单汇总核对结果查询
+
+<img src="/assets/FdlYbk2nMoyaimx2M9wcp1Kynnf.png" src-width="3242" src-height="540" align="center"/>
+
