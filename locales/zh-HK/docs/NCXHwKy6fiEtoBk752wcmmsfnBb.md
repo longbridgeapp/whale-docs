@@ -316,3 +316,25 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 # 6.記帳數據源
 
+# 7.入金在途
+
+## 7.1 適用場景 
+
+作為追蹤客戶在入金未完成狀態時的記錄參考
+
+## 7.2 前置條件 
+
+入金流程未完成
+
+執行菜單：會計中台&gt;入金在途&gt;明細
+
+- 提供在途資金的匯總記錄查詢
+
+<img src="/assets/If7mbcaCooFQM2xx692cVK2tnGg.png" src-width="3282" src-height="1690" align="center"/>
+
+執行菜單：會計中台 &gt; 入金在途&gt;彙總覈對
+
+- 提供在途資金與銀行賬單彙總覈對結果查詢
+
+<img src="/assets/FdlYbk2nMoyaimx2M9wcp1Kynnf.png" src-width="3242" src-height="540" align="center"/>
+
