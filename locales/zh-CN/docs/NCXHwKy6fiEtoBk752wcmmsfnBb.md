@@ -11,13 +11,13 @@ sidebar_position: 2
 
 Whale 会计系统提供了一套可以自动获取数据源，按照预设的科目及分录规则进行自动记帐，进而完成帐实核对，主要包含了科目设置、分录规则设置、合并规则设置、会计分录、科目余额、科目明细帐、记帐数据源等功能
 
-# 会计中台流程说明
+## 会计中台流程说明
 
 <img src="/assets/SpYFbz4lQozQRyxm2xFcvmWtnsb.png" src-width="874" src-height="553" align="center"/>
 
 # 务操作管理
 
-# 参数设置
+## 参数设置
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -61,7 +61,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
     - 📢：如果当前的科目属性已经绑定了会计科目，则无法进行删除
     <img src="/assets/FqO3bSMIDoFJbxxBdbfcDN5Wn1f.png" src-width="368" src-height="104"/>
 
-## 1.2 会计科目
+## 会计科目
 
 ### <b>概要</b>
 
@@ -106,7 +106,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
     <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
     - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
-## 1.3 分录规则
+## 分录规则
 
 ### 概要
 
@@ -155,7 +155,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/KrkobuGWXoVXtdxysULcXBlan8c.png" src-width="3252" src-height="1246" align="center"/>
 
-## 1.4 资金类型
+## 资金类型
 
 ### 概要
 
@@ -186,7 +186,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/Sfxdb39zYofX35xaLwtcSKonnnf.png" src-width="362" src-height="114"/>
 
-## 1.5 合并规则
+## 合并规则
 
 ### 概要
 
@@ -221,7 +221,7 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
     <img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
     - 📢：当前合并规则删除后，只会对后续新的分录有影响，历史已生成的合并分录只有重跑之后才会同步更新。
 
-## 1.6 业务类型
+## 业务类型
 
 ### 概要
 
@@ -250,90 +250,32 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 # 会计分录
 
-## 2.1 适用场景
-
-在证券系统发生出、入金或者交易之后，系统就可以自动获取支付流水、客户收费账单或者其他分录数据源并根据客户初始配置的记账参数自动形成明细和合并的会计分录
-
-## 2.2 前置条件 
-
-拥有会计中台的菜单权限，并且已经设定了会计工作中涉及的参数设置
-
-### 2.2.1 会计分录列表
-
-执行菜单：证券后台&gt;会计中台&gt;会计分录
-
-此功能可以查询或者维护会计分录，其中明细的会计分录是形成合并的依据，合并的会计分录是导出外部财务系统对应财务报表的依据
-
-<img src="/assets/Jbvab1mBhoiRPHxF0qWc3Zu1n17.png" src-width="3794" src-height="922" align="center"/>
-
-<img src="/assets/BhoFbmjwCoUW6nxB3VOcvACzndg.png" src-width="3282" src-height="1646" align="center"/>
-
-首先，系统是支持根据不同数据源配置分录规则，可以自动地对数据源产生会计分录，若某些数据源无法自动配置，此功能提供批次导入与手工录入方式：
-
-如果自动产生分录后，作业提供新增【编辑】功能，可以修改产生分录纪录，同时纪录新增支付流水新增支票号栏位展示
-
-<img src="/assets/CqZlbS8mxo2o2exeVgzc3x28nDb.png" src-width="2658" src-height="1412"/>
-
-<img src="/assets/PFtjbvAAko74FpxyhiHc0oxonPc.png" src-width="3270" src-height="2754" align="center"/>
-
-如果需要手工录入的分录很少，可以选择【手动录入】
-
-<img src="/assets/RsZPb9Fn4ofvgfxunhCccLw7nqb.png" src-width="2502" src-height="1330"/>
-
-<img src="/assets/OAmyb0IQpopXP6xg5U0cMSZcnGb.png" src-width="3290" src-height="2782" align="center"/>
-
-也可以选择【批量导入】，先行下载范本之后，根据批量范本进行编制分录并导入到系统中
-
-<img src="/assets/LFG3bgtVSokpSVx9DNwcWTXfnRb.png" src-width="3246" src-height="1534" align="center"/>
-
-在记录右侧操作区的【删除】键，也可进行删除此会计分录
-
-<img src="/assets/LDqxbQHPRo1exKx86CEcZZKunnb.png" src-width="3364" src-height="1474" align="center"/>
-
-如果某个帐务日期对应的数据源获取不完整，可以选择对应日期的数据源进行【重跑】，系统会更新数据源产生最新会计分录资料
-
-<img src="/assets/Nv9ibNwYYoHhlNxJlbmc79LZnEd.png" src-width="3362" src-height="1396" align="center"/>
-
-如果系统生成的会计分录已经核对无误，手工可以点选【汇总】生成科目余额汇总表
-
-<img src="/assets/RtrJbDpIHo7aA3xk99OcvUplnwb.png" src-width="3370" src-height="1452" align="center"/>
-
-会计分录中新增【报表导出】按钮，方便按照财务软件格式要求进行报表导出
-
-<img src="/assets/FpfgbBv56ouzM3xraQTcXk5unWb.png" src-width="3248" src-height="1606" align="center"/>
-
-提供合并会计分录查询功能，合并会计分录时，系统会按账帐日期获取汇率
-
-<img src="/assets/XYBsbXDA3oylpaxKqLDcrqFknkh.png" src-width="3348" src-height="1418" align="center"/>
-
-如果对应的合并规则有更新，可以选择对应日期的合并分录进行重跑
-
 <img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
 
-# 3.科目余额
+# 科目余额
 
-# 5.银行余额
+# 科目明细帐
 
-# 6.记帐数据源
+# 银行余额
 
-# 7.入金在途
+# 记帐数据源
 
-## 7.1 适用场景 
+# 入金在途
+
+## 适用场景 
 
 作为追踪客户在入金未完成状态时的记录参考
 
-## 7.2 前置条件 
+## 前置条件 
 
 入金流程未完成
 
-执行菜单：会计中台&gt;入金在途&gt;明细
-
+- 执行菜单：会计中台&gt;入金在途&gt;明细
 - 提供在途资金的汇总记录查询
 
 <img src="/assets/If7mbcaCooFQM2xx692cVK2tnGg.png" src-width="3282" src-height="1690" align="center"/>
 
-执行菜单：会计中台 &gt; 入金在途&gt;汇总核对
-
+- 执行菜单：会计中台 &gt; 入金在途&gt;汇总核对
 - 提供在途资金与银行账单汇总核对结果查询
 
 <img src="/assets/FdlYbk2nMoyaimx2M9wcp1Kynnf.png" src-width="3242" src-height="540" align="center"/>
