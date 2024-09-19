@@ -11,13 +11,13 @@ sidebar_position: 2
 
 Whale 會計系統提供了一套可以自動獲取數據源，按照預設的科目及分錄規則進行自動記帳，進而完成帳實核對，主要包含了科目設置、分錄規則設置、合併規則設置、會計分錄、科目餘額、科目明細帳、記帳數據源等功能
 
-# 会计中台流程说明
+## 会计中台流程说明
 
 <img src="/assets/SpYFbz4lQozQRyxm2xFcvmWtnsb.png" src-width="874" src-height="553" align="center"/>
 
 # 務操作管理
 
-# 參數設置
+## 參數設置
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -61,7 +61,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
     - 📢：如果當前的科目屬性已經綁定了會計科目，則無法進行刪除
     <img src="/assets/FqO3bSMIDoFJbxxBdbfcDN5Wn1f.png" src-width="368" src-height="104"/>
 
-## 1.2 會計科目
+## 會計科目
 
 ### <b>概要</b>
 
@@ -106,7 +106,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
     <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
     - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
-## 1.3 分錄規則
+## 分錄規則
 
 ### 概要
 
@@ -155,7 +155,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/KrkobuGWXoVXtdxysULcXBlan8c.png" src-width="3252" src-height="1246" align="center"/>
 
-## 1.4 資金類型
+## 資金類型
 
 ### 概要
 
@@ -186,7 +186,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/Sfxdb39zYofX35xaLwtcSKonnnf.png" src-width="362" src-height="114"/>
 
-## 1.5 合併規則
+## 合併規則
 
 ### 概要
 
@@ -221,7 +221,7 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
     <img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
     - 📢：當前合併規則刪除後，只會對後續新的分錄有影響，歷史已生成的合併分錄只有重跑之後纔會同步更新。
 
-## 1.6 業務類型
+## 業務類型
 
 ### 概要
 
@@ -250,90 +250,32 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 # 會計分錄
 
-## 2.1 適用場景
-
-在證券系統發生出、入金或者交易之後，系統就可以自動獲取支付流水、客戶收費賬單或者其他分錄數據源並根據客戶初始配置的記賬參數自動形成明細和合並的會計分錄
-
-## 2.2 前置條件 
-
-擁有會計中台的菜單權限，並且已經設定了會計工作中涉及的參數設置
-
-### 2.2.1 會計分錄列表
-
-執行菜單：证券后台&gt;會計中台&gt;會計分錄
-
-此功能可以查詢或者維護會計分錄，其中明細的會計分錄是形成合並的依據，合併的會計分錄是導出外部財務系統對應財務報表的依據
-
-<img src="/assets/Jbvab1mBhoiRPHxF0qWc3Zu1n17.png" src-width="3794" src-height="922" align="center"/>
-
-<img src="/assets/BhoFbmjwCoUW6nxB3VOcvACzndg.png" src-width="3282" src-height="1646" align="center"/>
-
-首先，系統是支持根據不同數據源配置分錄規則，可以自動地對數據源產生會計分錄，若某些數據源無法自動配置，此功能提供批次導入與手工錄入方式：
-
-如果自動產生分錄後，作業提供新增【編輯】功能，可以修改產生分錄紀錄，同時紀錄新增支付流水新增支票號欄位展示
-
-<img src="/assets/CqZlbS8mxo2o2exeVgzc3x28nDb.png" src-width="2658" src-height="1412"/>
-
-<img src="/assets/PFtjbvAAko74FpxyhiHc0oxonPc.png" src-width="3270" src-height="2754" align="center"/>
-
-如果需要手工錄入的分錄很少，可以選擇【手動錄入】
-
-<img src="/assets/RsZPb9Fn4ofvgfxunhCccLw7nqb.png" src-width="2502" src-height="1330"/>
-
-<img src="/assets/OAmyb0IQpopXP6xg5U0cMSZcnGb.png" src-width="3290" src-height="2782" align="center"/>
-
-也可以選擇【批量導入】，先行下載範本之後，根據批量範本進行編制分錄並導入到系統中
-
-<img src="/assets/LFG3bgtVSokpSVx9DNwcWTXfnRb.png" src-width="3246" src-height="1534" align="center"/>
-
-在記錄右側操作區的【刪除】鍵，也可進行刪除此會計分錄
-
-<img src="/assets/LDqxbQHPRo1exKx86CEcZZKunnb.png" src-width="3364" src-height="1474" align="center"/>
-
-如果某個帳務日期對應的數據源獲取不完整，可以選擇對應日期的數據源進行【重跑】，系統會更新數據源產生最新會計分錄資料
-
-<img src="/assets/Nv9ibNwYYoHhlNxJlbmc79LZnEd.png" src-width="3362" src-height="1396" align="center"/>
-
-如果系統生成的會計分錄已經核對無誤，手工可以點選【匯總】生成科目餘額匯總表
-
-<img src="/assets/RtrJbDpIHo7aA3xk99OcvUplnwb.png" src-width="3370" src-height="1452" align="center"/>
-
-會計分錄中新增【報表導出】按鈕，方便按照財務軟件格式要求進行報表導出
-
-<img src="/assets/FpfgbBv56ouzM3xraQTcXk5unWb.png" src-width="3248" src-height="1606" align="center"/>
-
-提供合併會計分錄查詢功能，合併會計分錄時，系統會按賬帳日期獲取匯率
-
-<img src="/assets/XYBsbXDA3oylpaxKqLDcrqFknkh.png" src-width="3348" src-height="1418" align="center"/>
-
-如果对应的合并规则有更新，可以选择对应日期的合并分录进行重跑
-
 <img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
 
-# 3.科目餘額
+# 科目餘額
 
-# 5.銀行餘額
+# 科目明細帳
 
-# 6.記帳數據源
+# 銀行餘額
 
-# 7.入金在途
+# 記帳數據源
 
-## 7.1 適用場景 
+# 入金在途
+
+## 適用場景 
 
 作為追蹤客戶在入金未完成狀態時的記錄參考
 
-## 7.2 前置條件 
+## 前置條件 
 
 入金流程未完成
 
-執行菜單：會計中台&gt;入金在途&gt;明細
-
+- 執行菜單：會計中台&gt;入金在途&gt;明細
 - 提供在途資金的匯總記錄查詢
 
 <img src="/assets/If7mbcaCooFQM2xx692cVK2tnGg.png" src-width="3282" src-height="1690" align="center"/>
 
-執行菜單：會計中台 &gt; 入金在途&gt;彙總覈對
-
+- 執行菜單：會計中台 &gt; 入金在途&gt;彙總覈對
 - 提供在途資金與銀行賬單彙總覈對結果查詢
 
 <img src="/assets/FdlYbk2nMoyaimx2M9wcp1Kynnf.png" src-width="3242" src-height="540" align="center"/>
