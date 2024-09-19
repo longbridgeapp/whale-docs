@@ -177,12 +177,9 @@ sidebar_position: 6
 
 此外，可以在「瞭解示例」中為客戶提供更多「費率」資訊，而後台「幫助中心」可以修改「瞭解示例」中的內容。
 
- 
-
 <div class="flex gap-3 columns-3" column-size="3">
 <div class="w-[13%]" width-ratio="13">
 <img src="/assets/VgjRbBOHloOZIXxHcKGcFZxan7b.png" src-width="716" src-height="1606" align="center"/>
-
 </div>
 <div class="w-[14%]" width-ratio="14">
 <img src="/assets/QH0sb0IXIoBXODxs4DucuPBinbh.png" src-width="740" src-height="1588" align="center"/>
