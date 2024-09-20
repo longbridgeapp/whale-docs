@@ -250,13 +250,131 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 ## 會計分錄
 
+### 適用場景
+
+在證券系統發生出、入金或者交易之後，系統就可以自動獲取支付流水、客戶收費賬單或者其他分錄數據源並根據客戶初始配置的記賬參數自動形成明細和合並的會計分錄
+
+### 前置條件 
+
+擁有會計中台的菜單權限，並且已經設定了會計工作中涉及的參數設置
+
+### 會計分錄列表
+
+執行菜單：证券后台&gt;會計中台&gt;會計分錄
+
+此功能可以查詢或者維護會計分錄，其中明細的會計分錄是形成合並的依據，合併的會計分錄是導出外部財務系統對應財務報表的依據
+
+<img src="/assets/Jbvab1mBhoiRPHxF0qWc3Zu1n17.png" src-width="3794" src-height="922" align="center"/>
+
+<img src="/assets/BhoFbmjwCoUW6nxB3VOcvACzndg.png" src-width="3282" src-height="1646" align="center"/>
+
+首先，系統是支持根據不同數據源配置分錄規則，可以自動地對數據源產生會計分錄，若某些數據源無法自動配置，此功能提供批次導入與手工錄入方式：
+
+如果自動產生分錄後，作業提供新增【編輯】功能，可以修改產生分錄紀錄，同時紀錄新增支付流水新增支票號欄位展示
+
+<img src="/assets/CqZlbS8mxo2o2exeVgzc3x28nDb.png" src-width="2658" src-height="1412"/>
+
+<img src="/assets/PFtjbvAAko74FpxyhiHc0oxonPc.png" src-width="3270" src-height="2754" align="center"/>
+
+如果需要手工錄入的分錄很少，可以選擇【手動錄入】
+
+<img src="/assets/RsZPb9Fn4ofvgfxunhCccLw7nqb.png" src-width="2502" src-height="1330"/>
+
+<img src="/assets/OAmyb0IQpopXP6xg5U0cMSZcnGb.png" src-width="3290" src-height="2782" align="center"/>
+
+也可以選擇【批量導入】，先行下載範本之後，根據批量範本進行編制分錄並導入到系統中
+
+<img src="/assets/LFG3bgtVSokpSVx9DNwcWTXfnRb.png" src-width="3246" src-height="1534" align="center"/>
+
+在記錄右側操作區的【刪除】鍵，也可進行刪除此會計分錄
+
+<img src="/assets/LDqxbQHPRo1exKx86CEcZZKunnb.png" src-width="3364" src-height="1474" align="center"/>
+
+如果某個帳務日期對應的數據源獲取不完整，可以選擇對應日期的數據源進行【重跑】，系統會更新數據源產生最新會計分錄資料
+
+<img src="/assets/Nv9ibNwYYoHhlNxJlbmc79LZnEd.png" src-width="3362" src-height="1396" align="center"/>
+
+如果系統生成的會計分錄已經核對無誤，手工可以點選【匯總】生成科目餘額匯總表
+
+<img src="/assets/RtrJbDpIHo7aA3xk99OcvUplnwb.png" src-width="3370" src-height="1452" align="center"/>
+
+會計分錄中新增【報表導出】按鈕，方便按照財務軟件格式要求進行報表導出
+
+<img src="/assets/FpfgbBv56ouzM3xraQTcXk5unWb.png" src-width="3248" src-height="1606" align="center"/>
+
+提供合併會計分錄查詢功能，合併會計分錄時，系統會按賬帳日期獲取匯率
+
+<img src="/assets/XYBsbXDA3oylpaxKqLDcrqFknkh.png" src-width="3348" src-height="1418" align="center"/>
+
+如果对应的合并规则有更新，可以选择对应日期的合并分录进行重跑
+
 <img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
 
 ## 科目餘額
 
+### 適用場景
+
+根據會計分錄記錄的數據，以科目的形式查看餘額
+
+### 前置條件 
+
+擁有會計中台的菜單權限，並且會計分錄模組已經存在數據
+
+### 科目餘額列表
+
+執行菜單：會計中台&gt;科目餘額
+
+系統每日會根據科目明細帳按照帳務日期進行匯總，匯總形成科目餘額匯總表
+
+<img src="/assets/V97rbtw7UoDrejxfD3KcDNXan3e.png" src-width="3188" src-height="1460" align="center"/>
+
 ## 科目明細帳
 
+### 適用場景
+
+根據會計分錄記錄的數據，以科目的形式查看明細帳
+
+### 前置條件 
+
+擁有會計中台的菜單權限，並且會計分錄模組已經存在數據
+
+### 科目明細帳列表
+
+菜單：會計中台&gt;會計科目明細帳
+
+對於系統按照科目展示的明細帳，可以在此功能進行查詢
+
+<img src="/assets/T6MDbuLDPo7SJPx8JcVcNWg0nVf.png" src-width="3218" src-height="1506" align="center"/>
+
+也可以根據系統生成的科目明細，在此功能可以點選【報表導出】選擇使用對應財務軟體格式導出 
+
+目前系統支持以下 GL 軟體匯入格式：
+FlexSystemVerNV5W
+GeneralLedgerSystemV3
+SunSystemsFinancialsRelease
+Yonyou U8 V.13
+FlexAccount V11
+Sage300 AOM (GL)
+
 ## 銀行餘額
+
+### 適用場景 
+
+使用者需要根據銀行提供的流水與系統存在的自己資料進行多維度比對
+
+### 前置條件 
+
+銀行流水與後台資料均已生成
+
+### 维度展示
+
+帳單核對
+
+執行菜單：會計中台&gt;銀行餘額&gt;帳單核對 Tab 頁籤
+
+根據銀行賬單歷史發生額計算的結果與銀行歷史餘額進行核對，進而保證銀行賬單明細的準確性和完整性。
+
+<img src="/assets/WmODbMWcFoS3u7xTevjcGD15n0g.png" src-width="3234" src-height="1542" align="center"/>
 
 ## 歷史餘額
 
