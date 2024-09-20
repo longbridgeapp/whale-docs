@@ -250,13 +250,131 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 ## 会计分录
 
+### 适用场景
+
+在证券系统发生出、入金或者交易之后，系统就可以自动获取支付流水、客户收费账单或者其他分录数据源并根据客户初始配置的记账参数自动形成明细和合并的会计分录
+
+### 前置条件 
+
+拥有会计中台的菜单权限，并且已经设定了会计工作中涉及的参数设置
+
+### 会计分录列表
+
+执行菜单：证券后台&gt;会计中台&gt;会计分录
+
+此功能可以查询或者维护会计分录，其中明细的会计分录是形成合并的依据，合并的会计分录是导出外部财务系统对应财务报表的依据
+
+<img src="/assets/Jbvab1mBhoiRPHxF0qWc3Zu1n17.png" src-width="3794" src-height="922" align="center"/>
+
+<img src="/assets/BhoFbmjwCoUW6nxB3VOcvACzndg.png" src-width="3282" src-height="1646" align="center"/>
+
+首先，系统是支持根据不同数据源配置分录规则，可以自动地对数据源产生会计分录，若某些数据源无法自动配置，此功能提供批次导入与手工录入方式：
+
+如果自动产生分录后，作业提供新增【编辑】功能，可以修改产生分录纪录，同时纪录新增支付流水新增支票号栏位展示
+
+<img src="/assets/CqZlbS8mxo2o2exeVgzc3x28nDb.png" src-width="2658" src-height="1412"/>
+
+<img src="/assets/PFtjbvAAko74FpxyhiHc0oxonPc.png" src-width="3270" src-height="2754" align="center"/>
+
+如果需要手工录入的分录很少，可以选择【手动录入】
+
+<img src="/assets/RsZPb9Fn4ofvgfxunhCccLw7nqb.png" src-width="2502" src-height="1330"/>
+
+<img src="/assets/OAmyb0IQpopXP6xg5U0cMSZcnGb.png" src-width="3290" src-height="2782" align="center"/>
+
+也可以选择【批量导入】，先行下载范本之后，根据批量范本进行编制分录并导入到系统中
+
+<img src="/assets/LFG3bgtVSokpSVx9DNwcWTXfnRb.png" src-width="3246" src-height="1534" align="center"/>
+
+在记录右侧操作区的【删除】键，也可进行删除此会计分录
+
+<img src="/assets/LDqxbQHPRo1exKx86CEcZZKunnb.png" src-width="3364" src-height="1474" align="center"/>
+
+如果某个帐务日期对应的数据源获取不完整，可以选择对应日期的数据源进行【重跑】，系统会更新数据源产生最新会计分录资料
+
+<img src="/assets/Nv9ibNwYYoHhlNxJlbmc79LZnEd.png" src-width="3362" src-height="1396" align="center"/>
+
+如果系统生成的会计分录已经核对无误，手工可以点选【汇总】生成科目余额汇总表
+
+<img src="/assets/RtrJbDpIHo7aA3xk99OcvUplnwb.png" src-width="3370" src-height="1452" align="center"/>
+
+会计分录中新增【报表导出】按钮，方便按照财务软件格式要求进行报表导出
+
+<img src="/assets/FpfgbBv56ouzM3xraQTcXk5unWb.png" src-width="3248" src-height="1606" align="center"/>
+
+提供合并会计分录查询功能，合并会计分录时，系统会按账帐日期获取汇率
+
+<img src="/assets/XYBsbXDA3oylpaxKqLDcrqFknkh.png" src-width="3348" src-height="1418" align="center"/>
+
+如果对应的合并规则有更新，可以选择对应日期的合并分录进行重跑
+
 <img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
 
 ## 科目余额
 
+### 适用场景
+
+根据会计分录记录的数据，以科目的形式查看余额
+
+### 前置条件 
+
+拥有会计中台的菜单权限，并且会计分录模组已经存在数据
+
+### 科目余额列表
+
+执行菜单：会计中台&gt;科目余额
+
+系统每日会根据科目明细帐按照帐务日期进行汇总，汇总形成科目余额汇总表
+
+<img src="/assets/V97rbtw7UoDrejxfD3KcDNXan3e.png" src-width="3188" src-height="1460" align="center"/>
+
 ## 科目明细帐
 
+### 适用场景
+
+根据会计分录记录的数据，以科目的形式查看明细帐
+
+### 前置条件 
+
+拥有会计中台的菜单权限，并且会计分录模组已经存在数据
+
+### 科目明细帐列表
+
+菜单：会计中台&gt;会计科目明细帐
+
+对于系统按照科目展示的明细帐，可以在此功能进行查询
+
+<img src="/assets/T6MDbuLDPo7SJPx8JcVcNWg0nVf.png" src-width="3218" src-height="1506" align="center"/>
+
+也可以根据系统生成的科目明细，在此功能可以点选【报表导出】选择使用对应财务软体格式导出 
+
+目前系统支持以下 GL 软体汇入格式：
+FlexSystemVerNV5W
+GeneralLedgerSystemV3
+SunSystemsFinancialsRelease
+Yonyou U8 V.13
+FlexAccount V11
+Sage300 AOM (GL)
+
 ## 银行余额
+
+### 适用场景 
+
+使用者需要根据银行提供的流水与系统存在的自己资料进行多维度比对
+
+### 前置条件 
+
+银行流水与后台资料均已生成
+
+### 维度展示
+
+帐单核对
+
+执行菜单：会计中台&gt;银行余额&gt;帐单核对 Tab 页签
+
+根据银行账单历史发生额计算的结果与银行历史余额进行核对，进而保证银行账单明细的准确性和完整性。
+
+<img src="/assets/WmODbMWcFoS3u7xTevjcGD15n0g.png" src-width="3234" src-height="1542" align="center"/>
 
 ## 历史余额
 
