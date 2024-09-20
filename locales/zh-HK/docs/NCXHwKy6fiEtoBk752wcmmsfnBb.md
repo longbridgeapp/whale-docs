@@ -399,6 +399,112 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 ## 記帳數據源
 
+### 適用場景 
+
+用戶在記帳時需依照各類明細會計資料進行分類整理，並根據整理出的異常資料進行單獨處理
+
+### 前置條件 
+
+支付流水、客戶收費帳單、銀行流水、CCASS 資料等均已準備就緒
+
+### 異常數據源
+
+執行菜單：會計中台&gt;記帳數據源&gt;異常數據源 Tab 頁籤
+
+系統對於無法自動形成分錄的數據源會視作為異常數據，可以在此功能進行查詢
+
+<img src="/assets/FFEbbx5waoTyDXxZwVJc8bYxnCe.png" src-width="3236" src-height="1110" align="center"/>
+
+對於異常數據源，可以在記錄列表通過點擊「異常數據源單號」，可以跳轉到具體數據源
+
+<img src="/assets/N7hbbofgDorNDWxvodjcbGBmn4d.png" src-width="3414" src-height="1210" align="center"/>
+
+### 客戶收費帳單
+
+執行菜單：會計中台&gt;記帳數據源&gt;客戶收費帳單 Tab 頁籤
+
+由於支付流水中用戶發生的各種交易費用，比如股票交易是匯總數，類似於佣金、平台費和各種第三方收費合計，無法滿足財務入帳需求，需要解析用戶交易收費明細，作為會計記賬的數據源。
+
+客戶收費帳單對於股票交易類型可以更細分配置，可以支持單獨區分出暗盤，並且暗盤交易可以單獨配置分錄規則並形成會計分錄
+
+記帳數據源“客戶收費帳單”增加【帳務日期】，並用於記帳分錄帳務日期取值
+
+<img src="/assets/Km53bLm0RoJ0pcx6HM1c0BfEn1e.png" src-width="3206" src-height="1502" align="center"/>
+
+如果對應客戶收費賬單不需要記賬，可以進入後臺將記錄進行刪除
+
+<img src="/assets/OBkIbJENqo9D3pxTk3HcM8j9nSe.png" src-width="3286" src-height="712" align="center"/>
+
+如果某一個賬務日期的的客戶收費賬單不準確，可以在後臺進行重跑
+
+<img src="/assets/EUUPbpZBgochLLxX1aXcGOQ5nLd.png" src-width="3302" src-height="1110" align="center"/>
+
+### 支付流水
+
+執行菜單：會計中台&gt;記帳數據源&gt;支付流水 Tab 頁籤
+
+是指券商公司記錄用戶交易變動明細表，會計中台根據轉賬、出賬和入賬進行規範獲取，作為會計分錄中信息流記賬的數據。
+
+<img src="/assets/WcpZbfvvyoL8JwxccTicujfsnJd.png" src-width="3230" src-height="1502" align="center"/>
+
+如果對應支付流水不需要記賬，可以進入後臺將記錄進行刪除
+
+<img src="/assets/VLLpb7yumoiVfSxXhBtcFxTcnZb.png" src-width="3258" src-height="818" align="center"/>
+
+如果某一個賬務日期的的支付流水不準確，可以在後臺進行重跑
+
+<img src="/assets/R3HFbItxVoFEzCxi9ymcX683nme.png" src-width="3282" src-height="1132" align="center"/>
+
+### CCASS 賬單
+
+執行菜單：會計中台&gt;記帳數據源&gt;CCASS 賬單 Tab 頁籤
+
+增加 CCASS 文件解析，此 CCASS 數據源是相關文件導入後，系統自動根據配置完成會計分錄處理，可在此 Tab 查詢記錄或刪除已轉入的數據源分錄
+
+<img src="/assets/NAoebDTf7oGM62xJCQJcuzWEnag.png" src-width="3240" src-height="1478" align="center"/>
+
+### 新股帳單
+
+執行菜單：會計中台&gt;記帳數據源&gt;新股帳單 Tab 頁籤
+
+新增新股帳單
+
+<img src="/assets/MwFQbP7x5oN11RxzIeGcYJwCnXf.png" src-width="3262" src-height="1120" align="center"/>
+
+### 代理商收費
+
+執行菜單：會計中台&gt;記帳數據源&gt;代理商收費 Tab 頁籤
+
+爲獲取機構合約的相關費用，滿足券商公司進行上手費用記賬的訴求，新增代理商收費作爲會計記賬的數據源
+
+<img src="/assets/R1yIbUuYpog2Ipxuxtyc6Y8gndc.png" src-width="3288" src-height="912" align="center"/>
+
+### 銀行賬單
+
+執行菜單：款項管理&gt;銀行賬單&gt;銀行賬單 Tab 頁籤
+
+券商公司銀行賬戶所有實際資金變動記錄，按照各種標籤進行打標後，可以作爲資金流記賬的數據源。
+
+<img src="/assets/LTzIbRlEkojN1SxHuZ4cQmIunrc.png" src-width="3794" src-height="1002" align="center"/>
+
+如果銀行賬單資金類型未知，可以人工後臺進行操作修改
+
+<img src="/assets/RR3wbH4rAonsn5xOpDHcb80qnoe.png" src-width="3376" src-height="1822" align="center"/>
+
+<img src="/assets/LAq9bpVauoBFEfxUEWZcvUMfnfd.png" src-width="3376" src-height="1816" align="center"/>
+
+如果銀行賬單有缺失，可以後臺進行文件導入
+
+<img src="/assets/YAzkbKYafo7Lf2xI7OGc9Cbnnnd.png" src-width="3260" src-height="826" align="center"/>
+
+如果銀行賬單記錄有問題，可以後臺進行刪除
+
+<img src="/assets/OJC3bcn93ohKSgxAOFVcC5PKnkb.png" src-width="3260" src-height="826" align="center"/>
+
+如果入金賬單和出金賬單有更新，可以在後臺進行重跑
+
+<img src="/assets/HTvVbKFrioX0wIxdoJVcYwognug.png" src-width="3260" src-height="826" align="center"/>
+
 ## 入金在途
 
 ### 適用場景 

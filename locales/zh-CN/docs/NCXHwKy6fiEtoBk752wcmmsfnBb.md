@@ -399,6 +399,112 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 ## 记帐数据源
 
+### 适用场景 
+
+用户在记帐时需依照各类明细会计资料进行分类整理，并根据整理出的异常资料进行单独处理
+
+### 前置条件 
+
+支付流水、客户收费帐单、银行流水、CCASS 资料等均已准备就绪
+
+### 异常数据源
+
+执行菜单：会计中台&gt;记帐数据源&gt;异常数据源 Tab 页签
+
+系统对于无法自动形成分录的数据源会视作为异常数据，可以在此功能进行查询
+
+<img src="/assets/FFEbbx5waoTyDXxZwVJc8bYxnCe.png" src-width="3236" src-height="1110" align="center"/>
+
+对于异常数据源，可以在记录列表通过点击「异常数据源单号」，可以跳转到具体数据源
+
+<img src="/assets/N7hbbofgDorNDWxvodjcbGBmn4d.png" src-width="3414" src-height="1210" align="center"/>
+
+### 客户收费帐单
+
+执行菜单：会计中台&gt;记帐数据源&gt;客户收费帐单 Tab 页签
+
+由于支付流水中用户发生的各种交易费用，比如股票交易是汇总数，类似于佣金、平台费和各种第三方收费合计，无法满足财务入帐需求，需要解析用户交易收费明细，作为会计记账的数据源。
+
+客户收费帐单对于股票交易类型可以更细分配置，可以支持单独区分出暗盘，并且暗盘交易可以单独配置分录规则并形成会计分录
+
+记帐数据源“客户收费帐单”增加【帐务日期】，并用于记帐分录帐务日期取值
+
+<img src="/assets/Km53bLm0RoJ0pcx6HM1c0BfEn1e.png" src-width="3206" src-height="1502" align="center"/>
+
+如果对应客户收费账单不需要记账，可以进入后台将记录进行删除
+
+<img src="/assets/OBkIbJENqo9D3pxTk3HcM8j9nSe.png" src-width="3286" src-height="712" align="center"/>
+
+如果某一个账务日期的的客户收费账单不准确，可以在后台进行重跑
+
+<img src="/assets/EUUPbpZBgochLLxX1aXcGOQ5nLd.png" src-width="3302" src-height="1110" align="center"/>
+
+### 支付流水
+
+执行菜单：会计中台&gt;记帐数据源&gt;支付流水 Tab 页签
+
+是指券商公司记录用户交易变动明细表，会计中台根据转账、出账和入账进行规范获取，作为会计分录中信息流记账的数据。
+
+<img src="/assets/WcpZbfvvyoL8JwxccTicujfsnJd.png" src-width="3230" src-height="1502" align="center"/>
+
+如果对应支付流水不需要记账，可以进入后台将记录进行删除
+
+<img src="/assets/VLLpb7yumoiVfSxXhBtcFxTcnZb.png" src-width="3258" src-height="818" align="center"/>
+
+如果某一个账务日期的的支付流水不准确，可以在后台进行重跑
+
+<img src="/assets/R3HFbItxVoFEzCxi9ymcX683nme.png" src-width="3282" src-height="1132" align="center"/>
+
+### CCASS 账单
+
+执行菜单：会计中台&gt;记帐数据源&gt;CCASS 账单 Tab 页签
+
+增加 CCASS 文件解析，此 CCASS 数据源是相关文件导入后，系统自动根据配置完成会计分录处理，可在此 Tab 查询记录或删除已转入的数据源分录
+
+<img src="/assets/NAoebDTf7oGM62xJCQJcuzWEnag.png" src-width="3240" src-height="1478" align="center"/>
+
+### 新股帐单
+
+执行菜单：会计中台&gt;记帐数据源&gt;新股帐单 Tab 页签
+
+新增新股帐单
+
+<img src="/assets/MwFQbP7x5oN11RxzIeGcYJwCnXf.png" src-width="3262" src-height="1120" align="center"/>
+
+### 代理商收费
+
+执行菜单：会计中台&gt;记帐数据源&gt;代理商收费 Tab 页签
+
+为获取机构合约的相关费用，满足券商公司进行上手费用记账的诉求，新增代理商收费作为会计记账的数据源
+
+<img src="/assets/R1yIbUuYpog2Ipxuxtyc6Y8gndc.png" src-width="3288" src-height="912" align="center"/>
+
+### 银行账单
+
+执行菜单：款项管理&gt;银行账单&gt;银行账单 Tab 页签
+
+券商公司银行账户所有实际资金变动记录，按照各种标签进行打标后，可以作为资金流记账的数据源。
+
+<img src="/assets/LTzIbRlEkojN1SxHuZ4cQmIunrc.png" src-width="3794" src-height="1002" align="center"/>
+
+如果银行账单资金类型未知，可以人工后台进行操作修改
+
+<img src="/assets/RR3wbH4rAonsn5xOpDHcb80qnoe.png" src-width="3376" src-height="1822" align="center"/>
+
+<img src="/assets/LAq9bpVauoBFEfxUEWZcvUMfnfd.png" src-width="3376" src-height="1816" align="center"/>
+
+如果银行账单有缺失，可以后台进行文件导入
+
+<img src="/assets/YAzkbKYafo7Lf2xI7OGc9Cbnnnd.png" src-width="3260" src-height="826" align="center"/>
+
+如果银行账单记录有问题，可以后台进行删除
+
+<img src="/assets/OJC3bcn93ohKSgxAOFVcC5PKnkb.png" src-width="3260" src-height="826" align="center"/>
+
+如果入金账单和出金账单有更新，可以在后台进行重跑
+
+<img src="/assets/HTvVbKFrioX0wIxdoJVcYwognug.png" src-width="3260" src-height="826" align="center"/>
+
 ## 入金在途
 
 ### 适用场景 
