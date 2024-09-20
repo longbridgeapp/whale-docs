@@ -250,8 +250,6 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 ## 會計分錄
 
-<img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
-
 ## 科目餘額
 
 ## 科目明細帳

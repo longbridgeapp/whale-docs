@@ -250,8 +250,6 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 ## 会计分录
 
-<img src="/assets/SerGbDjZCo3lpuxxNYqcvsWAnke.png" src-width="3294" src-height="1692" align="center"/>
-
 ## 科目余额
 
 ## 科目明细帐
