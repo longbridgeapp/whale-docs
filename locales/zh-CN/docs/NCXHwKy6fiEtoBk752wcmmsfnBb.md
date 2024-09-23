@@ -106,8 +106,9 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 步骤二：对于已经添加的会计科目，可以进入后台进行修改
 - 📢：对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
     <img src="/assets/YjSYbTQNWo7VScxrOGCchBhrnrb.png" src-width="3308" src-height="1478" align="center"/>
-- 对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
-    <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
+
+步骤三：对于未配置分录规则或者未进行会计分录记账的科目，可以进入后台进行删除，需要先删除所有的三级科目，然后删除对应的二级科目，最后才能删除相应的一级科目
+<img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
 - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
 #### 分录规则
@@ -116,11 +117,11 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 形成分录之前需要根据券商公司实际业务需要配置对应的分录规则。
 
-<img src="/assets/ESmSbOsTzoRK7jxkODlcsYSZnXf.png" src-width="3814" src-height="1524" align="center"/>
+<img src="/assets/CxBJbsU5Po5DxuxSTTtc2Da6nTg.png" src-width="2870" src-height="1226" align="center"/>
 
 <b>操作按钮说明</b>
 
-- 新增：可根据券商公司需求新增各业务的分录规则。
+- 新建：可根据券商公司需求新增各业务的分录规则。
 - 编辑：对已经添加的分录规则可以进行人工编辑。
 - 复制：可以将当前分录规则进行复制，方便新增类似的分录规则。
 - 删除：对已经添加的分录规则可以进行删除。

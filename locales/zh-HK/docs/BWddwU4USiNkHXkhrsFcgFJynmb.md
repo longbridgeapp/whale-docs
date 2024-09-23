@@ -7,11 +7,11 @@ sidebar_position: 1
 
 # 快速上手
 
-# 概述
+## 概述
 
 WTT 組件工具箱中，交易相關組件使用操作入口 
 
-# 快速上手
+## 快速上手
 
 - 通過 WTT 右上角組件工具箱 - 交易分類中找到交易功能相關組件，可將組件拖動至面板或獨立使用
     <img src="/assets/OuDGbsPyJoDCtbxm90tcn9K7nQM.png" src-width="600" src-height="128" align="center"/>

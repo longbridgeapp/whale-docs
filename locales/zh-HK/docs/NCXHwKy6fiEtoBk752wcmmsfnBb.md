@@ -106,8 +106,9 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 步驟二：對於已經添加的會計科目，可以進入後臺進行修改
 - 📢：對於編輯後的會計科目，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
     <img src="/assets/YjSYbTQNWo7VScxrOGCchBhrnrb.png" src-width="3308" src-height="1478" align="center"/>
-- 對於編輯後的會計科目，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
-    <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
+
+步驟三：對於未配置分錄規則或者未進行會計分錄記賬的科目，可以進入後臺進行刪除，需要先刪除所有的三級科目，然後刪除對應的二級科目，最後才能刪除相應的一級科目
+<img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
 - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
 #### 分錄規則
@@ -116,11 +117,11 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 形成分錄之前需要根據券商公司實際業務需要配置對應的分錄規則。
 
-<img src="/assets/ESmSbOsTzoRK7jxkODlcsYSZnXf.png" src-width="3814" src-height="1524" align="center"/>
+<img src="/assets/CxBJbsU5Po5DxuxSTTtc2Da6nTg.png" src-width="2870" src-height="1226" align="center"/>
 
 <b>操作按鈕說明</b>
 
-- 新增：可根據券商公司需求新增各業務的分錄規則。
+- 新建：可根據券商公司需求新增各業務的分錄規則。
 - 編輯：對已經添加的分录规则可以進行人工編輯。
 - 複製：可以將當前分錄規則進行復制，方便新增類似的分錄規則。
 - 刪除：對已經添加的分录规则可以進行刪除。
