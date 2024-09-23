@@ -15,16 +15,14 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/SpYFbz4lQozQRyxm2xFcvmWtnsb.png" src-width="874" src-height="553" align="center"/>
 
-## 务操作管理
-
-### 参数设置
+## 参数设置
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
 <p>业务参数设置 &gt; 记账参数</p>
 </div>
 
-证券机构在使用会计中台之前需要先进行记账参数设置，包括科目属性、会计科目、分录规则、资金类型以及合并规则等设置。
+证券机构在使用会计中台之前需要先进行记账参数设置，包括科目属性、会计科目、分录规则、资金类型、合并规则以及业务类型等设置。
 
 #### 科目属性
 
@@ -43,23 +41,29 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 <b>专有名词解释</b>
 
 - 科目属性：一般来说，会计科目按其经济内容来分类，可以划分为资产类、负债类、所有者权益类、成本费用类科目及损益类。但由于经济内容不同，会计科目所包含的内容就不同，因此，不同的科目就需要有不同的属性，来描述其所代表的经济内容。
-- 余额方向：指该科目属性下相应科目的借方发生额和贷方发生额抵减后余额金额对应的方向，可选择的枚举值为：借方、贷方和共同（是指科目属性下不同的科目余额可以单独指定为借方或者贷方）。比如：定义科目属性的余额方向为借方，则该属性下所有科目的余额会留在借方，如果该科目的借方发生额大于贷方发生额，科目余额为正数，反之则为负数。
+- 余额方向：指该科目属性下相应科目的借方发生额和贷方发生额抵减后余额对应的方向，可选择的枚举值为：借方、贷方和共同（是指科目属性下不同的科目余额可以单独指定为借方或者贷方）。比如：定义科目属性的余额方向为借方，则该属性下所有科目的余额会留在借方，如果该科目的借方发生额大于贷方发生额，科目余额为正数，反之则为负数。
 
 <b>操作步骤</b>
 
-1. 步骤一：在使用会计中台之前，要完成记账参数的配置，对于配置的第一步是新增会计科目属性
+步骤一：在使用会计中台之前，要完成记账参数的配置，对于配置的第一步是新增会计科目属性
 
 <img src="/assets/Jc7Vb2xbxom4aExDplPcMLudnZd.png" src-width="3407" src-height="1427" align="center"/>
 
-1. 步骤二：对于相应科目属性下未绑定会计科目，则可以进入后台进行修改
-    <img src="/assets/M9gfbhG9toDl7YxlCVicca4Mn7b.png" src-width="3300" src-height="1428" align="center"/>
-    - 📢：如果当前的科目属性已经绑定了会计科目，则无法进行修改，如果修改之后系统会报错提示如下：
-    <img src="/assets/NZfYbVhLNozmXfxaqzkcjVGtnIh.png" src-width="360" src-height="106"/>
+步骤二：对于相应科目属性下未绑定会计科目，则可以进入后台进行修改
 
-2. 步骤三：对于相应科目属性下未绑定会计科目，则可以进入后台进行删除
-    <img src="/assets/VVzebhc8aovx0SxtmTQcQDAAnNf.png" src-width="3288" src-height="1034" align="center"/>
-    - 📢：如果当前的科目属性已经绑定了会计科目，则无法进行删除
-    <img src="/assets/FqO3bSMIDoFJbxxBdbfcDN5Wn1f.png" src-width="368" src-height="104"/>
+<img src="/assets/M9gfbhG9toDl7YxlCVicca4Mn7b.png" src-width="3300" src-height="1428"/>
+
+- 📢：如果当前的科目属性已经绑定了会计科目，则无法进行修改，如果修改之后系统会报错提示如下：
+
+<img src="/assets/NZfYbVhLNozmXfxaqzkcjVGtnIh.png" src-width="360" src-height="106"/>
+
+步骤三：对于相应科目属性下未绑定会计科目，则可以进入后台进行删除
+
+<img src="/assets/VVzebhc8aovx0SxtmTQcQDAAnNf.png" src-width="3288" src-height="1034" align="center"/>
+
+- 📢：如果当前的科目属性已经绑定了会计科目，则无法进行删除
+
+<img src="/assets/FqO3bSMIDoFJbxxBdbfcDN5Wn1f.png" src-width="368" src-height="104"/>
 
 #### 会计科目
 
@@ -86,25 +90,25 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <b>操作步骤</b>
 
-1. 步骤一：科目属性配置完毕后，需要在对应科目属性下新增会计科目，由于我们系统支持三级科目，所以操作人员需要在后台逐级添加，可以根据自身科目数量选择批量还是单笔新建。
-    1. 逐一科目新建
-        1. 在后台先新建一级科目
-        <img src="/assets/Xt0Db5d8Qoja4rxG5QWca5Vwn0Y.png" src-width="3415" src-height="1500" align="center"/>
-        1. 在一级科目基础上新建对应的二级科目
-        <img src="/assets/CZJYbExwHo3nFmxXyTFc1SPnny9.png" src-width="3421" src-height="1539" align="center"/>
-        1. 在二级科目基础上新建对应的三级科目
-        <img src="/assets/HDx2be5D6ocTWuxpHp6cnH7xnAx.png" src-width="3413" src-height="1549" align="center"/>
-    2. 批量导入：通过后台提供的模板整理好需要导入的会计科目，然后通过后台完成文件导入
+步骤一：科目属性配置完毕后，需要在对应科目属性下新增会计科目，由于我们系统支持三级科目，所以操作人员需要在后台逐级添加，可以根据自身科目数量选择批量还是单笔新建。
+
+- 逐一科目新建
+    - 在后台先新建一级科目
+    <img src="/assets/Xt0Db5d8Qoja4rxG5QWca5Vwn0Y.png" src-width="3415" src-height="1500" align="center"/>
+    - 在一级科目基础上新建对应的二级科目
+    <img src="/assets/CZJYbExwHo3nFmxXyTFc1SPnny9.png" src-width="3421" src-height="1539" align="center"/>
+    - 在二级科目基础上新建对应的三级科目
+    <img src="/assets/HDx2be5D6ocTWuxpHp6cnH7xnAx.png" src-width="3413" src-height="1549" align="center"/>
+    - 批量导入：通过后台提供的模板整理好需要导入的会计科目，然后通过后台完成文件导入
     <img src="/assets/Wr47b1FyFoJKElxSgePcE3NjnIe.png" src-width="3358" src-height="1480" align="center"/>
     <img src="/assets/S1sObyUZpo6SXax4bJrcE6U7nOe.png" src-width="2225" src-height="666" align="center"/>
 
-2. 步骤二：对于已经添加的会计科目，可以进入后台进行修改
-    - 📢：对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
+步骤二：对于已经添加的会计科目，可以进入后台进行修改
+- 📢：对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
     <img src="/assets/YjSYbTQNWo7VScxrOGCchBhrnrb.png" src-width="3308" src-height="1478" align="center"/>
-
-3. 对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
+- 对于编辑后的会计科目，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
     <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
-    - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
+- 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
 #### 分录规则
 
@@ -130,28 +134,35 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <b>操作步骤</b>
 
-1. 步骤一：增加了券商公司的会计科目之后，可以根据数据源的业务类型新增分录规则，目前会计中台可支持的数据源包括：支付流水、银行账单、客户收费账单、CCASS 账单、新股账单、代理商收费、业务账单统计、渠道汇兑单等。在此会分别介绍支付流水、银行账单、客户收费账单分录规则如何配置，其他数据源操作可同步参考。
-    <img src="/assets/ZEenb8ODBowJDWxICl1cRYn6noe.png" src-width="3437" src-height="906" align="center"/>
-    1. “支付流水”如何添加分录规则
-    <img src="/assets/STNjbnDqvo7lH5xCxuRcVghmn34.png" src-width="2736" src-height="4936" align="center"/>
-    1. “客户收费账单”如何添加分录规则
-    <img src="/assets/Y7iHbEL8Fo2Pt6x0unPcVt0Nn6d.png" src-width="2664" src-height="3890" align="center"/>
-    1. “银行账单”如何添加分录规则
-    <img src="/assets/PgtBbNGgzoRycYxP6AncdzkTndc.png" src-width="2646" src-height="3740" align="center"/>
+步骤一：增加了券商公司的会计科目之后，可以根据数据源的业务类型新增分录规则，目前会计中台可支持的数据源包括：支付流水、银行账单、客户收费账单、CCASS 账单、新股账单、代理商收费、业务账单统计、渠道汇兑单等。在此会分别介绍支付流水、银行账单、客户收费账单分录规则如何配置，其他数据源操作可同步参考。
 
-2. 步骤二：对于已配置的分录规则可以后台进行修改。
-    - 📢：对于编辑后的分录规则，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
+<img src="/assets/ZEenb8ODBowJDWxICl1cRYn6noe.png" src-width="3437" src-height="906" align="center"/>
+
+- “支付流水”如何添加分录规则
+
+<img src="/assets/STNjbnDqvo7lH5xCxuRcVghmn34.png" src-width="2736" src-height="4936" align="center"/>
+
+- “客户收费账单”如何添加分录规则
+
+<img src="/assets/Y7iHbEL8Fo2Pt6x0unPcVt0Nn6d.png" src-width="2664" src-height="3890" align="center"/>
+
+- “银行账单”如何添加分录规则
+
+<img src="/assets/PgtBbNGgzoRycYxP6AncdzkTndc.png" src-width="2646" src-height="3740" align="center"/>
+
+步骤二：对于已配置的分录规则可以后台进行修改。
+- 📢：对于编辑后的分录规则，会应用于后续的会计分录，对于历史已经生成的会计分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
 
 <img src="/assets/JU9AbFSb4oOubUxAwN6cOLXLnvc.png" src-width="3278" src-height="1282" align="center"/>
 
 <img src="/assets/VJjLbEplDor8adxuHWlcQrLLncc.png" src-width="2492" src-height="4530" align="center"/>
 
-1. 步骤三：对于已配置的分录规则可以后台进行删除
-    - 📢：当前分录规则删除后，只会对后续新的分录有影响，历史已生成的分录只有重跑之后才会同步更新。
+步骤三：对于已配置的分录规则可以后台进行删除
+- 📢：当前分录规则删除后，只会对后续新的分录有影响，历史已生成的分录只有重跑之后才会同步更新。
 
 <img src="/assets/BQfPbyVtcoUy8Vxfr9McfQnEnOc.png" src-width="3276" src-height="1304" align="center"/>
 
-1. 步骤四：如果需要新增类似业务的分录规则，可以使用后台复制功能
+步骤四：如果需要新增类似业务的分录规则，可以使用后台复制功能
 
 <img src="/assets/KrkobuGWXoVXtdxysULcXBlan8c.png" src-width="3252" src-height="1246" align="center"/>
 
@@ -174,11 +185,11 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <b>操作步骤</b>
 
-1. 步骤一：如需要新增资金类型，可以根据需求在后台添加
+步骤一：如需要新增资金类型，可以根据需求在后台添加
 
 <img src="/assets/VkO0bTGPZoMlmGxbMUtcQH9anOk.png" src-width="3248" src-height="834" align="center"/>
 
-1. 步骤二：如果未被使用的资金类型需要删除，可以后台操作
+步骤二：如果未被使用的资金类型需要删除，可以后台操作
 
 <img src="/assets/FoOObG9oXoEq7nxOaBJcQ9m7nzd.png" src-width="3278" src-height="724" align="center"/>
 
@@ -208,18 +219,25 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <b>操作步骤</b>
 
-1. 步骤一：如需要新增合并规则，可以根据需求在后台添加。
-    <img src="/assets/Muq6bASXHoTa5yxqMnacmg0UnNc.png" src-width="2396" src-height="4954" align="center"/>
-    - 📢：如果在新建合并规则选择的业务类型都未配置分录规则，则无法新建
-    <img src="/assets/Ae1LbrVN5oYAmtxzZhOcdoexn0Q.png" src-width="2680" src-height="3140" align="center"/>
+步骤一：如需要新增合并规则，可以根据需求在后台添加。
 
-2. 步骤二：对于已配置的合并规则可以后台进行修改
-    <img src="/assets/SqFFbe07vov6gdxoH6pcZhPBnnc.png" src-width="3258" src-height="780" align="center"/>
-    - 📢：对于编辑后的合并规则，会应用于后续的合并分录，对于历史已经生成的合并分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 合并」进行重跑。
+<img src="/assets/Muq6bASXHoTa5yxqMnacmg0UnNc.png" src-width="2396" src-height="4954" align="center"/>
 
-3. 步骤三：如果已配置的合并规则可以后台删除
-    <img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
-    - 📢：当前合并规则删除后，只会对后续新的分录有影响，历史已生成的合并分录只有重跑之后才会同步更新。
+- 📢：如果在新建合并规则选择的业务类型都未配置分录规则，则无法新建
+
+<img src="/assets/Ae1LbrVN5oYAmtxzZhOcdoexn0Q.png" src-width="2680" src-height="3140" align="center"/>
+
+步骤二：对于已配置的合并规则可以后台进行修改
+
+<img src="/assets/SqFFbe07vov6gdxoH6pcZhPBnnc.png" src-width="3258" src-height="780" align="center"/>
+
+- 📢：对于编辑后的合并规则，会应用于后续的合并分录，对于历史已经生成的合并分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 合并」进行重跑。
+
+步骤三：如果已配置的合并规则可以后台删除
+
+<img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
+
+- 📢：当前合并规则删除后，只会对后续新的分录有影响，历史已生成的合并分录只有重跑之后才会同步更新。
 
 #### 业务类型
 
@@ -240,13 +258,15 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <b>操作步骤</b>
 
-1. 步骤一：如需要新增业务类型，可以根据需求在后台添加。
+步骤一：如需要新增业务类型，可以根据需求在后台添加。
 
 <img src="/assets/Nrq7bpVlNoB5pvxi9sNc6IKVnMv.png" src-width="3298" src-height="1410" align="center"/>
 
-1. 步骤二：对于已配置的业务类型可以后台进行修改
-    <img src="/assets/JF7BbXQ1roq1CExXWOUcshVOn8a.png" src-width="3266" src-height="1360" align="center"/>
-    - 📢：对于编辑后的业务类型，会应用于后续的分录，对于历史已经生成的分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
+步骤二：对于已配置的业务类型可以后台进行修改
+
+<img src="/assets/JF7BbXQ1roq1CExXWOUcshVOn8a.png" src-width="3266" src-height="1360" align="center"/>
+
+- 📢：对于编辑后的业务类型，会应用于后续的分录，对于历史已经生成的分录如需更新，可以在「证券后台 - 会计中台 - 会计分录 - 明细」进行重跑。
 
 ## 会计分录
 
