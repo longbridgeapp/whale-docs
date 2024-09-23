@@ -7,15 +7,15 @@ sidebar_position: 2
 
 # 功能介绍
 
-# 概述
+## 概述
 
 临时调账主要支持功能包含 创建调账 和 失效调账，满足盘中临时对客户资产（现金/股票/期权）进行调增或调减操作，让客户先完成下单，并支持事后将钱/券失效掉。
 
 注：临时调账的资产在客户的业务账户，对客户来说该部分资产可用不可提。且临时调账流水不会在客户端及结单展示。
 
-# 操作说明
+## 操作说明
 
-## 调账查询
+### 1.调账查询
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -38,7 +38,7 @@ sidebar_position: 2
 
 <img src="/assets/FDzEbMG1Hoh10LxjSRfcNEFQnMd.png" src-width="3324" src-height="1920" align="center"/>
 
-## 调账清算
+### 2.调账清算
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>

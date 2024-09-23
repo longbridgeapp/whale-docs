@@ -7,15 +7,13 @@ sidebar_position: 2
 
 # 功能介紹
 
-# 概述
+## 概述
 
 當客戶的資產淨值，因市場波動而下跌至低於維持保證金水平時，系統會向客戶發出 Margin Call 通知，客戶必須在 3 個交易日補充資金或平倉，否則業務上有權替客戶進行平倉，而無須事先通知。
 
-<b>業務流程</b>：
+## 業務操作管理
 
-# 業務操作管理
-
-### 風險預警
+### 1.風險預警
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -79,7 +77,7 @@ sidebar_position: 2
 
 這種情況，交易員可以將 margin call 記錄狀態更改為異常單，這樣這個 margin call 就不會每天發送消息給用戶。
 
-### 日內融實時預警
+### 2.日內融實時預警
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -90,7 +88,7 @@ sidebar_position: 2
 
 <img src="/assets/BkcPbCHSgo1b3AxqDIucIlUQnid.png" src-width="3854" src-height="1979" align="center"/>
 
-### 平倉訂單
+### 3.平倉訂單
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -101,7 +99,7 @@ sidebar_position: 2
 
 <img src="/assets/Hb0jbhUqAoA645x8YXZcM8hjnNf.png" src-width="3734" src-height="1464" align="center"/>
 
-### 期權備兌追收
+### 4.期權備兌追收
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -118,7 +116,7 @@ sidebar_position: 2
 
 <img src="/assets/TVUfbSzFnotCFXxCe03cHjECn0e.png" src-width="3610" src-height="1792" align="center"/>
 
-### 空頭股票追收
+### 5.空頭股票追收
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
