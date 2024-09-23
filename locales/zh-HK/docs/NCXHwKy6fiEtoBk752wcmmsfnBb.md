@@ -15,16 +15,14 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <img src="/assets/SpYFbz4lQozQRyxm2xFcvmWtnsb.png" src-width="874" src-height="553" align="center"/>
 
-## 務操作管理
-
-### 參數設置
+## 參數設置
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
 <p>業務參數設置 &gt; 記賬參數</p>
 </div>
 
-證券機構在使用會計中臺之前需要先進行記賬參數設置，包括科目屬性、會計科目、分錄規則、資金類型以及合併規則等設置。
+證券機構在使用會計中臺之前需要先進行記賬參數設置，包括科目屬性、會計科目、分錄規則、資金類型、合併規則以及業務類型等設置。
 
 #### 科目屬性
 
@@ -43,23 +41,29 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 <b>專有名詞解釋</b>
 
 - 科目屬性：一般來說，會計科目按其經濟內容來分類，可以劃分爲資產類、負債類、所有者權益類、成本費用類科目及損益類。但由於經濟內容不同，會計科目所包含的內容就不同，因此，不同的科目就需要有不同的屬性，來描述其所代表的經濟內容。
-- 餘額方向：指該科目屬性下相應科目的借方發生額和貸方發生額抵減後餘額金額對應的方向，可選擇的枚舉值爲：借方、貸方和共同（是指科目屬性下不同的科目餘額可以單獨指定爲借方或者貸方）。比如：定義科目屬性的餘額方向爲借方，則該屬性下所有科目的餘額會留在借方，如果該科目的借方發生額大於貸方發生額，科目餘額爲正數，反之則爲負數。
+- 餘額方向：指該科目屬性下相應科目的借方發生額和貸方發生額抵減後餘額對應的方向，可選擇的枚舉值爲：借方、貸方和共同（是指科目屬性下不同的科目餘額可以單獨指定爲借方或者貸方）。比如：定義科目屬性的餘額方向爲借方，則該屬性下所有科目的餘額會留在借方，如果該科目的借方發生額大於貸方發生額，科目餘額爲正數，反之則爲負數。
 
 <b>操作步驟</b>
 
-1. 步驟一：在使用會計中臺之前，要完成記賬參數的配置，對於配置的第一步是新增會計科目屬性
+步驟一：在使用會計中臺之前，要完成記賬參數的配置，對於配置的第一步是新增會計科目屬性
 
 <img src="/assets/Jc7Vb2xbxom4aExDplPcMLudnZd.png" src-width="3407" src-height="1427" align="center"/>
 
-1. 步驟二：對於相應科目屬性下未綁定會計科目，則可以進入後臺進行修改
-    <img src="/assets/M9gfbhG9toDl7YxlCVicca4Mn7b.png" src-width="3300" src-height="1428" align="center"/>
-    - 📢：如果當前的科目屬性已經綁定了會計科目，則無法進行修改，如果修改之後系統會報錯提示如下：
-    <img src="/assets/NZfYbVhLNozmXfxaqzkcjVGtnIh.png" src-width="360" src-height="106"/>
+步驟二：對於相應科目屬性下未綁定會計科目，則可以進入後臺進行修改
 
-2. 步驟三：對於相應科目屬性下未綁定會計科目，則可以進入後臺進行刪除
-    <img src="/assets/VVzebhc8aovx0SxtmTQcQDAAnNf.png" src-width="3288" src-height="1034" align="center"/>
-    - 📢：如果當前的科目屬性已經綁定了會計科目，則無法進行刪除
-    <img src="/assets/FqO3bSMIDoFJbxxBdbfcDN5Wn1f.png" src-width="368" src-height="104"/>
+<img src="/assets/M9gfbhG9toDl7YxlCVicca4Mn7b.png" src-width="3300" src-height="1428"/>
+
+- 📢：如果當前的科目屬性已經綁定了會計科目，則無法進行修改，如果修改之後系統會報錯提示如下：
+
+<img src="/assets/NZfYbVhLNozmXfxaqzkcjVGtnIh.png" src-width="360" src-height="106"/>
+
+步驟三：對於相應科目屬性下未綁定會計科目，則可以進入後臺進行刪除
+
+<img src="/assets/VVzebhc8aovx0SxtmTQcQDAAnNf.png" src-width="3288" src-height="1034" align="center"/>
+
+- 📢：如果當前的科目屬性已經綁定了會計科目，則無法進行刪除
+
+<img src="/assets/FqO3bSMIDoFJbxxBdbfcDN5Wn1f.png" src-width="368" src-height="104"/>
 
 #### 會計科目
 
@@ -86,25 +90,25 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <b>操作步驟</b>
 
-1. 步驟一：科目屬性配置完畢後，需要在對應科目屬性下新增會計科目，由於我們系統支持三級科目，所以操作人員需要在後臺逐級添加，可以根據自身科目數量選擇批量還是單筆新建。
-    1. 逐一科目新建
-        1. 在後臺先新建一級科目
-        <img src="/assets/Xt0Db5d8Qoja4rxG5QWca5Vwn0Y.png" src-width="3415" src-height="1500" align="center"/>
-        1. 在一級科目基礎上新建對應的二級科目
-        <img src="/assets/CZJYbExwHo3nFmxXyTFc1SPnny9.png" src-width="3421" src-height="1539" align="center"/>
-        1. 在二級科目基礎上新建對應的三級科目
-        <img src="/assets/HDx2be5D6ocTWuxpHp6cnH7xnAx.png" src-width="3413" src-height="1549" align="center"/>
-    2. 批量導入：通過後臺提供的模板整理好需要導入的會計科目，然後通過後臺完成文件導入
+步驟一：科目屬性配置完畢後，需要在對應科目屬性下新增會計科目，由於我們系統支持三級科目，所以操作人員需要在後臺逐級添加，可以根據自身科目數量選擇批量還是單筆新建。
+
+- 逐一科目新建
+    - 在後臺先新建一級科目
+    <img src="/assets/Xt0Db5d8Qoja4rxG5QWca5Vwn0Y.png" src-width="3415" src-height="1500" align="center"/>
+    - 在一級科目基礎上新建對應的二級科目
+    <img src="/assets/CZJYbExwHo3nFmxXyTFc1SPnny9.png" src-width="3421" src-height="1539" align="center"/>
+    - 在二級科目基礎上新建對應的三級科目
+    <img src="/assets/HDx2be5D6ocTWuxpHp6cnH7xnAx.png" src-width="3413" src-height="1549" align="center"/>
+    - 批量導入：通過後臺提供的模板整理好需要導入的會計科目，然後通過後臺完成文件導入
     <img src="/assets/Wr47b1FyFoJKElxSgePcE3NjnIe.png" src-width="3358" src-height="1480" align="center"/>
     <img src="/assets/S1sObyUZpo6SXax4bJrcE6U7nOe.png" src-width="2225" src-height="666" align="center"/>
 
-2. 步驟二：對於已經添加的會計科目，可以進入後臺進行修改
-    - 📢：對於編輯後的會計科目，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
+步驟二：對於已經添加的會計科目，可以進入後臺進行修改
+- 📢：對於編輯後的會計科目，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
     <img src="/assets/YjSYbTQNWo7VScxrOGCchBhrnrb.png" src-width="3308" src-height="1478" align="center"/>
-
-3. 對於編輯後的會計科目，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
+- 對於編輯後的會計科目，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
     <img src="/assets/RR8bbf9MooFj6Vx2PhbcL8tbnT4.png" src-width="3284" src-height="882" align="center"/>
-    - 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
+- 📢：如果当前的科目已经配置了分录规则或者已记账，则无法进行删除
 
 #### 分錄規則
 
@@ -130,28 +134,35 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <b>操作步驟</b>
 
-1. 步驟一：增加了券商公司的會計科目之後，可以根據數據源的業務類型新增分錄規則，目前會計中臺可支持的數據源包括：支付流水、銀行賬單、客戶收費賬單、CCASS 賬單、新股賬單、代理商收費、業務賬單統計、渠道匯兌單等。在此會分別介紹支付流水、銀行賬單、客戶收費賬單分錄規則如何配置，其他數據源操作可同步參考。
-    <img src="/assets/ZEenb8ODBowJDWxICl1cRYn6noe.png" src-width="3437" src-height="906" align="center"/>
-    1. “支付流水”如何添加分錄規則
-    <img src="/assets/STNjbnDqvo7lH5xCxuRcVghmn34.png" src-width="2736" src-height="4936" align="center"/>
-    1. “客戶收費賬單”如何添加分錄規則
-    <img src="/assets/Y7iHbEL8Fo2Pt6x0unPcVt0Nn6d.png" src-width="2664" src-height="3890" align="center"/>
-    1. “銀行賬單”如何添加分錄規則
-    <img src="/assets/PgtBbNGgzoRycYxP6AncdzkTndc.png" src-width="2646" src-height="3740" align="center"/>
+步驟一：增加了券商公司的會計科目之後，可以根據數據源的業務類型新增分錄規則，目前會計中臺可支持的數據源包括：支付流水、銀行賬單、客戶收費賬單、CCASS 賬單、新股賬單、代理商收費、業務賬單統計、渠道匯兌單等。在此會分別介紹支付流水、銀行賬單、客戶收費賬單分錄規則如何配置，其他數據源操作可同步參考。
 
-2. 步驟二：對於已配置的分錄規則可以後臺進行修改。
-    - 📢：對於編輯後的分錄規則，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
+<img src="/assets/ZEenb8ODBowJDWxICl1cRYn6noe.png" src-width="3437" src-height="906" align="center"/>
+
+- “支付流水”如何添加分錄規則
+
+<img src="/assets/STNjbnDqvo7lH5xCxuRcVghmn34.png" src-width="2736" src-height="4936" align="center"/>
+
+- “客戶收費賬單”如何添加分錄規則
+
+<img src="/assets/Y7iHbEL8Fo2Pt6x0unPcVt0Nn6d.png" src-width="2664" src-height="3890" align="center"/>
+
+- “銀行賬單”如何添加分錄規則
+
+<img src="/assets/PgtBbNGgzoRycYxP6AncdzkTndc.png" src-width="2646" src-height="3740" align="center"/>
+
+步驟二：對於已配置的分錄規則可以後臺進行修改。
+- 📢：對於編輯後的分錄規則，會應用於後續的會計分錄，對於歷史已經生成的會計分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
 
 <img src="/assets/JU9AbFSb4oOubUxAwN6cOLXLnvc.png" src-width="3278" src-height="1282" align="center"/>
 
 <img src="/assets/VJjLbEplDor8adxuHWlcQrLLncc.png" src-width="2492" src-height="4530" align="center"/>
 
-1. 步驟三：對於已配置的分錄規則可以後臺進行刪除
-    - 📢：當前分錄規則刪除後，只會對後續新的分錄有影響，歷史已生成的分錄只有重跑之後纔會同步更新。
+步驟三：對於已配置的分錄規則可以後臺進行刪除
+- 📢：當前分錄規則刪除後，只會對後續新的分錄有影響，歷史已生成的分錄只有重跑之後纔會同步更新。
 
 <img src="/assets/BQfPbyVtcoUy8Vxfr9McfQnEnOc.png" src-width="3276" src-height="1304" align="center"/>
 
-1. 步驟四：如果需要新增類似業務的分錄規則，可以使用後臺複製功能
+步驟四：如果需要新增類似業務的分錄規則，可以使用後臺複製功能
 
 <img src="/assets/KrkobuGWXoVXtdxysULcXBlan8c.png" src-width="3252" src-height="1246" align="center"/>
 
@@ -174,11 +185,11 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <b>操作步驟</b>
 
-1. 步驟一：如需要新增資金類型，可以根據需求在後臺添加
+步驟一：如需要新增資金類型，可以根據需求在後臺添加
 
 <img src="/assets/VkO0bTGPZoMlmGxbMUtcQH9anOk.png" src-width="3248" src-height="834" align="center"/>
 
-1. 步驟二：如果未被使用的資金類型需要刪除，可以後臺操作
+步驟二：如果未被使用的資金類型需要刪除，可以後臺操作
 
 <img src="/assets/FoOObG9oXoEq7nxOaBJcQ9m7nzd.png" src-width="3278" src-height="724" align="center"/>
 
@@ -208,18 +219,25 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <b>操作步驟</b>
 
-1. 步驟一：如需要新增合併規則，可以根據需求在後臺添加。
-    <img src="/assets/Muq6bASXHoTa5yxqMnacmg0UnNc.png" src-width="2396" src-height="4954" align="center"/>
-    - 📢：如果在新建合併規則選擇的業務類型都未配置分錄規則，則無法新建
-    <img src="/assets/Ae1LbrVN5oYAmtxzZhOcdoexn0Q.png" src-width="2680" src-height="3140" align="center"/>
+步驟一：如需要新增合併規則，可以根據需求在後臺添加。
 
-2. 步驟二：對於已配置的合併規則可以後臺進行修改
-    <img src="/assets/SqFFbe07vov6gdxoH6pcZhPBnnc.png" src-width="3258" src-height="780" align="center"/>
-    - 📢：對於編輯後的合併規則，會應用於後續的合併分錄，對於歷史已經生成的合併分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 合併」進行重跑。
+<img src="/assets/Muq6bASXHoTa5yxqMnacmg0UnNc.png" src-width="2396" src-height="4954" align="center"/>
 
-3. 步驟三：如果已配置的合併規則可以後臺刪除
-    <img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
-    - 📢：當前合併規則刪除後，只會對後續新的分錄有影響，歷史已生成的合併分錄只有重跑之後纔會同步更新。
+- 📢：如果在新建合併規則選擇的業務類型都未配置分錄規則，則無法新建
+
+<img src="/assets/Ae1LbrVN5oYAmtxzZhOcdoexn0Q.png" src-width="2680" src-height="3140" align="center"/>
+
+步驟二：對於已配置的合併規則可以後臺進行修改
+
+<img src="/assets/SqFFbe07vov6gdxoH6pcZhPBnnc.png" src-width="3258" src-height="780" align="center"/>
+
+- 📢：對於編輯後的合併規則，會應用於後續的合併分錄，對於歷史已經生成的合併分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 合併」進行重跑。
+
+步驟三：如果已配置的合併規則可以後臺刪除
+
+<img src="/assets/O5vebcjkzoySdwxe1EYcXAX3nVe.png" src-width="3256" src-height="618" align="center"/>
+
+- 📢：當前合併規則刪除後，只會對後續新的分錄有影響，歷史已生成的合併分錄只有重跑之後纔會同步更新。
 
 #### 業務類型
 
@@ -240,13 +258,15 @@ Whale 會計系統提供了一套可以自動獲取數據源，按照預設的�
 
 <b>操作步驟</b>
 
-1. 步驟一：如需要新增業務類型，可以根據需求在後臺添加。
+步驟一：如需要新增業務類型，可以根據需求在後臺添加。
 
 <img src="/assets/Nrq7bpVlNoB5pvxi9sNc6IKVnMv.png" src-width="3298" src-height="1410" align="center"/>
 
-1. 步驟二：對於已配置的業務類型可以後臺進行修改
-    <img src="/assets/JF7BbXQ1roq1CExXWOUcshVOn8a.png" src-width="3266" src-height="1360" align="center"/>
-    - 📢：對於編輯後的業務類型，會應用於後續的分錄，對於歷史已經生成的分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
+步驟二：對於已配置的業務類型可以後臺進行修改
+
+<img src="/assets/JF7BbXQ1roq1CExXWOUcshVOn8a.png" src-width="3266" src-height="1360" align="center"/>
+
+- 📢：對於編輯後的業務類型，會應用於後續的分錄，對於歷史已經生成的分錄如需更新，可以在「證券後臺 - 會計中臺 - 會計分錄 - 明細」進行重跑。
 
 ## 會計分錄
 
