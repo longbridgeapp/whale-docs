@@ -7,15 +7,13 @@ sidebar_position: 2
 
 # 功能介绍
 
-# 概述
+## 概述
 
 当客户的资产净值，因市场波动而下跌至低于维持保证金水平时，系统会向客户发出 Margin Call 通知，客户必须在 3 个交易日补充资金或平仓，否则业务上有权替客户进行平仓，而无须事先通知。
 
-<b>业务流程</b>：
+## 业务操作管理
 
-# 业务操作管理
-
-### 风险预警
+### 1.风险预警
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -79,7 +77,7 @@ sidebar_position: 2
 
 这种情况，交易员可以将 margin call 记录状态更改为异常单，这样这个 margin call 就不会每天发送消息给用户。
 
-### 日内融实时预警
+### 2.日内融实时预警
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -90,7 +88,7 @@ sidebar_position: 2
 
 <img src="/assets/BkcPbCHSgo1b3AxqDIucIlUQnid.png" src-width="3854" src-height="1979" align="center"/>
 
-### 平仓订单
+### 3.平仓订单
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -101,7 +99,7 @@ sidebar_position: 2
 
 <img src="/assets/Hb0jbhUqAoA645x8YXZcM8hjnNf.png" src-width="3734" src-height="1464" align="center"/>
 
-### 期权备兑追收
+### 4.期权备兑追收
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -118,7 +116,7 @@ sidebar_position: 2
 
 <img src="/assets/TVUfbSzFnotCFXxCe03cHjECn0e.png" src-width="3610" src-height="1792" align="center"/>
 
-### 空头股票追收
+### 5.空头股票追收
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>

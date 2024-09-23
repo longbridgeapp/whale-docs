@@ -7,15 +7,15 @@ sidebar_position: 2
 
 # 功能介紹
 
-# 概述
+## 概述
 
 臨時調賬主要支持功能包含 創建調賬 和 失效調賬，滿足盤中臨時對客戶資產（現金/股票/期權）進行調增或調减操作，讓客户先完成下單，並支持事後將錢/券失效掉。
 
 注：臨時調賬的資產在客戶的業務賬戶，對客戶來說該部分資產可用不可提。且臨時調賬流水不會在客戶端及結單展示。
 
-# 操作說明
+## 操作說明
 
-## 調賬查詢
+### 1.調賬查詢
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
@@ -38,7 +38,7 @@ sidebar_position: 2
 
 <img src="/assets/FDzEbMG1Hoh10LxjSRfcNEFQnMd.png" src-width="3324" src-height="1920" align="center"/>
 
-## 調賬清算
+### 2.調賬清算
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>⚓</div>
