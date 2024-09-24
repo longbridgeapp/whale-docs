@@ -410,6 +410,17 @@ sidebar_position: 2
 
 <img src="/assets/GixebJJjMoXwxFxNY9PcBNmcnug.png" src-width="3198" src-height="1070" align="center"/>
 
+#### 自动还款开通查询
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>风控管理 &gt; 授信额度 &gt; 借币提醒 &gt; 自动还款开通查询</p>
+</div>
+
+<b>菜单功能介绍</b>：该菜单可以查询已开通自动还款功能的客户。
+
+<img src="/assets/Pn7lbnygJoE0gexpPCUcigrtnSb.png" src-width="3294" src-height="1462" align="center"/>
+
 ## Margin Call
 
 当客户的资产净值，因市场波动而下跌至低于维持保证金水平时，系统会向客户发出 Margin Call 通知，客户必须在 3 个交易日补充资金或平仓，否则业务上有权替客户进行平仓，而无须事先通知。
@@ -615,7 +626,7 @@ sidebar_position: 2
 
 <img src="/assets/SUg1bmHshowLV2xArcic3s9knKh.png" src-width="2294" src-height="636" align="center"/>
 
-<img src="/assets/N6nJb2KWhoys7ix5cRXcAIGEnkb.png" src-width="2238" src-height="1014" align="center"/>
+<img src="/assets/NJVPbhrorog1Cyxy2MJcVEjSnRf.png" src-width="3322" src-height="1640" align="center"/>
 
 1. 批量设置保证金比例：下载模板后根据模板字段说明填写并上传文件
 
