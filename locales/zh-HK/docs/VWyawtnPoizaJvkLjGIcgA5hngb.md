@@ -410,6 +410,17 @@ sidebar_position: 2
 
 <img src="/assets/GixebJJjMoXwxFxNY9PcBNmcnug.png" src-width="3198" src-height="1070" align="center"/>
 
+#### 自動還款開通查詢
+
+<div class="callout callout-bg-6 callout-border-6">
+<div class='callout-emoji'>⚓</div>
+<p>風控管理 &gt; 授信額度 &gt; 借幣提醒 &gt; 自動還款開通查詢</p>
+</div>
+
+<b>菜單功能介紹</b>：該菜單可以查詢已開通自動還款功能的客戶。
+
+<img src="/assets/Pn7lbnygJoE0gexpPCUcigrtnSb.png" src-width="3294" src-height="1462" align="center"/>
+
 ## Margin Call
 
 當客戶的資產淨值，因市場波動而下跌至低於維持保證金水平時，系統會向客戶發出 Margin Call 通知，客戶必須在 3 個交易日補充資金或平倉，否則業務上有權替客戶進行平倉，而無須事先通知。
@@ -615,7 +626,7 @@ sidebar_position: 2
 
 <img src="/assets/SUg1bmHshowLV2xArcic3s9knKh.png" src-width="2294" src-height="636" align="center"/>
 
-<img src="/assets/N6nJb2KWhoys7ix5cRXcAIGEnkb.png" src-width="2238" src-height="1014" align="center"/>
+<img src="/assets/NJVPbhrorog1Cyxy2MJcVEjSnRf.png" src-width="3322" src-height="1640" align="center"/>
 
 1. 批量設置保證金比例：下載模板後根據模板字段說明填寫並上傳文件
 
