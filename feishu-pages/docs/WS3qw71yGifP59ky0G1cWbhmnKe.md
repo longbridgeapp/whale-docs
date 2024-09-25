@@ -112,6 +112,20 @@ Whale 會計中臺系統全面支持券商證券業務記賬流程，包括記�
 
 <img src="/assets/C0cfb4CyDoi4itxlHZkcFoi7nBe.png" src-width="952" src-height="1776"/>
 
+### 業務類型<b>配置</b>
+
+<b>每個券商公司可根據記賬與否的要求進行個性化配置</b>
+
+<b>步驟一：查看</b><b>業務類型</b>
+
+<img src="/assets/Q6aBbgLKiokbT5xmdYec50qHnHg.png" src-width="3810" src-height="1676" align="center"/>
+
+<b>步驟二：</b><b>業務類型</b><b>配置</b>
+
+點選『業務類型』右上角：‘新建’，設定對應券商公司記賬與否的業務類型。
+
+<img src="/assets/JUQyb855ropp6bx6E7GcM9n6nyD.png" src-width="3256" src-height="1484" align="center"/>
+
 ## <b>記賬結果查詢</b>
 
 券商證券業務發生後，系統會根據記賬參數生成記賬結果供用戶進行查詢和導出<b>。</b>

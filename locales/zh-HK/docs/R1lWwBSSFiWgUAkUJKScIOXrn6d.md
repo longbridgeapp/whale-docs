@@ -15,7 +15,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 <b>基金交易流程</b>
 
-<img src="/assets/OTlsbbuMgoD9ZNxhQ3Oc4qcInlc.png" src-width="1322" src-height="2244" align="center"/>
+<img src="/assets/Zy5Zbiz5DoNoo2x1ZD8cnwk7nsb.png" src-width="1210" src-height="1716" align="center"/>
 
 <b>重要時間點參考： </b>（以下會根據不同基金代理商有所不同）
 
@@ -105,51 +105,41 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 - 本作業可以進行基金後台的清算作業（包含數據確認/申購交收/贖回錢貨交收）
 
-<img src="/assets/RY4wbECnPoz7pjxwye4cTLbvnAf.png" src-width="3238" src-height="1634" align="center"/>
+<img src="/assets/Cnf7bimPmo45XKxFSC4cyu2pnNd.png" src-width="3302" src-height="1658" align="center"/>
 
 <b>清算操作流程：</b>
 
-整個清算流程是按次順序進行操作：
+1. 選擇產生的基金管道訂單，選擇‘初始化’狀態後，中點擊【數據發送】，彈框資訊確認無誤後，點擊【確認】，此時訂單狀況會變成'發送成功'
+    <img src="/assets/YR72bBQU1okV3GxsJxscObUrnsh.png" src-width="3278" src-height="1656" align="center"/>
 
-<img src="/assets/CJmobT72yohcDkxhTEzc4sDXn7e.png" src-width="1322" src-height="370"/>
+2. 數據發送之後，选择“发送成功”的状态，等收到基金公司申購/贖回確認檔，這時在該基金記錄操作區，選擇「申购核对确认」、「赎回核对确认」，分别对「申购确认份额」和「赎回确认金额」进行填写和确认
+    <img src="/assets/IyGdbgcQ0oBCFSxOWKtc9jzanbb.png" src-width="3304" src-height="1658" align="center"/>
+    - 核对确认的弹窗中，需要分别选择清算交收使用的「基金净值」，并分别填写「申购确认份额」和「赎回确认金额」
+        <div class="callout callout-bg-2 callout-border-2">
+        <div class='callout-emoji'>💡</div>
+        <ol>
+        <li><p>「申购核对确认」、「赎回核对确认」分开进行核对确认，同时申购交割和赎回交割流程也支持分开进行。</p>
+        </li>
+        <li><p>如果所选「净值日期」无净值数据，需要前往净值表添加净值。申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在 0.5 时，点击『 确定 』将提示错误，需要重新填写。</p>
+        </li>
+        </ol>
+        </div>
+        <div class="flex gap-3 columns-2" column-size="2">
+        <div class="w-[50%]" width-ratio="50">
+                <img src="/assets/QPIrbndtUo8MqIxJhrecnQpRndg.png" src-width="1208" src-height="1678" align="center"/>
+                </div>
+        <div class="w-[49%]" width-ratio="49">
+                <img src="/assets/JNuAbdeWjoSGGRxo937czpGPncb.png" src-width="1174" src-height="1646" align="center"/>
+                </div>
+        </div>
 
-選擇產生的基金管道訂單，選擇‘訂單初始化’狀態後，中點擊【數據發送】，彈框資訊確認無誤後，點擊【確認】，此時訂單狀況會變成'發送成功'
+3. 若當天沒有訂單，自動核對確認，自動完成交收。
+4. 选择“交收中”的状态，選中對應管道單進行申購交割，點擊確認之後沒有問題申購就完成了
+    <img src="/assets/UC6QbHevboghzUxriyUc1jDMnSg.png" src-width="3280" src-height="1624" align="center"/>
 
-<img src="/assets/VJjEbvuHRoLSzexMdRBc1MI3nvb.png" src-width="3236" src-height="1524" align="center"/>
-
-數據發送之後，等後一段時間會收到基金公司申購/贖回確認檔，這時在該基金記錄操作區，選擇數據【<b>回填</b>】
-
-<img src="/assets/H1ZWbz8fBokIdNxZZsRcqrFhnCb.png" src-width="3254" src-height="1438" align="center"/>
-
-回填视窗弹出，需要选择净值日期，选择后自动查询到 基金淨值；根据上手返回的信息填写「确认申购份额」和「确认赎回金额」；
-
-<div class="callout callout-bg-2 callout-border-2">
-<div class='callout-emoji'>💡</div>
-<p>如果所选「净值日期」无净值数据，需要前往净值表添加净值。</p>
-</div>
-
-<img src="/assets/BSgbbNL8jow5a1xTm07c9pfsnwb.png" src-width="3296" src-height="1764" align="center"/>
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<p>申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在 0.5 时，点击『 确定 』将提示错误，需要重新填写。</p>
-</div>
-
-數據回填之後，接下操作<b>核對確認</b>，進行數據確認，確認提交
-
-<img src="/assets/NWLzbuZkkogqE7x4Q4CcV1V3ngd.png" src-width="3192" src-height="1002" align="center"/>
-
-<img src="/assets/O5CObnK5ZovSDKxmzKlcgplEnoh.png" src-width="3192" src-height="1096" align="center"/>
-
-若當天沒有訂單，自動核對確認，自動完成交收
-
-<img src="/assets/J557bjPF7olA2ex9zo9cuOWMnXb.png" src-width="1280" src-height="471" align="center"/>
-
-接下操作選中對應管道單進行申購交割，點擊確認之後沒有問題申購就完成了
-
-<img src="/assets/R3WXbFpRoooOPrxR6xXc5O2dn9e.png" src-width="3240" src-height="1094" align="center"/>
-
-後續如果申購交割完成之後還有贖回，會彈出來一個一鍵交割，點完整個流程就結束了；如果沒有贖回，申購交割完成之後整個流程就結束了
+5. 後續如果申購交割完成之後還有贖回，會彈出來贖回貨交割，點擊完贖回或交割後是贖回錢交割，點完整個流程就結束了；如果沒有贖回，申購交割完成之後整個流程就結束了
+    <img src="/assets/JpJ5bUhaZoxgypxWV7hcVXsxnQd.png" src-width="3318" src-height="1648" align="center"/>
+    <img src="/assets/PZxgbiXRRoTsnXxbDQ9c5gfEnNc.png" src-width="3304" src-height="1652" align="center"/>
 
 #### 交易日曆
 

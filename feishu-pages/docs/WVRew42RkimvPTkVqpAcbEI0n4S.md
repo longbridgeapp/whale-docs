@@ -14,7 +14,7 @@ sidebar_position: 3
 <p>問：如何按照券商公司的要求進行會計記賬？</p>
 </div>
 
-答：可根據公司需要進行科目屬性、會計科目、會計分錄、分錄規則以及合併規則進行設置，設置完成後即可按照公司自身要求進行會計記賬。
+答：可根據公司需要進行科目屬性、會計科目、會計分錄、分錄規則、合併規則以及業務類型進行設置，設置完成後即可按照公司自身要求進行會計記賬。
 
 # 財務報表導出
 
@@ -25,9 +25,10 @@ sidebar_position: 3
 
 答：目前系統支持以下GL 軟體匯入格式，除此之前的報表格式導出需要進行開發，開發完成之後可以進行自動導出。
 
-- 柔性系統
-- 總賬系統
-- 尚德
-- Yonyou 用友
+- FlexSystemVerNV5W
+- GeneralLedgerSystemV3
+- SunSystemsFinancialsRelease
+- Yonyou U8 V.13
 - FlexAccount V11
+- Sage300 AOM (GL)
 
