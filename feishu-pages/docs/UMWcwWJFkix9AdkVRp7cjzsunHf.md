@@ -113,44 +113,35 @@ App客户端展示位置如下
 
 ## 基金清算交收
 
-### <b>步骤一：数据发送</b>
+1. 選擇產生的基金管道訂單，選擇‘初始化’狀態後，中點擊【數據發送】，彈框資訊確認無誤後，點擊【確認】，此時訂單狀況會變成'發送成功'
+    <img src="/assets/FopHbLVDooBLBkxCqjEchMf6n2f.png" src-width="3278" src-height="1656" align="center"/>
 
-选择产生的基金管道订单，选择‘订单初始化’状态后，中点击『 数据发送 』，弹框资讯确认无误后，点击『 确认 』，此时订单状况会变成'发送成功'
+2. 數據發送之後，选择“发送成功”的状态，等收到基金公司申購/贖回確認檔，這時在該基金記錄操作區，選擇「申购核对确认」、「赎回核对确认」，分别对「申购确认份额」和「赎回确认金额」进行填写和确认
+    <img src="/assets/XZiHbO0Zio812SxfbhccOwqXnnf.png" src-width="3304" src-height="1658" align="center"/>
+    - 核对确认的弹窗中，需要分别选择清算交收使用的「基金净值」，并分别填写「申购确认份额」和「赎回确认金额」
+        <div class="callout callout-bg-2 callout-border-2">
+        <div class='callout-emoji'>💡</div>
+        <ol>
+        <li><p>「申购核对确认」、「赎回核对确认」分开进行核对确认，同时申购交割和赎回交割流程也支持分开进行。</p>
+        </li>
+        <li><p>如果所选「净值日期」无净值数据，需要前往净值表添加净值。申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在0.5时，点击『 确定 』将提示错误，需要重新填写。</p>
+        </li>
+        </ol>
+        </div>
+        <div class="flex gap-3 columns-2" column-size="2">
+        <div class="w-[50%]" width-ratio="50">
+                <img src="/assets/AqFjbki7aoFFDfxXA5hc83pZnNb.png" src-width="1208" src-height="1678" align="center"/>
+                </div>
+        <div class="w-[49%]" width-ratio="49">
+                <img src="/assets/TBhjbzuHFozbtJxTasjcyReHn6b.png" src-width="1174" src-height="1646" align="center"/>
+                </div>
+        </div>
 
-<img src="/assets/GmKtb7dEBo1zgBxH5zKcVMPenBd.png" src-width="1280" src-height="749" align="center"/>
+3. 若當天沒有訂單，自動核對確認， 自動完成交收。
+4. 选择“交收中”的状态，選中對應管道單進行申購交割，點擊確認之後沒有問題申購就完成了
+    <img src="/assets/LTUlbXZTqoaSggxYASIcVMFonwb.png" src-width="3280" src-height="1624" align="center"/>
 
-### <b>步骤二：数据回填</b>
-
-数据发送之后，等后一段时间会收到基金公司申购/赎回确认档，这时在该基金记录操作区，选择数据『 回填 』
-
-<img src="/assets/EIKUbY85Vojlpyx64Axcc6wznuf.png" src-width="1280" src-height="681" align="center"/>
-
-回填视窗弹出，需要选择净值日期，选择后自动查询到 基金淨值；根据上手返回的信息填写「确认申购份额」和「确认赎回金额」；
-
-<img src="/assets/QNkabby56oZAC7xXqE4cbCw2nUf.png" src-width="3296" src-height="1764" align="center"/>
-
-<div class="callout callout-bg-3 callout-border-3">
-<div class='callout-emoji'>💡</div>
-<p>申购份额和赎回金额的回填有自动校验机制，系统将根据申购提交金额、赎回提交份额和基金净值进行申购份额和赎回金额的计算，如果手动回填的数据与系统计算的数据差值在0.5时，点击『 确定 』将提示错误，需要重新填写。</p>
-</div>
-
-<b>步骤三：核对确认并交收</b>
-
-数据回填之后，点击核对确认，进行数据确认，确认提交。若当天没有订单，自动核对确认，自动完成交收。
-
-<img src="/assets/GDnUbvmGIopJhdxFfnjcuKBZndx.png" src-width="1280" src-height="546" align="center"/>
-
-<b>步骤四：申购交割</b>
-
-选中对应渠道单进行申购交割，点击确认之后即完成申购
-
-<img src="/assets/LTVxbaiHTo7JLBxHhsuc7GaMnvb.png" src-width="1280" src-height="643" align="center"/>
-
-<b>步骤五：赎回货交割、赎回钱交割</b>
-
-后续如果申购交割完成之后还有赎回，会弹出来赎回货交割，点击完赎回或交割后是赎回钱交割，点完整个流程就结束了；如果没有赎回，申购交割完成之后整个流程就结束了。
-
-<img src="/assets/UTKIbmaeuoc6Dwxskrhct9uInjc.png" src-width="1280" src-height="633" align="center"/>
-
-<img src="/assets/TxSPbvr2voBd3Fxrpp7cZ2vCnCf.png" src-width="1280" src-height="628" align="center"/>
-
+5. 後續如果申購交割完成之後還有贖回，會彈出來贖回貨交割，點擊完贖回或交割後是贖回錢交割，點完整個流程就結束了；如果沒有贖回，申購交割完成之後整個流程就結束了
+    <img src="/assets/IMt3bvoWDowPI2xT8ezcC6vxnhf.png" src-width="3318" src-height="1648" align="center"/>
+    <img src="/assets/IbwybQFABo55SJxHWyYcc28EnOg.png" src-width="3304" src-height="1652" align="center"/>
+    
