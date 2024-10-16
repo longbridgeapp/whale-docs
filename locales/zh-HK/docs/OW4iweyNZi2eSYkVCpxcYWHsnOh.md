@@ -93,13 +93,13 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 
 ### 處理證券存入明細
 
-選擇目標記錄後，點選【提交】確認為「成功」或「失敗」
+選擇目標記錄後，點選【處理】確認為「成功」或「失敗」
 
-<img src="/assets/VUb7bnHP7oCqLuxzEpFcAKGin2d.png" src-width="3824" src-height="1830" align="center"/>
+<img src="/assets/E5uKbCWIloKplCxBUuwcnl7hnNh.png" src-width="3774" src-height="1124" align="center"/>
 
 提交后需再次進行審批，點選審批出工單，確認無誤後，證券即可存入系統
 
-<img src="/assets/M1CrbnWI2oHMuixfaAFcSfQfnoh.png" src-width="3814" src-height="856" align="center"/>
+<img src="/assets/DJzPb24zYo9l5sx3VVYcoeXVnNe.png" src-width="3774" src-height="838" align="center"/>
 
 <img src="/assets/C1aBb3mxToQpDMx6Cf3cfGUTnVd.png" src-width="1560" src-height="1764" align="center"/>
 

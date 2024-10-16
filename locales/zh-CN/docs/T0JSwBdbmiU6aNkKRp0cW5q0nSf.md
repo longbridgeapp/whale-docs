@@ -72,41 +72,34 @@ Whale 系统包含了存入申请、存入明细、便捷导入参数设置、�
 
 - 修改：若在处理证券明细时，发现用户提交的某笔具体的明细记录有问题，可在与客户确认无误后可以透过【编辑】按钮进行修正
     - 修改的范围：股票名称、托管商编号、子仓编号、证券明细数量、转入成本、结单备注
-
-<img src="/assets/VCsIbKiGOoCzpNxrRC4cHIFzn5f.png" src-width="3818" src-height="1836"/>
+    <img src="/assets/RuHIbkkDWoywuhxDvp1criX6nlw.png" src-width="3768" src-height="1058" align="center"/>
 
 - 删除：若在证券明细时，用户反映提交的某笔具体的明细记录不再进行转入，可以透过【删除】按钮直接删除目标明细记录
 - 生成 SI 指令（<b>可批量操作）</b>：由于转仓业务需要在 CCASS 里填写必要的 SI 信息，生成 SI 指令功能可以将这些必要的信息以文件的形式自动保存，供用户进行上传 CCASS，以免于手动在 CCASS 系统录入。产生的 SI 指令也可以在「SI 指令清单」选单下进行详情查看、汇出等操作
 
-<div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/Sd08b1d1yoPMeaxsM2oc98HOnna.png" src-width="3828" src-height="1824" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
+<img src="/assets/DoAObUI5Bos9r0xdMTHcChrnnuf.png" src-width="3782" src-height="850" align="center"/>
+
 <img src="/assets/IwfnbUH2oorMwFxIcS5cCZlGnqd.png" src-width="3822" src-height="1796" align="center"/>
-</div>
-</div>
 
 - 编辑 SI 指令（<b>可批量操作）</b>：若需要对已经产生的 SI 资讯进行修改，可以点选【编辑 SI 资讯】对目标栏位进行修正
 
-<img src="/assets/CXNObXfNhoyoLoxtqwDcqZ5nnxb.png" src-width="2872" src-height="1322" align="center"/>
+<img src="/assets/EWnjbNP7eoqLFIxmFivcI9dFnod.png" src-width="3800" src-height="1340" align="center"/>
 
 - 处理-成功提交/失败提交（<b>可批量操作）</b>：若操作人员认定某个明细没有问题，可以点选【处理】选择【成功提交】，反之选择【失败提交】。
     - 处理完毕后，流程进行至下一节点，需要在工单中心进行审核，审核通过购，股票成功入仓
-    <img src="/assets/HjJ4bfRmYobd1Hxg6rVcsZ0Tnic.png" src-width="3824" src-height="1782" align="center"/>
+    <img src="/assets/D67hbE26Voc8FNxtjwnczRPMndh.png" src-width="1280" src-height="381" align="center"/>
     - 若用户转入的证券为实体股票，可在处理时同时手动设定实体股票的解冻时间，实体股票将在设定的时间点自动解冻，如若未设定时间，流程通过后则立即解冻
-    <img src="/assets/TUtGbejRkouYMDxKszzcKVzxn6g.png" src-width="3828" src-height="1566" align="center"/>
+    <img src="/assets/QuDQbdbghoIsUax9znoc9RFEnwh.png" src-width="3802" src-height="1256" align="center"/>
 
 - 审批（<b>可批量操作）</b>：处理结果提交后，操作列出现【审核】按钮，点选可以召唤出工单审核页面
     - 处理完毕后，流程进行至下一节点，需要在工单中心进行审核，审核通过购，股票成功入仓
-
-<img src="/assets/KvRBb19f0oCmahxZVzvcI2PQnsd.png" src-width="3906" src-height="1943" align="center"/>
+    <img src="/assets/HMD0bvWDBoWEI2xWvrOc8t1Nnih.png" src-width="3900" src-height="1863" align="center"/>
 
 - 提交解冻（<b>可批量操作）</b>：若客户转入的证券为实体股票，且在处理时，设定了解冻时间，但在期限到达前想要提前对实体股票进行处理，可以进行手动解冻，提交后需再次进行审批，审批通过后立即解冻成功。
 
-<img src="/assets/I2XsbjBPeo1htexdyWfcZm7VnXf.png" src-width="3822" src-height="1162" align="center"/>
+<img src="/assets/FZYXbYEHeoizmgx8nDTcjPjJnRh.png" src-width="3806" src-height="1132" align="center"/>
 
-<img src="/assets/TGOob6vbroPLL8xiXOgcZoZKn8e.png" src-width="3824" src-height="1866" align="center"/>
+<img src="/assets/JXKEbi6FsoYFr7xkK2OcHVGJnqv.png" src-width="3836" src-height="1776" align="center"/>
 
 ## 存入限制
 

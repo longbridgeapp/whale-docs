@@ -77,36 +77,30 @@ Whale 系统包含了取出申请、取出明细、电子邮件通知券商等�
 
 - 修改：若在处理证券明细时，发现用户提交的某笔具体的明细记录有问题，可在与客户确认无误后可以透过【编辑】按钮进行修正
     - 修改的范围：托管商编号、子仓编号、证券明细数量、备注
-    <img src="/assets/Gu1nbcswmokIYnxr7v5cLvYenzc.png" src-width="3782" src-height="1122" align="center"/>
+    <img src="/assets/RJixb1UyvosbhRx2J58crfyJnCc.png" src-width="3804" src-height="1074" align="center"/>
 
 - 修改转出费用：证券明细在出仓前，使用者可以根据实际的业务场景选择是否需要调整客户的转出费用，同时可以选择将修改的资讯是否显示给客户
 
-<img src="/assets/U4JbbbYJ0o6XWqxEghUcnrl0n5e.png" src-width="3826" src-height="1524" align="center"/>
+<img src="/assets/GMkGbT6wCoMqVTxuDyIceIB4nJf.png" src-width="3802" src-height="1398" align="center"/>
 
 - 删除：若在处理证券明细时，用户反映提交的某笔具体的明细记录不再进行转入，可以透过【删除】按钮直接删除目标明细记录
 - 生成 SI 指令：由于转仓业务需要在 CCASS 里填写必要的 SI 信息，生成 SI 指令功能可以将这些必要的信息以文件的形式自动保存，供用户进行上传 CCASS，以免于手动在 CCASS 系统录入。产生的 SI 指令也可以在「SI 指令清单」选单下进行详情查看、汇出等操作
 
-<div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/RZp7bd2GiouBPHxdhAbcet9dn0J.png" src-width="3782" src-height="1116" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
+<img src="/assets/JRNhb8KK3oqAjkxOvcvcS58mnGg.png" src-width="3800" src-height="898" align="center"/>
+
 <img src="/assets/HcAHb9bv5oHWEWxDJLyc6TzDngh.png" src-width="3818" src-height="1146" align="center"/>
-</div>
-</div>
 
 - 编辑 SI 指令：若需要对已经产生的 SI 资讯进行修改，可以点选【编辑 SI 资讯】对目标栏位进行修正
 
-<img src="/assets/LxDCb6Naiozxnex5Ukwc1DZTnCc.png" src-width="3818" src-height="1638" align="center"/>
+<img src="/assets/M8pnbAOHaoib9nx1FybcmAnznHM.png" src-width="3810" src-height="1326" align="center"/>
 
 - 处理-成功提交/失败提交：若操作人员认定某个明细没有问题，可以点选【处理】选择【成功提交】，反之选择【失败提交】。
     - 处理完毕后，流程进行至下一节点，需要在工单中心进行审核，审核通过购，股票成功入仓
-
-<img src="/assets/Cr4Yb44tfopXK5xkAmbckPvJnQf.jpeg" src-width="3816" src-height="1468" align="center"/>
+    <img src="/assets/GUpjbGAjmoqqByxzbskcwgc8nNf.png" src-width="1280" src-height="374" align="center"/>
 
 - 审批：处理结果提交后，操作列出现【审核】按钮，点选可以召唤出工单审核页面
     - 处理完毕后，流程进行至下一节点，需要在工单中心进行审核，审核通过购，股票成功入仓
-    <img src="/assets/SpVQbawr1oiiHExTgEvc3j1Jnrg.png" src-width="3822" src-height="1864" align="center"/>
+    <img src="/assets/RzZnbBKnaop5dYxiswncWxgxnXf.png" src-width="3914" src-height="1957" align="center"/>
 
 ## 邮件发送记录
 
