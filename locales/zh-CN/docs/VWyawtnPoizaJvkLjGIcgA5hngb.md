@@ -147,9 +147,9 @@ sidebar_position: 2
 
 <img src="/assets/VzuKblIFGohXstxAbe3cBEChndo.png" src-width="3686" src-height="1038" align="center"/>
 
-1. 提交审批弹窗页面确认额度并进行额度批注
+1. 提交审批弹窗页面确认额度并进行额度批注；同时，若确认不同意本次额度申请，可直接【拒绝】，无需提交工单审批
 
-<img src="/assets/ACswbkSOMoX581xYo3CcJz8jnNc.png" src-width="3286" src-height="1628" align="center"/>
+<img src="/assets/R0R5bS2IwogU3Yxr9BSc4HiZnJf.png" src-width="3328" src-height="1688" align="center"/>
 
 - 页面字段说明
 

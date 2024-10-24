@@ -85,3 +85,17 @@ App 的未作 PI 認購不能認購。
 > 後台「交易面板＞基金下單」只接受港元、美金的基金下單；
 其他幣種的基金，需在 WTT「基金管理＞基金列表」下單
 
+## 9J 問：新建私募基金的「最少持倉份額」、「最少持倉金額」和「最少賣出份額」、「內部代碼（來自上手）」是什麼？
+
+<img src="/assets/SDiMbyFuJoqE8sx6bcIcnJuwnJg.png" src-width="2842" src-height="1068" align="center"/>
+
+<img src="/assets/EAiib3TWloSbNzxrM5vckVsLncc.png" src-width="2838" src-height="1050" align="center"/>
+
+答：
+
+「最少持倉份額」、「最少持倉金額」：限制客戶出售基金數量、金額，須要持有一定數量的基金；
+
+「最少賣出份額」：出售的基礎值，類似股票手數的概念；
+
+「內部代碼（來自上手）」：租戶自行選擇用以識別標的的唯一碼。
+
