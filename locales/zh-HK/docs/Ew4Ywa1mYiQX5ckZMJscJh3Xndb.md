@@ -31,3 +31,31 @@ sidebar_position: 19
 
 <img src="/assets/TTNVb7TI3ovfe7xasdAcVcEhn4g.png" src-width="1914" src-height="902" align="center"/>
 
+## 20D 問：App Push 如何向指定客戶進行推送。
+
+答：
+
+1. 先在「用戶分群」創造指定客戶的分群
+
+<img src="/assets/MXJfbdwYDoObo9x2cdBcqIFtnAc.png" src-width="2826" src-height="870" align="center"/>
+
+2. 然後到「運營計劃」中創建計劃
+
+<img src="/assets/E0E2bjprLo6DmIxBz5pcYVz0nqh.png" src-width="2840" src-height="880" align="center"/>
+
+3. 選擇「定時型 - 單次」和「觸發時間」
+
+<img src="/assets/RfRxbJBV5ojIhexI5r1cimeVnDb.png" src-width="2868" src-height="1042" align="center"/>
+
+4. 選擇用戶分群
+
+<img src="/assets/XyFFbyIXBomgyjxEFNUcPh4XnBY.png" src-width="2852" src-height="1436" align="center"/>
+
+5. 選擇「Push」及輸入內容 
+
+<img src="/assets/FjqNb5JrWoDPVEx7c2FcThyyncb.png" src-width="2842" src-height="1398" align="center"/>
+
+6. 保存及審核後在「計劃列表」按「啟用」
+
+<img src="/assets/Lw35bIS9ToE3x2xRc8tcVIyWnMf.png" src-width="2790" src-height="1454" align="center"/>
+

@@ -84,3 +84,15 @@ sidebar_position: 15
 
 答：根據中國內地合規要求已下架。安卓客戶可以到官網的連結下載安裝包。IOS 客戶需要把 App Store 切換成香港區，就可以下載。
 
+## 16G 問：如何在 App 新增入金幣種
+
+<img src="/assets/AHtxbZem6oKcB0xwCJbceTnKnue.png" src-width="758" src-height="1522" align="center"/>
+
+答：先在「資金參數」把貨幣的「入金功能」改為「是」，然後在「App 管理」的「入金參數」中配置入金渠道。
+
+<img src="/assets/EwG2bXWxdo0r5Dx00vjcjR45nKf.png" src-width="2822" src-height="1226" align="center"/>
+
+<img src="/assets/UBG9bnURXolpEvxkOh4cC8FCnpd.png" src-width="2848" src-height="1234" align="center"/>
+
+<img src="/assets/DBdebJWzZo6cp8xHGWScwcMUnNe.png" src-width="2848" src-height="1116" align="center"/>
+
