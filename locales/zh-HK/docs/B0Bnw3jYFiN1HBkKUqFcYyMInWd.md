@@ -13,6 +13,8 @@ sidebar_position: 2
 
 Whale 系統包含了取出申請、取出明細、電子郵件通知券商等功能，流程支援了不同角色的審核要求，有效地了降低證券取出業務的風險。整體流程架構如下：
 
+<img src="/assets/HZXqwDhWehmhAdbkuyackEd9nOh.png" src-width="745" src-height="408"/>
+
 ## 前置条件
 
 無

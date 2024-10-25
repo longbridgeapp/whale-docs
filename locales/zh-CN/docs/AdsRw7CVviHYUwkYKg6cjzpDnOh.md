@@ -11,6 +11,8 @@ sidebar_position: 2
 
 当客户的资产净值，因市场波动而下跌至低于维持保证金水平时，系统会向客户发出 Margin Call 通知，客户必须在 3 个交易日补充资金或平仓，否则业务上有权替客户进行平仓，而无须事先通知。
 
+<img src="/assets/ICCBwebZUhAJ0sb2lL8c02qbnxg.png" src-width="772" src-height="191"/>
+
 ## 业务操作管理
 
 ### 1.风险预警

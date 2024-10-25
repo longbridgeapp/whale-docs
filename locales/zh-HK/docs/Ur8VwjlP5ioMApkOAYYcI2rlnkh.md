@@ -43,6 +43,8 @@ KYC 流程通常涉及不同的人員和審核步驟，以確保客戶的身份�
 
 <img src="/assets/X8I0bxDG0oWoHBxHCWLcsAQsnCH.png" src-width="1836" src-height="536" align="center"/>
 
+<img src="/assets/NjYOwNghghALZrbbTSkclOdWn6f.png" src-width="820" src-height="210"/>
+
 細部流程如下：
 
 <img src="/assets/XehMbd8D9oSVHnxh451coTFknHw.png" src-width="1225" src-height="461" align="center"/>

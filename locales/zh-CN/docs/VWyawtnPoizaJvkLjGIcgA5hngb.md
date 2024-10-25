@@ -11,6 +11,8 @@ sidebar_position: 2
 
 风控管理主要用于处理证券业务下的保证金配置、额度管理、Margin Call 等相关功能。所涉相关模组主要如下：
 
+<img src="/assets/UYs7wy0j7htzO6buvyPcbQpSnYy.png"/>
+
 # 业务操作管理
 
 ## 授信额度
@@ -360,6 +362,8 @@ sidebar_position: 2
 
 <b>业务流程</b>
 
+<img src="/assets/I7m6wIpgRhBxMybx8hpcJM1bnXh.png" src-width="772" src-height="191"/>
+
 #### 提醒查询
 
 <div class="callout callout-bg-6 callout-border-6">
@@ -426,6 +430,8 @@ sidebar_position: 2
 当客户的资产净值，因市场波动而下跌至低于维持保证金水平时，系统会向客户发出 Margin Call 通知，客户必须在 3 个交易日补充资金或平仓，否则业务上有权替客户进行平仓，而无须事先通知。
 
 <b>业务流程</b>：
+
+<img src="/assets/K7YxwjkBUh6E07bYohpc5cvcn4c.png" src-width="772" src-height="191"/>
 
 ### 风险预警
 
