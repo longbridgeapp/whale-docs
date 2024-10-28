@@ -57,3 +57,15 @@ sidebar_position: 1
 </div>
 </div>
 
+## 2.1F 问：系统会否提醒后台操作人员有新增银行卡要审批。
+
+答：在「订阅管理」中选取「新增客户银行卡告警」或「新增客户银行卡审批告警」，可以收到电邮通知。
+
+<img src="/assets/FoO1bxtUJoJFLCxdixicdX3EnMg.png" src-width="2850" src-height="1346" align="center"/>
+
+## 2.1G 问：如何解绑客户的 EDDA？
+
+答：在「出入金方式」的「eDDA」中，点击「修改状态」，把状态改为「已关闭」。
+
+<img src="/assets/UkaBb5Y5xouvO1x9Lb1cxAFXnCf.png" src-width="2866" src-height="1308" align="center"/>
+

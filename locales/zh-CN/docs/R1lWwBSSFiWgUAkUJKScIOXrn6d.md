@@ -418,6 +418,8 @@ A. <b>数据发送</b>
 
 整体流程参考示意如下：
 
+<img src="/assets/HgsdwddQ0hO2OGb37mQcdOMnnEf.png"/>
+
 <img src="/assets/UlsAb55GAoN0bHx8kzOczAbgn5e.png" src-width="1354" src-height="636" align="center"/>
 
 ### 基金帐号管理

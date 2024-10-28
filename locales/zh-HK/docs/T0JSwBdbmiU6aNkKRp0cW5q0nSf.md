@@ -13,6 +13,8 @@ sidebar_position: 2
 
 Whale 系統包含了存入申請、存入明細、便捷導入參數設置、電子郵件通知券商等功能，流程支援了不同角色的審核要求，有效地提升了證券存入的精確性。整體流程架構如下：
 
+<img src="/assets/LmxHwUyIbhPgxvbvVoccR0LSnUd.png" src-width="745" src-height="408"/>
+
 # 二、操作說明
 
 <div class="callout callout-bg-6 callout-border-6">

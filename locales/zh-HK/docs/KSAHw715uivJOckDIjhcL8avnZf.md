@@ -15,6 +15,8 @@ sidebar_position: 4
 
 在公司行動處理過程中，還會和清算服務、消息中心、資產服務產生互動
 
+<img src="/assets/FFVLw4DV6hN52tb38CscOQDjnhg.png" src-width="799" src-height="519"/>
+
 <b>操作流程</b>
 
 1. 預告和方案的創建

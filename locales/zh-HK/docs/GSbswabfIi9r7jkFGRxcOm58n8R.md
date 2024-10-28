@@ -81,3 +81,25 @@ sidebar_position: 1
 
 <em>1.2F 圖二</em>
 
+## 1.2G 問：如何維護客戶資料中不同的風險評級。
+
+答：
+
+1. 「資產投資信息」的「風險承受能力」是客戶在提交開戶時填寫。
+
+<img src="/assets/HERIbCCMuo2wsVxQiUhcOjHBn4g.png" src-width="2370" src-height="624" align="center"/>
+
+1.2G 圖一
+
+1. 「工單信息」的「風險等級」默認為「低風險」，需要後台操作人員判斷去更新。
+
+<img src="/assets/QcJsbFwVTo2S2RxfS9acgL6lnCe.png" src-width="2356" src-height="904" align="center"/>
+
+##### 1.2G 圖二
+
+1. 客戶自行在 APP 進行的風險評測則在「風險測評」顯示。
+
+<img src="/assets/SibDbJvNGoHM9dxTn5Xc6O76ngh.png" src-width="2376" src-height="718" align="center"/>
+
+##### 1.2G 圖三
+
