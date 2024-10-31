@@ -77,30 +77,36 @@ Whale 系統包含了取出申請、取出明細、電子郵件通知券商等�
 
 - 修改：若在處理證券明細時，發現用戶提交的某筆具體的明細記錄有問題，可在與客戶確認無誤後可以透過【編輯】按鈕進行修正
     - 修改的范围：託管商編號、子倉編號、證券明細數量、備註
-    <img src="/assets/RJixb1UyvosbhRx2J58crfyJnCc.png" src-width="3804" src-height="1074" align="center"/>
+    <img src="/assets/Gu1nbcswmokIYnxr7v5cLvYenzc.png" src-width="3782" src-height="1122" align="center"/>
 
 - 修改轉出費用：證券明細在出倉前，使用者可以根據實際的業務場景選擇是否需要調整客戶的轉出費用，同時可以選擇將修改的資訊是否顯示給客戶
 
-<img src="/assets/GMkGbT6wCoMqVTxuDyIceIB4nJf.png" src-width="3802" src-height="1398" align="center"/>
+<img src="/assets/U4JbbbYJ0o6XWqxEghUcnrl0n5e.png" src-width="3826" src-height="1524" align="center"/>
 
 - 删除：若在處理證券明細時，用戶反映提交的某筆具體的明細記錄不再進行轉入，可以透過【删除】按鈕直接刪除目標明細記錄
 - 生成 SI 指令：由於轉倉業務需要在 CCASS 裡填寫必要的 SI 信息，生成 SI 指令功能可以將這些必要的信息以文件的形式自動保存，供用戶進行上傳 CCASS，以免於手動在 CCASS 系統錄入。產生的 SI 指令也可以在「SI 指令清單」選單下進行詳情查看、匯出等操作
 
-<img src="/assets/JRNhb8KK3oqAjkxOvcvcS58mnGg.png" src-width="3800" src-height="898" align="center"/>
-
+<div class="flex gap-3 columns-2" column-size="2">
+<div class="w-[50%]" width-ratio="50">
+<img src="/assets/RZp7bd2GiouBPHxdhAbcet9dn0J.png" src-width="3782" src-height="1116" align="center"/>
+</div>
+<div class="w-[50%]" width-ratio="50">
 <img src="/assets/HcAHb9bv5oHWEWxDJLyc6TzDngh.png" src-width="3818" src-height="1146" align="center"/>
+</div>
+</div>
 
 - 編輯 SI 指令：若需要對已經產生的 SI 資訊進行修改，可以點選【編輯 SI 資訊】對目標欄位進行修正
 
-<img src="/assets/M8pnbAOHaoib9nx1FybcmAnznHM.png" src-width="3810" src-height="1326" align="center"/>
+<img src="/assets/LxDCb6Naiozxnex5Ukwc1DZTnCc.png" src-width="3818" src-height="1638" align="center"/>
 
 - 處理-成功提交/失敗提交：若操作人員認定某個明細沒有問題，可以點選【處理】選擇【成功提交】，反之選擇【失敗提交】。
     - 處理完畢後，流程進行至下一節點，需要在工單中心進行審核，審核通過購，股票成功入倉
-    <img src="/assets/GUpjbGAjmoqqByxzbskcwgc8nNf.png" src-width="1280" src-height="374" align="center"/>
+
+<img src="/assets/Cr4Yb44tfopXK5xkAmbckPvJnQf.jpeg" src-width="3816" src-height="1468" align="center"/>
 
 - 審批：處理結果提交後，操作列出現【審核】按鈕，點選可以召喚出工單審核頁面
     - 處理完畢後，流程進行至下一節點，需要在工單中心進行審核，審核通過購，股票成功入倉
-    <img src="/assets/RzZnbBKnaop5dYxiswncWxgxnXf.png" src-width="3914" src-height="1957" align="center"/>
+    <img src="/assets/SpVQbawr1oiiHExTgEvc3j1Jnrg.png" src-width="3822" src-height="1864" align="center"/>
 
 ## 郵件發送記錄
 

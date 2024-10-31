@@ -147,9 +147,9 @@ sidebar_position: 2
 
 <img src="/assets/VzuKblIFGohXstxAbe3cBEChndo.png" src-width="3686" src-height="1038" align="center"/>
 
-1. 提交審批彈窗頁面確認額度並進行額度批注；同時，若確認不同意本次額度申請，可直接【拒絕】，無需提交工單審批
+1. 提交審批彈窗頁面確認額度並進行額度批注
 
-<img src="/assets/R0R5bS2IwogU3Yxr9BSc4HiZnJf.png" src-width="3328" src-height="1688" align="center"/>
+<img src="/assets/ACswbkSOMoX581xYo3CcJz8jnNc.png" src-width="3286" src-height="1628" align="center"/>
 
 - 頁面字段說明
 

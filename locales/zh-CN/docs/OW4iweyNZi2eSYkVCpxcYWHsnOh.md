@@ -93,13 +93,13 @@ WHALE 证券管理系统中的证券存入功能支援用户新增客户的证�
 
 ### 处理证券存入明细
 
-选择目标记录后，点选【处理】确认为「成功」或「失败」
+选择目标记录后，点选【提交】确认为「成功」或「失败」
 
-<img src="/assets/E5uKbCWIloKplCxBUuwcnl7hnNh.png" src-width="3774" src-height="1124" align="center"/>
+<img src="/assets/VUb7bnHP7oCqLuxzEpFcAKGin2d.png" src-width="3824" src-height="1830" align="center"/>
 
 提交后需再次进行审批，点选审批出工单，确认无误后，证券即可存入系统
 
-<img src="/assets/DJzPb24zYo9l5sx3VVYcoeXVnNe.png" src-width="3774" src-height="838" align="center"/>
+<img src="/assets/M1CrbnWI2oHMuixfaAFcSfQfnoh.png" src-width="3814" src-height="856" align="center"/>
 
 <img src="/assets/C1aBb3mxToQpDMx6Cf3cfGUTnVd.png" src-width="1560" src-height="1764" align="center"/>
 

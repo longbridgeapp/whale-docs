@@ -95,10 +95,10 @@ WHALE 证券管理系统中的证券取出功能支援用户新增客户的证�
 
 选择目标记录后，点选【提交】确认为「成功」或「失败」
 
-<img src="/assets/Bqntbf0eKoYBzzxE7ZYcxBqRnHe.png" src-width="3782" src-height="1106" align="center"/>
+<img src="/assets/SnHsb5q1Lox9WixXiL5c0cMMnPf.png" src-width="3336" src-height="1830" align="center"/>
 
 提交后需再次进行审批，点选审批出工单，确认无误后，证券即可出仓
 
-<img src="/assets/H7f8bOrZboVNvYx60kfcD9Gkntb.png" src-width="3794" src-height="864" align="center"/>
+<img src="/assets/Cu21b0pvHoPPb6xwlh9c8QCAn6c.png" src-width="3318" src-height="770" align="center"/>
 
 ## 

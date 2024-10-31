@@ -95,10 +95,10 @@ WHALE 證券管理系統中的證券取出功能支援用戶新增客戶的證�
 
 選擇目標記錄後，點選【提交】確認為「成功」或「失敗」
 
-<img src="/assets/Bqntbf0eKoYBzzxE7ZYcxBqRnHe.png" src-width="3782" src-height="1106" align="center"/>
+<img src="/assets/SnHsb5q1Lox9WixXiL5c0cMMnPf.png" src-width="3336" src-height="1830" align="center"/>
 
 提交后需再次進行審批，點選審批出工單，確認無誤後，證券即可出倉
 
-<img src="/assets/H7f8bOrZboVNvYx60kfcD9Gkntb.png" src-width="3794" src-height="864" align="center"/>
+<img src="/assets/Cu21b0pvHoPPb6xwlh9c8QCAn6c.png" src-width="3318" src-height="770" align="center"/>
 
 ## 
