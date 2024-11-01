@@ -73,6 +73,8 @@ sidebar_position: 8
 
 ## 系统功能架构
 
+<img src="/assets/DduYwgsglhCrW6bfjtvcU9xxnpf-board.png"/>
+
 ## 客户汇兑
 
 根据客户提出的换汇要求，可在页面手动新增手工换汇申请，若用户在 APP 已经提交了申请，记录会自动展示在该页面。

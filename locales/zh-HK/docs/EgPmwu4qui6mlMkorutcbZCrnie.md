@@ -73,6 +73,8 @@ sidebar_position: 8
 
 ## 系統功能架構
 
+<img src="/assets/DduYwgsglhCrW6bfjtvcU9xxnpf-board.png"/>
+
 ## 客戶匯兌
 
 根據客戶提出的换匯要求，可在頁面手動新增手工換匯申請，若用戶在 APP 已經提交了申請，記錄會自動展示在該頁面。
