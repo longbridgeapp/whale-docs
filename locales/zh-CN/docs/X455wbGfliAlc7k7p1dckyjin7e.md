@@ -53,3 +53,19 @@ sidebar_position: 0
 
 <em>12.0.1E 图三</em>
 
+## 12.0.1F 问：如何查看客户每笔交易上手收的平台费和佣金？
+
+答：
+
+1. 先在「计费管理」的「收费场景」，新建「代理商收费 - 股票交易」计费。
+
+<img src="/assets/Jaopb82RMoB2jNxtRC9ckKCNnYf.png" src-width="2866" src-height="1610" align="center"/>
+
+1. 在相关「代理商计费 - 股票交易」设置收费。
+
+<img src="/assets/OIFSbw5J4ofcdjxYKiEc0AmYnWc.png" src-width="2836" src-height="1430" align="center"/>
+
+1. 在 SDR048 - Broker Contract Details 报表查阅费用
+
+<img src="/assets/DF3nbcSjLoZKb7xjaBgcqPhSnph.png" src-width="2848" src-height="1214" align="center"/>
+

@@ -15,7 +15,11 @@ Whale 系统提供了换汇的基础参数设定与业务主流程操作功能�
 
 整体业务流程如下：
 
+<img src="/assets/NQiowfLl1hFtrlbtRbjcXD2GnQg-board.png"/>
+
 系统功能架构
+
+<img src="/assets/BmIKwr6ZnhNEy5bASdJcLgTYnAh-board.png"/>
 
 ## 前置条件
 
@@ -129,6 +133,8 @@ Whale 系统提供了换汇的基础参数设定与业务主流程操作功能�
 ### 客户汇兑
 
 换汇流程图
+
+<img src="/assets/Xel4wsCbCh8XyAbTS93cM870nyg-board.png"/>
 
 详细操作顺序，可参考[快速上手](./Oq3wwTJvJiqpB6kWoz2cy5jFnFd)描述
 

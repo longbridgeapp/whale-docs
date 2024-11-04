@@ -418,6 +418,8 @@ A. <b>數據發送</b>
 
 整體流程參考示意如下：
 
+<img src="/assets/HgsdwddQ0hO2OGb37mQcdOMnnEf-board.png"/>
+
 <img src="/assets/UlsAb55GAoN0bHx8kzOczAbgn5e.png" src-width="1354" src-height="636" align="center"/>
 
 ### 基金帳號管理
