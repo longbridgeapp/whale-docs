@@ -57,3 +57,15 @@ sidebar_position: 1
 </div>
 </div>
 
+## 2.1F 問：系統會否提醒後台操作人員有新增銀行卡要審批。
+
+答：在「訂閱管理」中選取「新增客戶銀行卡告警」或「新增客戶銀行卡審批告警」，可以收到電郵通知。
+
+<img src="/assets/FoO1bxtUJoJFLCxdixicdX3EnMg.png" src-width="2850" src-height="1346" align="center"/>
+
+## 2.1G 問：如何解綁客戶的 EDDA？
+
+答：在「出入金方式」的「eDDA」中，點擊「修改狀態」，把狀態改為「已關閉」。
+
+<img src="/assets/UkaBb5Y5xouvO1x9Lb1cxAFXnCf.png" src-width="2866" src-height="1308" align="center"/>
+

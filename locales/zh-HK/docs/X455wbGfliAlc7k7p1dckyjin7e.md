@@ -53,3 +53,19 @@ sidebar_position: 0
 
 <em>12.0.1E 圖三</em>
 
+## 12.0.1F 問：如何查看客戶每筆交易上手收的平台費和佣金？
+
+答：
+
+1. 先在「計費管理」的「收費場景」，新建「代理商收費 - 股票交易」計費。
+
+<img src="/assets/Jaopb82RMoB2jNxtRC9ckKCNnYf.png" src-width="2866" src-height="1610" align="center"/>
+
+1. 在相關「代理商計費 - 股票交易」設置收費。
+
+<img src="/assets/OIFSbw5J4ofcdjxYKiEc0AmYnWc.png" src-width="2836" src-height="1430" align="center"/>
+
+1. 在 SDR048 - Broker Contract Details 報表查閱費用
+
+<img src="/assets/DF3nbcSjLoZKb7xjaBgcqPhSnph.png" src-width="2848" src-height="1214" align="center"/>
+

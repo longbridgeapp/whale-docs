@@ -81,3 +81,25 @@ sidebar_position: 1
 
 <em>1.2F 图二</em>
 
+## 1.2G 问：如何维护客户资料中不同的风险评级。
+
+答：
+
+1. 「资产投资信息」的「风险承受能力」是客户在提交开户时填写。
+
+<img src="/assets/HERIbCCMuo2wsVxQiUhcOjHBn4g.png" src-width="2370" src-height="624" align="center"/>
+
+1.2G 图一
+
+1. 「工单信息」的「风险等级」默认为「低风险」，需要后台操作人员判断去更新。
+
+<img src="/assets/QcJsbFwVTo2S2RxfS9acgL6lnCe.png" src-width="2356" src-height="904" align="center"/>
+
+##### 1.2G 图二
+
+1. 客户自行在 APP 进行的风险评测则在「风险测评」显示。
+
+<img src="/assets/SibDbJvNGoHM9dxTn5Xc6O76ngh.png" src-width="2376" src-height="718" align="center"/>
+
+##### 1.2G 图三
+
