@@ -231,7 +231,7 @@ Whale 基金管理系统全面支持券商维护基金库、配置 App 端基金
 
 首先私募基金的业务系统操作流程如下（SOP） :
 
-<img src="/assets/MXq0bDZzloI8woxgUxvcvqIBnse.jpeg" src-width="1160" src-height="1954" align="center"/>
+<img src="/assets/UmRWw1teMhFUQobBpZbcLFOVnAb-board.png"/>
 
 #### 基金管理
 
@@ -419,8 +419,6 @@ A. <b>数据发送</b>
 整体流程参考示意如下：
 
 <img src="/assets/HgsdwddQ0hO2OGb37mQcdOMnnEf-board.png"/>
-
-<img src="/assets/UlsAb55GAoN0bHx8kzOczAbgn5e.png" src-width="1354" src-height="636" align="center"/>
 
 ### 基金帐号管理
 
