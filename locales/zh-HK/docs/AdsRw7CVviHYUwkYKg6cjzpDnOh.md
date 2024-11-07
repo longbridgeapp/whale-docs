@@ -11,8 +11,6 @@ sidebar_position: 2
 
 當客戶的資產淨值，因市場波動而下跌至低於維持保證金水平時，系統會向客戶發出 Margin Call 通知，客戶必須在 3 個交易日補充資金或平倉，否則業務上有權替客戶進行平倉，而無須事先通知。
 
-<img src="/assets/ICCBwebZUhAJ0sb2lL8c02qbnxg-board.png" src-width="772" src-height="191"/>
-
 ## 業務操作管理
 
 ### 1.風險預警

@@ -9,9 +9,9 @@ sidebar_position: 2
 
 # 一、系統介紹
 
-出金功能是指投資者從其證券帳戶中提取資金的操作。這個功能允許投資者將其證券帳戶中的資金轉移到其銀行帳戶或其他指定的帳戶中。
+出金功能是指投資者從其證券賬戶中提取資金的操作。這個功能允許投資者將其證券賬戶中的資金轉移到其銀行賬戶或其他指定的賬戶中。
 
-Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異常出金、出金記錄查詢等功能，由於監理與風控需求，系統的功能設計具備多角色、流程化的特色，在兼顧出金效率的同時，同步降低了資金風險。
+Whale系統包含了處理出金申請、提現處理、對賬、單獨處理異常出金、出金記錄查詢等功能，由於監理與風控需求，系統的功能設計具備多角色、流程化的特色，在兼顧出金效率的同時，同步降低了資金風險。
 
 整體業務流程如下：
 
@@ -49,7 +49,7 @@ Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異
 
 ## 提現處理
 
-在初審人員提交出金申請後，複審操作人員需要進行提現處理。提現處理提供了2種方式：直接出帳與打包提審。其中：
+在初審人員提交出金申請後，複審操作人員需要進行提現處理。提現處理提供了2種方式：直接出賬與打包提審。其中：
 
 <table>
 <colgroup>
@@ -58,29 +58,29 @@ Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異
 </colgroup>
 <tbody>
 <tr><td><p>出金方式</p></td><td><p>適用場景</p></td></tr>
-<tr><td><p>直接出帳</p></td><td><p>出金的記錄較少，且需要快速進行出金</p></td></tr>
+<tr><td><p>直接出賬</p></td><td><p>出金的記錄較少，且需要快速進行出金</p></td></tr>
 <tr><td><p>打包提審</p></td><td><p>出金的記錄較多，需要對某一時段或某一特定的客戶或其他需要進行集中處理出金的情形</p></td></tr>
 </tbody>
 </table>
 
 - 直接出账
-    - 選擇目標記錄後，點選操作列的【直接出帳】
+    - 選擇目標記錄後，點選操作列的【直接出賬】
     <img src="/assets/HVnIbKbt6o0u9rxPxumcX6psnvf.png" src-width="3826" src-height="1024"/>
-    - 在彈窗中輸入銀行名稱、銀行帳戶、渠道等信息，並在出帳明細中可選擇是否補充銀行流水信息
+    - 在彈窗中輸入銀行名稱、銀行賬戶、渠道等信息，並在出賬明細中可選擇是否補充銀行流水信息
     <img src="/assets/NXXHbrWQXo1V2JxsMedcwzX2n0f.png" src-width="1674" src-height="1748" align="center"/>
-    - 提交審核後，記錄流轉至「直接出帳待處理」頁面，審核者需進行工單審批，審核通過後，完成出帳
+    - 提交審核後，記錄流轉至「直接出賬待處理」頁面，審核者需進行工單審批，審核通過後，完成出賬
     <img src="/assets/SXmZbOROqoIWaCxT1N4c9TdYnfg.png" src-width="3810" src-height="1860"/>
 
 - 打包提審
     - 選擇目標記錄後，點選批次操作行的【打包提審】，如果在打包後需要進行移除部分明細記錄，可以在彈跳窗內進行操作，填好出金的銀行資訊以及渠道資訊後，該批進入審核流程
     <img src="/assets/EbULbLUddo5PbsxvW44cAvdPnvh.png" src-width="3818" src-height="1536" align="center"/>
     <img src="/assets/F0Z4byQjOoTC1SxhGeCcDMchnce.png" src-width="3832" src-height="1848" align="center"/>
-    - 提交審核後，記錄流轉至「打包待處理」頁面，審核者需進行工單審批，審核通過後，完成出帳
+    - 提交審核後，記錄流轉至「打包待處理」頁面，審核者需進行工單審批，審核通過後，完成出賬
     <img src="/assets/Cjp2b0NecoErKXxfhhJcpLEGnac.png" src-width="3830" src-height="1146" align="center"/>
     <img src="/assets/T7WobwUbjobX3ixxhuDcpYA0nVi.png" src-width="3826" src-height="1826" align="center"/>
     - 註：由於出金的數量與渠道限制，部分出金管道需要人工更新出金的狀態，用戶需要點選【檢視並更新結果】進入至詳情頁面進行手動更新（可批量更新）
     <img src="/assets/X9S5bVwl9odtz4xyzFscfYdXnHg.png" src-width="3910" src-height="1942" align="center"/>
-    - 完成出帳後，可將出金文件下載至電腦本地留存
+    - 完成出賬後，可將出金文件下載至電腦本地留存
 
 <img src="/assets/E6MfbCyUuoQhUuxwqXncDA3Fnxf.png" src-width="3836" src-height="1826" align="center"/>
 
@@ -104,7 +104,7 @@ Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異
 
 為了保障資金流水的準確性，業務中需要將銀行的流水與系統中的出金記錄進行比對，降低資金流失的風險。銀行流水的來源有2種：①API對接（自動產生）、②手動導入。（详见詳見「出金賬單」章節）
 
-- 對帳：用戶可以選擇目標期間的銀行流水進行刷新，系統將自動匹配銀行流水與系統的出金記錄，對帳完成後，可以關注清單中的「對帳結果」列，如果不一致，需要進一步追蹤處理。
+- 對賬：用戶可以選擇目標期間的銀行流水進行刷新，系統將自動匹配銀行流水與系統的出金記錄，對賬完成後，可以關注清單中的「對賬結果」列，如果不一致，需要進一步追蹤處理。
 
 <img src="/assets/EGR2bPbVcoJVVJxppgpcOlG4nde.png" src-width="3826" src-height="1790" align="center"/>
 
@@ -112,7 +112,7 @@ Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異
 
 ## 異常出金
 
-若出金申請在提現與對帳流程發現了異常，可在異常出金頁面進行處理（<b>可批量操作</b>）。系統提供了4種處理方式：
+若出金申請在提現與對賬流程發現了異常，可在異常出金頁面進行處理（<b>可批量操作</b>）。系統提供了4種處理方式：
 - 轉成功
 - 轉失敗
 - 再付款（重新生成提現單再次進行付款）
@@ -136,25 +136,25 @@ Whale系統包含了處理出金申請、提現處理、對帳、單獨處理異
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
-<p>菜單入口：款項管理-銀行帳單-出金帳單</p>
+<p>菜單入口：款項管理-銀行賬單-出金賬單</p>
 </div>
 
-- 如果銀行已經對接銀企直連，則係統可以自動取得銀行帳單。
-    - 若無法對接銀企直連，則需要人工後台依照對應銀行帳單範本進行人工導入
+- 如果銀行已經對接銀企直連，則係統可以自動取得銀行賬單。
+    - 若無法對接銀企直連，則需要人工後台依照對應銀行賬單範本進行人工導入
 
 <img src="/assets/BN2pbCn1moFSOXxSODicXwRdnMc.png" src-width="3818" src-height="1796" align="center"/>
 
 <img src="/assets/EU48bYetBofFAAxlZvqcau24nsc.png" src-width="3820" src-height="1866" align="center"/>
 
-- 對於系統取得或手動匯入的銀行帳單，人工確認相應入帳為冗餘資料且匹配狀態為“未匹配”，可選擇手動刪除；
+- 對於系統取得或手動匯入的銀行賬單，人工確認相應入賬為冗餘資料且匹配狀態為“未匹配”，可選擇手動刪除；
 
 <img src="/assets/EBTvbRMjOouihox1c1ccDLBPnsh.png" src-width="3316" src-height="1692" align="center"/>
 
-- 解析銀行帳單時，可能存在銀行出帳的負金額，此時對系統原本判斷為出帳就會出錯。若人工發現有這樣的情況，可以手工將對應的出帳置為入帳；
+- 解析銀行賬單時，可能存在銀行出賬的負金額，此時對系統原本判斷為出賬就會出錯。若人工發現有這樣的情況，可以手工將對應的出賬置為入賬；
 
 <img src="/assets/GGKFbzp1Kol0dJxLFUccR7BPnJe.png" src-width="3308" src-height="1700" align="center"/>
 
-- 對於未配對的提現單需要人工進行根據實際出帳進行關聯打標。
+- 對於未配對的提現單需要人工進行根據實際出賬進行關聯打標。
     - 打標後若發現為誤操作，仍可進行【拒絕】操作
 
 <img src="/assets/L2XYbt21xozm8jxbTCtcT0Xgn2b.png" src-width="3326" src-height="1718" align="center"/>

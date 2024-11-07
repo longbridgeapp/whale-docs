@@ -15,8 +15,6 @@ sidebar_position: 4
 
 在公司行动处理过程中，还会和清算服务、消息中心、资产服务产生互动
 
-<img src="/assets/FFVLw4DV6hN52tb38CscOQDjnhg-board.png" src-width="799" src-height="519"/>
-
 <b>操作流程</b>
 
 1. 预告和方案的创建

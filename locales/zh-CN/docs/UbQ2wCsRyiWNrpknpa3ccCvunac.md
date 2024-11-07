@@ -13,7 +13,7 @@ WHALE 的款项管理系统提供了多情境的入金功能，使用者可以�
 
 # 快速上手
 
-入金功能已依实际业务要求，分为以入金申请为准入帐与以银行流水资讯为准入帐
+入金功能已依实际业务要求，分为以入金申请为准入账与以银行流水资讯为准入账
 
 # 前置条件
 
@@ -99,7 +99,7 @@ WHALE 的款项管理系统提供了多情境的入金功能，使用者可以�
 
 ## 已开户客户入金流程
 
-### 1.以入金申请为准入帐
+### 1.以入金申请为准入账
 
 #### 1.1 创建申请
 
@@ -125,26 +125,34 @@ WHALE 的款项管理系统提供了多情境的入金功能，使用者可以�
 
 后台操作者进入入金申请页面找到对应申请单后，核对无误后可以直接提交入账
 
-<b>点选操作栏的【直接入帐】，在出现的弹跳窗内确认如下事项：</b>
+<b>点选操作栏的【直接入</b><b>账</b><b>】，在出现的弹跳窗内确认如下事项：</b>
 
 - 提交申请资料是否有误
 - 补充此笔申请对应的银行流水（若暂无银行流水，也可先提交审批，后续再补充流水资讯）
 
 <img src="/assets/DL6sb8undoELlvxM0PHcyF3jnwf.png" src-width="3822" src-height="1852" align="center"/>
 
+- 当入金方式为支票，可根据实际业务诉求选择是否冻结。如选择冻结，则可以人为修改预计解冻时间。
+
+<img src="/assets/OmXSbXjOGooJMpxc5d4cFZONnMd.png" src-width="1659" src-height="855" align="center"/>
+
 1. 【凭证关联】
 
-如果操作入账的申请是多笔，则可以进入凭证关联页面进行批量操作入账
+- 如果操作入账的申请是多笔，则可以进入凭证关联页面进行批量操作入账
 
 <img src="/assets/JxTybLt8uouJ3FxylIUcyGXVnIA.png" src-width="3774" src-height="1000" align="center"/>
 
-进入凭证关联页面，会筛选出所有等待入账的申请单，由操作者进行选择，在核对无误后提交入账
+- 进入凭证关联页面，会筛选出所有等待入账的申请单，由操作者进行选择，在核对无误后提交入账
 
 <img src="/assets/JGkwbImigov0fFxJowbceHfxnxe.png" src-width="3324" src-height="1634" align="center"/>
 
+- 当入金方式为支票，可根据实际业务诉求选择是否冻结。如选择冻结，则可以人为修改预计解冻时间。
+
+<img src="/assets/QdpdbeLONonYU0xbyc2cWSTSnOd.png" src-width="1184" src-height="820" align="center"/>
+
 #### 1.3 入金审核
 
-<b>进入入金审核 tab，找到对应的纪录，点选【审批】，召唤出工单，核准通过后入金即可入帐</b>
+<b>进入入金审核 tab，找到对应的纪录，点选【审批】，召唤出工单，核准通过后入金即可入</b><b>账</b>
 
 <img src="/assets/Wt0RbcH5LoByZTx1n04c4wYXnGg.png" src-width="3312" src-height="762" align="center"/>
 
@@ -152,11 +160,15 @@ WHALE 的款项管理系统提供了多情境的入金功能，使用者可以�
 
 <img src="/assets/B4JGbwbvloNFAAxe8F0cfI13nNg.png" src-width="3318" src-height="602" align="center"/>
 
-如果需要审批的工单有多笔，可以勾选出对应记录进行批量审批
+- 如果需要审批的工单有多笔，可以勾选出对应记录进行批量审批
 
 <img src="/assets/KY2ab1Xsro9A0FxFCzGcFXiNn9t.png" src-width="3320" src-height="1610" align="center"/>
 
-### 2.以银行流水为准入帐
+- 入金审核时，当入金方式为支票，会展示是否冻结相应信息。
+
+<img src="/assets/JyXNbytSWottPjxoV1BcrStannc.png" src-width="1610" src-height="876" align="center"/>
+
+### 2.以银行流水为准入账
 
 根据实际到账资金进行入账。
 
@@ -184,15 +196,21 @@ WHALE 的款项管理系统提供了多情境的入金功能，使用者可以�
 
 对于人工导入的银行账单，需要手工进行关联，区分两种情况：关联入金申请和关联银行卡。
 
-1. <b>关联入金申请</b>
+1. 关联入金申请
 
-<b>步骤一：</b><b>选择银行流水记录，点选关联进入二级页面</b>
+- 包含两类客户：已开户且已提交入金申请、认证类型为转账验证的开户入金
+
+步骤一：选择银行流水记录，点选关联进入二级页面
 
 <img src="/assets/SMMsbua19oBUa8xXcvpcbAjinfd.png" src-width="3320" src-height="1388" align="center"/>
 
-<b>步骤二：选择银行流水记录，点选关联进入二级页面，</b><b>关联到对应入金申请，</b><b>根据页面中的校对结果，确认无误后点选【关联】，记录即可流转到审批节点</b><b> </b>
+步骤二：选择银行流水记录，点选关联进入二级页面，关联到对应入金申请，根据页面中的校对结果，确认无误后点选【关联】，记录即可流转到审批节点 
 
 <img src="/assets/HVnGbZw1to2Da6xatmvcfRvnngd.png" src-width="3298" src-height="1616" align="center"/>
+
+- 当入金方式为支票，可根据实际业务诉求选择是否冻结。如选择冻结，则可以人为修改预计解冻时间。
+
+<img src="/assets/JdgPbA3XEoGxK0xfGFZcqKIingc.png" src-width="1588" src-height="1161" align="center"/>
 
 1. 关联银行卡
 
@@ -200,19 +218,30 @@ WHALE 的款项管理系统提供了多情境的入金功能，使用者可以�
 
 <img src="/assets/Ro79bZP90ohBuVxjrSJcr0rpnOd.png" src-width="3310" src-height="1760" align="center"/>
 
+1. 直接关联证券账户
+
+- 包含两类客户：已开户且未提交入金申请、认证类型为支票验证的开户入金
+
+通过银行流水可以直接关联关联证券账户进行入账。
+
+<img src="/assets/SHTnbbUblolOyuxMWiKcs5z4nVh.png" src-width="3210" src-height="1762" align="center"/>
+
 #### 2.3 <b>入金审核</b>
 
 <b>具体操作详见“1.3 入金审核”</b>
 
 ## 开户中客户的入金流程
 
-在正常提交了入金申请后，后台操作人员已经通过了入金流程，但由于该客户的帐户仍未开通，需要针对此场景单独处理。
+- 客户选择认证类型为转账验证，则需要通过入金申请进行操作入账，具体操作详见“1.以入金申请为准入账”
+- 客户选择认证类型为支票验证，由于客户端未提交入金请申请，需要以银行流水为准入账，具体操作详见“2.以银行流水为准入账”
+
+后台操作人员已经通过了入金流程，但由于该客户的账户仍未开通，需要针对此场景单独处理。
 
 <b>步骤一：进入开户中入金 tab 页面（该页面中的入金已经通过，需要等待开户完成）</b>
 
 <img src="/assets/Mo7AbzjFBoTzKKxnidOcD97MnBh.png" src-width="3306" src-height="1752" align="center"/>
 
-<b>步骤二：关注清单中的开户状态与加款状态，若该客户的帐户最终未能开户成功，开户状态将会体现为「审核未通过」，需要进入步骤三</b>
+<b>步骤二：关注清单中的开户状态与加款状态，若该客户的</b><b>账</b><b>户最终未能开户成功，开户状态将会体现为「审核未通过」，需要进入步骤三</b>
 
 <img src="/assets/W6LTbydtToXHbOxRkmPcrPeqnLb.png" src-width="3308" src-height="1770" align="center"/>
 

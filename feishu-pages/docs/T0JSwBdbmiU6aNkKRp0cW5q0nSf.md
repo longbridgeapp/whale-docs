@@ -72,41 +72,34 @@ Whale系統包含了存入申請、存入明細、便捷導入參數設置、電
 
 - 修改：若在處理證券明細時，發現用戶提交的某筆具體的明細記錄有問題，可在與客戶確認無誤後可以透過【編輯】按鈕進行修正
     - 修改的范围：股票名稱、託管商編號、子倉編號、證券明細數量、轉入成本、結單備註
-
-<img src="/assets/VCsIbKiGOoCzpNxrRC4cHIFzn5f.png" src-width="3818" src-height="1836"/>
+    <img src="/assets/RuHIbkkDWoywuhxDvp1criX6nlw.png" src-width="3768" src-height="1058" align="center"/>
 
 - 删除：若在證券明細時，用戶反映提交的某筆具體的明細記錄不再進行轉入，可以透過【删除】按鈕直接刪除目標明細記錄
 - 生成SI指令（<b>可批量操作）</b>：由於轉倉業務需要在CCASS裡填寫必要的SI信息，生成SI指令功能可以將這些必要的信息以文件的形式自動保存，供用戶進行上傳CCASS，以免於手動在CCASS系統錄入。產生的SI指令也可以在「SI指令清單」選單下進行詳情查看、匯出等操作
 
-<div class="flex gap-3 columns-2" column-size="2">
-<div class="w-[50%]" width-ratio="50">
-<img src="/assets/Sd08b1d1yoPMeaxsM2oc98HOnna.png" src-width="3828" src-height="1824" align="center"/>
-</div>
-<div class="w-[50%]" width-ratio="50">
+<img src="/assets/DoAObUI5Bos9r0xdMTHcChrnnuf.png" src-width="3782" src-height="850" align="center"/>
+
 <img src="/assets/IwfnbUH2oorMwFxIcS5cCZlGnqd.png" src-width="3822" src-height="1796" align="center"/>
-</div>
-</div>
 
 - 編輯SI指令（<b>可批量操作）</b>：若需要對已經產生的SI資訊進行修改，可以點選【編輯SI資訊】對目標欄位進行修正
 
-<img src="/assets/CXNObXfNhoyoLoxtqwDcqZ5nnxb.png" src-width="2872" src-height="1322" align="center"/>
+<img src="/assets/EWnjbNP7eoqLFIxmFivcI9dFnod.png" src-width="3800" src-height="1340" align="center"/>
 
 - 處理-成功提交/失敗提交（<b>可批量操作）</b>：若操作人員認定某個明細沒有問題，可以點選【處理】選擇【成功提交】，反之選擇【失敗提交】。
     - 處理完畢後，流程進行至下一節點，需要在工單中心進行審核，審核通過購，股票成功入倉
-    <img src="/assets/HjJ4bfRmYobd1Hxg6rVcsZ0Tnic.png" src-width="3824" src-height="1782" align="center"/>
+    <img src="/assets/D67hbE26Voc8FNxtjwnczRPMndh.png" src-width="1280" src-height="381" align="center"/>
     - 若用戶轉入的證券為實體股票，可在處理時同時手動設定實體股票的解凍時間，實體股票將在設定的時間點自動解凍，如若未設定時間，流程通過後則立即解凍
-    <img src="/assets/TUtGbejRkouYMDxKszzcKVzxn6g.png" src-width="3828" src-height="1566" align="center"/>
+    <img src="/assets/QuDQbdbghoIsUax9znoc9RFEnwh.png" src-width="3802" src-height="1256" align="center"/>
 
 - 審批（<b>可批量操作）</b>：處理結果提交後，操作列出現【審核】按鈕，點選可以召喚出工單審核頁面
     - 處理完畢後，流程進行至下一節點，需要在工單中心進行審核，審核通過購，股票成功入倉
-
-<img src="/assets/KvRBb19f0oCmahxZVzvcI2PQnsd.png" src-width="3906" src-height="1943" align="center"/>
+    <img src="/assets/HMD0bvWDBoWEI2xWvrOc8t1Nnih.png" src-width="3900" src-height="1863" align="center"/>
 
 - 提交解凍（<b>可批量操作）</b>：若客戶轉入的證券為實體股票，且在處理時，設定了解凍時間，但在期限到達前想要提前對實體股票進行處理，可以進行手動解凍，提交后需再次進行審批，審批通過後立即解凍成功。
 
-<img src="/assets/I2XsbjBPeo1htexdyWfcZm7VnXf.png" src-width="3822" src-height="1162" align="center"/>
+<img src="/assets/FZYXbYEHeoizmgx8nDTcjPjJnRh.png" src-width="3806" src-height="1132" align="center"/>
 
-<img src="/assets/TGOob6vbroPLL8xiXOgcZoZKn8e.png" src-width="3824" src-height="1866" align="center"/>
+<img src="/assets/JXKEbi6FsoYFr7xkK2OcHVGJnqv.png" src-width="3836" src-height="1776" align="center"/>
 
 ## 存入限制
 

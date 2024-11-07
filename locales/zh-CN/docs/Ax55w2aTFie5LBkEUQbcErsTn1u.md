@@ -9,9 +9,9 @@ sidebar_position: 2
 
 # 一、系统介绍
 
-出金功能是指投资者从其证券帐户中提取资金的操作。这个功能允许投资者将其证券帐户中的资金转移到其银行帐户或其他指定的帐户中。
+出金功能是指投资者从其证券账户中提取资金的操作。这个功能允许投资者将其证券账户中的资金转移到其银行账户或其他指定的账户中。
 
-Whale 系统包含了处理出金申请、提现处理、对帐、单独处理异常出金、出金记录查询等功能，由于监理与风控需求，系统的功能设计具备多角色、流程化的特色，在兼顾出金效率的同时，同步降低了资金风险。
+Whale 系统包含了处理出金申请、提现处理、对账、单独处理异常出金、出金记录查询等功能，由于监理与风控需求，系统的功能设计具备多角色、流程化的特色，在兼顾出金效率的同时，同步降低了资金风险。
 
 整体业务流程如下：
 
@@ -49,7 +49,7 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 ## 提现处理
 
-在初审人员提交出金申请后，复审操作人员需要进行提现处理。提现处理提供了 2 种方式：直接出帐与打包提审。其中：
+在初审人员提交出金申请后，复审操作人员需要进行提现处理。提现处理提供了 2 种方式：直接出账与打包提审。其中：
 
 <table>
 <colgroup>
@@ -58,29 +58,29 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 </colgroup>
 <tbody>
 <tr><td><p>出金方式</p></td><td><p>适用场景</p></td></tr>
-<tr><td><p>直接出帐</p></td><td><p>出金的记录较少，且需要快速进行出金</p></td></tr>
+<tr><td><p>直接出账</p></td><td><p>出金的记录较少，且需要快速进行出金</p></td></tr>
 <tr><td><p>打包提审</p></td><td><p>出金的记录较多，需要对某一时段或某一特定的客户或其他需要进行集中处理出金的情形</p></td></tr>
 </tbody>
 </table>
 
 - 直接出账
-    - 选择目标记录后，点选操作列的【直接出帐】
+    - 选择目标记录后，点选操作列的【直接出账】
     <img src="/assets/HVnIbKbt6o0u9rxPxumcX6psnvf.png" src-width="3826" src-height="1024"/>
-    - 在弹窗中输入银行名称、银行帐户、渠道等信息，并在出帐明细中可选择是否补充银行流水信息
+    - 在弹窗中输入银行名称、银行账户、渠道等信息，并在出账明细中可选择是否补充银行流水信息
     <img src="/assets/NXXHbrWQXo1V2JxsMedcwzX2n0f.png" src-width="1674" src-height="1748" align="center"/>
-    - 提交审核后，记录流转至「直接出帐待处理」页面，审核者需进行工单审批，审核通过后，完成出帐
+    - 提交审核后，记录流转至「直接出账待处理」页面，审核者需进行工单审批，审核通过后，完成出账
     <img src="/assets/SXmZbOROqoIWaCxT1N4c9TdYnfg.png" src-width="3810" src-height="1860"/>
 
 - 打包提审
     - 选择目标记录后，点选批次操作行的【打包提审】，如果在打包后需要进行移除部分明细记录，可以在弹跳窗内进行操作，填好出金的银行资讯以及渠道资讯后，该批进入审核流程
     <img src="/assets/EbULbLUddo5PbsxvW44cAvdPnvh.png" src-width="3818" src-height="1536" align="center"/>
     <img src="/assets/F0Z4byQjOoTC1SxhGeCcDMchnce.png" src-width="3832" src-height="1848" align="center"/>
-    - 提交审核后，记录流转至「打包待处理」页面，审核者需进行工单审批，审核通过后，完成出帐
+    - 提交审核后，记录流转至「打包待处理」页面，审核者需进行工单审批，审核通过后，完成出账
     <img src="/assets/Cjp2b0NecoErKXxfhhJcpLEGnac.png" src-width="3830" src-height="1146" align="center"/>
     <img src="/assets/T7WobwUbjobX3ixxhuDcpYA0nVi.png" src-width="3826" src-height="1826" align="center"/>
     - 注：由于出金的数量与渠道限制，部分出金管道需要人工更新出金的状态，用户需要点选【检视并更新结果】进入至详情页面进行手动更新（可批量更新）
     <img src="/assets/X9S5bVwl9odtz4xyzFscfYdXnHg.png" src-width="3910" src-height="1942" align="center"/>
-    - 完成出帐后，可将出金文件下载至电脑本地留存
+    - 完成出账后，可将出金文件下载至电脑本地留存
 
 <img src="/assets/E6MfbCyUuoQhUuxwqXncDA3Fnxf.png" src-width="3836" src-height="1826" align="center"/>
 
@@ -104,7 +104,7 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 为了保障资金流水的准确性，业务中需要将银行的流水与系统中的出金记录进行比对，降低资金流失的风险。银行流水的来源有 2 种：①API 对接（自动产生）、②手动导入。（详见详见「出金账单」章节）
 
-- 对帐：用户可以选择目标期间的银行流水进行刷新，系统将自动匹配银行流水与系统的出金记录，对帐完成后，可以关注清单中的「对帐结果」列，如果不一致，需要进一步追踪处理。
+- 对账：用户可以选择目标期间的银行流水进行刷新，系统将自动匹配银行流水与系统的出金记录，对账完成后，可以关注清单中的「对账结果」列，如果不一致，需要进一步追踪处理。
 
 <img src="/assets/EGR2bPbVcoJVVJxppgpcOlG4nde.png" src-width="3826" src-height="1790" align="center"/>
 
@@ -112,7 +112,7 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 ## 异常出金
 
-若出金申请在提现与对帐流程发现了异常，可在异常出金页面进行处理（<b>可批量操作</b>）。系统提供了 4 种处理方式：
+若出金申请在提现与对账流程发现了异常，可在异常出金页面进行处理（<b>可批量操作</b>）。系统提供了 4 种处理方式：
 - 转成功
 - 转失败
 - 再付款（重新生成提现单再次进行付款）
@@ -136,25 +136,25 @@ Whale 系统包含了处理出金申请、提现处理、对帐、单独处理�
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
-<p>菜单入口：款项管理 - 银行帐单 - 出金帐单</p>
+<p>菜单入口：款项管理 - 银行账单 - 出金账单</p>
 </div>
 
-- 如果银行已经对接银企直连，则系统可以自动取得银行帐单。
-    - 若无法对接银企直连，则需要人工后台依照对应银行帐单范本进行人工导入
+- 如果银行已经对接银企直连，则系统可以自动取得银行账单。
+    - 若无法对接银企直连，则需要人工后台依照对应银行账单范本进行人工导入
 
 <img src="/assets/BN2pbCn1moFSOXxSODicXwRdnMc.png" src-width="3818" src-height="1796" align="center"/>
 
 <img src="/assets/EU48bYetBofFAAxlZvqcau24nsc.png" src-width="3820" src-height="1866" align="center"/>
 
-- 对于系统取得或手动汇入的银行帐单，人工确认相应入帐为冗余资料且匹配状态为“未匹配”，可选择手动删除；
+- 对于系统取得或手动汇入的银行账单，人工确认相应入账为冗余资料且匹配状态为“未匹配”，可选择手动删除；
 
 <img src="/assets/EBTvbRMjOouihox1c1ccDLBPnsh.png" src-width="3316" src-height="1692" align="center"/>
 
-- 解析银行帐单时，可能存在银行出帐的负金额，此时对系统原本判断为出帐就会出错。若人工发现有这样的情况，可以手工将对应的出帐置为入帐；
+- 解析银行账单时，可能存在银行出账的负金额，此时对系统原本判断为出账就会出错。若人工发现有这样的情况，可以手工将对应的出账置为入账；
 
 <img src="/assets/GGKFbzp1Kol0dJxLFUccR7BPnJe.png" src-width="3308" src-height="1700" align="center"/>
 
-- 对于未配对的提现单需要人工进行根据实际出帐进行关联打标。
+- 对于未配对的提现单需要人工进行根据实际出账进行关联打标。
     - 打标后若发现为误操作，仍可进行【拒绝】操作
 
 <img src="/assets/L2XYbt21xozm8jxbTCtcT0Xgn2b.png" src-width="3326" src-height="1718" align="center"/>

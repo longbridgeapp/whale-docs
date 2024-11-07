@@ -22,13 +22,13 @@ WHALE 证券管理系统中的证券取出功能支援用户新增客户的证�
 <p>菜单入口：证券管理 - 券商信息配置</p>
 </div>
 
-点选【新增】，在唤出的弹窗中依上方 tab 分别填入资讯
+点选【新建】，在唤出的弹窗中依上方 tab 分别填入资讯
 
-<img src="/assets/CGbkbUMoGod2y6xsT1LcYv2Vnvd.png" src-width="3818" src-height="1866" align="center"/>
+<img src="/assets/WwRmbNcEUo9V0bxYqnGcMJ1CnyY.png" src-width="3886" src-height="1840" align="center"/>
 
 若已设定的券商资讯需要修改、下架、上架，可以在目标记录后的操作列进行操作
 
-<img src="/assets/MN4bbfdgyoq6jrxLTXecwAr8njd.png" src-width="3806" src-height="1854" align="center"/>
+<img src="/assets/Gnlcb1Z45obw8cxefIycijPunIg.png" src-width="3248" src-height="722" align="center"/>
 
 名词解释
 

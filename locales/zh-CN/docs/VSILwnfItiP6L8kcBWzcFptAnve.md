@@ -15,11 +15,11 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 ## 前置条件
 
-1. 设定公司银行帐户出金方式
+1. 设定公司银行账户出金方式
 
 <div class="callout callout-bg-6 callout-border-6">
 <div class='callout-emoji'>📍</div>
-<p>菜单入口：业务参数设定&gt;资金参数&gt;公司银行帐户</p>
+<p>菜单入口：业务参数设定&gt;资金参数&gt;公司银行账户</p>
 </div>
 
 <img src="/assets/Jc3ZbG0kHoHzp9xpuYdczFiqnpf.png" src-width="2844" src-height="1304" align="center"/>
@@ -59,15 +59,15 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 ## 提现处理
 
-出金申请提交后，具体操作提现的人员将会根据实际情况灵活处理提现的方式，系统提供了 2 套提现的模式：直接出帐、打包提现。同时，用户相应出金的渠道可能存在日限额，所以为了降低出金异常情况，建立了出金日限额监控提示以、管理以及查看。
+出金申请提交后，具体操作提现的人员将会根据实际情况灵活处理提现的方式，系统提供了 2 套提现的模式：直接出账、打包提现。同时，用户相应出金的渠道可能存在日限额，所以为了降低出金异常情况，建立了出金日限额监控提示以、管理以及查看。
 
-### 直接出帐
+### 直接出账
 
-<b>步骤一</b>：进入提现处理 tab 页下的待处理分类页面，选择目标记录，确认资讯无误后点选【直接出帐】
+<b>步骤一</b>：进入提现处理 tab 页下的待处理分类页面，选择目标记录，确认资讯无误后点选【直接出账】
 
 <img src="/assets/P3bibjGXxo2tRYxB6U1cAJc4nrc.png" src-width="3310" src-height="1716" align="center"/>
 
-<b>步骤二</b>：在出现的弹跳窗内输入银行名称、银行帐户、通路、银行流水（如有），点选【提交审核】（<em>若不需要工单审批，可以进行配置，详见步骤五</em>）
+<b>步骤二</b>：在出现的弹跳窗内输入银行名称、银行账户、通路、银行流水（如有），点选【提交审核】（<em>若不需要工单审批，可以进行配置，详见步骤五</em>）
 
 <img src="/assets/ROgZbn9cMosrZNx2KbrcKnRunDb.png" src-width="3326" src-height="1776" align="center"/>
 
@@ -75,7 +75,7 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 <img src="/assets/MXI1b4TcUoVXkhxUeW0ceaxtndb.png" src-width="3824" src-height="1848" align="center"/>
 
-<b>步骤四</b>：进入直接出帐待处理分类页面中的目标记录，点选【检视并更新结果】手动更新出金的状态，更新成「成功」后即可完成出账
+<b>步骤四</b>：进入直接出账待处理分类页面中的目标记录，点选【检视并更新结果】手动更新出金的状态，更新成「成功」后即可完成出账
 
 <img src="/assets/IpTsbedS3ot6bsxwXYtcjX7WnUh.png" src-width="3320" src-height="1020" align="center"/>
 
@@ -105,7 +105,7 @@ WHALE 的款项管理系统提供了多情境的出金功能，使用者可以�
 
 <img src="/assets/TCNlbkuaioHyRix5pqVcMXYTnlh.png" src-width="3318" src-height="1764" align="center"/>
 
-<b>步骤五：进入工单系统中针对刚刚更新的结果再次进行审核通过，即可完成出帐</b>
+<b>步骤五：进入工单系统中针对刚刚更新的结果再次进行审核通过，即可完成出</b><b>账</b>
 
 <img src="/assets/X8QJbJMBqohOYaxzDfdcPSZJnvb.png" src-width="3808" src-height="1868" align="center"/>
 

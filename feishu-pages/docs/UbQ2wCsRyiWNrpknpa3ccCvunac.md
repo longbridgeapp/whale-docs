@@ -13,7 +13,7 @@ WHALE的款項管理系統提供了多情境的入金功能，使用者可以在
 
 # 快速上手
 
-入金功能已依實際業務要求，分為以入金申請為准入帳與以銀行流水資訊為准入帳
+入金功能已依實際業務要求，分為以入金申請為准入賬與以銀行流水資訊為准入賬
 
 # 前置條件
 
@@ -99,7 +99,7 @@ WHALE的款項管理系統提供了多情境的入金功能，使用者可以在
 
 ## 已開戶客戶入金流程
 
-### 1.以入金申請為准入帳
+### 1.以入金申請為准入賬
 
 #### 1.1 創建申請
 
@@ -125,26 +125,34 @@ WHALE的款項管理系統提供了多情境的入金功能，使用者可以在
 
 後臺操作者進入入金申請頁面找到對應申請單後，覈對無誤後可以直接提交入賬
 
-<b>點選操作欄的【直接入帳】，在出現的彈跳窗內確認如下事項：</b>
+<b>點選操作欄的【直接入</b><b>賬</b><b>】，在出現的彈跳窗內確認如下事項：</b>
 
 - 提交申請資料是否有誤
 - 補充此筆申請對應的銀行流水（若暫無銀行流水，也可先提交審批，後續再補充流水資訊）
 
 <img src="/assets/DL6sb8undoELlvxM0PHcyF3jnwf.png" src-width="3822" src-height="1852" align="center"/>
 
+- 當入金方式爲支票，可根據實際業務訴求選擇是否凍結。如選擇凍結，則可以人爲修改預計解凍時間。
+
+<img src="/assets/OmXSbXjOGooJMpxc5d4cFZONnMd.png" src-width="1659" src-height="855" align="center"/>
+
 1. 【憑證關聯】
 
-如果操作入賬的申請是多筆，則可以進入憑證關聯頁面進行批量操作入賬
+- 如果操作入賬的申請是多筆，則可以進入憑證關聯頁面進行批量操作入賬
 
 <img src="/assets/JxTybLt8uouJ3FxylIUcyGXVnIA.png" src-width="3774" src-height="1000" align="center"/>
 
-進入憑證關聯頁面，會篩選出所有等待入賬的申請單，由操作者進行選擇，在覈對無誤後提交入賬
+- 進入憑證關聯頁面，會篩選出所有等待入賬的申請單，由操作者進行選擇，在覈對無誤後提交入賬
 
 <img src="/assets/JGkwbImigov0fFxJowbceHfxnxe.png" src-width="3324" src-height="1634" align="center"/>
 
+- 當入金方式爲支票，可根據實際業務訴求選擇是否凍結。如選擇凍結，則可以人爲修改預計解凍時間。
+
+<img src="/assets/QdpdbeLONonYU0xbyc2cWSTSnOd.png" src-width="1184" src-height="820" align="center"/>
+
 #### 1.3 入金审核
 
-<b>進入入金審核tab，找到對應的紀錄，點選【審批】，召喚出工單，核准通過後入金即可入帳</b>
+<b>進入入金審核tab，找到對應的紀錄，點選【審批】，召喚出工單，核准通過後入金即可入</b><b>賬</b>
 
 <img src="/assets/Wt0RbcH5LoByZTx1n04c4wYXnGg.png" src-width="3312" src-height="762" align="center"/>
 
@@ -152,11 +160,15 @@ WHALE的款項管理系統提供了多情境的入金功能，使用者可以在
 
 <img src="/assets/B4JGbwbvloNFAAxe8F0cfI13nNg.png" src-width="3318" src-height="602" align="center"/>
 
-如果需要审批的工单有多笔，可以勾选出对应记录进行批量审批
+- 如果需要审批的工单有多笔，可以勾选出对应记录进行批量审批
 
 <img src="/assets/KY2ab1Xsro9A0FxFCzGcFXiNn9t.png" src-width="3320" src-height="1610" align="center"/>
 
-### 2.以銀行流水為准入帳
+- 入金審覈時，當入金方式爲支票，會展示是否凍結相應信息。
+
+<img src="/assets/JyXNbytSWottPjxoV1BcrStannc.png" src-width="1610" src-height="876" align="center"/>
+
+### 2.以銀行流水為准入賬
 
 根據實際到賬資金進行入賬。
 
@@ -184,15 +196,21 @@ WHALE的款項管理系統提供了多情境的入金功能，使用者可以在
 
 對於人工導入的銀行賬單，需要手工進行關聯，區分兩種情況：關聯入金申請和關聯銀行卡。
 
-1. <b>關聯入金申請</b>
+1. 關聯入金申請
 
-<b>步骤一：</b><b>選擇銀行流水記錄，點選關聯進入二級頁面</b>
+- 包含兩類客戶：已開戶且已提交入金申請、認證類型爲轉賬驗證的開戶入金
+
+步骤一：選擇銀行流水記錄，點選關聯進入二級頁面
 
 <img src="/assets/SMMsbua19oBUa8xXcvpcbAjinfd.png" src-width="3320" src-height="1388" align="center"/>
 
-<b>步驟二：選擇銀行流水記錄，點選關聯進入二級頁面，</b><b>关联到对应入金申请，</b><b>根據頁面中的校對結果，確認無誤後點選【關聯】，記錄即可流轉到審批節點</b><b> </b>
+步驟二：選擇銀行流水記錄，點選關聯進入二級頁面，关联到对应入金申请，根據頁面中的校對結果，確認無誤後點選【關聯】，記錄即可流轉到審批節點 
 
 <img src="/assets/HVnGbZw1to2Da6xatmvcfRvnngd.png" src-width="3298" src-height="1616" align="center"/>
+
+- 當入金方式爲支票，可根據實際業務訴求選擇是否凍結。如選擇凍結，則可以人爲修改預計解凍時間。
+
+<img src="/assets/JdgPbA3XEoGxK0xfGFZcqKIingc.png" src-width="1588" src-height="1161" align="center"/>
 
 1. 關聯銀行卡
 
@@ -200,19 +218,30 @@ WHALE的款項管理系統提供了多情境的入金功能，使用者可以在
 
 <img src="/assets/Ro79bZP90ohBuVxjrSJcr0rpnOd.png" src-width="3310" src-height="1760" align="center"/>
 
+1. 直接關聯證券賬戶
+
+- 包含兩類客戶：已開戶且未提交入金申請、認證類型爲支票驗證的開戶入金
+
+通過銀行流水可以直接關聯關聯證券賬戶進行入賬。
+
+<img src="/assets/SHTnbbUblolOyuxMWiKcs5z4nVh.png" src-width="3210" src-height="1762" align="center"/>
+
 #### 2.3 <b>入金審覈</b>
 
 <b>具體操作詳見“1.3 入金審覈”</b>
 
 ## 開戶中客戶的入金流程
 
-在正常提交了入金申請後，後台操作人員已經通過了入金流程，但由於該客戶的帳戶仍未開通，需要針對此場景單獨處理。
+- 客戶選擇認證類型爲轉賬驗證，則需要通過入金申請進行操作入賬，具體操作詳見“1.以入金申請為准入賬”
+- 客戶選擇認證類型爲支票驗證，由於客戶端未提交入金請申請，需要以銀行流水爲準入賬，具體操作詳見“2.以銀行流水為准入賬”
+
+後台操作人員已經通過了入金流程，但由於該客戶的賬戶仍未開通，需要針對此場景單獨處理。
 
 <b>步驟一：進入開戶中入金tab頁面（該頁面中的入金已經通過，需要等待開户完成）</b>
 
 <img src="/assets/Mo7AbzjFBoTzKKxnidOcD97MnBh.png" src-width="3306" src-height="1752" align="center"/>
 
-<b>步驟二：關注清單中的開戶狀態與加款狀態，若該客戶的帳戶最終未能開戶成功，開戶狀態將會體現為「審核未通過」，需要進入步驟三</b>
+<b>步驟二：關注清單中的開戶狀態與加款狀態，若該客戶的</b><b>賬</b><b>戶最終未能開戶成功，開戶狀態將會體現為「審核未通過」，需要進入步驟三</b>
 
 <img src="/assets/W6LTbydtToXHbOxRkmPcrPeqnLb.png" src-width="3308" src-height="1770" align="center"/>
 

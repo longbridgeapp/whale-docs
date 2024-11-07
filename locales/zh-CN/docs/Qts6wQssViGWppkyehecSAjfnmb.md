@@ -12,7 +12,7 @@ sidebar_position: 3
 <p>问：出金方式有哪些？</p>
 </div>
 
-答：目前支援的出金方式包括：银证出金、API 直连付款（FPS、CHATS、SWIFT、行内转帐）、批量网银转账。
+答：目前支援的出金方式包括：银证出金、API 直连付款（FPS、CHATS、SWIFT、行内转账）、批量网银转账。
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
@@ -26,7 +26,7 @@ sidebar_position: 3
 <p>问：为什么有些出金不需要手动更新状态？</p>
 </div>
 
-答：由于部分出金方式对接了 API 频道后，出金的核准、出帐都是自动化，系统全流程自动执行，无需人工介入。
+答：由于部分出金方式对接了 API 频道后，出金的核准、出账都是自动化，系统全流程自动执行，无需人工介入。
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>

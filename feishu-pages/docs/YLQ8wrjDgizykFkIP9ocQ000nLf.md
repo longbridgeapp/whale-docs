@@ -211,11 +211,11 @@ sidebar_position: 3
 <p>解決方案：HK自動交收</p>
 </div>
 
-方式一：可以打開“11點的港股自動交收”任務
+方式一：可以打開“11點的港股自動交收”、“US日切後自動交收”任務
 
 路径：业务参数设置-日终设置-清算参数配置
 
-<img src="/assets/FgPqbAWVloir6ixmv41cpyxxnhD.png" src-width="3574" src-height="1774" align="center"/>
+<img src="/assets/SpPybPk1noYDfKx4vvyc0fPwnWd.png" src-width="3570" src-height="1774" align="center"/>
 
 方式二：手工操作提前交收
 
@@ -228,4 +228,52 @@ sidebar_position: 3
 操作後可觀察交收批次是否處理完畢
 
 <img src="/assets/TNFubCMOyofC61xiJgQcFDcdnAc.png" src-width="2516" src-height="740" align="center"/>
+
+## 切換上手時的內部轉倉
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>切換上手後如果在系統進行內部轉倉</p>
+</div>
+
+<b>方式一：單筆操作</b>
+
+操作路徑：清算管理-倉位管理-倉位查詢
+
+a.<b>篩選數據</b>
+- 日期範圍： 設定為「當前賬務日」以篩選出當日相關資料。
+- 其他條件： 如有需要，可進一步篩選客戶、股票等條件，以縮小查詢範圍
+<b>b.執行內部轉倉</b>
+- <b>逐一處理：</b> 針對每一個客戶、每一個股票，分別執行內部轉倉操作
+<b>c.注意事項</b>
+- 在清算中檢查前操作
+- 即使之後撤銷了清算，系統仍會保留此次操作的記錄
+
+<img src="/assets/IMiEbxRZaozj5VxsXvBc1LZ3nee.png" src-width="3570" src-height="1774" align="center"/>
+
+<img src="/assets/GuZdbsQeaoty8nxpxYFcXYM5nbb.png" src-width="3570" src-height="1774" align="center"/>
+
+<b>方式二：批量操作</b>
+- 操作路徑：清算管理-倉位管理-倉位查詢
+- 在清算中檢查前操作
+- 即使之後撤銷了清算，系統仍會保留此次操作的記錄
+
+<img src="/assets/EHoSbkg91ozmXKxOpfIcSpOXnJ0.png" src-width="3570" src-height="1774" align="center"/>
+
+<b>修改子倉模板</b>
+- 字段解析如下圖
+- 按圖示的文檔
+    - 系統將找到香港市場H123456客戶託管在U123445的持倉，並全部轉到U23333的持倉上
+- 注意事項：上傳修改子倉的模板後，系統將同時修改待交收的合約
+
+<img src="/assets/VBWMb1s4PoBCcXxNZs4cI7vKn4e.png" src-width="3570" src-height="1774" align="center"/>
+
+<b>基礎倉位調整</b>
+- 字段解析如下圖
+- 按按圖示的文檔
+    - 系統會將客戶H1000001在託管商ID1子倉3上的ST/HK/700將減少1000股；
+    - 系統會將客戶H1000001在託管商ID1子倉4上的ST/HK/700將增加1000股
+- 基礎倉位調整的模板，將不會修改待交收的合約。基礎倉位調整的模板，可同時調整Sreet、Nominee、Own。用來操作內部轉倉時，必須有配套的數據（兩條）
+
+<img src="/assets/MOxDby2MtoLWjgxxMJuczzginIb.png" src-width="3570" src-height="1774" align="center"/>
 

@@ -13,11 +13,7 @@ Whale 新股认购系统支持券商支持客户新股认购的全过程，主�
 
 ## 新股流程说明
 
-<img src="/assets/WA2ZwNds0hy2bkbnElicgcmbnLe-board.png"/>
-
 ## 新股模块说明
-
-<img src="/assets/LW7UwzUBvh2T5xbTW8ucqTFbnfc-board.png"/>
 
 <img src="/assets/Z2tAbdZTtoWHxnxxT9zcFqSgnxe.png" src-width="3214" src-height="1476" align="center"/>
 

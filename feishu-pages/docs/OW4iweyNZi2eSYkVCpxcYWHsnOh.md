@@ -22,13 +22,13 @@ WHALE證券管理系統中的證券存入功能支援用戶新增客戶的證券
 <p>菜單入口：證券管理-券商信息配置</p>
 </div>
 
-點選【新增】，在喚出的彈窗中依上方tab分別填入資訊
+點選【新建】，在喚出的彈窗中依上方tab分別填入資訊
 
-<img src="/assets/J41GbdodxoiyTixCt8icBMehnwb.png" src-width="3818" src-height="1866" align="center"/>
+<img src="/assets/S4W7buqatoiKFCx6RwncFDEHnO5.png" src-width="3886" src-height="1840" align="center"/>
 
 若已設定的券商資訊需要修改、下架、上架，可以在目標記錄後的操作列進行操作
 
-<img src="/assets/TZY5blzu1oYqusxmx7IcZMwZnfd.png" src-width="3806" src-height="1854" align="center"/>
+<img src="/assets/DHZUbZaZcoBcioxctSZchwcrnjc.png" src-width="3248" src-height="722" align="center"/>
 
 名詞解釋
 
@@ -93,13 +93,13 @@ WHALE證券管理系統中的證券存入功能支援用戶新增客戶的證券
 
 ### 處理證券存入明細
 
-選擇目標記錄後，點選【提交】確認為「成功」或「失敗」
+選擇目標記錄後，點選【處理】確認為「成功」或「失敗」
 
-<img src="/assets/VUb7bnHP7oCqLuxzEpFcAKGin2d.png" src-width="3824" src-height="1830" align="center"/>
+<img src="/assets/E5uKbCWIloKplCxBUuwcnl7hnNh.png" src-width="3774" src-height="1124" align="center"/>
 
 提交后需再次進行審批，點選審批出工單，確認無誤後，證券即可存入系統
 
-<img src="/assets/M1CrbnWI2oHMuixfaAFcSfQfnoh.png" src-width="3814" src-height="856" align="center"/>
+<img src="/assets/DJzPb24zYo9l5sx3VVYcoeXVnNe.png" src-width="3774" src-height="838" align="center"/>
 
 <img src="/assets/C1aBb3mxToQpDMx6Cf3cfGUTnVd.png" src-width="1560" src-height="1764" align="center"/>
 

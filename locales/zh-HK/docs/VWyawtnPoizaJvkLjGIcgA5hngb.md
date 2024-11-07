@@ -11,8 +11,6 @@ sidebar_position: 2
 
 風控管理主要用於處理證券業務下的保證金配置、額度管理、Margin Call 等相關功能。所涉相關模組主要如下：
 
-<img src="/assets/UYs7wy0j7htzO6buvyPcbQpSnYy-board.png"/>
-
 # 業務操作管理
 
 ## 授信額度
@@ -362,8 +360,6 @@ sidebar_position: 2
 
 <b>業務流程</b>
 
-<img src="/assets/I7m6wIpgRhBxMybx8hpcJM1bnXh-board.png" src-width="772" src-height="191"/>
-
 #### 提醒查詢
 
 <div class="callout callout-bg-6 callout-border-6">
@@ -430,8 +426,6 @@ sidebar_position: 2
 當客戶的資產淨值，因市場波動而下跌至低於維持保證金水平時，系統會向客戶發出 Margin Call 通知，客戶必須在 3 個交易日補充資金或平倉，否則業務上有權替客戶進行平倉，而無須事先通知。
 
 <b>業務流程</b>：
-
-<img src="/assets/K7YxwjkBUh6E07bYohpc5cvcn4c-board.png" src-width="772" src-height="191"/>
 
 ### 風險預警
 
