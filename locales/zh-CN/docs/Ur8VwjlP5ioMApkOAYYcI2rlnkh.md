@@ -41,13 +41,11 @@ KYC 流程通常涉及不同的人员和审核步骤，以确保客户的身份�
 
 目前系统的开户中 KYC 主要流程节点如下：
 
-<img src="/assets/X8I0bxDG0oWoHBxHCWLcsAQsnCH.png" src-width="1836" src-height="536" align="center"/>
-
 <img src="/assets/NjYOwNghghALZrbbTSkclOdWn6f-board.png" src-width="820" src-height="210"/>
 
 细部流程如下：
 
-<img src="/assets/XehMbd8D9oSVHnxh451coTFknHw.png" src-width="1225" src-height="461" align="center"/>
+<img src="/assets/GyBFwdmfYhLA0tbTFWScIiDCnub-board.png"/>
 
 ### 开户列表
 
