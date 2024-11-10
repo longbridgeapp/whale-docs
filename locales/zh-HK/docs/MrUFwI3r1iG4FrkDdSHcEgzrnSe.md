@@ -15,7 +15,7 @@ Whale 系統包含了處理入金申請、匹配銀行流水、入金審核、�
 
 因不同券商公司對於入金的要求不同，有些券商要求快速入金，有些公司要求精準匹配銀行流水後再入金，綜合考慮了上述因素，系統兼容了 2 套入金的流程，如下：
 
-<img src="Hp8VwKnyShhc1KbzdQHcMrzYnnb" src-width="809" src-height="167"/>
+<img src="/assets/Hp8VwKnyShhc1KbzdQHcMrzYnnb-board.png" src-width="809" src-height="167"/>
 
 ## 前置条件
 
