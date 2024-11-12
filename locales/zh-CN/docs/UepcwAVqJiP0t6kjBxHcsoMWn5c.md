@@ -82,7 +82,7 @@ sidebar_position: 2
 
 页面查询结果如下图：
 
-<img src="/assets/YDUGbklSyo3HMwxHix2cMvepnQd.png" src-width="1274" src-height="1280" align="center"/>
+<img src="/assets/CH05bnAhCoEGfUxQXJxc9R3snug.png" src-width="3324" src-height="3386" align="center"/>
 
 <b>页面说明</b>
 
@@ -379,9 +379,9 @@ sidebar_position: 2
 <b>操作说明</b>：
 
 1. 列表页记录包含后台操作流水和客户 App 上自主操作的转账流水
-2. 在列表页的右上角点击【转账】可以进入账户间转账
+2. 在列表页的右上角点击【新建】可以进入账户间转账；或者【批量新建】进行批量转账
 
-<img src="/assets/Zahjbhc3hodNSqxFomEcvIHQnkh.png" src-width="3296" src-height="1580" align="center"/>
+<img src="/assets/EJNWb5WEIoL7KMxy0V6cGW7onod.png" src-width="3312" src-height="1462" align="center"/>
 
 1. 账户间转账页面如下图：
 
@@ -394,6 +394,8 @@ sidebar_position: 2
 - 按实际业务需求填写转账信息，若转账金额超出可转出金额，页面会提示，但不会强制限制转账
 
 <img src="/assets/BADSbujGtocDJBxlI8Ecnrmxnsf.png" src-width="3272" src-height="1772" align="center"/>
+
+❤️Tips：因转账金额不强校验超限，批量转账时请提前确认转账客户资产再做处理。
 
 1. 确认后提交审批，审批进度可以在列表页的操作查看
 
@@ -412,9 +414,9 @@ sidebar_position: 2
 <b>操作说明</b>：
 
 1. 列表页记录包含后台操作流水和客户 App 上自主操作的转仓流水
-2. 在列表页的右上角点击【转仓】可以进入账户间转仓
+2. 在列表页的右上角点击【新建】可以进入账户间转仓；或者【批量新建】进行批量转仓
 
-<img src="/assets/LNBhbuj5xokEVqx3eLMcST7NnUb.png" src-width="3294" src-height="1570" align="center"/>
+<img src="/assets/PiwXbqj1uo1uvxx8FXOcA7FKnxh.png" src-width="3306" src-height="1470" align="center"/>
 
 1. 账户间转仓页面如下图：
 
@@ -427,6 +429,8 @@ sidebar_position: 2
 - 按实际业务需求填写转仓信息，若转仓数量超出可转出数量，页面会提示，但不会强制限制转仓
 
 <img src="/assets/HF98bjkA4ozVwIx01BTcg10Fnfg.png" src-width="3340" src-height="1828" align="center"/>
+
+❤️Tips：因转仓数量不强校验超限，批量转仓时请提前确认客户持仓再做处理。
 
 1. 确认后提交审批，审批进度可以在列表页的操作查看
 

@@ -82,7 +82,7 @@ sidebar_position: 2
 
 頁面查詢結果如下圖：
 
-<img src="/assets/YDUGbklSyo3HMwxHix2cMvepnQd.png" src-width="1274" src-height="1280" align="center"/>
+<img src="/assets/CH05bnAhCoEGfUxQXJxc9R3snug.png" src-width="3324" src-height="3386" align="center"/>
 
 <b>頁面說明</b>
 
@@ -379,9 +379,9 @@ sidebar_position: 2
 <b>操作說明</b>：
 
 1. 列表頁記錄包含後台操作流水和客戶 App 上自主操作的轉賬流水
-2. 在列表页的右上角點擊【轉賬】可以進入賬户間轉賬
+2. 在列表页的右上角點擊【新建】可以進入賬户間轉賬；或者【批量新建】進行批量轉賬
 
-<img src="/assets/Zahjbhc3hodNSqxFomEcvIHQnkh.png" src-width="3296" src-height="1580" align="center"/>
+<img src="/assets/EJNWb5WEIoL7KMxy0V6cGW7onod.png" src-width="3312" src-height="1462" align="center"/>
 
 1. 賬戶間轉賬頁面如下圖：
 
@@ -394,6 +394,8 @@ sidebar_position: 2
 - 按實際業務需求填寫轉賬信息，若轉賬金額超出可轉出金額，頁面會提示，但不會強制限制轉賬
 
 <img src="/assets/BADSbujGtocDJBxlI8Ecnrmxnsf.png" src-width="3272" src-height="1772" align="center"/>
+
+❤️Tips：因轉賬金額不強校驗超限，批量轉賬時請提前確認轉賬客戶資產再做處理。
 
 1. 確認後提交審批，審批進度可以在列表頁的操作查看
 
@@ -412,9 +414,9 @@ sidebar_position: 2
 <b>操作說明</b>：
 
 1. 列表頁記錄包含後台操作流水和客戶 App 上自主操作的轉倉流水
-2. 在列表頁的右上角點擊【轉倉】可以進入賬户間轉倉
+2. 在列表頁的右上角點擊【新建】可以進入賬户間轉倉；或者【批量新建】進行批量轉倉
 
-<img src="/assets/LNBhbuj5xokEVqx3eLMcST7NnUb.png" src-width="3294" src-height="1570" align="center"/>
+<img src="/assets/PiwXbqj1uo1uvxx8FXOcA7FKnxh.png" src-width="3306" src-height="1470" align="center"/>
 
 1. 賬戶間轉倉頁面如下圖：
 
@@ -427,6 +429,8 @@ sidebar_position: 2
 - 按實際業務需求填寫轉倉信息，若轉倉數量超出可轉出數量，頁面會提示，但不會強制限制轉倉
 
 <img src="/assets/HF98bjkA4ozVwIx01BTcg10Fnfg.png" src-width="3340" src-height="1828" align="center"/>
+
+❤️Tips：因轉倉數量不強校驗超限，批量轉倉時請提前確認客戶持倉再做處理。
 
 1. 確認後提交審批，審批進度可以在列表頁的操作查看
 
