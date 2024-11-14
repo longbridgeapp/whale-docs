@@ -62,6 +62,8 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 
 <b>步驟二：輸入存入股票的代碼、確認是否為實體股票、託管商、轉入的股票數量信息，根據實際情況，輸入一些必要的備註</b>
 
+如轉入的股票爲實物股票，則在“是否爲實物股票”點選是
+
 <img src="/assets/OcapbiHJSoWS1ox06ZncCXS7nkf.png" src-width="3812" src-height="1852" align="center"/>
 
 ### 通知券商
@@ -97,6 +99,10 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 
 <img src="/assets/E5uKbCWIloKplCxBUuwcnl7hnNh.png" src-width="3774" src-height="1124" align="center"/>
 
+如果證券存入爲實物股票，在處理成功提交時，需要選擇是否凍結，如果選定凍結，還需要指定解凍時間
+
+<img src="/assets/Lyodb0PS5ovgK1xDHxocBUlhn6f.png" src-width="2330" src-height="1054" align="center"/>
+
 提交后需再次進行審批，點選審批出工單，確認無誤後，證券即可存入系統
 
 <img src="/assets/DJzPb24zYo9l5sx3VVYcoeXVnNe.png" src-width="3774" src-height="838" align="center"/>
@@ -104,5 +110,13 @@ WHALE 證券管理系統中的證券存入功能支援用戶新增客戶的證�
 <img src="/assets/C1aBb3mxToQpDMx6Cf3cfGUTnVd.png" src-width="1560" src-height="1764" align="center"/>
 
 <img src="/assets/VH9QbLGWSoLeglxBfPKcijmznjW.png" src-width="3318" src-height="926" align="center"/>
+
+如果證券存入爲實物股票，如選擇在入賬時進行凍結，則後續系統在“預計解凍時間”或者人工可以進行解凍
+
+<img src="/assets/Lf7Ob51T6olZLkxx1dwcE0Zgnjb.png" src-width="2342" src-height="1162" align="center"/>
+
+提交后需再次進行審批，點選審批出工單，確認無誤後，解凍完成
+
+<img src="/assets/HxObbPrRmov43XxidM3c4oi1nYe.png" src-width="2358" src-height="1240" align="center"/>
 
 ## 

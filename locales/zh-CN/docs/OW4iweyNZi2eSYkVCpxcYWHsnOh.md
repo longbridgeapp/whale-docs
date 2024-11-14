@@ -62,6 +62,8 @@ WHALE 证券管理系统中的证券存入功能支援用户新增客户的证�
 
 <b>步骤二：输入存入股票的代码、确认是否为实体股票、托管商、转入的股票数量信息，根据实际情况，输入一些必要的备注</b>
 
+如转入的股票为实物股票，则在“是否为实物股票”点选是
+
 <img src="/assets/OcapbiHJSoWS1ox06ZncCXS7nkf.png" src-width="3812" src-height="1852" align="center"/>
 
 ### 通知券商
@@ -97,6 +99,10 @@ WHALE 证券管理系统中的证券存入功能支援用户新增客户的证�
 
 <img src="/assets/E5uKbCWIloKplCxBUuwcnl7hnNh.png" src-width="3774" src-height="1124" align="center"/>
 
+如果证券存入为实物股票，在处理成功提交时，需要选择是否冻结，如果选定冻结，还需要指定解冻时间
+
+<img src="/assets/Lyodb0PS5ovgK1xDHxocBUlhn6f.png" src-width="2330" src-height="1054" align="center"/>
+
 提交后需再次进行审批，点选审批出工单，确认无误后，证券即可存入系统
 
 <img src="/assets/DJzPb24zYo9l5sx3VVYcoeXVnNe.png" src-width="3774" src-height="838" align="center"/>
@@ -104,5 +110,13 @@ WHALE 证券管理系统中的证券存入功能支援用户新增客户的证�
 <img src="/assets/C1aBb3mxToQpDMx6Cf3cfGUTnVd.png" src-width="1560" src-height="1764" align="center"/>
 
 <img src="/assets/VH9QbLGWSoLeglxBfPKcijmznjW.png" src-width="3318" src-height="926" align="center"/>
+
+如果证券存入为实物股票，如选择在入账时进行冻结，则后续系统在“预计解冻时间”或者人工可以进行解冻
+
+<img src="/assets/Lf7Ob51T6olZLkxx1dwcE0Zgnjb.png" src-width="2342" src-height="1162" align="center"/>
+
+提交后需再次进行审批，点选审批出工单，确认无误后，解冻完成
+
+<img src="/assets/HxObbPrRmov43XxidM3c4oi1nYe.png" src-width="2358" src-height="1240" align="center"/>
 
 ## 
