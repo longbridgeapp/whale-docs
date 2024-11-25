@@ -606,7 +606,7 @@ T+2 日的早上可導出 ATI 交收指令，上傳到 CCASS
 
 ### 後台客戶合約補單
 
-點擊新增客戶補單
+點擊新建客戶補單
 
 <img src="/assets/LZKObyXjiokJkMxLdOccYsZMnze.png" src-width="2900" src-height="1546" align="center"/>
 
@@ -624,19 +624,21 @@ T+2 日的早上可導出 ATI 交收指令，上傳到 CCASS
 
 <img src="/assets/F7WsbmKQToNB5lxvFcNcpaASnye.png" src-width="2904" src-height="1544" align="center"/>
 
-若商品是 OTC 產品，則結算渠道要對應選擇 OTC 結算渠道
+若商品是 OTC 產品或者交易通道未進行系統對接的，則結算渠道要對應選擇 OTC 結算渠道
 
 <img src="/assets/TIqQbcK3xooNrox7zPkczvDtnpg.png" src-width="2910" src-height="1554" align="center"/>
 
 <img src="/assets/YnDQbxCbFoLi2jx9CdqcpDTanXe.png" src-width="2896" src-height="1552" align="center"/>
 
-后台訂单號可直接複製合约號，有多筆成交的后台成交流水號不能相同。系统將根據交易金额和交易數量計算價格
+后台訂单號、后台成交流水號可直接複製合约號，有多筆成交的后台成交流水號不能相同。系统將根據交易金额和交易數量計算價格，最多保留 4 位小數
 
 <img src="/assets/WnrkbW1jgolOwTxplptcShvvn5d.png" src-width="2914" src-height="1552" align="center"/>
 
 點擊試算可以自動計算費用
 
 試算後可進一步編輯費用，詳見費用查詢和編輯
+
+注意：只要操作過試算、添加、編輯的，即使刪除了全部費用，在清算計費步驟中不會再計算費用；如果在費用信息頁面未進行過任何操作的，在清算計費步驟會自動基於配置的規則計算費用
 
 <img src="/assets/MemKbQGqwoRpHixBj7rcIZzRnbh.png" src-width="2900" src-height="1540" align="center"/>
 
@@ -650,7 +652,7 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 在完成所有客戶合約補單後，可以透過右上【劵商快捷補單】操作劵商補單
 
-注意：券商快捷補单僅能查詢结算渠道为 OTC 的數據，生成的數據用于清算前檢查步骤的對帳
+注意：券商快捷補单僅能查詢结算渠道为 OTC 的數據，生成的數據用于清算前檢查步骤的交易對帳
 
 <img src="/assets/B7M0b7tVZowcdXxB4LicJnTGnBh.png" src-width="2898" src-height="1520" align="center"/>
 
@@ -664,21 +666,21 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 
 初步核對數據，有問題的修改客戶合約後，重新進入頁面並刷新
 
-操作人員也可以先點擊編輯，臨時調整數據，注意：此編輯不能保存在數據庫中，僅配合“更新對手文件”按鈕使用
+操作人員也可以先點擊編輯，臨時調整數據。注意：此編輯不能保存在數據庫中，僅配合“更新對手文件”按鈕使用
 
 <img src="/assets/Y2Npbfzq3oQOffxipQ8c6MCKnfc.png" src-width="2926" src-height="1554" align="center"/>
 
-核對無誤后，200 條以內數據，可點擊更新對手文件，該文件可用於清算前檢查
+核對無誤后，200 條以內數據，可點擊更新對手文件，該文件可用於清算前檢查的交易對賬
 
 <img src="/assets/W8tPbjPowo4PcYxevCVcsUJFnDf.png" src-width="2922" src-height="848" align="center"/>
 
-核對無誤后，200 條以上數據，可下載模板文件編輯，在清算前檢查步驟前導入文件
+200 條以上的數據，可下載模板文件，編輯後在清算前檢查步驟前導入文件
 
 <img src="/assets/HIv7bHykzoan32xlzd8cTXn2nCh.png" src-width="2920" src-height="838" align="center"/>
 
 <img src="/assets/D62fbJXLnoepe5xzdwTc2AxhnKg.png" src-width="2904" src-height="1542" align="center"/>
 
-## 九、<b>查詢和編輯前台合約</b>
+## 九、<b>查詢和編輯前台交易合約</b>
 
 在操作清算計費步驟後，系統會基於前台交易訂單、計費管理配置生成客戶合約
 
@@ -693,7 +695,6 @@ OTC 補單系統會按大賬號自動計算託管商、子倉
 <img src="/assets/R06IbrSEborsA6xi12gcsOWGnGd.png" src-width="2484" src-height="1530" align="center"/>
 
 進入詳情頁直接展示含交易日期、交收日期、特殊收費條件在內的基本信息
-
 數據來源是“交易”的爲前台合約
 
 <img src="/assets/AkfOblq8XodksmxzDrfcyrqGnJc.png" src-width="2486" src-height="1544" align="center"/>
