@@ -606,7 +606,7 @@ T+2 日的早上可导出 ATI 交收指令，上传到 CCASS
 
 ### 后台客户合约补单
 
-点击新增客户补单
+点击新建客户补单
 
 <img src="/assets/LZKObyXjiokJkMxLdOccYsZMnze.png" src-width="2900" src-height="1546" align="center"/>
 
@@ -624,19 +624,21 @@ T+2 日的早上可导出 ATI 交收指令，上传到 CCASS
 
 <img src="/assets/F7WsbmKQToNB5lxvFcNcpaASnye.png" src-width="2904" src-height="1544" align="center"/>
 
-若商品是 OTC 产品，则结算渠道要对应选择 OTC 结算渠道
+若商品是 OTC 产品或者交易通道未进行系统对接的，则结算渠道要对应选择 OTC 结算渠道
 
 <img src="/assets/TIqQbcK3xooNrox7zPkczvDtnpg.png" src-width="2910" src-height="1554" align="center"/>
 
 <img src="/assets/YnDQbxCbFoLi2jx9CdqcpDTanXe.png" src-width="2896" src-height="1552" align="center"/>
 
-后台订单号可直接复制合约号，有多笔成交的后台成交流水号不能相同。系统将根据交易金额和交易数量计算价格
+后台订单号、后台成交流水号可直接复制合约号，有多笔成交的后台成交流水号不能相同。系统将根据交易金额和交易数量计算价格，最多保留 4 位小数
 
 <img src="/assets/WnrkbW1jgolOwTxplptcShvvn5d.png" src-width="2914" src-height="1552" align="center"/>
 
 点击试算可以自动计算费用
 
 试算后可进一步编辑费用，详见费用查询和编辑
+
+注意：只要操作过试算、添加、编辑的，即使删除了全部费用，在清算计费步骤中不会再计算费用；如果在费用信息页面未进行过任何操作的，在清算计费步骤会自动基于配置的规则计算费用
 
 <img src="/assets/MemKbQGqwoRpHixBj7rcIZzRnbh.png" src-width="2900" src-height="1540" align="center"/>
 
@@ -650,7 +652,7 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 在完成所有客户合约补单后，可以透过右上【劵商快捷补单】操作劵商补单
 
-注意：券商快捷补单仅能查询结算渠道为 OTC 的数据，生成的数据用于清算前检查步骤的对帐
+注意：券商快捷补单仅能查询结算渠道为 OTC 的数据，生成的数据用于清算前检查步骤的交易对帐
 
 <img src="/assets/B7M0b7tVZowcdXxB4LicJnTGnBh.png" src-width="2898" src-height="1520" align="center"/>
 
@@ -664,21 +666,21 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 
 初步核对数据，有问题的修改客户合约后，重新进入页面并刷新
 
-操作人员也可以先点击编辑，临时调整数据，注意：此编辑不能保存在数据库中，仅配合“更新对手文件”按钮使用
+操作人员也可以先点击编辑，临时调整数据。注意：此编辑不能保存在数据库中，仅配合“更新对手文件”按钮使用
 
 <img src="/assets/Y2Npbfzq3oQOffxipQ8c6MCKnfc.png" src-width="2926" src-height="1554" align="center"/>
 
-核对无误后，200 条以内数据，可点击更新对手文件，该文件可用于清算前检查
+核对无误后，200 条以内数据，可点击更新对手文件，该文件可用于清算前检查的交易对账
 
 <img src="/assets/W8tPbjPowo4PcYxevCVcsUJFnDf.png" src-width="2922" src-height="848" align="center"/>
 
-核对无误后，200 条以上数据，可下载模板文件编辑，在清算前检查步骤前导入文件
+200 条以上的数据，可下载模板文件，编辑后在清算前检查步骤前导入文件
 
 <img src="/assets/HIv7bHykzoan32xlzd8cTXn2nCh.png" src-width="2920" src-height="838" align="center"/>
 
 <img src="/assets/D62fbJXLnoepe5xzdwTc2AxhnKg.png" src-width="2904" src-height="1542" align="center"/>
 
-## 九、<b>查询和编辑前台合约</b>
+## 九、<b>查询和编辑前台交易合约</b>
 
 在操作清算计费步骤后，系统会基于前台交易订单、计费管理配置生成客户合约
 
@@ -693,7 +695,6 @@ OTC 补单系统会按大账号自动计算托管商、子仓
 <img src="/assets/R06IbrSEborsA6xi12gcsOWGnGd.png" src-width="2484" src-height="1530" align="center"/>
 
 进入详情页直接展示含交易日期、交收日期、特殊收费条件在内的基本信息
-
 数据来源是“交易”的为前台合约
 
 <img src="/assets/AkfOblq8XodksmxzDrfcyrqGnJc.png" src-width="2486" src-height="1544" align="center"/>
