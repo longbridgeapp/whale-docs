@@ -61,7 +61,7 @@ Whale 系統提供了換匯的基礎參數設定與業務主流程操作功能�
 
 ### 換匯策略
 
-指規範客戶匯兌提交到成交整體流程的策略，目前包括兩種策略：「匯兌池換匯」和「銀行換匯」。其中：
+指規範客戶匯兌提交到成交整體流程的策略，目前包括兩種策略：「匯兌池換匯」和「渠道換匯」。其中：
 
 <table>
 <colgroup>
@@ -79,7 +79,7 @@ Whale 系統提供了換匯的基礎參數設定與業務主流程操作功能�
 
 點選【新建】，在喚出的彈跳窗中，依照「服務策略設定→匯兌類型設定→適用時段設定→渠道設定→覆蓋的幣種對設定」順序依序填寫。
 
-<img src="/assets/Pt7RbTGEqoqQz0x7uZocYk0bnyc.png" src-width="3400" src-height="1837" align="center"/>
+<img src="/assets/AXiRbNErrogJR5xF34Mcypcmn7f.png" src-width="3272" src-height="1506" align="center"/>
 
 - 注意事項：
     - 服務時段可以進行多選，互相不可有交集，系統會根據使用者選擇的時段生效服務策略。
@@ -87,7 +87,7 @@ Whale 系統提供了換匯的基礎參數設定與業務主流程操作功能�
 
 換匯策略設定完成後，使用者可依實際業務需求進行【編輯】與【啟用/停用】
 
-<img src="/assets/CW5gbsnGZoi4bJxesGxcs6Jknrg.png" src-width="3286" src-height="946" align="center"/>
+<img src="/assets/AWFRbo7eqoxyuaxx5qlcwOjlnie.png" src-width="3280" src-height="1532" align="center"/>
 
 ### 換匯池額度配置
 

@@ -161,7 +161,7 @@ Whale 系統包含了處理入金申請、匹配銀行流水、入金審核、�
 
 ### 2.入金參數
 
-<img src="/assets/JMA6be0HZoGsPQxof8GcOtuinvf.png" src-width="3300" src-height="852" align="center"/>
+<img src="/assets/EkmUbMB7XoD1agxvXc5cz7Pmnjb.png" src-width="3268" src-height="1108" align="center"/>
 
 # 入金操作
 
