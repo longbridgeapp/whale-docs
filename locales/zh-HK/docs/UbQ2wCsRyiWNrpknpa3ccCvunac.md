@@ -180,13 +180,17 @@ WHALE 的款項管理系統提供了多情境的入金功能，使用者可以�
 
 在銀行資金到賬後，系統可以通過銀行 API 直接獲取銀行流水
 
-<img src="/assets/AKGUb3dEAoLjJ9x8bP2ccAEunct.png" src-width="3794" src-height="1066" align="center"/>
+<img src="/assets/TQhjbQMaFohyzTxYUZMc8B0Cnwg.png" src-width="3796" src-height="872" align="center"/>
 
 如果沒有對接銀行 API，則可以人工在後臺按照網銀模板進行賬單導入
 
-<img src="/assets/LWihbKuNcotLOGx5DMscZyk3nth.png" src-width="3266" src-height="1054" align="center"/>
+<img src="/assets/D4Ebb1mIYoGIL7xVGIZcB3znnjh.png" src-width="3300" src-height="860" align="center"/>
 
-<img src="/assets/W5j2buNzRojsmaxdcJSckub5n4f.png" src-width="1214" src-height="1616" align="center"/>
+<img src="/assets/FxqGbV4qyom8XBxYuEycw8fInSc.png" src-width="3318" src-height="1700" align="center"/>
+
+<img src="/assets/BTOrbhtq2oCosyxxf9gcs56nnHe.png" src-width="3312" src-height="1700" align="center"/>
+
+<img src="/assets/VPjnbIvPXoIqB0xJavdc5k5ongh.png" src-width="3302" src-height="1726" align="center"/>
 
 1. 銀行即時消息
 
