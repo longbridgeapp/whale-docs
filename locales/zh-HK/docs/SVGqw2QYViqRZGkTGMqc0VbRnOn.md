@@ -1,7 +1,7 @@
 ---
 title: 2023-10-9 更新日誌
 slug: 23-10-9
-sidebar_position: 18
+sidebar_position: 35
 ---
 
 
