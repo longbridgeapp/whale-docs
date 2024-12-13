@@ -112,6 +112,13 @@ sidebar_position: 3
 
 <img src="/assets/W6bxbB4cLofNx4xg9sec8tyrn4b.png" src-width="3578" src-height="1798" align="center"/>
 
+## 后台补单
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>為什麼會有多種對賬模式</p>
+</div>
+
 ## 交易對賬
 
 <div class="callout callout-bg-2 callout-border-2">
