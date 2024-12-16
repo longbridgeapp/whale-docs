@@ -116,8 +116,30 @@ sidebar_position: 3
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
-<p>為什麼會有多種對賬模式</p>
+<p>後台補單提交後是否會立刻凍結客戶資金？</p>
 </div>
+
+不會，完成日終任務 - 日切步驟後才會正式針對資產賬戶進行操作
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>代理商是要租戶在市場管理配置嗎？</p>
+</div>
+
+路徑：清算參數設置 - 市場管理 - 服務商：配置基本信息和持倉對賬方式
+
+路徑：清算參數設置 - 市場管理 - 子倉：配置子倉
+
+路徑：清算參數設置 - 市場管理 - 結算渠道：配置交易對賬方式
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>後台補單如果是錄入債券的注意事項？</p>
+</div>
+
+<img src="/assets/JdwzbeXNRoYmbpxlD8XcoAlanLf.png" src-width="3564" src-height="1768" align="center"/>
+
+<img src="/assets/RQ9sbqzHjoupK8x35Vsc5iMgnUc.png" src-width="3564" src-height="1768" align="center"/>
 
 ## 交易對賬
 
