@@ -116,8 +116,30 @@ sidebar_position: 3
 
 <div class="callout callout-bg-2 callout-border-2">
 <div class='callout-emoji'>❓</div>
-<p>为什么会有多种对账模式</p>
+<p>后台补单提交后是否会立刻冻结客户资金？</p>
 </div>
+
+不会，完成日终任务 - 日切步骤后才会正式针对资产账户进行操作
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>代理商是要租户在市场管理配置吗？</p>
+</div>
+
+路径：清算参数设置 - 市场管理 - 服务商：配置基本信息和持仓对账方式
+
+路径：清算参数设置 - 市场管理 - 子仓：配置子仓
+
+路径：清算参数设置 - 市场管理 - 结算渠道：配置交易对账方式
+
+<div class="callout callout-bg-2 callout-border-2">
+<div class='callout-emoji'>❓</div>
+<p>后台补单如果是录入债券的注意事项？</p>
+</div>
+
+<img src="/assets/JdwzbeXNRoYmbpxlD8XcoAlanLf.png" src-width="3564" src-height="1768" align="center"/>
+
+<img src="/assets/RQ9sbqzHjoupK8x35Vsc5iMgnUc.png" src-width="3564" src-height="1768" align="center"/>
 
 ## 交易对账
 
