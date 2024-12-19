@@ -1,7 +1,7 @@
 ---
 title: 2024-12-02 更新日志
 slug: JEfKwYAyniQVA6kQfhlcT0Xfnkd
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 
@@ -27,8 +27,12 @@ sidebar_position: 2
     - 路径 4：「款项管理」-「入金」-「入金记录」
     - 人工提交解冻申请后，需等待工单审批。
     - 路径 5：「款项管理」-「入金」-「入金记录」
-
-[支票繁体.pdf](/assets/KdpKbJzjooURplxCliscMlqrnrf.pdf)
+    <img src="/assets/CYMWb419BoYhEcxPCUzce47mnkd.png" src-width="2650" src-height="1368" align="center"/>
+    <img src="/assets/DfLabFpeAoUq2Nx5mo0cEk5Zn2f.png" src-width="1886" src-height="1316" align="center"/>
+    <img src="/assets/UVqdbA88iohr1BxrPm1c6Kxnnpc.png" src-width="2118" src-height="1554" align="center"/>
+    <img src="/assets/L92Ab0thGoiV5OxAyIncIdUxnld.png" src-width="2144" src-height="1168" align="center"/>
+    <img src="/assets/W3L7b8Igyo89mHx2bzocD8Oondb.png" src-width="2180" src-height="484" align="center"/>
+    <img src="/assets/CdTSbm2choopu8xu6oVcRljSn3e.png" src-width="2120" src-height="610" align="center"/>
 
 # 🪀 改进与修复
 

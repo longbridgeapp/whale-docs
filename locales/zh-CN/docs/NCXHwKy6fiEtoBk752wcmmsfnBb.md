@@ -367,17 +367,6 @@ Whale 会计系统提供了一套可以自动获取数据源，按照预设的�
 
 <img src="/assets/T6MDbuLDPo7SJPx8JcVcNWg0nVf.png" src-width="3218" src-height="1506" align="center"/>
 
-也可以根据系统生成的科目明细，在此功能可以点选【报表导出】选择使用对应财务软体格式导出 
-
-目前系统支持以下 GL 软体汇入格式：
-
-- FlexSystemVerNV5W
-- GeneralLedgerSystemV3
-- SunSystemsFinancialsRelease
-- Yonyou U8 V.13
-- FlexAccount V11
-- Sage300 AOM (GL)
-
 ## 银行余额
 
 ### 适用场景 
